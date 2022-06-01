@@ -1,0 +1,366 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Risk Assessment Methodology for Conventional and Alternative Sustainability Options</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41566</md:content-id>
+  <md:title>Risk Assessment Methodology for Conventional and Alternative Sustainability Options</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the content and the goals of four-step of risk assessment process, 2) how to estimate dose received via each exposure pathway, 3) how to integrate exposure and toxicity information to characterize health risks, 4) how to quantitatively estimate cumulative cancer and noncancer risks, and 5) how to identify/evaluate uncertainties in risk assessment.</md:abstract>
+  <md:uuid>f61d5eda-0e0f-442e-8cb2-61411fde57ef</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1169452771620">
+        <title>Learning Objectives</title>
+        <para id="id1169445328253">After reading this module, students should be able to</para>
+        <list id="id1169462727063" list-type="bulleted">
+          <item>understand the content and the goals of four-step of risk assessment process</item>
+          <item>know how to estimate dose received via each exposure pathway</item>
+          <item>know how to integrate exposure and toxicity information to characterize health risks</item>
+          <item>understand how to quantitatively estimate cumulative cancer and noncancer risks</item>
+          <item>understand how to identify/evaluate uncertainties in risk assessment</item>
+        </list>
+      </section>
+      <section id="id1169451883567">
+        <title>Introduction</title>
+        <para id="id1169448469176">Risk assessment is a scientific process used by federal agencies and risk management decision-makers to make informed decisions about actions that may be taken to protect human health by ascertaining potential human health risks or health hazard associated with exposure to chemicals in the environment.</para>
+        <figure id="id1169445704459" type="Figure">
+					<media id="id1169445704459_media" alt="Smoke Stack Emissions into the Atmosphere" longdesc="Figure shows emissions billowing from a smoke stack into the atmosphere. Risk assessment helps federal agencies and risk management decision-makers arrive at informed decisions about actions to take to protect human health from hazards such as air pollution, pictured here.">
+            <image mime-type="image/jpg" src="../../media/graphics1-2e18.jpg" id="id1169445704459__onlineimage" height="283" width="367"/>
+          </media>
+        	<caption><emphasis effect="bold">Smoke Stack Emissions into the Atmosphere</emphasis> Figure shows emissions billowing from a smoke stack into the atmosphere. Risk assessment helps federal agencies and risk management decision-makers arrive at informed decisions about actions to take to protect human health from hazards such as air pollution, pictured here. <emphasis effect="italics">Source: Alfred Palmer via <link url="http://en.wikipedia.org/wiki/File:AlfedPalmersmokestacks.jpg" window="new">Wikipedia</link></emphasis>
+					</caption>
+				</figure>
+        
+        <para id="id1169453354803">Some of the real-world examples of risk assessment includes: establishment of national ambient air quality and drinking water standards for protection of public health (e.g. ozone, particulate matter in outdoor air; chromium, chloroform or benzene in water); establishment of clean-up levels for hazardous waste site remediation; development of fish consumption advisories for pregnant women and general population (e.g. PCBs, mercury); assessment of risks and benefits of different alternative fuels for sound energy policy development (e.g. oxygenated gasoline, biodiesel); and estimation of health risks associated with pesticide residues in food. The estimated risk is a function of exposure and toxicity, as described in detail in NAS (<link target-id="id1169471156070">1983</link>) and EPA (<link target-id="id1169453135621">1989</link>). The regulatory risk assessment follows a four-step paradigm using qualitative and/or quantitative approaches. In quantitative risk assessment using either <term target-id="id1169454294687">deterministic </term>or <term target-id="id1169444158907">probabilistic </term>approaches, the risk estimates pertaining to an exposure scenario is particularly useful when comparing a number of exposure or risk reduction measures among one another as an optimization protocol to determine the best economically viable option for protection of public health and the environment. With environmental sustainability and life-cycle analysis in the forefront of green technological innovation, energy, and economic savings in the 21<sup>st</sup> Century, risk assessment will pay a pivotal role in discerning the option(s) with the most benefit in health protection and, thus, will be an integral part of any environmentally sustainability analysis. Such comparative risk assessment can be performed for traditional approaches vs. environmentally sustainable approaches. They can also be performed among different environmentally sustainable options for an environmental pollution problem such hazardous waste site remediation and redevelopment, air quality management in urban areas, pest management practices, agricultural health and safety, alternative energy sources for transportation sources and among others.</para>
+        <para id="id1169453236226">The four steps of risk assessment are i) <link target-id="id1169454258595">hazard identification</link>; ii) <link target-id="id1169451897168">toxicity</link> (or dose-response) assessment; iii) <link target-id="id1169445443232">exposure assessment</link>; and iv) <link target-id="id1169464926758">risk characterization</link>, which are described below in detail. The emphasis is given in documenting the resources necessary to successfully perform each step.</para>
+      </section>
+      <section id="id1169454258595">
+        <title>Hazard Identification</title>
+        <para id="id1169461874635">In the hazard identification step, a scientific weight of evidence analysis is performed to determine whether a particular substance or chemical is or is not causally linked to any particular health effect at environmentally relevant concentrations. Hazard identification is performed to determine whether, and to what degree, toxic effects in one setting will occur in other settings. For example, is a chemical that is shown to cause <term target-id="id1169458569759">carcinogenicity</term> in animal test species (e.g. rat, mouse) likely to be a carcinogen in exposed humans? In order to assess the weight of evidence for adverse health effects, risk analysts follow the following steps (<link target-id="id1169453105787">EPA, 1993</link>): (1) Compile and analyze all the available toxicology data on the substance of interest; (2) Weigh the evidence that the substance causes a toxic effect (cancer of non-cancer health end-points); and (3) Assess whether adverse health effect (or toxicity) could occur from human exposure in a real-life setting.</para>
+        <para id="id1169472864038">In the first task of hazard identification, risk analyst examines the toxicity literature using the following analytical tools in the order of importance:</para>
+        <list id="id1169470722321" list-type="bulleted">
+          <item>Epidemiological studies</item>
+          <item>Controlled human exposure chamber experiments</item>
+          <item>In-vivo animal <term target-id="id1169473233905">bioassays</term></item>
+          <item>In-vitro cell and tissue culture bioassays</item>
+          <item>Quantitative Structure –Activity Relationship Analysis (QSAR)</item>
+        </list>
+        <para id="id1169471151285">Among these, in-vivo animal bioassays are, by far, the most utilized source of information for hazard identification for chemicals and, on rare instances, for chemical mixtures (e.g. diesel). When available, well-conducted epidemiological studies are regarded as the most valuable source of human health hazard identification information since they provide direct human evidence for potential health effects. <term target-id="id1169445558106">Epidemiology</term> is the study of the occurrence and distribution of a disease or physiological condition in human populations and of the factors that influence this distribution (<link target-id="id1169456044733">Lilienfeld and Lilienfeld, 1980</link>). The advantages of epidemiological studies for hazard identification are (<link target-id="id1169453135621">EPA, 1989</link>; <link target-id="id1169453105787">EPA, 1993</link>): animal-to-human extrapolation is not necessary, real exposure conditions, and a wide range of subjects with different genetic and life-style patterns. However, epidemiological studies have a number of shortcomings, which limit their usefulness in hazard identification. Some of these disadvantages include difficulty in recruiting and maintaining a control group; having no control over some of the non-statistical variables related to exposures, lifestyles, co-exposure to other chemicals, etc.; absence of actual exposure measurements along with memory bias for retrospective studies; lengthy latency periods for chronic health effects such as cancer; and poor sensitivity and inability to determine cause-effect relationships conclusively.</para>
+        <para id="id1169451638521">Animal bioassays remedy some of the weaknesses of epidemiological studies by allowing for greater control over the experiment and are deemed to be reliable measurement of toxic effects, although they require "high dose in animals-to low dose in humans" extrapolation. The selection of design parameters of animal bioassays is critically important in observing or missing an actual hazard. These parameters include: animal species selected for the experiment (rat, mouse); strain of the test species; age/sex of the test species; magnitude of exposure concentrations/doses applied or administered; number of dose levels studied; duration of exposure; controls selected; and route of exposure. Animal studies are characterized as acute (a single dose or exposures of short duration), chronic (exposures for full lifetimes of test species – about two years in rats/mice) and sub-chronic (usually 90 days) based on the exposure duration. In the hazard identification step, the following measures of toxicity are commonly compiled:</para>
+        <list id="id1169444976949" list-type="bulleted">
+          <item><emphasis effect="bold">LD</emphasis><emphasis effect="bold">50</emphasis><emphasis effect="bold">/LC</emphasis><emphasis effect="bold">50</emphasis><emphasis effect="bold">/EC</emphasis><emphasis effect="bold">50</emphasis>: The dose or concentration in a toxicity study at which causing 50 percent mortality in test species was observed. The EC<sub>50</sub> is the effective concentration causing adverse effects or impairment in 50% of the test species.</item>
+          <item><emphasis effect="bold">NOAEL </emphasis>(No Observable Adverse Effect Level): The highest dose or concentration in a toxicity study at which no adverse effect was observed.</item>
+          <item><emphasis effect="bold">LOAEL</emphasis> (Lowest Observable Adverse Effect Level): The lowest dose or concentration in a toxicity study at which an adverse effect was observed.</item>
+          <item><emphasis effect="bold">MTD</emphasis> (Maximum Tolerated Dose): The largest dose a test animal can receive for most of its lifetime without demonstrating adverse health effects other than carcinogenicity.</item>
+        </list>
+        <para id="id1169445737167">Risk scientists rely on a number of reputable sources to gather, compile, and analyze hazard identification information to be able to perform weight of evidence analysis and to conclude whether a chemical may cause a health effect in humans. Some of these sources are:</para>
+        <list id="id1169466636097" list-type="bulleted">
+          <item><emphasis effect="bold">Hazardous Substances Data Bank</emphasis> (HSDB) maintained by the National Library of Medicine: This scientifically peer-reviewed data bank provides human and animal toxicity data for about 5,000 chemicals and can be accessed via <link url="http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB" window="new">http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB</link></item>
+          <item>ChemicIDplus Advanced database maintained by the National Library of Medicine: This database allows users to search the NLM ChemIDplus database of over 370,000 chemicals. Compound identifiers such as Chemical Name, CAS Registry Number, Molecular Formula, Classification Code, Locator Code, and Structure or Substructure can be entered to display toxicity data via <link url="http://chem.sis.nlm.nih.gov/chemidplus/" window="new">http://chem.sis.nlm.nih.gov/chemidplus/</link></item>
+          <item>National Toxicology Program (NTP) of the Department of Health and Human Services:
+					
+					<list id="id1169448466259" list-type="bulleted">
+						<item>Report of Carcinogens (RoC): The RoC is an informational scientific and public health document that identifies and discusses agents, substances, mixtures, or exposure circumstances that may pose a hazard to human health by virtue of their carcinogenicity. The RoC is published biennially and serves as a meaningful and useful compilation of data on: a) the carcinogenicity (ability to cause cancer), genotoxicity (ability to damage genes), and biologic mechanisms (modes of action in the body) of the listed substance in humans and/or animals; b) the potential for human exposure to these substances; and c) Federal regulations to limit exposures. The link to the most recent version of the RoC can be accessed via <link url="http://ntp.niehs.nih.gov/?objectid=BD1A20B5-F1F6-975E-7CF8CBFACF0FC7EF" window="new">http://ntp.niehs.nih.gov/?objectid=BD1A20B5-F1F6-975E-7CF8CBFACF0FC7EF</link></item>
+						<item>NTP Toxicity Testing Study Results and Research Areas: NTP tests chemicals for their toxicity in human and animal systems. The results of these toxicity testing studies along with current research areas can be obtained at: <link url="http://ntp.niehs.nih.gov/index.cfm?objectid=720160DB-BDB7-CEBA-F7CC2DE0A230C920" window="new">http://ntp.niehs.nih.gov/index.cfm?objectid=720160DB-BDB7-CEBA-F7CC2DE0A230C920</link></item>
+					</list>
+					</item>
+          <item>National Institute of Occupational and Safety Health (NIOSH) Hazard Identification Databases: The following NIOSH website houses a multitude of databases and information for chemicals and their hazards under a single umbrella, including NIOSH's "Pocket Guide to Chemical Hazards": <link url="http://www.cdc.gov/niosh/database.html" window="new">http://www.cdc.gov/niosh/database.html</link></item>
+          <item>Agency for Toxic Substances and Disease Registry (ATSDR) Toxicological Profiles and Public Health Statements: ATSDR produces "<emphasis effect="bold">toxicological profiles</emphasis>" for hazardous substances found at National Priorities List (NPL) Superfund sites.  About 300 toxicological profiles have so far been published or are under development. The chemical-specific toxicological profiles can be accessed via <link url="http://www.atsdr.cdc.gov/toxprofiles/index.asp" window="new">http://www.atsdr.cdc.gov/toxprofiles/index.asp</link></item>
+          <item><emphasis effect="bold">World Health Organization (WHO) International Programme of Chemical Safety (IPCS): </emphasis>ICPS publishes "Environmental Health Criteria" (EHC) for chemical substances, which provide critical reviews on the effects of chemicals or combinations of chemicals and physical and biological agents on human health and the environment. The IPCS site can be accessed via <link url="http://www.who.int/ipcs/assessment/en/" window="new">http://www.who.int/ipcs/assessment/en/</link></item>
+          <item><emphasis effect="bold">Material Safety Data Sheets (MSDS): </emphasis>MSDS are invaluable resource to obtain compositional data for products and mixtures.</item>
+        </list>
+      </section>
+      <section id="id1169451897168">
+        <title>Toxicity (Dose-Response Assessment)</title>
+        <para id="id1169451682812">Dose-response assessment takes the toxicity data gathered in the hazard identification step from animal studies and exposed human population studies and describes the quantitative relationship between the amount of exposure to a chemical (or dose) and the extent of toxic injury or disease (or response). Generally, as the dose of a chemical increases, the toxic response increases either in the severity of the injury or in the incidence of response in the affected population (<link target-id="id1169453135621">EPA, 1989</link>; <link target-id="id1169453105787">EPA, 1993</link>). In toxicity-assessment step, the relationship between the magnitude of the administered, applied, or absorbed dose and the probability of occurrence and magnitude of health effect(s) (e.g. tumor incidence in the case of cancer) is determined.</para>
+        <para id="id1169454708642">Dose-response assessment for carcinogens and non-carcinogens differ in toxicity values use and how these toxicity values are derived. In general, toxicity values provide a measure of toxic potency of the chemical in question. These toxicity values are:</para>
+        <list id="id1169460554582" list-type="bulleted">
+          <item><emphasis effect="bold">Reference Dose (RfD) for oral/dermal pathways or Reference Concentration (RfC) for inhalation pathway – Noncarcinogens:</emphasis> A <term target-id="id1169457918953">chronic RfD</term> is defined as an estimate (with uncertainty spanning perhaps an order of magnitude or greater) of a daily exposure level for the human population, including sensitive subpopulations, that is likely to be without an appreciable risk of deleterious effects during a lifetime. It has the unit of mg of pollutant per kg of body weight per day (mg/kg-day). Chronic RfDs are specifically developed to be protective for long-term exposure to a chemical, usually, for exposure periods between seven years (approximately 10 percent of a human lifetime) and a lifetime. After selection of a critical health effect study and a critical health effect through review of toxicity literature in the hazard identification step, the RfD is derived by dividing the NOAEL (or LOAEL) for the critical toxic effect by uncertainty factors (UFs) and a modifying factor (MF). The uncertainty factors generally consist of multiples of 10, with each factor representing a specific area of uncertainty inherent in the extrapolation from the available data (e.g. 10 for extrapolation from animals to humans; 10 for interhuman variability; 10 when LOAEL is used instead of NOAEL in deriving RfD; 10 when NOAEL is obtained from a subchronic study rather than a chronic study). A modifying factor ranging from &gt;0 to 10 is included to account for additional uncertainties in the critical study and in the entire data based on a qualitative professional assessment. The default value for the MF is 1.The NOAEL is selected based on the assumption that if the critical toxic effect is prevented, then all toxic effects are prevented (EPA, 1989). The derivation of toxicity value, RfD/RfC, for noncarcinogens assumes that they are threshold chemicals, meaning there is a threshold below which no adverse effects are observed in test species. This dose level (i.e. NOAEL) in animals is simply adjusted by a number of factors (UFs and MF) to determine the safe dose level in humans (i.e. RfD) as shown by the following equation:</item>
+        </list>
+        <equation id="id1169459746636">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>RfD</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>NOAEL</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>UF</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>xUF</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>xUF</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>xMF</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "RfD"= {  { ital "NOAEL"}  over  { ital "UF" rSub { size 8{1} }  ital "xUF" rSub { size 8{2} }  ital "xUF" rSub { size 8{3} }  "."  "."  "."  ital "xMF"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <list id="id1169446061713" list-type="bulleted">
+          <item><emphasis effect="bold">Cancer Slope Factor (CSF) for oral/dermal pathway or Unit Risk Factor (URF) for inhalation pathway – Carcinogens: </emphasis>Unlike the noncarcinogens, carcinogens assumed to be non-threshold chemicals based on the Environmental Protection Agency (EPA) assumption that a small number of molecular events can evoke changes in a single cell that can lead to uncontrolled cellular proliferation and eventually to cancer. In deriving slope factors, firstly, an appropriate dose-response data set is selected. In this exercise, whenever available, human data of high quality are preferable to animal data. However, if only animal data are available, dose-response data from species that responds most similarly to humans with respect to metabolism, physiology, and pharmacokinetics is preferred. When no clear choice is possible, the most sensitive species is chosen. Secondly, a model to the available data set is applied and extrapolation from the relatively high doses administered to test species in animal bioassay (or the exposures recorded in epidemiologic studies) to the lower environmental exposure levels expected for humans is performed using the model. Although various models have been developed for this purpose (e.g. probit, logit, Weibull), the linearized multistage model has commonly been used by the EPA. After the data are fit to the appropriate model, the upper 95<sup>th</sup> percent confidence limit of the slope of the resulting dose-response curve is calculated, which is known as the Cancer Slope Factor (CSF). It represents an upper 95<sup>th</sup> percent confidence limit on the probability of a response per unit intake of a chemical over a lifetime (i.e. dose). Thus, its units are (mg/kg-day) <sup>-1</sup>. This indicates that there is only a five percent chance that the probability of a response could be greater than the estimated value of CSF. Because the dose-response curve generally is linear only in the low-dose region, the slope factor estimate only holds true for low doses. Toxicity values for carcinogenic effects also can be expressed in terms of risk per unit concentration of the chemical, which are called unit risk factors (URFs). They are calculated by dividing the CSF by adult body weight (70 kg) and multiplying by the adult inhalation rate (20 m<sup>3</sup>/day), for risk associated with unit concentration in air (<link target-id="id1169453135621">EPA, 1989</link>).</item>
+        </list>
+        <para id="id1169470456988">A number of regulatory agencies responsible for environmental and public health protection have devoted resources in developing and documenting toxicity values for noncarcinogens (RfDs/RfCs) and carcinogens (CSFs/URFs). The following hierarchy of sources is recommended by the EPA in evaluating chemical toxicity for Superfund sites (<link target-id="id2528902">EPA, 2003</link>): </para>
+        <list id="id1169470423660" list-type="bulleted">
+          <item>Integrated Risk Information System (IRIS) and cited references, which is the prime source for the chemical-specific toxicity value information and can be accessed via: <link url="http://cfpub.epa.gov/ncea/iris/index.cfm" window="new">http://cfpub.epa.gov/ncea/iris/index.cfm</link></item>
+          <item>The Provisional Peer Reviewed Toxicity Values (PPRTV) and cited references developed for the EPA Office of Solid Waste and Emergency Response (OSWER) Office of Superfund Remediation and Technology Innovation (OSRTI) programs (not publicly available).</item>
+          <item>Other toxicity values, which includes the following sources of toxicity values that are commonly consulted by the <link url="http://www.epa.gov/superfund/policy/cercla.htm" window="new">EPA Superfund Program</link> when a relevant toxicity value is not available from either IRIS or the PPRTV database:<list id="id1169453145887" list-type="bulleted"><item>California Environmental Protection Agency (Cal EPA) Toxicity Criteria Database, available at: <link url="http://www.oehha.ca.gov/risk/chemicalDB/index.asp" window="new">http://www.oehha.ca.gov/risk/chemicalDB/index.asp</link>;</item><item>The Agency for Toxic Substances and Disease Registry (ATSDR) Minimal Risk Levels (MRLs, addressing noncancer effects only). MRL is an estimate of the daily human exposure to a hazardous substance that is likely to be without appreciable risk of adverse noncancer health effects over a specified duration of exposure. These substance-specific estimates, which are intended to serve as screening levels, are used by ATSDR health assessors and other responders to identify contaminants and potential health effects that may be of concern at hazardous waste sites. To date, 137 inhalation MRLs, 226 oral MRLs and 8 external radiation MRLs have been derived and can be found at: <link url="http://www.atsdr.cdc.gov/mrls/index.html" window="new">http://www.atsdr.cdc.gov/mrls/index.html</link>;</item><item>The EPA Superfund Health Effects Assessment Summary Tables (HEAST) database and cited references; and</item><item>Additional sources of toxicity values.</item></list></item>
+        </list>
+        <para id="id1169469339277">There are a number of other valuable sources for toxicity values (RfDs/RfCs for non-carcinogens and URFs/CSFs for carcinogens), which can be compiled via the following sources:</para>
+        <list id="id1169461398103" list-type="bulleted">
+          <item><emphasis effect="bold">EPA Region 9</emphasis> tabulated "<emphasis effect="bold">Preliminary Remediation Goals (PRGs)"</emphasis> or "Regional Screening Levels (RSL)" for Chemical Contaminants at Superfund Sites," which also lists toxicity values (oral/inhalation RfD and oral/inhalation CSF) used in the medium-specific PRG/RSL calculation for each chemical. This table can be accessed via <link url="http://www.epa.gov/region09/waste/sfund/prg/index.html" window="new">http://www.epa.gov/region09/waste/sfund/prg/index.html</link></item>
+          <item>The <emphasis effect="bold">Hot Spot Guidelines</emphasis> published by California EPA for Air Toxics Program includes technical background documentation for toxicity criteria/values for chemicals (i.e. <emphasis effect="bold">Cancer Potency Factors (CPFs)</emphasis>, which is equivalent to EPA's CSFs and <emphasis effect="bold">Chronic Recommended Exposure Limits (RELs)</emphasis>, which are similar to USEPA's RfCs). The most recent version of REL Table is located at: <link url="http://www.oehha.org/air/allrels.html" window="new">http://www.oehha.org/air/allrels.html</link>. The Technical Support Document for CPFs that contains cancer unit risks and potency factors for 121 of the 201 carcinogenic substances or groups of substances can be accessed via <link url="http://www.oehha.ca.gov/air/cancer_guide/TSD2.html" window="new">http://www.oehha.ca.gov/air/cancer_guide/TSD2.html</link>.</item>
+          <item>The Department of Energy's <emphasis effect="bold">Oak Ridge National Laboratory (ORNL)</emphasis> maintains <emphasis effect="bold">Risk Assessment Information System (RAIS) </emphasis>website, which contains useful information for risk assessment, including chemical-specific toxicity values. The RAIS information can be accessed via <link url="http://rais.ornl.gov/" window="new">http://rais.ornl.gov/</link>.</item>
+          <item><emphasis effect="bold">Toxicology Excellence in Risk Assessment (TERA)</emphasis>, a non-profit organization, manages and distributes a free Internet database of human health risk values and cancer classifications for over 600 chemicals of environmental concern from multiple organizations worldwide. This database, <emphasis effect="bold">Integrated Toxicity Estimates for Risk (ITER)</emphasis>, can be accessed via: <link url="http://www.tera.org/iter/" window="new">http://www.tera.org/iter/</link> or via NLM's TOXNET database at: <link url="http://toxnet.nlm.nih.gov/" window="new">http://toxnet.nlm.nih.gov</link>.</item>
+        </list>
+        <para id="id1169472404627">The dermal RfDs and CSFs can be derived from oral RfDs and CSFs, adjusted for chemical-specific gastrointestinal absorption efficiency, based on the recommended methodology in EPA's <emphasis effect="italics">Guidance for Dermal Risk Assessment </emphasis>(<link target-id="id1169452385464">EPA, 2004a</link>).</para>
+      </section>
+      <section id="id1169445443232">
+        <title>Exposure Assessment</title>
+        <para id="id1169451546611">In the third step of risk assessment, the magnitude of exposure is determined by measuring or estimating the amount of an agent to which humans are exposed (i.e. exposure concentration) and the magnitude of dose (or intake) is estimated by taking the magnitude, frequency, duration, and route of exposure into account. Exposure assessments may consider past, present, and future exposures. </para>
+        <figure id="id1169473528938"><media id="id1169473528938_media" alt="graphic of Human Health Effects of Environmental Pollution from Pollution Source to Receptor" longdesc="Figure shows the human health effects of environmental pollution from pollution source to receptor.">
+            <image mime-type="image/png" src="../../media/graphics2-fd05.png" id="id1169473528938__onlineimage" height="372" width="525"/>
+          </media>
+        <caption><emphasis effect="bold">Human Health Effects of Environmental Pollution from Pollution Source to Receptor</emphasis> Figure shows the human health effects of environmental pollution from pollution source to receptor. <emphasis effect="italics">Source: Mikael Häggström via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Health_effects_of_pollution.png" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+        
+        <para id="id1169467940226">While estimates of past or current exposure concentration/dose can be based on measurements or models of existing conditions, estimates of future exposure concentration/dose can be based on models of future conditions. In the case of inhalation exposures, personal or area monitoring to sample for contaminants in the air can be employed. The sampling data can be augmented with modeling efforts using default and/or site-specific input parameters. The model application can begin with simple screening level dispersion models and/or can utilize higher-level 2-D or 3-D models depending on the complexity of the environmental pollution problem in hand. </para>
+        <para id="id1169453189681">In any exposure assessment, the risk scientists ask a number of questions to hypothesize the exposure scenario pertaining to environmental pollution affecting the population or a sub-group. Some of these are:</para>
+        <list id="id1169454248329" list-type="bulleted">
+          <item>What is the source of pollution at the site? (e.g. underground storage tank leak, emissions from an industrial plant, surface water run-off from agricultural fields)</item>
+          <item>Which environmental compartments are likely to be contaminated? (i.e. air, water, sediment, soil, plants, animals, fish)</item>
+          <item>What are the chemicals of concern (COC) originating from the pollution source?</item>
+          <item>What are the fate and transport properties of these chemicals that may inform the aging of the pollution in the environment over time and resultant chemical signature in each environmental medium?</item>
+          <item>Who is exposed? (e.g. children, elderly, asthmatics, general population, workers)</item>
+          <item>How many people are exposed?</item>
+          <item>Where are people exposed? (e.g. home, workplace, outside environment, retirement communities, schools)</item>
+          <item>How are people exposed? (i.e. exposure pathway – inhalation, dermal contact or ingestion)</item>
+          <item>How often are people exposed? (i.e. exposure frequency)</item>
+          <item>How long are people exposed? (i.e. exposure duration)</item>
+        </list>
+        <para id="id1169452601817">Answers to these questions frame the problem at hand. In the next step, a number of exposure parameters are integrated into an estimate of daily dose received by an exposed individual via each exposure route (ingestion, dermal contact or skin absorption, and inhalation). The magnitude of human exposures, in general, is dependent on COC concentration in soil, exposure parameters describing human physiology (e.g. soil ingestion rate, body weight), and population-specific parameters describing exposure behavior (exposure frequency, duration). When evaluating subchronic or chronic exposures to noncarcinogenic chemicals, dose is averaged over the period of exposure, termed "Average Daily Dose" (ADD). However, for carcinogens, dose is averaged over an entire lifetime (i.e. 70 years), thus referred to as "Lifetime Average Daily Dose" (LADD). Both ADD and LADD represent normalized exposure rate in the units of mg of chemical per kg body weight per day (mg/kg-day). The ADD for noncarcinogenic COCs and LADD for carcinogenic COCs are estimated for four most commonly studied exposure pathways in EPA risk assessments, particularly for hazardous waste sites, as shown below (<link target-id="id2020920">Erdal, 2007</link>): </para>
+        <para id="id1169466850829">Soil Ingestion:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>xIR</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xEFxEDxCF</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BWxAT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L \(  ital "ADD" \)  rSub { size 8{o} } = {  {C rSub { size 8{s} }  ital "xIR" rSub { size 8{o} }  ital "xEFxEDxCF"}  over  { ital "BWxAT"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169460381465">Dermal Contact:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xSAxAFxABSxEVxEFxEDxCF</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BWxAT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L \(  ital "ADD" \)  rSub { size 8{d} } = {  {C rSub { size 8{s} }  ital "xSAxAFxABSxEVxEFxEDxCF"}  over  { ital "BWxAT"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169471045464">Inhalation of Particulates: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ip</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>xIR</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xEFxEDx</m:mtext></m:mrow></m:mstyle><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>PEF</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BWxAT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L \(  ital "ADD" \)  rSub { size 8{ ital "ip"} } = {  {C rSub { size 8{s} }  ital "xIR" rSub { size 8{i} }  ital "xEFxEDx" left ( {  {1}  over  { ital "PEF"} }  right )}  over  { ital "BWxAT"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169471266713">Inhalation of Volatiles:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mrow><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>iv</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>xIR</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xEFxEDx</m:mtext></m:mrow></m:mstyle><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>VF</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BWxAT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L \(  ital "ADD" \)  rSub { size 8{ ital "iv"} } = {  {C rSub { size 8{s} }  ital "xIR" rSub { size 8{i} }  ital "xEFxEDx" left ( {  {1}  over  { ital "VF"} }  right )}  over  { ital "BWxAT"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8019685">Where:</para>
+        <para id="id1169448456649">
+          <emphasis effect="italics">C<sub>s</sub>: Exposure Concentration (i.e., 95th Upper Confidence Limit on the Mean) of COC in soil (mg/kg) – (chemical-specific; can be estimated using <link target-id="id1169454322121">EPA 2004b</link>)</emphasis>
+        </para>
+        <para id="id1169453100567">
+          <emphasis effect="italics">IR<sub>o</sub>: Ingestion rate of soil (mg/d)</emphasis>
+        </para>
+        <para id="id1169470468381">
+          <emphasis effect="italics">IR<sub>i</sub>: Inhalation rate (m<sup>3</sup>/d)</emphasis>
+        </para>
+        <para id="id1169469359337">
+          <emphasis effect="italics">SA: Skin surface area (cm<sup>2</sup>)</emphasis>
+        </para>
+        <para id="id1169464412050">
+          <emphasis effect="italics">AF: Soil-to-skin adherence factor (mg/cm<sup>2</sup>)</emphasis>
+        </para>
+        <para id="id1169452238255">
+					<emphasis effect="italics">ABS: Dermal absorption fraction (unitless – chemical-specific)</emphasis> 
+				</para>
+        <para id="id1169454313885">
+					<emphasis effect="italics">EV: Event frequency (events/d)</emphasis>
+				</para>
+        <para id="id1169450716936">
+					<emphasis effect="italics">EF:  Exposure frequency (d/y)</emphasis>
+				</para>
+        <para id="id1169473181952">
+					<emphasis effect="italics">ED:  Exposure duration (y)</emphasis> 
+				</para>
+        <para id="id1169461529567">
+          <emphasis effect="italics">PEF: Particulate emission factor (m<sup>3</sup>/kg) – 1.36 x 10<sup>9</sup> m<sup>3</sup>/kg per (<link target-id="id1169450908280">EPA 2002a</link>)</emphasis>
+        </para>
+        <para id="id1169460512343">
+          <emphasis effect="italics">VF:  Soil-to-air volatilization factor (m<sup>3</sup>/kg – chemical-specific)</emphasis>
+        </para>
+        <para id="id1169445488094">
+					<emphasis effect="italics">BW: Body weight (kg)</emphasis> 
+				</para>
+        <para id="id1169475187293">
+					<emphasis effect="italics">AT:  Averaging time (days) – (ED*365 d/y for noncarcinogens; 70 y*365 d/y for carcinogens)</emphasis> 
+				</para>
+        <para id="id1169470365664">
+          <emphasis effect="italics">CF: Conversion factor – 10<sup>-6</sup> kg/mg</emphasis>
+        </para>
+        <para id="id1169445557320">In deterministic risk assessment, ADD and LADD estimates are performed for a reasonable maximum exposure scenario (RME) and a central tendency exposure scenario (CTE), resulting in a range. EPA's reliance on the concept of RME for estimating risks is based on a conservative but plausible exposure scenario (which is defined to be the 90<sup>th</sup> to 95<sup>th</sup> percentile exposure, signifying that fewer than five percent to 10 percent of the population would be expected to experience higher risk levels), and has been scientifically challenged over the years. For example, Burmaster and Harris (<link target-id="id7190009">1993</link>) showed that the use of EPA recommended default exposure parameter values resulted in exposure and risk estimates well in excess of the 99<sup>th</sup> percentile due to multiplication of three upper-bound values (i.e. 95<sup>th</sup> percentiles) for IR, EF, and ED. The authors argued that this leads to hazardous waste site cleanup decisions based on health risks that virtually no one in the surrounding population would be expected to experience. They advised the EPA to endorse and promote the use of probabilistic methods (e.g. <term target-id="id1169459819645">Monte-Carlo simulations</term>) as a way to supplement or replace current risk assessment methods, in order to overcome the problem of "compounded conservatism" and enable calculation of risks using a more statistically defensible estimate of the RME. In probabilistic risk assessment, the input parameters are characterized by their unique probability distribution. The EPA's Exposure Factors Program provides information on development of exposure parameter distributions in support of probabilistic distributions and can be accessed via: <link url="http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=20563" window="new">http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=20563</link>.</para>
+        <para id="id1169467894163">The values of the exposure parameters corresponding to RME or CTE scenarios are often compiled from EPA's Exposure Factors Handbook (EFH):</para>
+        <list id="id1169456584009" list-type="bulleted">
+          <item>General Exposure Factors Handbook (<link target-id="id1169463665583">EPA, 1997</link>) provides exposure assessors with data needed on standard factors to calculate human exposure to toxic chemicals as part of risk assessments. These factors include: drinking water consumption, soil ingestion, inhalation rates, dermal factors including skin area and soil adherence factors, consumption of fruits and vegetables, fish, meats, dairy products, homegrown foods, breast milk intake, human activity factors, consumer product use, and residential characteristics. Recommended values are for the general population and also for various segments of the population who may have characteristics different from the general population. The most recent version of the EFH can be accessed via <link url="http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=209866" window="new">http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=209866</link>.</item>
+          <item>The <emphasis effect="bold">Children-Specific </emphasis>EFH (<link target-id="id5930272">EPA, 2002b</link>) provides a summary of the available and up-to-date statistical data on various factors assessing child exposures, which can be accessed via <link url="http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=56747" window="new">http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=56747</link>.</item>
+        </list>
+      </section>
+      <section id="id1169464926758">
+        <title>Risk Characterization</title>
+        <para id="id1169469410316">In the last step, a hazard quotient (HQ) as an indicator of risks associated with health effects other than cancer and excess cancer risk (ECR) as the incremental probability of an exposed person developing cancer over a lifetime, are calculated by integrating toxicity and exposure information, as shown below. If HQ &gt; 1, there may be concern for potential adverse systemic health effects in the exposed individuals. If HQ ≤ 1, there may be no concern. It should be noted that HQs are scaling factors and they are not statistically based. The EPA's acceptable criterion for carcinogenic risks is based on public policy as described in the National Contingency Plan (NCP) and is the exposure concentration that represent an ECR in the range of 10<sup>-4 </sup>– 10<sup>-6</sup>, i.e. 1 in 10,000 to 1 in 1,000,000 excess cancer cases (<link target-id="id1169453311606">EPA, 1990</link>).</para>
+        <para id="id1169460798532">Noncancer Risk:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HazardQuotient</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HQ</m:mtext></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RfD</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HazardQuotient" \(  ital "HQ" \) = {  { ital "ADD"}  over  { ital "RfD"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169445954633">Excess Cancer Risk (ECR):
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ECR</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>L</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ADD</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>xCSF</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "ECR"=L \(  ital "ADD" \)  ital "xCSF"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169451854507">To account for exposures to multiple COCs via multiple pathways, individual HQs are summed to provide an overall Hazard Index (HI). If HI &gt;1, COCs are segregated based on their critical health end-point and separate target organ-specific HIs are calculated. Only if target organ-specific HI &gt; 1, is there concern for potential health effects for that end-point (e.g. liver, kidney, respiratory system).</para>
+        <para id="id1169454306635">Cumulative Noncancer Risk:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HazardIndex</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>HI</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>COC</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mi>n</m:mi></m:munderover><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HQ</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HQ</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HQ</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HazardIndex"= ital "HI"= Sum cSub { size 8{ ital "COC" rSub { size 6{ ital "NC"} } =1} }  cSup {n}  { \(  ital "HQ" rSub { size 8{o} } + ital "HQ" rSub { size 8{d} } + ital "HQ" rSub { size 8{i} }  \) } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169454203170">Cumulative Excess Cancer Risk:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>COC</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mi>n</m:mi></m:munderover><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ECR</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>COC</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mi>n</m:mi></m:munderover><m:mrow><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>ECR</m:mtext><m:mi>o</m:mi></m:msub></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>ECR</m:mtext><m:mi>d</m:mi></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>ECR</m:mtext><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Sum cSub { size 8{ ital "COC" rSub { size 6{C} } =1} }  cSup {n}  { ital "ECR"}  size 12{ {}= Sum cSub { ital "COC" rSub { size 6{C} } =1}  cSup {n}  { \(  ital "ECR" rSub {o}  size 12{+ ital "ECR" rSub {d} } size 12{+ ital "ECR" rSub {i} } size 12{ \) }} }} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169445691856">Here, o, d and i subscripts express oral (ingestion), dermal contact and inhalation pathways.</para>
+        <para id="id1169445378679">As discussed above, the HQ, HI, and ECR estimates are performed for RME and CTE scenarios separately in the case of deterministic risk assessment. Although EPA published the probabilistic risk assessment guidelines in 2001 (<link target-id="id1169445985489">EPA, 2001</link>), its application has so far been limited. Proper evaluation of uncertainties, which are associated with compounded conservatism and potential underestimation of quantitative risk estimates (e.g. due to the presence of COCs without established toxicity values), is intrinsic to any risk-based scientific assessment. In general, uncertainties and limitations are associated with sampling and analysis, chemical fate and transport, exposure parameters, exposure modeling, and human dose-response or toxicity assessment (derivation of CSFs/RfDs, extrapolation from high animal doses to low human doses), and site-specific uncertainties.</para>
+      </section>
+      <section id="id1169467885120">
+        <title>Conclusion</title>
+        <para id="id1169461796370">The improvement in the scientific quality and validity of health risk estimates depends on advancements in our understanding of human exposure to, and toxic effects associated with, chemicals present in environmental and occupational settings. For example, life-cycle of and health risks associated with pharmaceuticals in the environment is poorly understood due to lack of environmental concentration and human exposure data despite extensive toxicological data on drugs. There are many other examples for which either data on exposure or toxicity or both have not yet been developed, preventing quantitative assessment of health risks and development of policies that protect the environment and public health at the same time. Therefore, it is important to continue to develop research data to refine future risk assessments for informed regulatory decision-making in environmental sustainability and to ensure that costs associated with different technological and/or engineering alternatives are scientifically justified and public health-protective. One area that, particularly, requires advancement is the assessment of health risks of chemical mixtures. Current risk assessment approaches consider one chemical at a time. However, chemicals are present in mixtures in the environment. Furthermore, physical, chemical and biological transformations in the environment and interactions among chemicals in the environment may change the toxic potential of the mixture over time. Thus, risk assessment is an evolving scientific discipline that has many uncertainties in all of the four steps. These uncertainties should be thoroughly documented and discussed and the risk assessment results should be interpreted within the context of these uncertainties.</para>
+      </section>
+      <section id="id1169451601231">
+        <title>Review Questions</title>
+        <exercise id="id1169476236325">
+					<label>Question</label>
+          <problem id="oo-id1169470480357">
+            <para id="id1169470456151">What are the human health hazards of vinyl chloride?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169469066088">
+					<label>Question</label>
+          <problem id="oo-id1169463627598">
+            <para id="id1169468236352">What are the human toxicity values (RfD, CSF) of vinyl chloride and how are these values estimated?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169477336375">
+					<label>Question</label>
+          <problem id="oo-id1169468344161">
+            <para id="id1169449040360">How do you calculate the dose received by children and adults via ingestion of vinyl chloride-contaminated drinking water under the RME scenario? Please document and explain your assumptions along with your references for the exposure parameters for each receptor of concern</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169451578944">
+					<label>Question</label>
+          <problem id="oo-id1169445659957">
+            <para id="id1169475831044">How do you calculate RME cancer and noncancer risks to children and adults for the above exposure scenario?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169451178584">
+					<label>Question</label>
+          <problem id="oo-id5245783">
+            <para id="id1169448462364">What does excess cancer risk of three cases out of ten thousand exposed (3x10<sup>-4</sup>) signify?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169448535954">
+					<label>Question</label>
+          <problem id="oo-id1169464451281">
+            <para id="id1169469237712">If drinking water were also contaminated with benzene, how would you estimate cumulative cancer and noncancer risks associated with exposure to drinking water contaminated with vinyl chloride and benzene for children and adults under the RME scenario?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id7783152">
+        <title>References</title>
+        <para id="id7190009">Burmaster, D.E. &amp; Harris, R.H. (1993). The magnitude of compounding conservatisms in Superfund risk assessments. <emphasis effect="italics">Risk Analysis</emphasis>, <emphasis effect="italics">13</emphasis>, 131-34.</para>
+        <para id="id1169453135621">EPA (U.S. Environmental Protection Agency). (1989). <emphasis effect="italics">Risk assessment guidance for Superfund, volume I: Human health evaluation manual (Part A) (Interim Final) (</emphasis>EPA/540/1-89002). Office of Emergency and Remedial Response, Washington, DC</para>
+        <para id="id1169453311606">EPA (U.S. Environmental Protection Agency). (1990, March 8). National contingency plan. <emphasis effect="italics">Federal Register</emphasis>, <emphasis effect="italics">55</emphasis>, 8848. Washington, DC.</para>
+        <para id="id1169453105787">EPA (U.S. Environmental Protection Agency). (1993, September). <emphasis effect="italics">SI 400: Introduction to risk assessment and risk management for hazardous air pollutants.</emphasis> Air Pollution Training Institute. Environmental Research Center, Research Triangle Park, NC. </para>
+        <para id="id1169463665583">EPA (U.S. Environmental Protection Agency). (1997, August). <emphasis effect="italics">Exposure factors handbook, </emphasis><emphasis effect="italics">volume I – General factors </emphasis>(EPA/600/P-95/002Fa). National Center for Environmental Assessment, Office of Research and Development, Washington, DC.</para>
+        <para id="id1169445985489">EPA (U.S. Environmental Protection Agency). (2001, December). <emphasis effect="italics">Risk assessment guidance for Superfund, volume III – Part A: Process for conducting probabilistic risk assessment</emphasis> (EPA540-R-02-002). Office of Emergency and Remedial Response, Washington, DC.</para>
+        <para id="id1169450908280">EPA (U.S. Environmental Protection Agency). (2002a, December). <emphasis effect="italics">Supplemental guidance for developing soil screening levels for Superfund sites </emphasis>(OSWER 9355.4-24). Office of Emergency and Remedial Response, Washington, DC.</para>
+        <para id="id5930272">EPA (U.S. Environmental Protection Agency). (2002b, September). <emphasis effect="italics">Child-specific exposure factors handbook</emphasis> (EPA-600-P-00-002B). Interim Report. National Center for Environmental Assessment, Office of Research and Development, Washington, DC.</para>
+        <para id="id2528902">EPA (U.S. Environmental Protection Agency). (2003, December 5). <emphasis effect="italics">Human health toxicity values in Superfund risk assessments</emphasis> (OSWER Directive 9285.7-53). Memorandum from Michael B. Cook, Director of Office of Superfund Remediation and Technology Innovation to Superfund National Policy Managers, Regions 1 – 10. Office of Emergency and Remedial Response, Washington, DC.</para>
+        <para id="id1169452385464">EPA (U.S. Environmental Protection Agency). (2004a, July). <emphasis effect="italics">Risk assessment guidance for Superfund, volume I: Human health evaluation manual (Part E, supplemental guidance for dermal risk assessment) </emphasis>(EPA/540/R/99/005). Final. Office of Superfund Remediation and Technology Innovation, Washington, DC.</para>
+        <para id="id1169454322121">EPA (U.S. Environmental Protection Agency). (2004b, April). <emphasis effect="italics">ProUCL Version 3.00.02 user's guide and software</emphasis> (EPA/600/R04/079). Prepared by Anita Singh and Robert Maichle with Lockheed Martin Environmental Services and Ashok K. Singh of University of Nevada for the U.S. Environmental Protection Agency. </para>
+        <para id="id2020920">Erdal, S. (2007). Case study: Multi-pathway risk assessment for adults and children living near a hazardous waste site. In M.G. Robson &amp; W.A. Toscano (Eds.), <emphasis effect="italics">Environmental Health Risk Assessment for Public Health</emphasis> (pp. 523-530). Association of Schools of Public Health.</para>
+        <para id="id1169456044733">Lilienfeld A.M. &amp; Lilienfeld, D.E. (1980). The French influence on the development of epidemiology. <emphasis effect="italics">Henry E Sigerist Suppl Bull Hist Med</emphasis>, <emphasis effect="italics">4</emphasis>, 28-42.</para>
+        <para id="id1169471156070">NAS (National Academy of Sciences). (1983). <emphasis effect="italics">Risk assessment in the federal government: Managing the process</emphasis>. National Academy Press, Washington, DC. </para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1169473233905">
+      <term>bioassay</term>
+      <meaning id="oo-id1169471029830">An assay for determining the potency (or concentration) of a substance that causes a biological change in experimental animals. 
+      </meaning>
+    </definition>
+    <definition id="id1169458569759">
+      <term>carcinogenicity</term>
+      <meaning id="oo-id1169475507167">Defines the ability or tendency to produce cancer.
+      </meaning>
+    </definition>
+    <definition id="id1169457918953">
+      <term>chronic reference dose (RfD)</term>
+      <meaning id="oo-id1169448416125">An estimate (with uncertainty spanning perhaps an order of magnitude) of a daily oral exposure for a chronic duration (up to a lifetime) to the human population (including sensitive subgroups) that is likely to be without an appreciable risk of deleterious effects during a lifetime. It can be derived from a NOAEL, LOAEL, or benchmark dose, with uncertainty factors generally applied to reflect limitations of the data used. Generally used in EPA's noncancer health assessments.
+      </meaning>
+    </definition>
+    <definition id="id1169454294687">
+      <term>deterministic risk assessment </term>
+      <meaning id="oo-id1169449579094">Risk evaluation involving the calculation and expression of risks as single numerical values or "single point" estimates of risk, with uncertainty and variability discussed qualitatively.
+      </meaning>
+    </definition>
+    <definition id="id1169445558106">
+      <term>epidemiology</term>
+      <meaning id="oo-id1169463406193">The study of the distribution and determinants of health-related states or events in specified populations. 
+      </meaning>
+    </definition>
+    <definition id="id1169459819645">
+      <term>monte-carlo method</term>
+      <meaning id="oo-id1169450937928">A repeated random sampling from the distribution of values for each of the parameters in a generic (exposure or dose) equation to derive an estimate of the distribution of (doses or risks in) the population.
+      </meaning>
+    </definition>
+    <definition id="id1169444158907">
+      <term>probabilistic risk assessment</term>
+      <meaning id="oo-id1169451128262">Risk evaluation involving the calculation and expression of risks using multiple risk descriptors to provide the likelihood of various risk levels. Probabilistic risk results approximate a full range of possible outcomes and the likelihood of each, which often is presented as a frequency distribution graph, thus allowing uncertainty or variability to be expressed quantitatively.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

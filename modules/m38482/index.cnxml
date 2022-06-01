@@ -1,0 +1,269 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Climate Processes; External and Internal Controls</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38482</md:content-id>
+  <md:title>Climate Processes; External and Internal Controls</md:title>
+  <md:abstract>In this module, you will explore the processes that control the climate.</md:abstract>
+  <md:uuid>e4ba899f-d471-40a9-a993-4b3872d86644</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1168368631687">
+        <title>Learning Objectives</title>
+        <para id="id1168390431649">After reading this module, students should be able to</para>
+        <list id="id1168365932144" list-type="bulleted">
+          <item>define both "climate" and "weather" and explain how the two are related</item>
+          <item>use the Celsius temperature scale to describe climate and weather</item>
+          <item>discuss the role and mechanisms of the major controls on Earth's climate using the concepts of insolation, albedo and greenhouse gases</item>
+          <item>identify and describe the mechanisms by which major external and internal changes to the climate (including solar output variation, volcanoes, biological processes, changes in glacial coverage, and meteorite impacts) operate</item>
+          <item>know that the Earth's climate has changed greatly over its history as a result of changes in insolation, albedo, and atmospheric composition</item>
+          <item>describe the processes that can lead to a "Snowball Earth" using the "positive feedback" concept, and be able to contrast the climate factors that influenced this period of Earth's history with others, including the dominant factors that operated during the Cretaceous</item>
+          <item>state the major ways in which carbon dioxide is both added to and removed from the atmosphere, and be able to describe why levels of carbon dioxide and other greenhouse gases can be kept in balance</item>
+        </list>
+      </section>
+      <section id="id1168368519914"><title>Introduction</title><para id="id1168368383662">The Earth's climate is continually changing. If we are to understand the current climate and predict the climate of the future, we need to be able to account for the processes that control the climate. One hundred million years ago, much of North America was arid and hot, with giant sand dunes common across the continent's interior. Six hundred and fifty million years ago it appears that the same land mass—along with the rest of the globe—was covered in a layer of snow and ice. What drives these enormous changes through Earth's history? If we understand these fundamental processes we can explain why the climate of today may also change. </para><para id="id1168382448203">In discussing climate in this chapter, we will be using degrees Celsius (<sup>o</sup>C) as the unit of temperature measurement.         
+				<figure id="id1168376644870" type="Figure">
+					<media id="id1168376644870_media" alt="an image of a thermometer" longdesc="an image of a thermometer displaying both Celsius and Fahrenheit" display="inline">
+              <image mime-type="image/jpg" src="../../media/Picture 1-f3e3.jpg" id="id1168376644870__onlineimage" height="400" width="300"/>
+          </media>  
+          <caption><emphasis effect="bold">A Thermometer</emphasis> This thermometer shows how the two scales compare for typical atmospheric temperatures. A change of one degree Celsius (1 <sup>o</sup>C) is equivalent to a change of one and four fifths degrees Fahrenheit (1.8 <sup>o</sup>F). <emphasis effect="italics">Source:  <link window="new" url="http://en.wikipedia.org/wiki/File:Thermometer.jpg">Michiel1972 at nl.wikipedia.</link></emphasis>
+            </caption></figure>The Celsius scale is the standard international unit for temperature that scientists use when discussing the climate. In the Celsius scale, water freezes at 0 <sup>o</sup>C and boils at 100 <sup>o</sup>C. A comfortable room might be heated to 20 <sup>o</sup>C (which is equivalent to 68 <sup>o</sup>F). Temperatures can be converted from the Celsius scale to the Fahrenheit scale with the following equation:</para>
+        <equation id="eip-86"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>°</m:mi>
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>9</m:mn>
+                      <m:mn>5</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mi>°</m:mi>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>32</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{°F= {  {9}  over  {5} } °C+"32"} {}</m:annotation>
+        </m:semantics>
+      </m:math></equation>
+
+
+        <para id="id1168368521426"><term target-id="id1168382441315">Weather</term> describes the short term state of the atmosphere. This includes such conditions as wind, air pressure, precipitation, humidity and temperature. <term target-id="id1168366260637">Climate</term> describes the typical, or average, atmospheric conditions. Weather and climate are different as the short term state is always changing but the long-term average is not. On The 1<sup>st</sup> of January, 2011, Chicago recorded a high temperature of 6 <sup>o</sup>C; this is a measure of the weather. Measurements of climate include the averages of the daily, monthly, and yearly weather patterns, the seasons, and even a description of how often extraordinary events, such as hurricanes, occur. So if we consider the average Chicago high temperature for the 1<sup>st</sup> of January (a colder 0.5 <sup>o</sup>C) or the average high temperature for the entire year (a warmer 14.5 <sup>o</sup>C) we are comparing the city's weather with its climate. The <term target-id="id1168366260637">climate</term> is the average of the weather.</para>
+      </section>
+      <section id="id1168376738669"><title>Insolation, Albedo and Greenhouse Gases</title><para id="id1168366250596">What controls the climate? The average temperature of the Earth is about 15 <sup>o</sup>C (which is the yearly average temperature for the city of San Francisco), so most of the Earth's water is in a liquid state. The average temperature of Mars is about -55 <sup>o</sup>C (about the same as the average winter temperature of the South Pole), so all of the water on the Martian surface is frozen. This is a big difference! One reason Earth is so much hotter than Mars is that Earth is closer to the Sun. Mars receives less than half as much energy from the Sun per unit area as Earth does. This difference in <term target-id="id1168366267355">insolation</term>, which is the measure of the amount of solar radiation falling on a surface, is a very important factor in determining the climate of the Earth. </para>
+        <para id="id1168366240376">On Earth, we notice the effects of varying insolation on our climate. Sunlight falls most directly on the equator, and only obliquely (at an angle) on the poles. This means that the sunlight is more concentrated at the equator. As shown in Figure <link target-id="id1168365924461"><emphasis effect="bold">Insolation Angle</emphasis></link>, the same amount of sunlight covers twice as much area when it strikes a surface at an angle of 30<sup>o</sup> compared to when it strikes a surface directly: the same energy is spread more thinly, weakening its ability to warm the Earth. </para>
+        <figure id="id1168365924461" type="Figure">
+				  <media id="id1168365924461_media" alt="" longdesc="">
+            <image mime-type="image/png" src="../../media/Picture 4-9376.png" id="id1168365924461__onlineimage" height="249" width="350"/>
+          </media>
+          <caption><emphasis effect="bold">Insolation Angle</emphasis> Insolation is the effect of incidence angle on sunlight intensity. Note that the same amount of sunlight is spread out over twice the area when it strikes the surface at a 30-degree angle. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Seasons.too.png">Wikipedia</link></emphasis>
+          </caption>
+			  </figure>
+        <para id="id1168365982456">As a consequence, the tropics receive about twice the insolation as the area inside the Arctic Circle – see Figure <link target-id="id1168379329887"><emphasis effect="bold">Insolation Comparison</emphasis></link>. This difference in energy explains why the equator has a hot climate and the poles have a cold climate. Differences in insolation also explain the existence of seasons. The Earth's axis is tilted at 23<sup>o</sup> compared to its orbit, and so over the course of the year each hemisphere alternates between directly facing the Sun and obliquely facing the Sun. When the Northern hemisphere is most directly facing the Sun (the months of May, June and July) insolation is thus higher, and the climate is warmer. This variation in insolation explains why summer and winter occur (we get less energy from the Sun in winter then we do in summer), and why the timing of the seasons is opposite in the Southern and Northern hemispheres.</para>
+        <figure id="id1168379329887" type="Figure">
+          <media id="id1168379329887_media" alt="An image comparing Polar and Equatorial Insolation" longdesc="This image shows the earth tilted on its axis with two yellow bars representing sunlight touching the earth near the north pole and the equator.  A long black line following the curve of the earth where sunlight touches the polar area represents Polar Insolation.  A shorter black line following the curve of the earth where sunlight touches the equator represents Equatorial Insolation">
+            <image mime-type="image/png" src="../../media/Picture 3-57cb.png" id="id1168379329887__onlineimage" height="229" width="400"/>
+          </media>
+          <caption><emphasis effect="bold">Insolation Comparison</emphasis> A cartoon of how latitude is important in determining the amount of insolation. The same amount of sunlight (yellow bars) is spread out over twice the planet's surface area when the rays strike the Earth at an angle (compare the length of the dark lines at the equator and at the poles). <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/tomkin">Jonathan H. Tomkin.</link></emphasis>
+          </caption>
+			  </figure>
+        <para id="id1168379426836">Figure <link target-id="id1168378280065"><emphasis effect="bold">Insolation</emphasis></link> shows both the equatorial and seasonal impacts of insolation. High levels of insolation are shown in warm colors (red and pink) and low levels of insolation are shown in cold colors (blue). Notice that in January (top map) the maximum levels of insolation are in the Southern Hemisphere, as this is when the Southern Hemisphere is most directly facing the sun. The Arctic receives very little insolation at this time of year, as it experiences its long polar night. The reverse is true in April (bottom map).</para>
+        <para id="id1168368387323">
+          <figure id="id1168378280065" type="Figure">
+            <media id="id1168378280065_media" alt="Insolation" longdesc="insert long description here">
+              <image mime-type="image/png" src="../../media/Picture 2-075d.png" id="id1168378280065__onlineimage" height="469" width="400"/>
+            </media>
+            <caption><emphasis effect="bold">Insolation</emphasis> Average insolation over ten years for the months of January (top) and April (bottom). <emphasis effect="italics">Source: <link window="new" url="http://earthobservatory.nasa.gov/IOTD/view.php?id=1355">Roberta DiPasquale, Surface Meteorology and Solar Energy Project, NASA Langley Research Center, and the ISCCP Project. Courtesy of NASA's Earth Observatory.</link></emphasis>
+            </caption>
+				</figure>
+        </para>
+        <para id="id1168379529018">The equator always receives plenty of sunlight, however, and has a much higher average temperature as a consequence; compare the average temperature of the equator with that of the poles in Figure <link target-id="id1168368478174"><emphasis effect="bold">Annual Mean Temperature</emphasis></link></para>
+        <para id="id1168382302721">
+          <figure id="id1168368478174" type="Figure">
+            <media id="id1168368478174_media" alt="Annual Mean Temperature" longdesc="insert long description here">
+              <image mime-type="image/jpg" src="../../media/Picture 5-25d9.jpg" id="id1168368478174__onlineimage" height="231" width="300"/>
+            </media>
+          <caption><emphasis effect="bold">Annual Mean Temperature</emphasis> The Earth's average annual temperature. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Annual_Average_Temperature_Map.jpg">Robert A. Rohde for Global Warming Art.</link></emphasis>
+            </caption></figure>
+        </para>
+        <para id="id1168368676711">The level of insolation affecting Earth depends on the amount of light (or <term target-id="id1168366323985">solar radiation</term>) emitted by the Sun. Over the current geologic period, this is very slowly changing—solar radiation is increasing at a rate of around 10% every billion years. This change is much too slow to be noticeable to humans. The sun also goes through an 11-year solar cycle, in which the amount of solar radiation increases and decreases. At the solar cycle peak, the total solar radiation is about 0.1% higher than it is at the trough.</para>
+        <para id="id1168379417767">The Earth's orbit is not perfectly circular, so sometimes the Earth is closer to or further from the Sun than it is on average. This also changes the amount of insolation, as the closer the Earth is to the Sun the more concentrated the solar radiation. As we shall see in the next section, these orbital variations have made a big difference in conditions on the Earth during the period in which humans have inhabited it.</para>
+        <para id="id1168366052173">In addition to considering how much energy enters the Earth system via insolation, we also need to consider how much energy leaves. The climate of the Earth is controlled by the Earth's energy balance, which is the movement of energy into and out of the Earth system. Energy flows into the Earth from the Sun and flows out when it is radiated into space. The Earth's energy balance is determined by the amount of sunlight that shines on the Earth (the insolation) and the characteristics of the Earth's surface and atmosphere that act to reflect, circulate and re-radiate this energy. The more energy in the system the higher the temperature, so either increasing the amount of energy arriving or decreasing the rate at which it leaves would make the climate hotter. </para>
+        <para id="id1168365932322">One way to change how quickly energy exits the Earth system is to change the reflectivity of the surface. Compare the difference in dark surface of tilled soil (Figure <link target-id="tilled-soil"><emphasis effect="bold">Reflectivity of Earth's Surface (a)</emphasis></link>) with the blinding brightness of snow-covered ice (Figure <link target-id="AntarcticaIceCoverage"><emphasis effect="bold">Reflectivity of Earth's Surface (b)</emphasis></link>).</para>
+
+      <figure id="id1168368671744" type="Figure" orient="vertical">
+			  <subfigure id="tilled-soil">
+				  <media id="id1168368671744_media" alt="a picture of tilled soil" longdesc="insert long description here">
+					  <image mime-type="image/jpg" src="../../media/Picture 6.jpg" id="id1168368671744__onlineimage" height="300" width="400"/>
+				  </media>
+				  <caption>Tilled soil. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Tilled_soil_looking_towards_Admiralty_Point_-_geograph.org.uk_-_326568.jpg">Tim Hallam.</link></emphasis>
+				  </caption>
+			  </subfigure>
+        <subfigure id="AntarcticaIceCoverage">
+          <media id="id1168366063230_media" alt="a picture of antarctica ice coverage" longdesc="insert long description here">
+          	<image mime-type="image/jpg" src="../../media/Picture 7-74f5.jpg" id="id1168366063230__onlineimage" height="294" width="400"/>
+          </media>
+				  <caption>The snow surface at Dome C Station, Antarctica
+				    <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:AntarcticaDomeCSnow.jpg">Stephen Hudson</link></emphasis>
+				  </caption>
+			  </subfigure>
+			  <caption><emphasis effect="bold">Reflectivity of Earth's Surface</emphasis></caption>
+      </figure>
+        <para id="id1168376664779">The dark soil is absorbing the sun's rays and in so doing is heating the Earth surface, while the brilliant snow is reflecting the sunlight back into space. <term target-id="id1168366268891">Albedo</term> is a measure of how reflective a surface is. The higher the albedo the more reflective the material: a perfectly black surface has zero albedo, while a perfectly white surface has an albedo of 1 - it reflects 100% of the incident light. If a planet has a high albedo, much of the radiation from the Sun is reflected back into space, lowering the average temperature. Today, Earth has an average albedo of just over 30%, but this value depends on how much cloud cover there is and what covers the surface. Covering soil with grass increases the amount of light reflected from 17% to 25%, while adding a layer of fresh snow can increase the amount reflected to over 80%. Figure <link target-id="id1168379735664"><emphasis effect="bold">Surface of Earth with Cloud Cover Removed</emphasis></link> is a composite photograph of the Earth with the cloud cover removed. As you can see, forests and oceans are dark (low albedo) while snow and deserts are bright (high albedo).</para>
+        <para id="id1168379735659">
+          <figure id="id1168379735664" type="Figure">       
+            <media id="id1168379735664_media" alt="Surface of Earth with Cloud Cover Removed" longdesc="insert long description here">
+              <image mime-type="image/jpg" src="../../media/Picture 9-5471.jpg" id="id1168379735664__onlineimage" height="200" width="400"/>
+            </media>
+            <caption><emphasis effect="bold">Surface of Earth with Cloud Cover Removed</emphasis> The surface of the Earth with cloud cover removed. The poles and deserts are much brighter than the oceans and forests. <emphasis effect="italics">Source: <link window="new" url="http://visibleearth.nasa.gov/view_rec.php?id=2433">NASA Goddard Space Flight Center Image by Reto Stöckli. Courtesy of NASA's Earth Observatory.</link></emphasis>
+            </caption>
+				  </figure>
+        </para>
+        <para id="id1168379326666">Changes in albedo can create a <term target-id="id1168366262995">positive feedback</term> that reinforces a change in the climate. A positive feedback is a process which amplifies the effect of an initial change. If the climate cools, (the initial change), snow covers more of the surface of the land, and sea-ice covers more of the oceans. Because snow has a higher albedo than bare ground, and ice has a higher albedo than water, this initial cooling increases the amount of sunlight that is reflected back into space, cooling the Earth further (the amplification, or positive feedback). Compare the brightness of Figure <link target-id="id1168379735664"><emphasis effect="bold">Surface of Earth with Cloud Cover Removed</emphasis></link> with a similar photo montage from February (Figure <link target-id="id1168365983886"><emphasis effect="bold">Surface of the Earth in February with Cloud Cover Removed</emphasis></link>): the extra snow has increased the Earth's albedo. Imagine what would happen if the Earth produced even more snow and ice as a result of this further cooling. The Earth would then reflect more sunlight into space, cooling the planet further and producing yet more snow. If such a loop continued for long enough, this process could result in the entire Earth being covered in ice! Such a feedback loop is known as the <term target-id="id1168379589102">Snowball Earth</term> hypothesis, and scientists have found much supporting geological evidence. The most recent period in Earth's history when this could have occurred was around 650 Million years ago. Positive feedbacks are often described as "runaway" processes; once they are begun they continue without stopping.</para>
+        <para id="id1168366246594">
+          <figure id="id1168365983886" type="Figure">
+            <media id="id1168365983886_media" alt="Surface of the Earth in February with Cloud Cover Removed" longdesc="insert long description here">
+              <image mime-type="image/jpg" src="../../media/Picture 8-8c0c.jpg" id="id1168365983886__onlineimage" height="200" width="400"/>
+            </media>
+            <caption><emphasis effect="bold">Surface of the Earth in February with Cloud Cover Removed</emphasis> This image shows the surface of the Earth in February (the Northern Hemisphere winter) with cloud cover removed. The seasonal snow cover is brighter (and so has a higher albedo) than the land surface it covers. <emphasis effect="italics">Source: <link window="new" url="http://visibleearth.nasa.gov/view_rec.php?id=7101">NASA Goddard Space Flight Center Image by Reto Stöckli. Courtesy of NASA's Earth Observatory</link></emphasis></caption>
+					</figure>
+        </para>
+        <para id="id1168379468794">Albedo does not explain everything, however. The Earth and the Moon both receive the same amount of insolation. Although the Moon is only slightly more reflective than the Earth, it is much colder. The average temperature on Earth is 15 <sup>o</sup>C, while the Moon's average temperature is -23 <sup>o</sup>C. Why the difference? A planet's energy balance is also regulated by its atmosphere. A thick atmosphere can act to trap the energy from sunlight, preventing it from escaping directly into space. Earth has an atmosphere while the Moon does not. If the Earth did not have an atmosphere, it would have an average temperature of -18 <sup>o</sup>C; slightly warmer than the Moon since it has a lower albedo. </para>
+        <para id="id1168366052067">How does the atmosphere trap the energy from the Sun? Shouldn't the Earth's atmosphere reflect as much incoming radiation as it traps? It is true the atmosphere reflects incoming solar radiation—in fact, only around half the insolation that strikes the top of the atmosphere reaches the Earth's surface. The reason an atmosphere generally acts to warm a planet is that the nature of light radiation changes as it reaches the planet's surface. Atmospheres trap more light than they reflect.</para><para id="id1168366052077">Humans see the Earth's atmosphere as largely transparent; that is, we can see a long way in air. This is because we see light in the <term target-id="id1168366286251">visible spectrum</term>, which is the light radiation in the range of wavelengths the human eye is able to perceive, and visible light is able to travel a long way through the Earth's atmosphere before it is absorbed. Light is also transmitted in wavelengths we can't see, such as in the <term target-id="id1168382343278">infrared spectrum</term>, which is sometimes referred to as infrared light, heat, or thermal radiation. Compared to visible light, infrared light cannot travel very far in the Earth's atmosphere before it is absorbed. Solar radiation striking the Earth is largely in the visible part of the spectrum. The surface of the Earth absorbs this energy and re-radiates it largely in the infrared part of the spectrum. This means that solar radiation enters the Earth in the form of visible light, unhindered, but tries to leave in the form of infrared light, which is trapped. Thicker atmospheres keep this infrared radiation trapped for longer, and so warm the Earth—just like an extra blanket makes you warmer in bed. </para>
+        <para id="id1168366316802">This effect is shown in Figure <link target-id="id1168365905665"><emphasis effect="bold">Earth Atmosphere Cartoon</emphasis></link>. The visible light radiation enters the atmosphere, and quickly exits as infrared radiation if there is no atmosphere (top Earth). With our atmosphere (the middle Earth), visible light enters unhindered but the infrared light is partially reflected back to the surface, increasing the amount of energy and thus the temperature at the Earth's surface. If the atmosphere is made thicker (bottom Earth) the infrared radiation is trapped for longer, further warming the planet's surface.</para>
+        <para id="id1168378448877"><figure id="id1168365905665" type="Figure"><media id="id1168365905665_media" alt="Earth Atmosphere Cartoon" longdesc="insert long description here">
+              <image mime-type="image/png" src="../../media/Picture10.png" id="id1168365905665__onlineimage" width="306" height="783"/>
+            </media>
+            
+					<caption><emphasis effect="bold">Earth Atmosphere Cartoon</emphasis> A cartoon of the greenhouse effect. (Top) Visible light radiation emitted by the sun (yellow arrows) strikes the Earth and reflects as infrared radiation (orange arrow); (middle) an atmosphere reflects some of the infrared radiation back toward the planet; (bottom) a thickened atmosphere reflects greater amounts of infrared radiation. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/tomkin" window="new">Jonathan H. Tomkin.</link></emphasis>
+            </caption></figure></para>
+        <para id="id1168378188358">The way the atmosphere acts to trap light radiation is referred to as the <term target-id="id1168368387810">greenhouse effect</term>, and the gases that prevent the thermal radiation from exiting the Earth system are described as <term target-id="id1168379838576">greenhouse gases</term>. The four most important greenhouse gases in the Earth's atmosphere are water vapor, carbon dioxide, methane, and ozone. All four are found naturally in the Earth's atmosphere. As we will discuss in Section 4.4, however, human activities are adding to the natural amount of carbon dioxide and methane, and even adding new greenhouse gases, such as chlorofluorocarbon (CFC). </para>
+      </section>
+      <section id="id1168379737178">
+        <title>Earth's Changing Atmosphere</title>
+        <para id="id1168379737184">The composition of Earth's atmosphere has changed over geologic time. The atmosphere has largely come from volcanic venting of gas from Earth's interior (see Figure <link target-id="id1168379737202"><emphasis effect="bold">Volcanic Outgassing</emphasis></link>), but biology has also made important changes by producing oxygen and removing carbon dioxide. Greenhouse gases currently make up only a small fraction of the Earth's atmosphere—99% of air consists of nitrogen and oxygen molecules.</para>
+        <figure id="id1168379737202" type="Figure">
+          <media id="id1168379737202_media" alt="Volcanic Outgassing" longdesc="insert long description here">
+            <image mime-type="image/jpg" src="../../media/Picture 12.jpg" id="id1168379737202__onlineimage" height="300" width="400"/>
+          </media>
+          <caption><emphasis effect="bold">Volcanic Outgassing</emphasis> The Mt. Bromo volcano in Indonesia emitting gas into the atmosphere. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Mahameru-volcano.jpeg">Jan-Pieter Nap, taken on July 11, 2004.</link></emphasis></caption>
+				</figure>
+        <para id="id1168366236910">While volcanoes can warm the Earth by adding carbon dioxide to the atmosphere, which produces a greenhouse effect, they can also cool the Earth by injecting ash and sulfur into the atmosphere. These additions raise the albedo of the atmosphere, allowing less sunlight to reach the surface of the Earth. The effect lasts until the particles settle out of the atmosphere, typically within a few years. Volcanic eruptions have impacted human societies throughout history; the Mt. Tambora eruption in 1815 cooled the Earth so much that snow fell during June in New England, and the more recent Mt. Pinatubo eruption in 1991 (see Figure <link target-id="id1168379737506"><emphasis effect="bold">Mt. Pinatubo Explosion</emphasis></link>) ejected so much sulfuric acid into the atmosphere that global temperatures were lowered by about 0.5 <sup>o</sup>C in the following year.</para>       
+        <figure id="id1168379737506" type="Figure">
+          <media id="id1168379737506_media" alt="Mt. Pinatubo Explosion" longdesc="insert long description here">
+            <image mime-type="image/jpg" src="../../media/Picture 11.jpg" id="id1168379737506__onlineimage" height="423" width="400"/>
+          </media>
+          <caption><emphasis effect="bold">Mt. Pinatubo Explosion</emphasis> The 1991 eruption of Mt. Pinatubo. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Pinatubo91eruption_clark_air_base.jpg">U.S. Geological Survey photograph, by Richard P. Hoblitt.</link></emphasis>
+          </caption>
+				</figure>
+        <para id="id1168379737537">Evidence from the geologic past indicates that similar events have caused mass extinctions wherein a significant fraction of all species on Earth were wiped out in a relatively short amount of time. Sustained outgassing from continuous volcanic eruptions is thought to have produced so much ash and aerosols that light sufficient to support photosynthesis in plants was unable to penetrate the atmosphere, causing the food chain to collapse. The ash particles produced by extended eruptions would also have increased the Earth's albedo, making conditions inhospitably cool for plants and animals adapted to a warmer environment.</para>
+        <para id="id1168382462448">Asteroid impacts can also cause the climate to suddenly cool. When large asteroids strike the Earth, ash is ejected into the atmosphere, which increases albedo in the same way as volcanic eruptions. Everyday clouds (made up of water droplets) both cool and warm the Earth. They can cool the Earth by increasing the planet's albedo, reflecting sunlight into space before it reaches the surface. Clouds can also warm the Earth, by reflecting infrared radiation emitted by the surface back towards the planet. Different types of clouds, and different conditions, determine which effect predominates. On a hot summer's day, for example, clouds cool us by shielding us from the sun's rays, but on a winter's night a layer of cloud can act as a warming blanket. </para>
+        <para id="id1168376648168">The composition of the Earth's atmosphere is not fixed; greenhouse gases can be added to and removed from the atmosphere over time. For example, carbon dioxide is added by volcanoes and the decay or burning of organic matter. It is removed by photosynthesis in plants, when it is dissolved in the oceans and when carbonate sediments (a type of rock) are produced. Over geologic time, these processes have significantly reduced the proportion of carbon dioxide in the atmosphere. Atmospheric carbon dioxide levels just prior to the industrial revolution are thought to have been only one twentieth of those of 500 million years ago. Natural processes also remove carbon dioxide added by human activity, but only very slowly. It is estimated that it would take the Earth around a thousand years to naturally remove most of the carbon dioxide released by the industrial consumption of fossil fuels up to the present.</para>
+        <para id="id1168379737566">Greenhouse gases other than carbon dioxide are shorter-lived: methane is removed from the atmosphere in around a decade, and chlorofluorocarbons break down within a century. Individual water molecules spend only a few days at a time in the atmosphere, but unlike the other greenhouse gases, the total amount of water vapor in the atmosphere remains constant. Water evaporated from the oceans replaces water lost by condensation and precipitation.</para>
+        <para id="id1168379737574">Changing the composition of the Earth's atmosphere also changes the climate. Do you remember the <link target-id="id1168379326666">Snowball Earth</link> — how increasing ice cover also increased the Earth's albedo, eventually covering the entire planet in ice and snow? Today's climate is temperate—so we must have escaped this frozen trap. But how? The leading hypothesis is that the composition of the Earth's atmosphere changed, with volcanoes slowly adding more and more carbon dioxide to it. Without access to the oceans, plants, or surface rocks, this carbon dioxide was not removed from the atmosphere and so continued to build up over millions of years. Eventually, the additional warming caused by the increase in greenhouse gases overcame the cooling caused by the snow's high albedo, and temperatures rose enough to melt the ice, freeing the Earth. </para>
+        <para id="id1168382344346">For most of Earth's history, carbon dioxide concentrations have been higher than they are today. As a consequence, past climates have often been very warm. During the late stage of the dinosaur era (the <term target-id="id1168379394160">Cretaceous</term>, a period that lasted between 65 and 145 million years ago), carbon dioxide levels were about 5 times higher than they are today, and the average global temperatures were more than 10 <sup>o</sup>C higher than today's. There were no large ice sheets, and dinosaur fossils from this period have been found as far north as Alaska. These animals would not survive the cold conditions found in the arctic today. Further south, fossil crocodiles from 60 million years ago have been found in North Dakota. The modern average winter temperature in North Dakota is around -10<sup> o</sup>C –but being cold-blooded, crocodiles are most at home when the air temperature is around 30<sup> o</sup>C! The climate was warmer in the past when the amount of carbon dioxide was higher.</para>
+      </section>
+      <section id="id1168376707869"><title>Review Questions</title><exercise id="id1168368426825">
+        <label>Question</label>
+          <problem id="oo-id1168379720194">
+            <para id="id1168365971379">The text describes how the high albedo of snow acts as a positive feedback—if the Earth is made cooler, the highly reflective snow can act to further cool the Earth. Today, part of the Earth is covered with snow and ice. Can you describe a mechanism by which warmer temperatures would also produce a positive feedback—this time heating the Earth further—through a similar albedo mechanism?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168378227143"><label>Question</label>
+          <problem id="oo-id1168379619754">
+            <para id="id1168376632400">Mars is colder than the Earth. Venus, on the other hand, is much hotter, with average surface temperatures of around 450<sup> o</sup>C. Venus is closer to the Sun than the Earth is, and so receives about twice as much solar radiation. Venus's atmosphere is also different than Earth's, as it is much thicker and mainly consists of carbon dioxide. Using the terms <term target-id="id1168366267355">insolation</term> and <term target-id="id1168379838576">greenhouse gases</term>, can you suggest reasons why Venus is so hot?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168379819499">
+        <label>Question</label>
+          <problem id="oo-id1168365883511">
+            <para id="id1168388944695">Oxygen makes up over 20% of Earth's atmosphere, while carbon dioxide makes up less than 0.04%. Oxygen is largely transparent to both visible and infrared light. Explain why carbon dioxide is a more important greenhouse gas in the Earth's atmosphere than oxygen, even though there is much more oxygen than carbon dioxide.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168366081048">
+        <label>Question</label>
+          <problem id="oo-id1168379720214">
+            <para id="id1168366081051"><emphasis effect="bold">Figure</emphasis> <link target-id="id1168378280065">Insolation</link> shows the insolation at the surface of the Earth. The Earth is spherical, so we would expect the values to be the same for places of the same latitude. But notice that this is not true – compare, for example, central Africa with the Atlantic Ocean at the same latitude. What feature of the atmosphere might explain this variation, and why?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1168379664943">
+        <title>Resources</title>
+        <para id="id1168378234440">The National Aeronautical and Space Administration (NASA) Earth Observatory website has an array of climate resources. For a more in-depth discussion of Earth's energy budget, go to <link url="http://earthobservatory.nasa.gov/Features/EnergyBalance/">http://earthobservatory.nasa.gov/Features/EnergyBalance/</link></para>
+        <para id="id1168365918994">Are you interested in finding more about the controversial Snowball Earth hypothesis? The National Science foundation and Harvard University have set up a website with more about the hypothesis and the evidence. Go to <link url="http://www.snowballearth.org/">http://www.snowballearth.org/</link></para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1168366268891">
+      <term>albedo</term>
+      <meaning id="oo-id1168376621979">A measure of how reflective a surface is. A perfectly black surface has an albedo of 0, while a perfectly white surface has an albedo of 1.
+      </meaning>
+    </definition>
+    <definition id="id1168366260637">
+      <term>climate</term>
+      <meaning id="oo-id1168382328737">The average of the weather.
+      </meaning>
+    </definition>
+    <definition id="id1168379394160">
+      <term>cretaceous period</term>
+      <meaning id="oo-id1168365934181">The period between 65 and 145 million years ago, which was the final period of Earth's history that included dinosaurs.
+      </meaning>
+    </definition>
+    <definition id="id1168368387810">
+      <term>greenhouse effect</term>
+      <meaning id="oo-id1168368571045">The process by which the atmosphere acts to trap heat, warming the climate.
+      </meaning>
+    </definition>
+    <definition id="id1168379838576">
+      <term>greenhouse gases</term>
+      <meaning id="oo-id1168366067887">Those gases in the atmosphere that warm the climate, most importantly, water vapor, carbon dioxide, methane, and ozone.
+      </meaning>
+    </definition>
+    <definition id="id1168382343278">
+      <term>infrared spectrum</term>
+      <meaning id="oo-id1168368424967">The light radiation just below the range of wavelengths visible to the human eye. Also referred to as thermal radiation.
+      </meaning>
+    </definition>
+    <definition id="id1168366267355">
+      <term>insolation</term>
+      <meaning id="oo-id1168382378118">The measure of the amount of solar radiation falling on a surface.
+      </meaning>
+    </definition>
+    <definition id="id1168366262995">
+      <term>positive feedback</term>
+      <meaning id="oo-id1168368419069">A runaway process which amplifies the effect of an initial change.
+      </meaning>
+    </definition>
+    <definition id="id1168379589102">
+      <term>snowball earth</term>
+      <meaning id="oo-id1168368563159">A condition in which the entire planet is covered in ice, last thought to have happened 650 million years ago.
+      </meaning>
+    </definition>
+    <definition id="id1168366323985">
+      <term>solar radiation</term>
+      <meaning id="oo-id1168376715513">The energy emitted by the sun in the form of light.
+      </meaning>
+    </definition>
+    <definition id="id1168366286251">
+      <term>visible spectrum</term>
+      <meaning id="oo-id1168379632728">The light radiation that is in the range of wavelengths that is visible to the human eye.
+      </meaning>
+    </definition>
+    <definition id="id1168382441315">
+      <term>weather</term>
+      <meaning id="oo-id1168376571944">A description of the short term state of the atmosphere.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

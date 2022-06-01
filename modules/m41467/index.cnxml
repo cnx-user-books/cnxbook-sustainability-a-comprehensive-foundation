@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Case Study: Gold: Worth its Weight?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41467</md:content-id>
+  <md:title>Case Study: Gold: Worth its Weight?</md:title>
+  <md:abstract>In this module, the the large environmental impact of gold mining is discussed.</md:abstract>
+  <md:uuid>0520e1b3-dbd9-426d-a5db-dae1c7d41900</md:uuid>
+</metadata>
+
+<content>
+      <para id="id3023252">Gold is a symbol of wealth, prestige, and royalty that has attracted and fascinated people for many thousands of years (see Figure <link target-id="id4309593"><emphasis effect="bold">Native Gold</emphasis></link>). Gold is considered by many to be the most desirable precious metal because it has been sought after for coins, jewelry, and other arts since long before the beginning of recorded history. Historically its value was used as a currency standard (the gold standard) although not anymore. Gold is very dense but also very malleable; a gram of gold can be hammered into a 1 m<sup>2</sup> sheet of gold leaf. Gold is extremely resistant to corrosion and chemical attack, making it almost indestructible. It is also very rare and costly to produce. Today the primary uses of gold are jewelry and the arts, electronics, and dentistry. The major use in electronics is gold plating of electrical contacts to provide a corrosion-resistant conductive layer on copper. Most gold is easily recycled except for gold plating due to combinations with other compounds such as cyanide. About half of the world’s gold ever produced has been produced since 1965 (see Figure <link target-id="id4672021"><emphasis effect="bold">World Gold Production</emphasis></link>). At the current consumption rate today’s gold reserves are expected to last only 20 more years.</para><figure id="id4309593" type="Figure">
+					<media id="id4309593_media" alt="photograph of native gold">
+            <image mime-type="image/jpg" src="../../media/graphics1-8ad2.jpg" id="id4309593__onlineimage" height="274" width="193"/>
+          </media>
+
+    <caption><emphasis effect="bold">Native Gold</emphasis> A collage of 2 photos, showing 3 pieces of native gold. The top piece is from the Washington mining district, California, and the bottom two are from Victoria, Australia. <emphasis effect="italics">Source: Aram Dulyan via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Native_gold_nuggets.jpg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+        <figure id="id4672021" type="Figure">
+					<media id="id4672021_media" alt="chart showing world gold production">
+            <image mime-type="image/png" src="../../media/graphics2-27c6.png" id="id4672021__onlineimage" height="422" width="650"/>
+          </media>
+        <caption><emphasis effect="bold">World Gold Production</emphasis> World gold production from 1900 to 2009 including annual (blue line) and cumulative data (gray line) <emphasis effect="italics">Source: Realterm via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Gold_world_production.png" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+      <para id="id4866817">There are two types of gold ore deposits: (1) <emphasis effect="italics">hydrothermal</emphasis>, where magma-heated groundwater dissolves gold from a large volume of rock and deposits it in rock fractures and (2) <emphasis effect="italics">placer</emphasis>, where rivers erode a gold ore deposit of hydrothermal origin and deposit the heavy gold grains at the bottom of river channels. Although gold’s resistance to chemical attack makes it extremely durable and reusable, that same property also makes gold difficult to extract from rock. As a result, some gold mining methods can have an enormous environmental impact. The first discovered gold ore was from placer deposits, which are relatively simple to mine. The method of extracting gold in a placer deposit involves density settling of gold grains in moving water, similar to how placer deposits form. Specific variations of placer mining include <term target-id="id2092536">hushing</term> (developed by the ancient Romans where a torrent of water is sent through a landscape via an aqueduct), <term target-id="id4970089">sluice box</term> (where running water passes through a wooden box with riffles on the bottom), <term target-id="id2405335">panning</term> (a hand-held conical metal pan where water swirls around) and hydraulic (where high pressure hoses cut into natural landscapes, see Figure <link target-id="id3068938"><emphasis effect="bold">Hydraulic Mining</emphasis></link>). <term target-id="id3481914">Hydraulic mining</term>, developed during the California Gold Rush in the middle 1800s, can destroy natural settings, accelerate soil erosion, and create sediment-rich rivers that later flood due to sediment infilling the channel. The largest gold ore body ever discovered is an ancient, lithified (i.e., hardened) placer deposit. Nearly half of the world’s gold ever mined has come from South Africa’s Witwatersrand deposits, which also have the world’s deepest underground mine at about 4,000 m. To increase the efficiency of gold panning, liquid mercury is added to gold pans because mercury can form an alloy with gold in a method called <term target-id="id4676368">mercury amalgamation</term>. The mercury-gold amalgam is then collected and heated to vaporize the mercury and concentrate the gold. Although mercury amalgamation is no longer used commercially, it is still used by amateur gold panners. Unfortunately, considerable mercury has been released to the environment with this method, which is problematic because mercury bioaccumulates and it is easily converted to methylmercury, which is highly toxic.</para>
+				<figure id="id3068938" type="Figure">
+					<media id="id3068938_media" alt="photograph of gold hydraulic mining"><image mime-type="image/jpg" src="../../media/graphics3-a901.jpg" id="id3068938__onlineimage" height="430" width="650"/></media><caption><emphasis effect="bold">Hydraulic Mining</emphasis> Gold hydraulic mining in New Zealand, 1880s <emphasis effect="italics">Source: James Ring via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Gold_sluicing,_Dillman_Town,_West_Coast,_188-%3F.jpg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+      <para id="id3925740">Today most gold mining is done by a method called <term target-id="id4142865">heap leaching</term>, where cyanide-rich water percolates through finely ground gold ore and dissolves the gold over a period of months; eventually the water is collected and treated to remove the gold. This process revolutionized gold mining because it allowed economic recovery of gold from very low-grade ore (down to 1 ppm) and even from gold ore tailings that previously were considered waste. On the other hand, heap leaching is controversial because of the toxic nature of cyanide. The world’s largest cyanide spill to date occurred at Baia Mare in northern Romania (see Figure <link target-id="id2271998"><emphasis effect="bold">Baia Mare</emphasis></link>). In January 2000 after a period of heavy rain and snowmelt, a dam surrounding a gold tailings pond collapsed and sent into the drainage basin of the Danube River 100,000 m<sup>3</sup> (100 million liters) of water with 500 - 1,000 ppm cyanide<footnote id="id5099515">The U.S. EPA allows no more than 0.2 ppm cyanide in drinking water.</footnote>, killing more than a thousand metric tons of fish (see Figure <link target-id="id5322310">B<emphasis effect="bold">aia Mare Cyanide Spill</emphasis></link>). Considering the large environmental impact of gold mining, this may take some of the glitter from gold.</para>
+        <figure id="id2271998" type="Figure">
+					<media id="id2271998_media" alt="map of Baia Mare">
+            <image mime-type="image/jpg" src="../../media/graphics4-2b72.jpg" id="id2271998__onlineimage" height="584" width="649"/>
+          </media>
+        <caption><emphasis effect="bold">Baia Mare</emphasis> Map of Tisza River drainage basin with pollution hot spots including Baia Mare, Romania, which is the location of a cyanide spill disaster in 2000 <emphasis effect="italics">Source: </emphasis><link url="http://www.grida.no/publications/et/ep3/page/2589.aspx" window="new"><emphasis effect="italics">United Nations Environment Program - GRID-Arendal</emphasis></link></caption></figure>
+        <figure id="id5322310" type="Figure">				
+					<media id="id5322310_media" alt="photograph of dead fish on the shores of Baia Mare">
+            <image mime-type="image/jpg" src="../../media/graphics5-966b.jpg" id="id5322310__onlineimage" height="252" width="329"/>
+          </media>
+        <caption><emphasis effect="bold">Baia Mare Cyanide Spill</emphasis> Dead fish from cyanide spill disaster Baia Mare, Romania, the location of a in 2000 <emphasis effect="italics">Source: </emphasis><link url="http://toxipedia.org/display/toxipedia/Baia+Mare+Cyanide+Spill;jsessionid=5F173E794FFED4E912DD437314468B20" window="new"><emphasis effect="italics">Toxipedia</emphasis></link></caption></figure>
+  </content>
+  <glossary>
+    <definition id="id4142865">
+      <term>Heap leaching</term>
+      <meaning id="oo-id2426187">Method of gold mining where cyanide-rich water percolates through finely ground gold ore and dissolves the gold over a period of months; eventually the water is collected and treated to remove the gold.
+      </meaning>
+    </definition>
+    <definition id="id2092536">
+      <term>Hushing</term>
+      <meaning id="oo-id2520141">Method of placer mining developed by the ancient Romans where a torrent of water is sent through a landscape via an aqueduct.
+      </meaning>
+    </definition>
+    <definition id="id3481914">
+      <term>Hydraulic mining</term>
+      <meaning id="oo-id3468707">Method of placer mining where high pressure hoses cut into natural landscapes.
+      </meaning>
+    </definition>
+    <definition id="id4676368">
+      <term>Mercury amalgamation</term>
+      <meaning id="oo-id5273502">Method of gold panning where liquid mercury is added to gold pans because mercury can form an alloy with gold.
+      </meaning>
+    </definition>
+    <definition id="id2405335">
+      <term>Panning</term>
+      <meaning id="oo-id5346778">Method of placer mining where water in a hand-held conical metal pan swirls around.
+      </meaning>
+    </definition>
+		<definition id="id4970089">
+      <term>Sluice box</term>
+      <meaning id="oo-id3074040">Method of placer mining where running water passes through a wooden box with riffles on the bottom.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

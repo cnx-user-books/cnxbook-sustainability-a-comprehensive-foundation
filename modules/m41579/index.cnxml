@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Modern Climate Change</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41579</md:content-id>
+  <md:title>Modern Climate Change</md:title>
+  <md:abstract>Recent climate change, which has occurred during the modern instrument era, is the focus of this module. It is through the lens of long-term climate change (occurring on thousands to millions of years) that we will view earth’s current climate and recent climate change. The goal is to investigate how the principles listed above are shaping current climate events</md:abstract>
+  <md:uuid>83609d3a-1666-4c35-8662-626518a4cc20</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1169751485634">
+        <title>Learning Objectives</title>
+        <para id="id2309310">After reading this module, students should be able to</para>
+        <list id="id1169776218242" list-type="bulleted">
+          <item>assess long-term global temperature records and place recent climate change into the context of historical temperature observations</item>
+          <item>explain how changes in the Sun's energy output have impacted the last 1300 years of global temperature records</item>
+          <item>analyze the human impact on the planetary albedo and relate these changes to recent climate change</item>
+          <item>predict the response of the global average temperature when large volcanic eruptions occur</item>
+          <item>explain the enhanced greenhouse effect</item>
+          <item>discuss how recent observations of change measured within regional ecosystems are related to global climate change</item>
+        </list>
+      </section>
+      <section id="id2325154">
+        <title>Introduction</title>
+        <para id="id1169761030275">In previous modules, an examination of the geologic record of the earth’s climate in the Quaternary Period revealed the primary drivers of climate change. The most important conclusions to be drawn from the Modules <link document="m38482"><emphasis effect="bold">Climate Processes; External and Internal Controls</emphasis></link> and <link document="m38572"><emphasis effect="bold">Milankovitch Cycles and the Climate of the Quaternary</emphasis></link> are the following:</para>
+        <list id="id1169761854583" list-type="enumerated" number-style="arabic">
+          <item>In the past, Earth has been significantly warmer (and mostly ice free) and significantly colder (especially during the so-called “Snowball Earth” eras) than it is today.</item>
+          <item>Climate change occurs when there are changes in insolation, albedo, and composition of the atmosphere.</item>
+          <item>Climate is the average of weather, and changes to the earth’s climate occur on long time scales.</item>
+        </list>
+        <para id="id2256942">Recent climate change, which has occurred during the modern instrument era, is the focus of this module. It is through the lens of long-term climate change (occurring on thousands to millions of years) that we will view earth’s current climate and recent climate change. The goal is to investigate how the principles listed above are shaping current climate events.</para>
+      </section>
+      <section id="id1169761857042">
+        <title>Mechanisms </title>
+        <section id="id2400535">
+          <title>Temperature Records</title>
+          <para id="id1169777311228">Figure <link target-id="id1169777232596"><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis></link> clearly shows that the current global average temperature reflects an interglacial warm period. If we focus in on the end of this record we can observe some of the fine scale changes in the global temperature records. Figure <link target-id="id1169777232596"><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis></link> combines proxy data (i.e., information from ice cores and tree rings) with the modern instrument record to create a graph showing the last 1300 years of Northern Hemisphere (hereafter, NH) temperatures. Each line on the top two panels represents a different temperature data set collected in the NH and the bottom panel color codes the percentage of overlap among these data sets.</para>
+          <para id="id1169752868148">
+            <figure id="id1169777232596"><media id="id1169777232596_media" alt="Temperature Records" longdesc="Panel (a) – Northern Hemisphere surface air temperature data from the modern instrument era from various sources. Panel (b) – Northern Hemisphere surface air temperature reconstruction dating back 1300 years from various sources. Panel (c) - Percent of overlap between the various sources of panel (b)">
+                <image mime-type="image/png" src="../../media/graphics1-8bae.png" id="id1169777232596__onlineimage" height="748" width="588" print-width="6in"/>
+              </media>
+            <caption><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis> Panel (a) – Northern Hemisphere surface air temperature data from the modern instrument era from various sources. Panel (b) – Northern Hemisphere surface air temperature reconstruction dating back 1300 years from various sources. Panel (c) - Percent of overlap between the various sources of Panel (b). <emphasis effect="italics">Source: </emphasis><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-6-10.html" window="new"><emphasis effect="italics">Climate Change 2007: The Physical Science Basis: Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169754413617">Major features in these data include the <term target-id="id1169759998173">Medieval Warm Period</term> approximately 1,000 years ago and the <term target-id="id1169756598671">Little Ice Age</term> approximately 400 years ago. Even with these events, the bottom panel shows that most of the variability in the NH temperature fits within a 0.5°C temperature range. Rarely has the temperature exceeded the 1961-1990 average, which is the dividing line on this graph. The only major fluctuation outside of this range is during the modern instrument era of the last 300 years, where confidence between the data sets is high. Beginning in the 1800s, the solid black line in each panel traces out approximately a 1°C increase in global temperatures. It is this increase that is the central focus in recent climate change science. Remember from the previous chapter that a 1°C change in the earth’s temperature is a large change; reduce the global average by 4°C to 6°C and much of the NH will be covered with ice as it was 20,000 years ago.</para>
+          <para id="id1976351">There has been much debate over recent climate change, especially in the news media and among political parties around the world. This debate is centered on the cause of the recent 1°C increase–is it a part of the natural variability in the climate system or have <term target-id="id1169766351684">anthropogenic</term>, which simply means human caused, influences played a major role? In a recent survey given to more than 3,000 college students at the University of Illinois at Urbana-Champaign, it was found the approximately two thirds of those surveyed agreed that recent climate change was due to reasons beyond natural variability in the climate system. (see Figure <link target-id="id2298817"><emphasis effect="bold">Recent Climate Change Student Responses</emphasis></link>) Approximately 20% reported that the climate change is due to natural changes and the remainder was undecided. Let’s investigate both sides of this argument!</para>
+          <para id="id1169761445978">
+            <figure id="id2298817"><media id="id2298817_media" alt="Recent Climate Change Student Reponses" longdesc="Survey results from 3,000+ college students at the University of Illinois at Urbana-Champaign when asked if climate was changing beyond natural variability.">
+                <image mime-type="image/png" src="../../media/graphics2-2fd0.png" id="id2298817__onlineimage" height="221" width="449"/>
+              </media>
+            <caption><emphasis effect="bold">Recent Climate Change Student Responses</emphasis> Survey results from 3,000+ college students at the University of Illinois at Urbana-Champaign when asked if climate was changing beyond natural variability. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/snodgrss" window="new">Snodgrass, E.</link></emphasis></caption></figure>
+          </para>
+          
+          <para id="id1169756476368">Recall from the Module <link document="m38572">Milankovitch Cycles and the Climate of the Quaternary</link> that global climate will change as a response to changes in insolation, albedo and the composition of the atmosphere. It was shown that the amount of energy entering the earth-atmosphere system from the sun varies less than 0.1% during the 11-year solar cycle in sunspot activity. Outside of this cycle, the amount of energy from the sun has increased 0.12 <term target-id="id1169753994406">Watts per square meter</term> (W/m<sup>2</sup>) since 1750. Is this enough excess energy to produce the 1°C increase in global temperatures that has been observed since the 1800s? As it turns out, the climate system needs nearly 8 times that amount of energy to warm by 1°C. This essentially eliminates fluctuations in solar output as the culprit for recent climate change.</para>
+          <para id="id8431100">Has the earth’s albedo changed since the 1800s? As we know from the Module <link document="m38482"><emphasis effect="bold">Climate Processes; External and Internal Controls</emphasis></link>, increases in the Earth’s albedo lead to global cooling and decreases lead to warming. The net effect of human existence on Earth is to brighten the surface and increase the global albedo. This change is primarily accomplished through intensive agriculture where forest, marshland, and open prairie are cut down and crops like soybeans, corn, wheat, cotton, and rice are grown in their place. Add this to the current high rates of deforestation in South America and Africa and the evidence is clear that mankind has increased the Earth’s albedo, which should have led to global cooling. (see Figure <link target-id="id1169761492876"><emphasis effect="bold">Deforestation in the Amazon (2010)</emphasis></link></para>
+          <para id="id1169750423630">
+            <figure id="id1169761492876"><media id="id1169761492876_media" alt="Deforestation in the Amazon (2010)" longdesc="Satellite image shows the extent of deforestation in the Amazon as of 2010">
+                <image mime-type="image/jpg" src="../../media/graphics3-7245.jpg" id="id1169761492876__onlineimage" height="383" width="574"/>
+              </media>
+            <caption><emphasis effect="bold">Deforestation in the Amazon (2010)</emphasis> Satellite image shows the extent of deforestation in the Amazon as of 2010. <emphasis effect="italics">Source: </emphasis><link url="http://earthobservatory.nasa.gov/Features/WorldOfChange/deforestation.php" window="new"><emphasis effect="italics">NASA Earth Observatory</emphasis></link><emphasis effect="italics"/></caption></figure>
+          </para>
+          
+          <para id="id1169763769716">Outside of human influence, planetary albedo can also be changed by major volcanic eruptions. When volcanoes erupt, they spew enormous amounts of soot, ash, dust, sulfur, and other aerosols into the atmosphere. During major eruptions, like that of Mt. Pinatubo in 1991, some particles of this debris find their way into the stratosphere, where they reside for a few years. (see Figure <link target-id="id1169763681458"><emphasis effect="bold">Mt. Pinatubo Erupting in 1991</emphasis></link>) The presence of these particles high in the earth’s atmosphere acts like a shield that prevents sunlight from penetrating through the lower atmosphere to warm the earth’s surface. Instead, the energy is either absorbed by the particles or reflected and scattered away. The net effect is that large volcanic eruptions can cool the planet for a few years by changing the earth’s albedo.</para>
+          <para id="id1169752378647"><figure id="id1169763681458"><media id="id1169763681458_media" alt="Mt. Pinatubo Erupting in 1991" longdesc="Photograph of Mt. Pinatubo erupting in the Philippines in 1991.">
+                <image mime-type="image/jpg" src="../../media/graphics4-3698.jpg" id="id1169763681458__onlineimage" height="399" width="599"/>
+              </media>
+            <caption><emphasis effect="bold">Mt. Pinatubo Erupting in 1991</emphasis> Photograph of Mt. Pinatubo erupting in the Philippines in 1991. <emphasis effect="italics">Source: </emphasis><link url="http://vulcan.wr.usgs.gov/Imgs/Jpg/Pinatubo/Images/Pinatubo91_eruption_plume_06-12-91.jpg" window="new"><emphasis effect="italics">USGS/Cascades Volcano Observatory</emphasis></link></caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169761445511">
+          <title>Observations of Solar Output and Volcanic Eruptions</title>
+          <para id="id1169769613152">At first glance the Figure <link target-id="id1169751529716"><emphasis effect="bold">Radiative Forcings &amp; Simulated Temperatures</emphasis></link> looks quite complicated, but let’s break this graph down to understand how changes in the sun’s output and volcanic eruptions have contributed to recent climate change. In the top panel (a), changes in the amount of energy, measured in W/m<sup>2</sup>, are graphed against time to show how volcanic eruptions have impacted the amount of energy the earth receives from the sun. Notice that around the year 1815, when Mt. Tambora erupted, there is a large downward spike in the plot. Now, examine the bottom panel, which shows the NH temperatures, just as Figure <link target-id="id1169777232596"><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis></link> displayed, and see how the temperatures in the years following 1815 took a sharp downward turn. This is a direct consequence of the changes in albedo caused by large volcanic eruptions. Next, look at the time period between 1000 and 1300 A.D., the so-called Medieval Warm Period. In panel (b), changes in solar output are graphed against time; notice that during the Medieval Warm Period, the amount of insolation was high compared to the average. The opposite occurred during the Little Ice Age which peaked around 400 years ago.</para>
+          <para id="id1169761325067">
+            <figure id="id1169751529716"><media id="id1169751529716_media" alt="Radiative Forcings and Simulated Temperatures During the Last 1.1 kyr" longdesc="Plot (a) - Radiative forcing due to volcanic eruptions over the last 1,300 years. Plot (b) - Radiative forcing due to fluctuations in solar irradiance over the last 1,300 years. Plot (c) - Radiative forcing due to all other forcing over the last 1,300 years. Plot (d) – Northern Hemisphere temperature reconstruction with overlap (shading) over the last 1,300 years">
+                <image mime-type="image/png" src="../../media/graphics5-11e9.png" id="id1169751529716__onlineimage" height="625" width="564" print-width="6in"/>
+              </media>
+            <caption><emphasis effect="bold">Radiative Forcings &amp; Simulated Temperatures</emphasis> Plot (a) - Radiative forcing due to volcanic eruptions over the last 1,300 years. Plot (b) - Radiative forcing due to fluctuations in solar irradiance over the last 1,300 years. Plot (c) - Radiative forcing due to all other forcing over the last 1,300 years. Plot (d) – Northern Hemisphere temperature reconstruction with overlap (shading) over the last 1,300 years. <emphasis effect="italics">Source: </emphasis><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch6s6-6-3.html" window="new"><emphasis effect="italics">Climate Change 2007: The Physical Science Basis: Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press</emphasis></link></caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169761041293">
+          <title>Alterations to the Natural Greenhouse Effect</title>
+          <para id="id2077381">We have ruled out the first two mechanisms (i.e., changes in albedo and insolation) as reasons for the recent increase in global temperatures. But when we look at panel (c) in Figure <link target-id="id1169751529716"><emphasis effect="bold">Radiative Forcings &amp; Simulated Temperatures</emphasis></link>, we notice that the “all other forcing” curves point to a rapid increase in the amount of energy retained by the earth-atmosphere system over the last 200 years. What is responsible for the increasing tail on this graph? Have humans altered the composition of the Earth’s atmosphere to make it more efficient at absorbing the infrared radiation that would have otherwise been lost to space? Is there proof of a human enhancement to the natural greenhouse effect? Can we explain the recent warming on an anthropogenic adjustment to the greenhouse gases like carbon dioxide (CO<sub>2</sub>)? Is an “enhanced greenhouse effect” to blame for the fact that the top ten warmest years since the modern era of instrument measurements have occurred since 1995, as seen in Figure <link target-id="id1169752528184"><emphasis effect="bold">Annual Global Temperature Anomalies</emphasis></link>.</para>
+          <para id="id1169755084159">
+            <figure id="id1169752528184"><media id="id1169752528184_media" alt="Annual Global Temperature Anomalies" longdesc="Graph shows the global average surface temperatures from 1880-2007">
+                <image mime-type="image/png" src="../../media/graphics6-3efa.png" id="id1169752528184__onlineimage" height="310" width="599"/>
+              </media>
+            <caption><emphasis effect="bold">Annual Global Temperature Anomalies</emphasis> Global average surface temperature from 1880 to 2007. <emphasis effect="italics">Source: </emphasis><link url="http://www.ncdc.noaa.gov/img/climate/research/2007/ann/global-jan-dec-error-bar-pg.gif" window="new"><emphasis effect="italics">National Climate Data Center</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169780457342">Long before the term “global warming” became a common household phrase, nineteenth-century Irish physicist John Tyndall said, “Remove for a single summer-night the aqueous vapor from the air which overspreads this country, and you would assuredly destroy every plant capable of being destroyed by a freezing temperature.” This now famous quote reveals the importance of greenhouse gases, like water vapor, in maintaining a balance between the incident solar radiation and the emitted terrestrial radiation. Tyndall understood that without greenhouse gases, water vapor being the most abundant, the earth’s temperature would be markedly cooler. The global average surface temperature is approximately 15°C (59°F) but if the greenhouse gases were removed, the average global temperature would plummet to -18°C (0°F). Remember that these gases make up a small fraction of the composition of the atmosphere! Therefore, adjustments to their concentration will produce dramatic effects.</para>
+          <para id="id8849574">To understand why these gases are so efficient at keeping the planet warm, let’s examine Figure <link target-id="id2527954"><emphasis effect="bold">Atmospheric Transmission</emphasis></link>. The top panel of this figure shows the normalized intensity of the radiation emitted by both the sun and earth as a function of wavelength. The middle panel shows the total atmospheric absorption spectrum and the bottom panel shows the individual gas absorption spectrum (excluding Nitrogen and Argon). Notice from the top panel that the sun’s peak energy emission falls within the visible portion of the spectrum and suffers very little atmospheric absorption (middle panel). The peak emission wavelength for the earth is in the thermal infrared (IR), and it is effectively absorbed by water vapor (H<sub>2</sub>0), carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and nitrous oxide (N0<sub>2</sub>). The primary purpose of this figure is to show that the gases in the earth’s atmosphere are transparent to the sun’s peak energy emission (visible light) but not the earth’s peak emission (thermal IR). It is through the absorption of the earth’s outgoing thermal infrared radiation that the global average temperature warms approximately 60°F over what it would be without greenhouse gases.</para>
+          <para id="id1169752866624">
+            <figure id="id2527954"><media id="id2527954_media" alt="Atmospheric Transmission" longdesc="Image shows three graphs. Top graph – normalized spectral intensity (radiant energy) emitted by the earth and sun as a function of wavelength. Middle graph – total atmospheric absorption as a function of wavelength. Bottom graph – individual gas absorption as a function of wavelength.">
+                <image mime-type="image/png" src="../../media/graphics7-c7a0.png" id="id2527954__onlineimage" height="451" width="447"/>
+              </media>
+            <caption><emphasis effect="bold">Atmospheric Transmission</emphasis> Top graph – normalized spectral intensity (radiant energy) emitted by the earth and sun as a function of wavelength. Middle graph – total atmospheric absorption as a function of wavelength. Bottom graph – individual gas absorption as a function of wavelength. <emphasis effect="italics">Source: </emphasis><link url="http://en.wikipedia.org/wiki/File:Atmospheric_Transmission.png" window="new"><emphasis effect="italics">R.A. Rohde for Global Warming Art Project</emphasis></link> </caption></figure>
+          </para>
+          
+          <para id="id1169764663720">Are humans altering the natural greenhouse effect? Based upon our assessment so far, this is the final mechanism by which the global climate can be changed. Let’s look into the alteration of the chemistry and composition of the earth’s atmosphere. First are humans increasing the amount of water vapor, the most abundant but also weakest greenhouse gas in the atmosphere? As the air temperature increases, the amount of water vapor the atmosphere can hold also increases. However, a closer investigation of the water cycle is needed to understand what will happen to this increase in water vapor. In this cycle, the amount of evaporation must equal the amount of condensation and thus precipitation on a global scale. This equilibrium must be achieved or else water would end up entirely in its liquid form or in its vapor form. Also due to the speed at which the <term target-id="id1169764271982">hydrological cycle</term> operates, a large increase in water vapor would be quickly precipitated out of the atmosphere.</para>
+          <para id="id1169761237476">Other greenhouse gases progress through their respective cycles much more slowly than water. There are vast amounts of carbon and carbon dioxide in the earth-atmosphere system. Most carbon is locked up in rocks, where it may remain for millions of years. The carbon dioxide that is mobile, however, is mostly found in other places: the ocean, soils, vegetation, fossil fuels like coal, oil, and natural gas, and also in small concentrations in the atmosphere. These reservoirs of CO<sub>2</sub> can exchange mass like oceans and clouds do in the water cycle, but with one extremely important difference–the exchange rate is much slower. That means the system can get out of balance and remain out of balance for a long time, hundreds or thousands of years. There are two primary mechanisms for sequestering carbon dioxide that is released into the atmosphere: it can be captured by the respiration of plants, or dissolved in the ocean.</para>
+          <para id="id1169760757490">However, the rate at which plants and oceans can take CO<sub>2</sub> out of the atmosphere is fixed. Therefore, if a surplus of CO<sub>2</sub> is added to the atmosphere, it will stay there for a long time. This has major implications, given the fact that CO<sub>2</sub> is a powerful greenhouse gas. The question then to ask becomes, “is this exchange rate out of balance?”</para>
+          <para id="id1169756767918">The current average concentration of CO<sub>2</sub> in the atmosphere is about 390 parts per million (PPM), which means there are 390 parts of CO<sub>2</sub> per million parts of air. That does not seem like very much, but if that small amount of carbon dioxide were removed from the air, the global average temperature would plummet. Has this concentration been changing? To answer the question, we will turn to the findings of Richard Keeling, whose life’s work was the observation of CO<sub>2</sub> concentrations at the Mauna Loa Observatory in Hawaii. Beginning in the early 1950s, observations of CO<sub>2</sub>, a <term target-id="id1169751251553">well-mixed gas</term> in our atmosphere, have shown a remarkable climb in concentration. (see Figure <link target-id="id1169764872276"><emphasis effect="bold">CO<sub>2</sub> Concentrations at the Mauna Loa Observatory</emphasis></link>) The “Keeling Curve,” as it is sometimes called, clearly shows that since the 1950s CO<sub>2</sub> concentrations have increased steadily from 315 ppm to 390 ppm. The zigzag nature of this graph is due to life cycle of plants in the NH. The NH has much more land area that the SH, so when spring and summer arrive in the NH, the abundance of new plant life reduces the CO<sub>2</sub> concentrations in the atmosphere. When the plants die or become dormant in the fall and winter, CO<sub>2</sub> concentrations spike again.</para>
+          <para id="id1169751130919">
+            <figure id="id1169764872276"><media id="id1169764872276_media" alt="CO2 concentrations at the Mauna Loa Observatory" longdesc="The ‘Keeling Curve’ of CO2 concentrations measured in Mauna Loa, Hawaii, since the 1950s.">
+                <image mime-type="image/png" src="../../media/graphics8-fbb9.png" id="id1169764872276__onlineimage" height="336" width="449"/>
+              </media>
+            <caption><emphasis effect="bold">CO<sub>2</sub> Concentrations at the Mauna Loa Observatory</emphasis> The “Keeling Curve” of CO<sub>2</sub> concentrations measured in Mauna Loa, Hawaii, since the 1950s. <emphasis effect="italics">Source: </emphasis><link url="http://earthobservatory.nasa.gov/images/imagerecords/5000/5620/maunaloa_2004.gif" window="new"><emphasis effect="italics">NASA Earth Observatory</emphasis></link></caption></figure>
+          </para>
+
+          
+          <para id="id1169769861859">What is troublesome about this figure is that the carbon cycle is out of its normal rhythm and a surplus of CO<sub>2</sub>, a known greenhouse gas, is building in the earth’s atmosphere. Where is this surplus coming from? To answer this question, let’s look at two historical records of CO<sub>2</sub> concentrations taken from ice core deposits. The top panel in Figure <link target-id="id1169752582218"><emphasis effect="bold">Changes in Greenhouse Gases from Ice Core and Modern Data</emphasis></link> shows the past 10,000 years of atmospheric CO<sub>2</sub> concentrations. Before 1750, the amount of CO<sub>2</sub> in the atmosphere was relatively steady at 280 ppm. Since 1750 there has been a dramatic increase in CO<sub>2</sub> concentrations.</para>
+          <para id="id1169784354161">
+            <figure id="id1169752582218"><media id="id1169752582218_media" alt="Changes in Greenhouse Gases from Ice Core and Modern Data" longdesc="Top panel shoes CO2 concentrations (ppm) over the last 10,000 years">
+                <image mime-type="image/png" src="../../media/graphics9-df41.png" id="id1169752582218__onlineimage" height="725" width="302" print-width="3.5in"/>
+              </media>
+            <caption><emphasis effect="bold">Changes in Greenhouse Gases from Ice Core and Modern Data</emphasis> Top panel shoes CO<sub>2</sub> concentrations (ppm) over the last 10,000 years. <emphasis effect="italics">Source: </emphasis><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-spm-1.html" window="new"><emphasis effect="italics">Climate Change 2007: The Physical Science Basis: </emphasis></link><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/figure-spm-1.html"><emphasis effect="italics">Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id2039069">If we look even further back in time, over the last half million years, we see a similar story. (see Figure <link target-id="id1169755474300"><emphasis effect="bold">Evidence of Climate Change</emphasis></link>) The current concentration of CO<sub>2</sub> in the earth’s atmosphere is higher than at any time in the past half million years. Where is this abundance of CO<sub>2</sub> coming from? Which reservoirs are being depleted of their CO<sub>2</sub> while the atmosphere takes on more? The answer lies in the burning of fossil fuels and in the deforestation of significant chunks of the earth’s forest biomes. Notice the spike in CO<sub>2</sub> concentrations beginning around 1750. This time period marks the beginning of the industrial revolution, when fossil fuels overtook wood as the primary energy source on our planet. Over the subsequent two and a half centuries, oil, coal, and natural gas have been extracted from their underground reservoirs and burned to generate electricity and power modern forms of transportation. The exhaust from this process is currently adding 30 billions of tons, or gigatons (Gt), of carbon dioxide to the atmosphere each year. Combine this addition of CO<sub>2</sub>, a known greenhouse gas, to the subtraction of one of the sinks of CO<sub>2</sub> through deforestation and the imbalance grows even further.</para>
+          <para id="id1169772091763">
+            <figure id="id1169755474300"><media id="id1169755474300_media" alt="Evidence of Climate Change" longdesc="Chart depicting CO2 concentrations over the last 400,000+ years">
+                <image mime-type="image/jpg" src="../../media/graphics10-94f9.jpg" id="id1169755474300__onlineimage" height="298" width="600"/>
+              </media>
+            <caption><emphasis effect="bold">Evidence of Climate Change</emphasis> CO<sub>2</sub> concentrations over the last 400,000+ years. <emphasis effect="italics">Source: </emphasis><link url="http://climate.nasa.gov/evidence/" window="new"><emphasis effect="italics">NASA/NOAA</emphasis></link><emphasis effect="italics"/></caption></figure>
+          </para>
+          
+          <para id="id1169761140521">What is the end result? By examining the earth’s climate, both current and past and by investigating the three ways in which climate can change, we have arrived at the conclusion that the current warming is being caused by an imbalance in the carbon cycle that has been induced by human activity, namely the burning of fossil fuels. The record warmth over the last 1,300 years is very likely to have been caused by human decisions that have lead to a change in the chemistry of the atmosphere, and which has altered the natural climate variability toward warmer global temperatures. We are essentially changing the climate faster and in a different direction than natural processes have intended.</para>
+        </section>
+      </section>
+      <section id="id1169751701448">
+        <title>Observed Effects of Climate Change</title>
+        <section id="id1169754439991">
+          <title>Cherry Blossoms</title>
+          <para id="id1169790088766">In Japan each spring millions of people celebrate the blossoming of the cherry trees to mark the arrival of warmer weather. These celebrations have a long and storied history, and records of the cherry blossom festivals date back more than a thousand years. In fact, the record of the timing of the cherry blossoms in Japan is the oldest for any flowering plant! Two scientists and historians. Richard Primack and Hiroyoshi Higuchi recently analyzed this record and found that beginning in the early 1800s the mean air temperature in March has slowly risen, similar to the increase shown in Figure <link target-id="id1169777232596"><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis></link>. During this same time period, the flowering date has slowly crept earlier in the season, and the trees are now flowering several days before they traditionally flowered. Although urbanization of Japan has lead to an increase in temperature, recent climate change is blamed for the earlier flowering of the Japanese cherry blossom tree. Primack and Higuchi show how Kyoto has warmed an average of 3.4°C over the last 170 years. Climate change has contributed 18% to this total warming in Japan and Primack and Higuchi demonstrate the correlation of this warming with the industrial revolution.</para>
+          <para id="id1169772054096">
+            <figure id="id1169757585719"><media id="id1169757585719_media" alt="Cherry Blossoms" longdesc="Photograph of cherry blossoms">
+                <image mime-type="image/jpg" src="../../media/graphics11-56a0.jpg" id="id1169757585719__onlineimage" height="375" width="500"/>
+              </media>
+            <caption><emphasis effect="bold">Cherry Blossoms</emphasis> Photograph of cherry blossoms. <emphasis effect="italics">Source: </emphasis><link url="http://commons.wikimedia.org/wiki/File:Yoshino_Sakura_Tidal_Basin_DC.jpg" window="new"><emphasis effect="italics">Uberlemur via Wikimedia Commons</emphasis></link></caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169751129640">
+          <title>Birds, Mosquitoes, and Fire Ants</title>
+          <para id="id1169780511904">A <link url="http://www.nature.com/nature/journal/v416/n6879/full/416389a.html" window="new">recent article</link> in the journal <emphasis effect="italics">Nature</emphasis> discussed the response of plants and animals to current climate change. Phenologists, scientists who study how the periodic life cycle events of animals and plants are affected by variations in climate over the course of seasons and years, are finding that many species of birds are breeding and singing earlier in the year. Migrant birds are arriving earlier, butterflies are appearing earlier and some amphibians are spawning weeks ahead of their historical schedule. In addition, mountain tree lines, which are controlled by air temperature, have been advancing to higher altitudes in Europe, and Arctic shrubs are now found in regions that were once too cold for their existence in Alaska. While ecological changes such as these may not be threatening from a human perspective, others are. For example, malaria-carrying mosquitoes in Africa are now being found at altitudes that were once too cold for them, and outbreaks of malaria are showing up in towns and villages once thought to be out of their reach. In parts of California and Australia, fire ants are migrating to regions that historically have been too cold to support them.</para>
+          <para id="id1169763334165">
+            <figure id="id1169773947706"><media id="id1169773947706_media" alt="photograph of Fire Ants" longdesc="Photograph of fire ants on a piece of wood">
+                <image mime-type="image/jpg" src="../../media/graphics12-ad38.jpg" id="id1169773947706__onlineimage" height="391" width="286"/>
+              </media>
+            <caption><emphasis effect="bold">Fire Ants</emphasis> Photograph of fire ants on a piece of wood. <emphasis effect="italics">Source: Scott Bauer of the Agricultural Research Service, U.S. Department of Agriculture via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Fire_ants02.jpg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+          </para>
+          
+          <figure id="id1169775309059"><media id="id1169775309059_media" alt="photograph of a Mosquito" longdesc="Photograph of a mosquito on skin.">
+              <image mime-type="image/jpg" src="../../media/graphics13-6e84.jpg" id="id1169775309059__onlineimage" height="260" width="375"/>
+            </media>
+          <caption><emphasis effect="bold">Mosquitos</emphasis> Photograph of a mosquito on skin. <emphasis effect="italics">Source: </emphasis><link url="http://www.cdc.gov/malaria/images/mosquitoes/freeborniwithlogo.jpg" window="new"><emphasis effect="italics">Centers for Disease Control and Prevention</emphasis></link></caption></figure>
+          
+        </section>
+        <section id="id1169770085422">
+          <title>Impacts of Change in the Arctic and the Antarctic</title>
+          <para id="id1169769376491">The Arctic and Antarctic are the regions experiencing the most rapid changes due to the recent warming of the earth’s atmosphere. These two regions on Earth are a part of the cryosphere, which is defined as the part of the Earth that is occupied by sea ice, lake ice, ice caps and <term target-id="id1169767688187">permafrost</term>. (For a comprehensive overview of the current state of the cryosphere and an excellent archive of data, please check out “<link url="http://arctic.atmos.uiuc.edu/cryosphere/" window="new">The Cryosphere Today</link>”) As explained in the Module <link document="m38572"><emphasis effect="bold">Milankovitch Cycles and the Climate of the Quaternary</emphasis></link>, these regions are most vulnerable due to the powerful ice-albedo effect. One amazing depiction of polar warming can be found in the drunken forests of Siberia. Larch and spruce trees there are often seen tilted over on their sides and growing at strange angles. Why? Because the once continually frozen soil, or permafrost, in which they are rooted has been melting in recent years. As the soil thaws it becomes more malleable and the trees begin to slant as the soil beneath them sinks. Farther north, Arctic sea ice has been decreasing both in extent and concentration. In 2007, the smallest extent of sea ice was measured since the 1970s, and the <term target-id="id1169761039222">Northwest Passage</term> opened for commerce and exploration. As the sea ice extent and concentration decreases, so does the habitat of polar bears. The sea ice is a vital part of their hunting grounds, and recent decreases of this ice have greatly reduced their access to certain prey. In addition to sea ice reductions, surface melt of the ice sheet on Greenland has increased in recent years, especially along its edges. This melt has lead to large pools and streams forming on top of this mile-thick sheet of ice. On the other side of the world, the Larsen B ice shelf in Antarctica recently collapsed, sending a large section of ice into the sea. This section of the Antarctic ice cap was roughly as large as the state of Rhode Island and it had been stably attached to the ice shelf for the past 12,000 years. Scientists are closely watching the Antarctic ice as nearly two-thirds of the world’s fresh water resides there. Finally, alpine glacier retreat has been observed on every continent. With few exceptions, these glaciers have been retracting heavily since the 1960s, and over that time period NASA reports a global loss of 8,000 cubic kilometers of ice, which represents a what percentage reduction?</para>
+          <figure id="id1169774950813"><media id="id1169774950813_media" alt="Drunken Forests of Siberia" longdesc=" photograph shows the drunken forest of Siberia">
+              <image mime-type="image/jpg" src="../../media/graphics14-78eb.jpg" id="id1169774950813__onlineimage" height="262" width="525"/>
+            </media>
+          <caption><emphasis effect="bold">Drunken Forests of Siberia</emphasis><emphasis effect="italics"> Source: </emphasis><link url="http://en.wikipedia.org/wiki/File:20070801_forest.jpg" window="new"><emphasis effect="italics">NASA Science blog</emphasis></link></caption></figure>
+          
+          <para id="id1169761037065">
+            <figure id="id1169763004714"><media id="id1169763004714_media" alt="graph of annual Sea Ice Extent in the Arctic" longdesc="graph shows the 2007 sea ice extent in the Arctic.">
+                <image mime-type="image/jpg" src="../../media/graphics15.jpg" id="id1169763004714__onlineimage" height="309" width="549"/>
+              </media>
+            <caption><emphasis effect="bold">2007 Sea Ice Extent in the Arctic</emphasis><emphasis effect="italics"> Source: </emphasis><link url="http://www.nasa.gov/centers/goddard/images/content/190555main_still_seaIce2007_0914.0730.jpg" window="new"><emphasis effect="italics">NASA Goddard Space Flight Center</emphasis></link></caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169768615500">
+          <title>The Oceans’ Response</title>
+          <para id="id1169774567685">Further dramatic changes brought on by recent warming have been observed by scientists concerned with the world’s oceans. Observations of the world’s coral reefs have revealed an alarming rate of coral bleaching (which is not caused by chlorine). As the oceans attempt to uptake the abundance of CO<sub>2</sub> and absorb nearly 80% of the heat added to the earth-atmosphere system from the enhanced greenhouse effect, the waters will inevitably warm. As these waters have warmed over the past 40 years, the delicate ecological balance within some of the world’s coral reefs has been upset leading to coral bleaching. Under warmer waters the rate at which the algae, which is an important part of the coral ecosystem, undergoes photosynthesis is too much for the coral to manage. As a result, the coral rids itself of the algae, which leads to an exposure of the white skeleton of the coral. Another consequence of warming oceans is an increase in sea level. Since 1880, sea level has risen 20 cm (8 inches). The rise in sea level is associated both with an increase in glacial melt water and in the thermal expansion of the seawater. An interesting consequence of this rise in sea level has been the disappearance of the long-disputed New Moore Island between Bangladesh and India. Both countries laid claim to the shallow, uninhabited island due to the speculation that oil reserves may lie beneath it, but in 2010, the sea swallowed it. Scientists at the School of Oceanographic Studies at Jadavpur University, <link url="http://en.wikipedia.org/wiki/Kolkatta" window="new">Kolkatta</link>, India suggest global warming played an important part.</para>
+          <para id="id1169752720076">
+            <figure id="id1169775818471"><media id="id1169775818471_media" alt="Coral Bleaching" longdesc="A part of coral that has experienced coral bleaching.">
+                <image mime-type="image/jpg" src="../../media/graphics16-31ae.jpg" id="id1169775818471__onlineimage" height="341" width="424"/>
+              </media>
+            <caption><emphasis effect="bold">Coral Bleaching</emphasis> A part of coral that has experienced coral bleaching. <emphasis effect="italics">Source: </emphasis><link url="http://www.noaa.gov/features/climate/images/fig2_bleach_fullsize.jpg" window="new"><emphasis effect="italics">NOAA</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169770205173">Finally, as the planet has adjusted to warmer temperatures the proliferation of drought conditions in some regions has dramatically affected human populations. The Sahel, for example, is a border region between the Sahara Desert in the north of Africa and the tropical rainforests that occupy the central part of the continent. (see Figure <link target-id="id1169760753040"><emphasis effect="bold">The Sahel in Africa</emphasis></link>) This region is experiencing desertification as the Sahara steadily expands southward. Since the 1970s, the amount of precipitation in this region has been steadily below normal. The combination of over irrigation and recent climate change has made the region uninhabitable and forced millions to relocate.</para>
+          <para id="id1169785792073">
+            <figure id="id1169760753040"><media id="id1169760753040_media" alt="Map of The Sahel in Africa" longdesc="Map of the African continent, with an outline of the Sahel.">
+                <image mime-type="image/jpg" src="../../media/graphics17-e2f0.jpg" id="id1169760753040__onlineimage" height="447" width="449"/>
+              </media>
+            <caption><emphasis effect="bold">The Sahel in Africa</emphasis> <emphasis effect="italics">Source: <link url="http://earthobservatory.nasa.gov/Features/Desertification/Images/africa_ndvi_200511.jpg" window="new">NASA Earth Observatory</link></emphasis></caption></figure>
+          </para>
+          
+          <figure id="id1169768215221"><media id="id1169768215221_media" alt="Graph of the Sahel Rainfall Index" longdesc="Graph of the Sahel Rainfall Index">
+              <image mime-type="image/png" src="../../media/graphics18-9dd9.png" id="id1169768215221__onlineimage" height="219" width="600"/>
+            </media>
+          <caption><emphasis effect="bold">The Sahel Rainfall Index</emphasis><emphasis effect="italics"> Source: </emphasis><link url="http://earthobservatory.nasa.gov/Features/Desertification/Images/sahel_rainfall_timeseries.gif" window="new"><emphasis effect="italics">NASA Earth Observatory</emphasis></link></caption></figure>
+          
+        </section>
+      </section>
+      <section id="id1169776244313">
+        <title>Review Questions</title>
+        <exercise id="id1169773432117">
+					<label>Question</label>
+          <problem id="oo-id1169752896466">
+            <para id="id1169768178902">In Figure <link target-id="id1169777232596"><emphasis effect="bold">Northern Hemisphere Surface Air</emphasis></link> the dividing line on the graph is the 1961-1990 average temperature. Explain the relevance of this line to the data presented in this figure.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169762312024">
+					<label>Question</label>
+          <problem id="oo-id1169782130097">
+            <para id="id1169787805187">Explain how deforestation can lead to both a warming effect and cooling effect for global temperatures.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169774467637">
+					<label>Question</label>
+          <problem id="oo-id1169751032798">
+            <para id="id1169785916168">In Figure <link target-id="id2527954"><emphasis effect="bold">Atmospheric Transmission</emphasis></link>, which gas is contributing the most to the absorption of ultra-violet light? If this gas were removed from the atmosphere, how might global temperatures respond?</para>
+          </problem>
+        </exercise>
+
+        <exercise id="id1169760054189">
+					<label>Question</label>
+          <problem id="oo-id2075115">
+            <para id="id1169774530191">If the surface of the Greenland Ice Sheet continues to melt, how will this impact the albedo of this region and what impact will this have on the air temperature there?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169782255280">
+					<label>Question</label>
+          <problem id="oo-id2230641">
+            <para id="id1169770088847">When sea ice melts, what happens to global sea level?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1169768405786">
+        <title>References</title>
+        <para id="id1169756126867">Walther, G. R., Post, E., Convey, P., Menzel, A., Parmesan, C., Beebee, T. J .C., et al. (2002, March 28). Ecological responses to recent climate change. <emphasis effect="italics">Nature</emphasis>, 416, 389-395. doi: 10.1038/416389a </para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1169766351684">
+      <term>anthropogenic</term>
+      <meaning id="oo-id1169768755254">Caused or produced by humans.
+      </meaning>
+    </definition>
+    <definition id="id1169764271982">
+      <term>hydrological cycle</term>
+      <meaning id="oo-id1169766484616">The continuous movement of water on, above and below the surface of the earth. This cycle is dominated by the global equilibrium in evaporation and condensation.
+      </meaning>
+    </definition>
+    <definition id="id1169756598671">
+      <term>little ice age</term>
+      <meaning id="oo-id1169785564118">A cool period in the NH, primarily in Europe from the sixteenth to the nineteenth century.
+      </meaning>
+    </definition>
+    <definition id="id1169759998173">
+      <term>medieval warm period</term>
+      <meaning id="oo-id1169750022082">A warm period in the NH during the tenth and eleventh centuries.
+      </meaning>
+    </definition>
+    <definition id="id1169761039222">
+      <term>northwest passage</term>
+      <meaning id="oo-id1169764227243">A sea route for commerce through the Arctic Ocean north of Canada.
+      </meaning>
+    </definition>
+    <definition id="id1169767688187">
+      <term>permafrost</term>
+      <meaning id="oo-id1169754966061">Soil that has a temperature that has remained below freezing (0°C or 32°F) for at least two years.
+      </meaning>
+    </definition>
+    <definition id="id1169785259260">
+      <term>radiative forcing</term>
+      <meaning id="oo-id1169773649158">Change in net irradiance (an energy flux) measured at some boundary. For this text the boundary is typically at the surface of the earth or the top of atmosphere. A positive change indicates warming and a negative change indicates cooling.
+      </meaning>
+    </definition>
+    <definition id="id1169753994406">
+      <term>watts per square meter (W/m<sup>2</sup>)</term>
+      <meaning id="oo-id2699427">Energy (Joules) per second moving through a surface (square meter). A flux of energy through a surface area.
+      </meaning>
+    </definition>
+    <definition id="id1169751251553">
+      <term>well-mixed gas</term>
+      <meaning id="oo-id1169768459956">A gas that can be found at the same concentration throughout the lower atmosphere regardless of location.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

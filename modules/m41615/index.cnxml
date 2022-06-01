@@ -1,0 +1,555 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Footprinting: Carbon, Ecological and Water</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41615</md:content-id>
+  <md:title>Footprinting: Carbon, Ecological and Water</md:title>
+  <md:abstract/>
+  <md:uuid>8331084c-645a-40c0-bd2b-c36d053ff890</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169300030982">
+      <title>Footprinting: Carbon, Ecological and Water</title>
+      <section id="id2372606">
+        <title>Learning Objectives</title>
+        <para id="id1169331779345">After reading this section, students should be able to</para>
+        <list id="id1169315597979" list-type="bulleted">
+          <item>understand what an environmental footprint is and its limitations</item>
+          <item>conduct some basic footprinting calculations</item>
+          <item>calculate and explain their own footprint</item>
+        </list>
+      </section>
+      <section id="id1169301432328">
+        <title>Basic Concepts of Footprinting</title>
+        <para id="id1169298262007">What is a common measure of the impact of an individual, institution, region or nation? This can be done by measuring the “footprint” of that entity. When discussing climate change and sustainability the concepts of carbon footprint and ecological footprint are often used. Understanding how these footprints are derived is important to the discourse as not all calculations are equal. These footprints can be calculated at the individual or household level, the institutional level (corporation, university, and agency), municipal level, sub-national, national or global. They are derived from the consumption of natural resources such as raw materials, fuel, water, and power expressed in quantities or economic value. The quantity consumed is translated into the footprint by using conversion factors generally based in scientific or economic values.</para>
+        <para id="id1169320982490">
+					<note id="carbonFootprint" type="Sidebar" display="block">
+						<title>What is Your Carbon Footprint?</title>
+							<para id="idCarbFootNote">There are many personal calculators available on the internet. Here are a few to try:</para>
+							<list id="CarbonFootprintList">
+								<item><link url="http://www.epa.gov/climatechange/emissions/ind_calculator.html" window="new">EPA Household Emissions Calculator</link></item>          
+								<item><link url="http://www.myfootprint.org/" window="new">Ecological Footprint</link></item>
+								<item><link url="http://files.earthday.net/footprint/index.html" window="new">Earth Day Network Footprint</link></item>
+								<item><link url="http://coolclimate.berkeley.edu/" window="new">Cool Climate Network (UC Berkeley)</link></item>          
+								<item><link url="http://www.carbonfootprint.com/" window="new">Carbon Footprint</link>	</item>
+							</list>
+					</note>
+				</para>
+
+
+        <para id="id1169297247694">This chapter will discuss three types of footprints – ecological, carbon and water – and the methodologies behind them. Although efforts have been made to standardize the calculations comparisons must be approached with caution. Comparing individual, institutional or national footprints that are calculated by the same method can be helpful in measuring change over time and understanding the factors that contribute to the differences in footprints.</para>
+      </section>
+      <section id="id1169295800249">
+        <title>Ecological Footprint</title>
+        <section id="id1169326929012">
+          <title>Concept</title>
+          <para id="id1169330335499">The <link url="http://www.merriam-webster.com/dictionary/footprint" window="new">Merriam-Webster Dictionary defines footprint</link> as:</para>
+          <list id="id1169302122305" list-type="enumerated" number-style="arabic">
+            <item>an impression of the foot on a surface;</item>
+            <item>the area on a surface covered by something</item>
+          </list>
+          <para id="id1169329541061">Similarly, the <term target-id="id1169308849231">ecological footprint</term> (EF) represents the area of land on earth that provides for resources consumed and that assimilates the waste produced by a given entity or region. It is a composite index (see Module <link document="m41616">Sustainability Metrics and Rating Systems</link>) that represents the amount of biologically productive land and water area required to support the demands of the population in that entity or region The EF is beneficial because it provides a single value (equal to land area required) that reflects resource use patterns (<link target-id="id1169302164872">Costanza, 2000</link>). The use of EF in combination with a social and economic impact assessment can provide a measure of sustainability’s <term target-id="id1169338853419">triple bottom line </term>(<link target-id="id1169304320983">Dawe, et al., 2004</link>). It can help find some of the “hidden” environmental costs of consumption that are not captured by techniques such as cost-benefit analysis and environmental impact (<link target-id="id1169324178415">Venetoulis, 2001</link>). Using the ecological footprint, an assessment can be made of from where the largest impact comes (<link target-id="id1169304570162">Flint, 2001</link>).</para>
+          <para id="id1169322553652">Next, we will discuss the how an EF is calculated.</para>
+        </section>
+        <section id="id1169330451397">
+          <title>Methodology</title>
+          <para id="id1169302986891">The ecological footprint methodology was developed by <link target-id="id1169301059097">William Rees and Mathis Wackernagel</link><link target-id="id1169301059097"> (1996)</link>, and consists of two methodologies:</para>
+          <list id="id1169327058270" list-type="enumerated" number-style="arabic"><item><link url="http://www.unesco.org/education/tlsf/mods/theme_b/popups/mod09t05s01.html">Compound calculation</link> is typically used for calculations involving large regions and nations and is shown in Figure <link target-id="id1169323899456">Compound Calculation Steps for Ecological Footprint Analysis</link>. First, it involves a consumption analysis of over 60 biotic resources including meat, dairy produce, fruit, vegetables, pulses, grains, tobacco, coffee, and wood products. That consumption is then divided by biotic productivity (global average) for the type of land (arable, pasture, forest, or sea areas) and the result represents the area needed to sustain that activity. The second part of the calculation includes energy generated and energy embodied in traded goods. This is expressed in the area of forested land needed to sequester CO<sub>2</sub> emissions from both types of energy. Finally, equivalence factors are used to weight the six ecological categories based on their productivity (arable, pasture, forest, sea, energy, built-up land). The results are reported as global hectares (gha) where each unit is equal to one hectare of biologically productive land based on the world's average productivity. We derive sub-national footprints based on apportioning the total national footprint between sub-national populations. The advantage of this method is that it captures many indirect of effects of consumption so the overall footprint is more accurate.</item>
+            <item><link url="http://www.footprintnetwork.org/en/index.php/GFN/page/glossary/#consumptioncomponents" window="new">Component-based calculation</link> resembles life-cycle analysis in that it examines individual products and services for their <term target-id="id1169295810154">cradle-to-grave</term> resource use and waste, and results in a factor for a certain unit or activity. The footprint is typically broken down into categories that include energy, transportation, water, materials and waste, built-up land, and food. This method is better for individuals or institutions since it accounts for specific consumption within that entity. However, it probably under-counts as not all activities and products could practically be measured or included. It also may double-count since there may be overlap between products and services.</item>
+          </list>
+          <para id="id1169323899456">
+            <figure id="id1169308209097"><media id="id1169308209097_media" alt="Compound Calculation Steps for Ecological Footprint Analysis" longdesc="Figure shows the compound calculation steps for ecological footprint analysis.">
+                <image mime-type="image/jpg" src="../../media/graphics1-cde6.jpg" id="id1169308209097__onlineimage" height="488" width="650"/>
+              </media>
+            <caption><emphasis effect="bold">Compound Calculation Steps for Ecological Footprint Analysis</emphasis> Figure shows the compound calculation steps for ecological footprint analysis. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb"><emphasis effect="italics">C. Klein-Banai</emphasis></link>. </caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169304128377">
+          <title>What the Results Show</title>
+          <para id="id1169322068341">When looking at the sub-national level, it is useful to be able to examine different activities that contribute to the footprint such as energy, transportation, water, waste, and food. In both types of calculations, there is a representation of the energy ecological footprint. We utilize conversion factors that account for direct land use for mining the energy source and the land required to sequester any carbon emitted during combustion, construction, or maintenance of the power source. It should be noted that no actual component-based calculations have been done for nuclear power. The practice has been to consider it the same as coal so as to account for it in some way. A discussion of the merits of this method can be found in <link target-id="id1169303052222">Wackernagel et al. (2005)</link>.</para>
+          <para id="id1169304674830">Transportation is another activity that can be examined at the sub-national level. The transportation footprint maybe considered part of the energy footprint, or separately, but is basically based on the energy consumption for transportation. It may also include some portion of the built-up land.</para>
+          <para id="id1169324655414">The hydroprint, or water-based footprint, measures the amount of water consumed in comparison to the amount of water in the land catchment system for the geographical area being footprinted. It can represent whether the entity is withdrawing more or less water than is naturally supplied to the area from rainfall.</para>
+          <para id="id5249246">The wasteprint, or waste-based footprint, is calculated using commonly used component-based factors that have been calculated and compiled in a number of publications and books. Food production requires energy to grow, process and transport, as well as land for growing and grazing. The factors are derived using the compound calculation for a certain geographical area. See <link document="m41605">Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</link> for an example of this kind of ecological footprint analysis. This kind of analysis can show us how a nation, region, organization, or individual uses the planets resources to support its operation or life style, as well as what activities are the primary contributors to the footprint. In the next section, we will look at some national footprints.</para>
+        </section>
+        <section id="id1169308337894">
+          <title>Ecological Footprint Comparisons</title>
+          <para id="id1169299938578">
+            <figure id="id1856219"><media id="id1856219_media" alt="Ecological Footprints of Select Nations" longdesc="Graph shows the ecological footprints of select nations. The bars show average EF in global hectares per person for each nation. Each color on the bar represents the different types of land.">
+                <image mime-type="image/jpg" src="../../media/graphics2-efaf.jpg" id="id1856219__onlineimage" height="403" width="585"/>
+              </media>
+            <caption><emphasis effect="bold">Ecological Footprints of Select Nations</emphasis> Graph shows the ecological footprints of select nations. The bars show average EF in global hectares per person for each nation. Each color on the bar represents the different types of land. <emphasis effect="italics">Source: </emphasis><link url="http://wwf.panda.org/about_our_earth/all_publications/living_planet_report/2010_lpr/" window="new"><emphasis effect="italics">© 2010 WWF (panda.org). Some rights reserved.</emphasis></link><link url="http://wwf.panda.org/about_our_earth/all_publications/living_planet_report/2010_lpr/" window="new"><emphasis effect="italics"> Living Planet Report, 2010</emphasis></link><emphasis effect="italics"> , figure under </emphasis><link url="http://creativecommons.org/licenses/by-sa/3.0/" window="new"><emphasis effect="italics">CC BY-SA 3.0 License</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169301056742">The <link url="http://wwf.panda.org/about_our_earth/all_publications/living_planet_report/2010_lpr/" window="new">Living Planet Report</link> prepared by the <link url="http://www.worldwildlife.org/home-full.html" window="new">World Wildlife Fund</link>, the <link url="http://www.zsl.org/science/" window="new">Institute of Zoology</link> in London, and Wackernagel’s <link url="http://www.footprintnetwork.org/en/index.php/GFN/page/glossary/" window="new">Global Footprint Network</link> reports on the footprints of various nations. Figure <link target-id="id1856219">Ecological Footprints of Select Nations</link> displays the footprint of several nations as shown in the report. The bars show average EF in global hectares per person for each nation. Each color on the bar represents the different types of land. Here we see that the United Arab Emirates has the largest footprint of 10.2 gha per person, with the majority of its footprint due to carbon (same as energy land described above). Whereas Latvia has the lowest footprint displayed at 6.0 gha per person, with the majority of its footprint due to forestland.</para>
+          <para id="id5607146">
+            <figure id="id1169303250992"><media id="id1169303250992_media" alt="United States’ Ecological Footprint" longdesc="Figure shows the United States’ Ecological Footprint compared to the global average.">
+                <image mime-type="image/jpg" src="../../media/graphics3-2e35.jpg" id="id1169303250992__onlineimage" height="319" width="383"/>
+              </media>
+            <caption><emphasis effect="bold">United States’ Ecological Footprint</emphasis> Figure shows the United States’ Ecological Footprint compared to the global average. <emphasis effect="italics">Source: </emphasis><link url="http://wwf.panda.org/about_our_earth/all_publications/living_planet_report/2010_lpr/" window="new"><emphasis effect="italics">© 2010 WWF (panda.org). Some rights reserved.</emphasis></link><link url="http://wwf.panda.org/about_our_earth/all_publications/living_planet_report/2010_lpr/" window="new"><emphasis effect="italics"> Living Planet Report, 2010</emphasis></link><emphasis effect="italics">, figure under </emphasis><link url="http://creativecommons.org/licenses/by-sa/3.0/" window="new"><emphasis effect="italics">CC BY-SA 3.0 License</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169303250992a">Figure <link target-id="id5607146">United States’ Ecological Footprint</link> shows the national footprint in 2007 of the United States as 7.99 gha per person both with a bar display and with specific metrics on the right that show the exact footprint and the United States’ ranking among all nations in the report (e.g. carbon is 5.57 gha and ranks 3<sup>rd</sup> largest overall). The bar to the left expresses the world average. The United States’ footprint of 7.99 gha stands in contrast to the earth's global biocapacity of 1.8 gha per person. Globally, the total population’s footprint was 18 billion gha, or 2.7 gha per person. However, the earth’s biocapacity was only 11.9 billion gha, or 1.8 gha per person. This represents an ecological demand of 50 percent more than the earth can manage. In other words, it would take 1.5 years for the Earth to regenerate the renewable resources that people used in 2007 and absorb CO<sub>2</sub> waste. Thus, earth’s population used the equivalent of 1.5 planets in 2007 to support their lives.</para>
+        </section>
+      </section>
+      <section id="id1169301284297">
+        <title>Carbon Footprint</title>
+        <para id="id1169295789152">Since climate change (see Chapter <link document="module3.1">Climate and Global Change</link>) is one of the major focuses of the sustainability movement, measurement of greenhouse gases or carbon footprint is a key metric when addressing this problem. A greenhouse gas emissions (GHG) inventory is a type of carbon footprint. Such an inventory evaluates the emissions generated from the direct and indirect activities of the entity as expressed in carbon dioxide equivalents (see below). Since you cannot manage what you cannot measure, GHG reductions cannot occur without establishing baseline metrics. There is increasing demand for regulatory and voluntary reporting of GHG emissions such as <link url="http://www.fedcenter.gov/Bookmarks/index.cfm?id=13641" window="new">Executive Order 13514</link>, requiring federal agencies to reduce GHG emissions, the <link url="http://www.epa.gov/climatechange/emissions/ghgrulemaking.html" window="new">EPA’s Mandatory GHG Reporting Rule</link> for industry, the <link url="http://www.sec.gov/rules/interp/2010/33-9106.pdf" window="new">Securities and Exchange Commission’s climate change disclosure guidance</link>, <link url="http://www.presidentsclimatecommitment.org/about/commitment" window="new">American College and University Presidents’ Climate Commitment</link> (ACUPCC) for universities, <link url="http://www.iclei.org/" window="new">ICLEI</link> for local governments, the California Climate Action Registry, and numerous corporate sustainability reporting initiatives.</para>
+        <section id="id1169299569559">
+          <title>Scoping the Inventory</title>
+          <para id="id1169304519087">The first step in measuring carbon footprints is conducting an inventory is to determine the scope of the inventory. The <link url="http://www.wbcsd.org/templates/TemplateWBCSD5/layout.asp?type=p&amp;MenuId=NjY&amp;doOpen=1&amp;ClickMenu=LeftMenu" window="new">World Business Council for Sustainable Development</link> (WBCSD) and the <link url="http://www.wri.org/" window="new">World Resource Institute</link> (WRI) defined a set of accounting standards that form the Greenhouse Gas Protocol (GHG Protocol). This protocol is the most widely used international accounting tool to understand, quantify, and manage greenhouse gas emissions. Almost every GHG standard and program in the world uses this framework as well as hundreds of GHG inventories prepared by individual companies and institutions. In North America, the most widely used protocol was developed by <link url="http://www.theclimateregistry.org/" window="new">The Climate Registry</link>.</para>
+          <para id="id1169300061521">The GHG Protocol also offers developing countries an internationally accepted management tool to help their businesses to compete in the global marketplace and their governments to make informed decisions about climate change. In general, tools are either sector-specific (e.g. aluminum, cement, etc.) or cross-sector tools for application to many different sectors (e.g. stationary combustion or mobile combustion).</para>
+          <para id="id1169303636103">
+            <figure id="id1169306596584"><media id="id1169306596584_media" alt="Scopes of a Greenhouse Gas Emissions Inventory" longdesc="Figure shows the three scopes of a greenhouse gas emissions inventory.">
+                <image mime-type="image/png" src="../../media/graphics4-9ce1.png" id="id1169306596584__onlineimage" height="323" width="650"/>
+              </media>
+            <caption><emphasis effect="bold">Scopes of a Greenhouse Gas Emissions Inventory</emphasis> Figure shows the three scopes of a greenhouse gas emissions inventory. <emphasis effect="italics">Source: </emphasis><link url="http://www.nzbcsd.org.nz/climatechange/Climate_Change_Guide.pdf" window="new"><emphasis effect="italics">New Zealand Business Council for Sustainable Development, The challenges of greenhouse gas emissions: The “why” and “how” of accounting and reporting for GHG emissions (2002, August), figure 3, p. 10</emphasis></link>.</caption></figure>
+          </para>
+          
+          <para id="id1169300406639">The WRI protocol addresses the scope by which reporting entities can set boundaries (see Figure <link target-id="id1169306596584">Scopes of a Greenhouse Gas Emissions Inventory</link>). These standards are based on the source of emissions in order to prevent counting emissions or credits twice. The three scopes are described below:</para>
+          <list id="id1169316467678" list-type="bulleted">
+            <item><emphasis effect="italics">Scope 1:</emphasis> Includes GHG emissions from direct sources owned or controlled by the institution – production of electricity, heat or steam, transportation or materials, products, waste, and fugitive emissions. Fugitive emissions are due to intentional or unintentional release of GHGs including leakage of refrigerants from air conditioning equipment and methane releases from farm animals.</item>
+            <item><emphasis effect="italics">Scope 2:</emphasis> Includes GHG emissions from imports (purchases) of electricity, heat or steam – generally those associated with the generation that energy.</item>
+            <item><emphasis effect="italics">Scope 3:</emphasis> Includes all other indirect sources of GHG emissions that may result from the activities of the institution but occur from sources owned or controlled by another company, such as business travel; outsourced activities and contracts; emissions from waste generated by the institution when the GHG emissions occur at a facility controlled by another company, e.g. methane emissions from landfilled waste; and the commuting habits of community members.</item>
+          </list>
+          <para id="id1169304304433">Depending on the purpose of the inventory the scope may vary. For instance, the EPA mandatory reporting requirements for large carbon dioxide sources require reporting of only Scope 1 emissions from stationary sources. However, many voluntary reporting systems require accounting for all three scopes, such as the ACUPCC reporting. Numerous calculator tools have been developed, some publicly available and some proprietary. For instance many universities use a tool called the <link url="http://www.cleanair-coolplanet.org/toolkit/inv-calculator.php" window="new">Campus Carbon Calculator</link> developed by <link url="http://www.cleanair-coolplanet.org/toolkit/inv-calculator.php" window="new">Clean Air-Cool Planet</link>, which is endorsed by the ACUPCC. Numerous northeastern universities collaborated to develop the Campus Carbon Calculator and the calculator has been used at more than 200 campuses in North America. It utilizes an electronic Microsoft Excel workbook that calculates estimated GHG emissions from the data collected.</para>
+        </section>
+        <section id="id1169305539354">
+          <title>Methodology</title>
+          <para id="id1169296691500">GHG emissions calculations are generally calculated for the time period of one year. Figure <link target-id="id1169300796052">Steps for Preparing a GHG Emissions Report</link> shows the steps for reporting GHG emissions. It is necessary to determine what the baseline year is for calculation. This is the year that is generally used to compare future increases or decreases in emissions, when setting a GHG reduction goal. The <link url="http://ec.europa.eu/clima/policies/brief/eu/index_en.htm" window="new">Kyoto Protocol</link> proposes accounting for greenhouse gas emissions from a baseline year of 1990. Sometimes calculations may be made for the current year or back to the earliest year that data is available.</para>
+          <para id="id1169300627929">
+            <figure id="id1169300796052"><media id="id1169300796052_media" alt="Steps for Preparing a GHG Emissions Report" longdesc="Figure shows the required steps to take when preparing a GHG emissions report.">
+                <image mime-type="image/jpg" src="../../media/graphics5-ab8b.jpg" id="id1169300796052__onlineimage" height="403" width="538"/>
+              </media>
+            <caption><emphasis effect="bold">Steps for Preparing a GHG Emissions Report</emphasis> Figure shows the required steps to take when preparing a GHG emissions report. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb"><emphasis effect="italics">C. Klein-Banai</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id5435289">Next, the institutional or geographic boundaries need to be defined. Also, the gases that are being reported should be defined. There are six greenhouse gases defined by the Kyoto Protocol. Some greenhouse gases, such as carbon dioxide, occur naturally and are emitted to the atmosphere through natural and <term target-id="id1169301058256">anthropogenic </term>processes. Other greenhouse gases (e.g. fluorinated gases) are created and emitted solely through human activities. The principal greenhouse gases that enter the atmosphere because of human activities are:</para>
+          <list id="id1169296805206" list-type="bulleted">
+            <item><link url="http://www.epa.gov/climatechange/emissions/co2.html" window="new">Carbon Dioxide (CO2)</link>: Carbon dioxide is released to the atmosphere through the combustion of fossil fuels (oil, natural gas, and coal), solid waste, trees and wood products, and also as a result of non-combustion reactions (e.g. manufacture of cement). Carbon dioxide is <term target-id="id1169322794119">sequestered </term>when plants absorb it as part of the biological carbon cycle.</item>
+            <item><link url="http://www.epa.gov/methane/sources.html" window="new">Methane (CH4)</link>: Methane is emitted during the production and transport of coal, natural gas, and oil. Methane emissions also come from farm animals and other agricultural practices and the degradation of organic waste in municipal solid waste landfills.</item>
+            <item><link url="http://www.epa.gov/nitrousoxide/sources.html" window="new">Nitrous Oxide (N2O)</link>: Nitrous oxide is emitted during agricultural and industrial activities, and combustion of fossil fuels and solid waste.</item>
+            <item><link url="http://www.epa.gov/highgwp/sources.html" window="new">Fluorinated Gases</link>: Hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride are synthetic, powerful greenhouse gases that are emitted from a variety of industrial processes. Fluorinated gases are sometimes used as substitutes for <link url="http://www.epa.gov/ozone/" window="new">ozone-depleting substances</link> (i.e. Chlorofluorocarbons (CFCs), hydrochlorofluorocarbon (HCFCs), and halons). CFCs and HCFCs are gases comprised of chloride, fluoride, hydrogen, and carbon. Halons are elemental gases that include chlorine, bromine, and fluorine. These gases are typically emitted in smaller quantities, but because they are potent greenhouse gases, they are sometimes referred to as High <term target-id="id1169299714227">Global Warming Potential</term> gases (“High GWP gases”).</item>
+          </list>
+          <para id="id1169296534344">Each gas, based on its atmospheric chemistry, captures different amounts of reflected heat thus contributing differently to the greenhouse effect, which is known as its global warming potential. Carbon dioxide, the least capture efficient of these gases, acts as the reference gas with a global warming potential of 1. Table <link target-id="id1169302938323">Global Warming Potentials</link> shows the global warming potential for the various GHGs.</para>
+          <table id="id1169302938323" summary="Global Warming Potentials" pgwide="1"><title>Global Warming Potentials</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+							<thead>
+                <row>
+                  <entry>Gas</entry>
+                  <entry>GWP</entry>
+                </row>
+							</thead>
+              <tbody>
+
+                <row>
+                  <entry>CO2 </entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>CH4 </entry>
+                  <entry>21</entry>
+                </row>
+                <row>
+                  <entry>N2O </entry>
+                  <entry>310</entry>
+                </row>
+                <row>
+                  <entry>HFC-23 </entry>
+                  <entry>11,700</entry>
+                </row>
+                <row>
+                  <entry>HFC-32 </entry>
+                  <entry>650</entry>
+                </row>
+                <row>
+                  <entry>HFC-125 </entry>
+                  <entry>2,800</entry>
+                </row>
+                <row>
+                  <entry>HFC-134a </entry>
+                  <entry>1,300</entry>
+                </row>
+                <row>
+                  <entry>HFC-143a </entry>
+                  <entry>3,800</entry>
+                </row>
+                <row>
+                  <entry>HFC-152a </entry>
+                  <entry>140</entry>
+                </row>
+                <row>
+                  <entry>HFC-227ea </entry>
+                  <entry>2,900</entry>
+                </row>
+                <row>
+                  <entry>HFC-236fa </entry>
+                  <entry>6,300</entry>
+                </row>
+                <row>
+                  <entry>HFC-4310mee </entry>
+                  <entry>1,300</entry>
+                </row>
+                <row>
+                  <entry>CF4 </entry>
+                  <entry>6,500</entry>
+                </row>
+                <row>
+                  <entry>C2F6 </entry>
+                  <entry>9,200</entry>
+                </row>
+                <row>
+                  <entry>C4F10 </entry>
+                  <entry>7,000</entry>
+                </row>
+                <row>
+                  <entry>C6F14 </entry>
+                  <entry>7,400</entry>
+                </row>
+                <row>
+                  <entry>SF6</entry>
+                  <entry>23,900</entry>
+                </row>
+              </tbody>
+            
+</tgroup><caption>            <emphasis effect="italics">Source: </emphasis>
+            <link url="http://cnx.org/member_profile/cindykb">
+              <emphasis effect="italics">C. Klein-Banai</emphasis>
+            </link>
+            <emphasis effect="italics"> created table using data from </emphasis>
+            <link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-2.html">
+              <emphasis effect="italics">Climate Change 2007: The Physical Science Basis: Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, section 2.10.2</emphasis>
+            </link></caption>
+</table>
+          
+          <para id="id1169305371372">GHG emissions cannot be easily measured since they come from both mobile and stationary sources. Therefore, emissions must be calculated. Emissions are usually calculated using the formula:</para>
+          <equation id="id1169300407500">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msub>
+                            <m:mi>F</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>g</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>E</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{A times F rSub { size 8{g} } =E} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </equation>
+          <para id="id1169299746374">where A is the quantification of an activity in units that can be combined with emission factor of greenhouse gas <emphasis effect="italics">g</emphasis> (F<emphasis effect="italics">g</emphasis>) to obtain the resulting emissions for that gas (E<emphasis effect="italics">g</emphasis>).</para>
+          <para id="id1169304593154">Examples of activity units include mmbtu (million British Thermal Units) of natural gas, gallons of heating oil, kilowatt hours of electricity, and miles traveled. Total GHG emissions can be expressed as the sum of the emissions for each gas multiplied by its global warming potential (GWP). GHG emissions are usually reported in metric tons of carbon dioxide equivalents (metric tons CO<sub>2</sub>-e):</para>
+          <equation id="id1169305182801">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>GHG</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mo stretchy="false">∑</m:mo>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>g</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>g</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mi>´</m:mi>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mtext>GWP</m:mtext>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>g</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ ital "GHG"= Sum rSub { size 8{g} }  {E rSub { size 8{g} } ´ ital "GWP" rSub { size 8{g} } } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </equation>
+          <para id="id1169299855546">E<emphasis effect="italics">g</emphasis> is usually estimated from the quantity of fuel burned using national and regional average emissions factors, such as those provided by the <link url="http://www.eia.doe.gov/environment/" window="new">US Department of Energy’s Energy Information Administration</link>.</para>
+          <para id="id1169327981998">Emission factors can be based on government documents and software from the <link url="http://www.dot.gov/" window="new">U.S. Department of Transportation</link>, the <link url="http://www.epa.gov/ozone/" window="new">U.S. Environmental Protection Agency (EPA)</link>, and the <link url="http://energy.gov/" window="new">U.S. Department of Energy</link>, or from specific characteristics of the fuel used – such as higher heating value and carbon content. Scope 3 emissions that are based on waste, materials, and commuting are more complex to calculate. Various calculators use different inputs to do this and the procedures are less standardized. See <link document="m41605">Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</link> for an example of these kinds of calculations.</para>
+          <para id="id1169296691253">Greenhouse gas emissions inventories are based on standardized practice and include the steps of scoping, calculating, and reporting. They are not based on actual measurements of emissions, rather on calculations based on consumption of greenhouse gas generating materials such as fossil fuels for provision of energy and transportation or emissions from waste disposal. They can be conducted for buildings, institutions, cities, regions, and nations.</para>
+        </section>
+        <section id="id1169296747258">
+          <title>Carbon Footprint Comparisons</title>
+          <para id="id1169327745109">Comparison of carbon footprints reveal interesting differences between countries, particularly when compared to their economic activity. <link url="http://web.worldbank.org/" window="new">The World Bank</link> tracks data on countries and regions throughout the world as part of their mission to “fight poverty…and to help people help themselves and their environment” (<link target-id="id1169299711511">World Bank, 2011</link>). Table <link target-id="id1169326080500">Gross Domestic Product (GDP) and Emissions for Select Regions, 2007</link> shows the results for GHG emissions and <term target-id="id1169297720860">gross domestic product</term> for various regions of the world. It is interesting to note that the United States’ emissions per capita (19.34 mt e-CO<sub>2</sub>) are more than four times the world average. The United States’ economy makes up one fourth of the world GDP.</para>
+          <table id="id1169326080500" summary="Table shows the GDP and emissions for select regions in 2007." pgwide="1"><title>Gross Domestic Product (GDP) and Emissions for Select Regions, 2007</title>
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+							<thead>
+                <row>
+                  <entry>Country Name</entry>
+                  <entry>CO2 emissions (metric ton)</entry>
+                  <entry>CO2 emissions (metric tons per capita)</entry>
+                  <entry>GDP (current US$ millions)</entry>
+                  <entry>GDP per capita (current US$)</entry>
+                </row>							
+							</thead>
+              <tbody>
+                <row>
+                  <entry>East Asia &amp; Pacific (all income levels)</entry>
+                  <entry>10,241,229</entry>
+                  <entry>4.76</entry>
+                  <entry>$11,872,148</entry>
+                  <entry>$5,514</entry>
+                </row>
+                <row>
+                  <entry>Europe &amp; Central Asia (all income levels)</entry>
+                  <entry>6,801,838</entry>
+                  <entry>7.72</entry>
+                  <entry>$20,309,468</entry>
+                  <entry>$23,057</entry>
+                </row>
+                <row>
+                  <entry>Latin America &amp; Caribbean (all income levels)</entry>
+                  <entry>1,622,809</entry>
+                  <entry>2.87</entry>
+                  <entry>$3,872,324</entry>
+                  <entry>$6,840</entry>
+                </row>
+                <row>
+                  <entry>Latin America &amp; Caribbean (developing only)</entry>
+                  <entry>1,538,059</entry>
+                  <entry>2.75</entry>
+                  <entry>$3,700,320</entry>
+                  <entry>$6,610</entry>
+                </row>
+                <row>
+                  <entry>Least developed countries: UN classification</entry>
+                  <entry>185,889</entry>
+                  <entry>0.23</entry>
+                  <entry>$442,336</entry>
+                  <entry>$553</entry>
+                </row>
+                <row>
+                  <entry>Middle East &amp; North Africa (all income levels)</entry>
+                  <entry>1,992,795</entry>
+                  <entry>5.49</entry>
+                  <entry>$1,924,470</entry>
+                  <entry>$5,304</entry>
+                </row>
+                <row>
+                  <entry>South Asia</entry>
+                  <entry>1,828,941</entry>
+                  <entry>1.20</entry>
+                  <entry>$1,508,635</entry>
+                  <entry>$991</entry>
+                </row>
+                <row>
+                  <entry>Sub-Saharan Africa (all income levels)</entry>
+                  <entry>684,359</entry>
+                  <entry>0.86</entry>
+                  <entry>$881,547</entry>
+                  <entry>$1,102</entry>
+                </row>
+                <row>
+                  <entry>United States</entry>
+                  <entry>5,832,194</entry>
+                  <entry>19.34</entry>
+                  <entry>$14,061,800</entry>
+                  <entry>$46,627</entry>
+                </row>
+                <row>
+                  <entry>World</entry>
+                  <entry>30,649,360</entry>
+                  <entry>4.63</entry>
+                  <entry>$55,853,288</entry>
+                  <entry>$8,436</entry>
+                </row>
+              </tbody>
+            
+</tgroup><caption>Table shows the GDP and emissions for select regions in 2007. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb"><emphasis effect="italics">C. Klein-Banai</emphasis></link><emphasis effect="italics"> created table using data from </emphasis><link url="http://data.worldbank.org/indicator?display=default" window="new"><emphasis effect="italics">The World Bank, "World Development Indicators"</emphasis></link> </caption>
+</table>
+          
+        </section>
+      </section>
+      <section id="id1169303116550">
+        <title>Water Footprint</title>
+        <para id="id1169296542808">The water footprint of production is the volume of freshwater used by people to produce goods, measured over the full supply chain, as well as the water used in households and industry, specified geographically and temporally. This is slightly different from the hydroprint described above which simply compares the consumption of water by a geographic entity to the water that falls within its watershed. If you look at the hydrologic cycle (see module <link document="m41397">Water Cycle and Fresh Water Supply</link>), water moves through the environment in various ways. The water footprint considers the source of the water as three components:</para>
+        <list id="id1169308339738" list-type="bulleted">
+          <item>Green water footprint: The volume of rainwater that evaporates during the production of goods; for agricultural products, this is the rainwater stored in soil that evaporates from crop fields.</item>
+          <item>Blue water footprint: The volume of freshwater withdrawn from surface or groundwater sources that is used by people and not returned; in agricultural products this is mainly accounted for by evaporation of irrigation water from fields, if freshwater is being drawn.</item>
+          <item>Grey water footprint: the volume of water required to dilute pollutants released in production processes to such an extent that the quality of the ambient water remains above agreed water quality standards.</item>
+        </list>
+        <para id="id1169296748003">The water footprint of an individual is based on the direct and indirect water use of a consumer. Direct water use is from consumption at home for drinking, washing, and watering. Indirect water use results from the freshwater that is used to produce goods and services purchased by the consumer. Similarly, the water footprint of a business or institution is calculated from the direct and indirect water consumption.</para>
+        <para id="id1169304415669">
+          <figure id="id1169296965130"><media id="id1169296965130_media" alt="Water Footprint of Production of Select Countries" longdesc="Graph shows the water footprint of production of select countries.">
+              <image mime-type="image/jpg" src="../../media/graphics6-92e6.jpg" id="id1169296965130__onlineimage" height="374" width="571"/>
+            </media>
+          <caption><emphasis effect="bold">Water Footprint of Production of Select Countries</emphasis> Graph shows the water footprint of production of select countries. <emphasis effect="italics">Source: </emphasis><link url="http://www.panda.org/lpr/gwater" window="new"><emphasis effect="italics">© 2010 WWF (panda.org). Some rights reserved.</emphasis></link><link url="http://www.panda.org/lpr/gwater" window="new"><emphasis effect="italics"> Living Planet Report, 2010</emphasis></link><emphasis effect="italics">, figure under </emphasis><link url="http://creativecommons.org/licenses/by-sa/3.0/" window="new"><emphasis effect="italics">CC BY-SA 3.0 License</emphasis></link></caption></figure>
+        </para>
+        
+        <para id="id1169336814832">Figure <link target-id="id1169296965130">Water Footprint of Production of Select Countries</link> shows the water footprint of production for several countries as a whole. In this report, due to lack of data, one unit of return flow is assumed to pollute one unit of freshwater. Given the negligible volume of water that evaporates during domestic and industrial processes, as opposed to agriculture, only the grey water footprint for households and industry was included. This figure does not account for imports and exports it is only based on the country in which the activities occurred not where they were consumed.</para>
+        <para id="id7319926">In contrast, the water footprint of a nation accounts for all the freshwater used to produce the goods and services consumed by the inhabitants of the country. Traditionally, water demand (i.e. total water withdrawal for the various sectors of economy) is used to demonstrate water demand for production within a nation. The internal water footprint is the volume of water used from domestic water resources; the external water footprint is the volume of water used in other countries to produce goods and services imported and consumed by the inhabitants of the country. The average water footprint for the United States was calculated to be 2480m<sup>3</sup>/cap/yr, while China has an average footprint of 700m<sup>3</sup>/cap/yr. The global average water footprint is 1240m<sup>3</sup>/cap/yr. As for ecological footprints there are several major factors that determine the water footprint of a country including the volume of consumption (related to the gross national income); consumption pattern (e.g. high versus low meat consumption); climate (growth conditions); and agricultural practice (water use efficiency) (<link target-id="id1169303763612">Hoekstra &amp; Chapagain, 2007</link>).</para>
+        <para id="id1169295811667">Using average water consumption for each stage of growth and processing of tea or coffee, the “virtual” water content of a cup can be calculated (Table <link target-id="id1169300391887">Virtual Water Content of a Cup of Tea or Coffee</link>). Much of the water used is from rainfall that might otherwise not be “utilized” to grow a crop and the revenue from the product contributes to the economy of that country. At the same time, the result is that many countries are “importing” water to support the products they consume.</para>
+        <table id="id1169300391887" summary="Table shows the virtual water content for a cup of tea or coffee" pgwide="1">
+					<title>Virtual Water Content of a Cup of Tea or Coffee</title>
+					<tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+						<thead>
+              <row>
+                <entry>Drink</entry>
+                <entry>Preparation</entry>
+                <entry>Virtual water content (l/cup)</entry>
+              </row>						
+						</thead>
+            <tbody>
+              <row>
+                <entry morerows="2">Coffee</entry>
+                <entry>Standard cup of coffee</entry>
+                <entry>140</entry>
+              </row>
+              <row>
+                <entry>Strong coffee</entry>
+                <entry>200</entry>
+              </row>
+              <row>
+                <entry>Instant coffee</entry>
+                <entry>80</entry>
+							</row>
+              <row>
+                <entry morerows="1">Tea</entry>
+                <entry>Standard cup of tea</entry>
+                <entry>34</entry>
+              </row>
+              <row>
+                <entry>Weak tea</entry>
+                <entry>17</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        <caption>Table shows the virtual water content for a cup of tea or coffee. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb"><emphasis effect="italics">C. Klein-Banai</emphasis></link><emphasis effect="italics"> created table using data from </emphasis><link target-id="id5815576"><emphasis effect="italics">Chapagain and Hoekstra (2007)</emphasis></link>. alt="Virtual Water Content of a Cup of Tea or Coffee" longdesc="Table shows the virtual water content for a cup of tea or coffee."</caption></table>
+        
+        <para id="id1169313866240">To learn more about other countries’ water footprints, visit this <link url="http://www.panda.org/lpr/gwater" window="new">interactive graph</link>. To calculate your own water footprint, visit the <link url="http://www.waterfootprint.org/" window="new">Water Footprint Calculator</link>.</para>
+        <para id="id1169303789680">The water footprint reveals that much more water is consumed to make a product than appears in using a simple calculation. It is not just the water content of the product but includes all water used in the process to make it and to manage the waste generated from that process.</para>
+      </section>
+      <section id="id1169303112651">
+        <title>Summary</title>
+        <para id="id1169336265577">Footprinting tools can be useful ways to present and compare environmental impact. They are useful because they can combine impacts from various activities into one measure. However, they have limitations. For instance, in a carbon footprint or greenhouse gas emissions inventory, many of the “conventional” environmental impacts such as hazardous waste, wastewater, water consumption, stormwater, and toxic emissions are not accounted for, nor are the impacts of resource consumption such as paper, food, and water generally measured. Perhaps most importantly, certain low-carbon fuel sources (e.g. nuclear power) that have other environmental impacts (e.g. nuclear waste) are neglected. Finally, the scope of the emissions inventory does not include upstream emissions from the manufacture or transport of energy or materials. This suggests that there is a need to go beyond just GHG emissions analyses when evaluating sustainability and include all forms of energy and their consequences.</para>
+        <para id="id1169308365148">The ecological footprint can be misleading when it is looked at in isolation, for instance with an urban area, the resources needed to support it will not be provided by the actual geographic area since food must be “imported” and carbon offset by natural growth that does not “fit” in a city. However, cities have many other efficiencies and advantages that are not recognized in an ecological footprint. When looked at on a national level it can represent the inequities that exist between countries.</para>
+        <para id="id1169300172268">It is interesting to contrast the water and ecological footprints, as well. The water footprint explicitly considers the actual location of the water use, whereas the ecological footprint does not consider the place of land use. Therefore it measures the volumes of water use at the various locations where the water is appropriated, while the ecological footprint is calculated based on a global average land requirement per consumption category. When the connection is made between place of consumption and locations of resource use, the consumer's responsibility for the impacts of production at distant locations is made evident.</para>
+      </section>
+      <section id="id1169300036064">
+        <title>Review Questions</title>
+        <exercise id="id1169304200973">
+					<label>Question</label>
+          <problem id="oo-id1169305361095">
+            <para id="id1169306761277">Choose a calculator from the box and calculate your own footprint. How does it compare to the national or global average? What can you do to reduce your footprint?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169297189099">
+					<label>Question</label>
+          <problem id="oo-id1169300955931">
+            <para id="id1169304477223">Discuss what kind of inequities the various footprints represent between nations and the types of inequities.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169306481179">
+					<label>Question</label>
+          <problem id="oo-id1169310541713">
+            <para id="id1169302051501">How might the “food print” of a vegetarian differ from a carnivore?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1169304029109">
+        <title>References</title>
+        <para id="id1169298052753">Chambers, N., Simmons, C. &amp; Wackernagel, M. (2000). <emphasis effect="italics">Sharing Nature’s Interest: Ecological Footprints as an Indicator of Sustainability</emphasis>. London: Earthscan Publications Ltd.</para>
+        <para id="id5815576">Chapagain, A.K. &amp; Hoekstra, A.Y. (2007). The water footprint of coffee and tea consumption in the Netherlands. <emphasis effect="italics">Ecological Economics, 64</emphasis>, 109-118.</para>
+        <para id="id1169302164872">Constanza, R. (2000). The dynamics of the ecological footprint concept. <emphasis effect="italics">Ecological Economics</emphasis><emphasis effect="italics">,</emphasis><emphasis effect="italics">32</emphasis>, 341-345.</para>
+        <para id="id1169304320983">Dawe, G.F.M., Vetter, A. &amp; Martin. S. (2004). An overview of ecological footprinting and other tools and their application to the development of sustainability process. <emphasis effect="italics">International Journal of Sustainability in Higher Education, 4</emphasis>, 340-371.</para>
+        <para id="id1169304570162">Flint, K. (2001). Institutional ecological footprint analysis: A case study of the University of Newcastle, Australia. <emphasis effect="italics">International Journal of Sustainability in Higher Education</emphasis>, <emphasis effect="italics">2</emphasis>, 48-62.</para>
+        <para id="id1169303763612">Hoekstra,Y. &amp; Chapagain, A. K. (2007). Water footprints of nations: Water use by people as a function of their consumption pattern. <emphasis effect="italics">Water Resour Manage, 21</emphasis>, 35-48.</para>
+        <para id="id1169301059097">Klein-Banai, C. (2007). Greenhouse gas inventory for the University of Illinois at Chicago. <emphasis effect="italics">UIC GHG Inventory</emphasis>,<emphasis effect="italics"/>Retrieved November 21, 2009 from <link url="http://www.uic.edu/sustainability/reports/Appendix%206%20GHGEmissionsFY2005-2006.pdf" window="new">http://www.uic.edu/sustainability/reports/Appendix%206%20GHGEmissionsFY2005-2006.pdf</link></para>
+        <para id="id1169303681751">Rees, W.E. and Wackernagal, M. (1996). Urban ecological footprints and why cities cannot be sustainable – and why they are a key to sustainability. <emphasis effect="italics">Environmental Impact Assessment Review, 16</emphasis>, 223-248.</para>
+        <para id="id1169324178415">Venetoulis, J. (2001). Assessing the ecological impact of a university: The ecological footprint for the University of Redlands. <emphasis effect="italics">International Journal of Sustainability in Higher Education, 2</emphasis>, 180-196.</para>
+        <para id="id1169303052222">Wackernagel, M., Monfreda, C., Moran, D., Wermer, P., Goldfinger, S., Deumling, D., &amp; Murray, M. (2005, May 25). National footprint and biocapacity accounts 2005: The underlying calculation method. <emphasis effect="italics">Global Footprint Network</emphasis>. Retrieved March 2, 2010 from <link url="http://www.footprintnetwork.org/download.php?id=5" window="new">http://www.footprintnetwork.org/download.php?id=5</link>. </para>
+        <para id="id1169299711511">World Bank (2011). About Us. Retrieved September 20, 2011 from <link url="http://go.worldbank.org/3QT2P1GNH0" window="new">http://go.worldbank.org/3QT2P1GNH0</link>. </para>
+      </section>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1169301058256">
+      <term>Anthropogenic </term>
+      <meaning id="oo-id3773437">Relating to or resulting from the influence that humans have on the natural world.
+      </meaning>
+    </definition>
+    <definition id="id1169295810154">
+      <term>Cradle-to-Grave</term>
+      <meaning id="oo-id1169302366158">From creation to disposal; throughout the life cycle.
+      </meaning>
+    </definition>
+    <definition id="id1169308849231">
+      <term>Ecological Footprint (EF)</term>
+      <meaning id="oo-id1169303423810">Represents the area of land on earth that provides for resources consumed and assimilates the waste produced by a given entity.
+      </meaning>
+    </definition>
+    <definition id="id1169299714227">
+      <term>Global Warming Potential (GWP)</term>
+      <meaning id="oo-id1169331213527">Each gas, based on its atmospheric chemistry, captures different amounts of reflected heat thus contributing differently to the greenhouse effect contributing to its GWP. Carbon dioxide, the least capture efficient of these gases, acts as the reference gas with a global warming potential of 1.<emphasis effect="bold"/></meaning>
+    </definition>
+    <definition id="id1169297720860">
+      <term>Gross Domestic Product</term>
+      <meaning id="oo-id1169335455989">The sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. 
+      </meaning>
+    </definition>
+    <definition id="id1169322794119">
+      <term>Sequestered</term>
+      <meaning id="oo-id1169325744776">Removed from the atmosphere
+      </meaning>
+    </definition>
+    <definition id="id1169338853419">
+      <term>Triple Bottom Line</term>
+      <meaning id="oo-id1169303754144">Accounting for ecological and social performance in addition to financial performance
+      </meaning>
+    </definition>
+  </glossary>
+</document>

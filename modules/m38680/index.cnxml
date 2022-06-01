@@ -1,0 +1,144 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Food Miles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38680</md:content-id>
+  <md:title>Food Miles</md:title>
+  <md:abstract>In this module, you will learn what food miles are and why they are used, you will compare the strengths and limitations of the use of food miles, and you will explore the implications of food miles in decision-making strategies.</md:abstract>
+  <md:uuid>705ccff8-15d9-46c7-bf63-bb0165cb4483</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1165420382725">
+        <title>Learning Objectives</title>
+        <para id="id1165421924831">After reading this module, students should be able to</para>
+        <list id="id1165421909359" list-type="bulleted">
+          <item>understand what food miles are and why they are used.</item>
+          <item>compare the strengths and limitations of the use of food miles.</item>
+          <item>explore the implications of food miles in decision-making strategies.</item>
+        </list>
+      </section>
+      <section id="id1165421691577">
+        <title>Introduction</title>
+        <para id="id1165421475023">Efforts to explore the impacts of the items on our dinner tables led to the broad concept of <term target-id="FoodMiles">food miles</term> (the distance food travels from production to consumption) as being a quick and convenient way to compare products. With increasing globalization, our plates have progressively included food items from other continents. Previously it would have been too expensive to transport these products. However, changes to agricultural practices, transportation infrastructure, and distribution methods now mean that people in the United States can start the day with coffee from Brazil, have a pasta lunch topped with Italian cheeses, snack on chocolate from Côte d'Ivoire, and end with a dinner of Mediterranean bluefin tuna and Thai rice. However, the globalization that has led to increased availability of these products comes with associated costs, such as the emission of greenhouse gases and other pollutants, increased traffic congestion, lack of support for local economies, less fresh food, and decreased <term target-id="FoodSecurity">food security</term>. Therefore, the concept of measuring food miles was meant to provide an easy comparison of the relative impacts of our food choices.</para>
+        <para id="id1165422016319">Many individuals, groups, and businesses today measure or calculate food miles. But, when Andrea Paxton, a U.K.-based environmental activist, coined the term in the 1990s the concept of food miles was intended to encompass more than simply a distance. The point was to broaden awareness that our food choices have consequences that are often not apparent. Consumers frequently do not know the histories behind their food purchases, and markets often cannot supply the information because of the many production processes and distribution methods used.</para>
+        <para id="id1165421295388">While the distance food travels does determine some of the environmental, social, and economic impacts, there can be other hidden consequences not so easily measured. Exploration of the utility of food miles in the general sense of knowing the impacts of our purchasing decisions has resulted in a broadening awareness of the complexity of globalization. Although consumers can use the easy-to-compare numbers representing food miles, that metric cannot reflect all of the impacts of food purchasing decisions.</para>
+      </section>
+      <section id="id1165419682111">
+        <title>Calculating Food Miles</title>
+        <para id="id1165420100619">In some cases it is easy to use food miles, such as comparing two watermelons grown using the same methods and both transported by truck to your store. However, many of our food products contain components with different origins. In that case, food miles are calculated as a weighted average to create a single number that takes into consideration the weight and distance of each item. For example, to calculate the food miles for a simple fruit salad that contains only apples, bananas, and honey, you need to know the distance that each ingredient traveled to reach your market and the relative amount of each product. Figure <link target-id="fig9.3.4.1"><emphasis effect="bold">Food Miles for Fruit Salad</emphasis></link> illustrates the food miles for this simple fruit salad.</para>
+        <figure id="fig9.3.4.1" type="Figure"><media id="id1165419816972_media" alt="Food Miles for Fruit Salad" longdesc="Illustration shows the various distances that the ingredients in a fruit salad travel to Illinois supermarkets.">
+            <image mime-type="image/jpg" src="../../media/graphics1-addb.jpg" id="id1165419816972__onlineimage" height="333" width="500"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Food Miles for Fruit Salad</emphasis> The various ingredients in this simple fruit salad travel different distances to Illinois' supermarkets. <emphasis effect="italics">Source. D. Ruez adapated from  <link url="http://commons.wikimedia.org/wiki/File:BLANK_in_North_America_%28-mini_map_-rivers%29.svg">TUBS</link>, <link url="http://commons.wikimedia.org/wiki/File:Med_u_sacu_karlovic1.jpg">akarlovic</link>, <link url="http://commons.wikimedia.org/wiki/File:Bananas_white_background.jpg">Fir0002</link>, and <link url="http://commons.wikimedia.org/wiki/File:Cortland_apples.jpg">Abrahami</link></emphasis>
+          </caption></figure>
+        <para id="id1165420210835">Most of our food from supermarkets is marked with a country or state of origin. That alone is usually enough to get an estimate of the distance, especially if the location can be narrowed down by finding out the part of the country or state that most commonly produces the product. If the fruit salad in Figure <link target-id="fig9.3.4.1"><emphasis effect="bold">Food Miles for Fruit Salad</emphasis></link> is being made in Chicago, Illinois, and the apples are from the state of Washington, the likely origin is in the center part of the state. The travel distance is approximately 2,000 miles (3,219 km). Bananas from Costa Rica traveled about 2,400 miles (3,862 km) to Chicago, and there are honey producers only 160 miles (257 km) from Chicago. A simple average of the miles the ingredients traveled would not take into account that the fruit salad probably would not contain equal amounts of the three items. If the recipe called for 2 pounds (.9 kg) of apples, 2 pounds (.9 kg) of bananas, and a ¼ pound (.1 kg) of honey, the miles would be weighted toward the distances traveled by the fruit: 2080 food miles per pound of fruit salad (or 3,347 km/kg of fruit salad).</para>
+      </section>
+      <section id="id1165419808291">
+        <title>Benefits</title>
+        <para id="id1165420888900">The benefits of using food miles in evaluating food choices match the three main categories that represent sustainability: environmental, social, and economic. All methods of transporting food over long distances, and most methods used to transport over short distances, involve fossil fuels. Burning of fossil fuels creates greenhouse gases, which contribute to climate change. Using fossil fuels also results in the emission of other gases and particulates that degrade air quality. Longer transportation distances intensify traffic congestion, resulting in lost productivity, and increase the need for more extensive infrastructure (such as more highways) that negatively impact the environment by increasing the amount of impervious cover and by requiring more natural resources. Increased roadways also encourage sprawl, leading to more inefficient development patterns. Finally, traffic congestion and air pollution from driving contribute to an estimated 900,000 fatalities per year worldwide.</para>
+        <para id="id1165420593055">Use of food miles is often tied to <term target-id="Locavore">locavore</term> movements, which emphasizes consumption of locally-grown food products. Local food is usually fresher, with harvesting waiting until produce is ripe, and has less processing and fewer preservatives. Many people think locally-grown food tastes better, but others chose to be a locavore because it strengthens local cultural identity or because the safety of the food is being controlled by people who also consume the products themselves. Eating local foods also promotes food security because availability and price of imported foods is more dependent on fluctuating fuel costs and sociopolitical conflicts elsewhere.</para>
+        <para id="id1165421274360">The production of food in developing countries, and the subsequent exporting of those products, has several types of impacts. The environmental burden of soil degradation, water depletion, and others, are imposed on developing countries, while more prosperous countries enjoy the benefits. This can be especially problematic because some developing countries do not have the policies to require, or the resources to implement, more environmentally-friendly food production practices. In particular, the low prices paid to food producers in developing countries do not include sufficient funds, or requirements, for practices to preserve or restore ecosystem quality. Moreover, developing countries disproportionately suffer malnutrition, yet the success of large-scale transport of food encourages cultivation of products to be exported instead of planting nutritious foods to be self-sustaining.</para>
+        <para id="id1165421450159">Some businesses are embracing the basic concepts of food miles because transporting food over shorter distances uses less fuel, and is therefore cheaper. Additionally, food that covers longer distances usually requires more packaging, which adds to the cost. By focusing on local foods, local economies are supported. This has led to clearer labeling of food products, giving consumers the ability to make more informed decisions about their purchases.</para>
+      </section>
+      <section id="id1165423119868">
+        <title>Criticism</title>
+        <para id="id1165422295249">Although the concept of food miles is useful, it has been heavily criticized for being too simplistic. For example, all miles are not created equally. The consumption of fuel varies by the mode of transportation and the amount being moved. If you compare the consumption required to move one pound of a product, ocean freighters are the most efficient of the common methods, followed by trains, trucks, and finally planes. When a combination of transportation methods is used, making a comparison with food miles becomes even more complex. This is especially a problem because most of us drive a personal vehicle to get our groceries. That means that it may be more efficient (from a total fuel consumption perspective) to drive 1 mile (1.6 km) to a local supermarket who imports beef from Australia, than to drive 40 miles (64 km) to visit a market selling locally-produced beef.</para>
+        <para id="id1165423102574">Food miles also do not take into consideration the variables of production before the products are transported. Growing outdoors requires different amounts of energy input than greenhouses. A commonly cited example is that of tomatoes; heating greenhouses to grow tomatoes in the United Kingdom consumes much more energy than growing tomatoes in warm Spain and importing them. Use of chemical fertilizers and pesticides affect environmental quality and production levels differently than organic farming. Because soil quality varies, locally-grown foods, in some cases, require more of the chemical additives. Some areas may have newer equipment, better climate, increased access to water, or other factors that determine the overall efficiency of food production. Growing rice in deserts or oranges in the Arctic would have more environmental impacts than the transportation of those products from locales where they can be grown more efficiently (from both an environmental and economic perspective). Understanding these production variables is critical because several recent studies have suggested that as much as 80% of greenhouse-gas generation from food consumption comes from the production phase. See <link target-id="secReferences">References</link> for further reading.</para>
+        <para id="id1165419495654">There are also benefits to globalization and increased transport of food. There is now more widespread access to a broader range of food products. This can lead to increased appreciation for other cultures and greater international cooperation. Long-distance transport of food products can also provide jobs to developing nations by giving them access to larger, more prosperous markets internationally. Jobs and economic incentives from food production are some of the few widespread opportunities for developing countries, and these may lead to growth in other economic areas.</para>
+        <para id="id1165423424466">Criticism of the use of food miles can be unfairly disapproving of products that travel long distances. However, simple calculations of food miles have also been said to underrepresent the importance of travel distances. Most food is transported with some packaging, and that packaging also requires energy input for its production and transport. Because products that move shorter distances usually have less packaging, the difference in calculated food miles may underestimate the actual environmental impact. Local foods also require less energy and resource consumption because of reduced need for transportation infrastructure, chemical additives and preservatives, and refrigeration.</para>
+        <para id="id1165421518231">The impacts during the production phase also vary between types of foods, which can also result in underestimates of the impacts. Production of meats, especially red meats, requires large amounts of land to generate the crops needed for animal feed. Because not all energy is passed from feed to the animal, using meats for our food is inefficient from an energy perspective. It takes over 8 pounds of grain to feed a cow enough to generate 1 pound of weight gain. That grain must be grown on land that can long longer produce food directly for human consumption. The amount of land required to produce animal feed is known as <term target-id="GhostAcres">ghost acres</term>. Ghost acres also extend to the areas required to provide the fuel, water, and other resources needed for animal feed, and for the overall support of animals<footnote id="id1165421162946">In other environmental contexts, ghost acres refer more broadly to all land areas being used indirectly to support human activity and areas not usable due to other human influences</footnote>. While some other meats such as pork, poultry, and especially fish, use proportionally less feed, there are other concerns about the environmental impacts of diets with large amounts of meat.</para>
+        <para id="id1165421183542"><term target-id="CAFO">Confined animal feeding operations (CAFOs)</term>, high-density animal farms, have become the primary source of livestock for meat in the U.S., Europe, and many other countries. The technological innovations employed in these operations have increased the speed and volume of meat production, but have raised health concerns. Antibiotics and hormones used increasingly on animals in CAFOs may be passed on to humans during consumption, even though there is currently no way of knowing a safe level of those substances in our diets. The overuse of antibiotics in CAFOs also results in antibiotic-resistant pathogens. In addition to the impacts from the ghost acres, there are other ecological impacts such as pollution from massive amounts of concentrated manure. Although the distance meat is transported has an environmental impact, the other concerns are more significant. </para>
+        <figure id="fig9.4.3.2" type="Figure"><media id="id1165419262313_media" alt="Confined Animal Feeling Operations (CAFOs)" longdesc="Photograph shows an example of a CAFO with multiple cattle eating in a small, confined space.">
+            <image mime-type="image/png" src="../../media/graphics2-c662.png" id="id1165419262313__onlineimage" height="466" width="650"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Confined Animal Feeding Operations (CAFOs)</emphasis>This image shows a CAFO for cattle. CAFOs have raised health concerns for human consumption of the meat produced in them. <emphasis effect="italics">Source: <link url="http://www.flickr.com/photos/48722974@N07/5249420021/in/photostream/">eutrophication&amp;hypoxia</link></emphasis></caption></figure>
+      </section>
+      <section id="id1165420202108">
+        <title>Implementation</title>
+        <para id="id1165419312731">The ongoing investigations of food miles have affected businesses, groups, and individuals in various ways. As mentioned above, paying closer attention to the distance food travels can be a good business strategy because fuel costs money. Centralization of processing and distribution centers in the United States has resulted in a relative frequent occurrence of shipping produce thousands of miles only to end up in supermarkets back near its origin. In many cases the initial savings from building fewer centralized facilities is exceeded in the long-term by the continual shipping costs. As a result, some retailers are encouraging outside scrutiny of their habits, because it can result in increased profits. At the other extreme, the rise in food miles in some cases is driven entirely by money. Fish caught offshore Norway and the United Kingdom, for example, is sent to China for cheaper processing before being returned to European markets.</para>
+        <para id="id1165421259896">An awareness of the impact of food miles has led to many groups advocating local foods. Local farmers' markets have appeared and expanded around the United States and elsewhere, providing increased access to fresh foods. <term target-id="CSA">Community-supported agriculture</term> programs create share-holders out of consumers, making them more personally invested in the success of local economies, while farmers gain some financial security. Campaigns by community groups are influencing retailers and restaurants by scrutinizing the food-purchasing decisions. The reciprocal is also true as retailers and restaurants advertise their sustainability efforts. See <link target-id="secResources">Resources</link> for examples of local farmers' markets in Illinois.</para>
+        <figure id="fig9.3.4.3" type="Figure"><media id="id1165420802604_media" alt="Illinois Farmer's Market" longdesc="Photograph shows colorful produce from a farmer's market in Illinois">
+            <image mime-type="image/png" src="../../media/graphics3-e161.png" id="id1165420802604__onlineimage" height="432" width="650"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Illinois Farmer's Market</emphasis> Colorful produce at an Illinois farmer's market. <emphasis effect="italics">Source: <link url="http://www.flickr.com/photos/24730945@N03/5025234118/">Maycomb Paynes</link></emphasis>
+          </caption></figure>
+        <para id="id1165420338900">Yet, there are challenges to the implementation of food miles as a concept. Suppliers, such as individual farmers, might opt for the reliable annual purchase from a mass-distributor. Consumers might make decisions solely on the sticker price, not knowing the other impacts, or consumers might know the impacts but choose the immediate economic incentive. Some of these challenges can be addressed by education. This can include efforts such as eco-labeling – labels, often by third parties, that independently attest to the environmental claims of products. This can influence some consumers, but larger buyers like school systems and restaurant chains may require other incentives to change purchasing practices. The source of these incentives, or alternatively, regulations, might come from government agencies, especially those with desires to support local economies. However, there is no consensus regarding who should be evaluating and monitoring food miles.</para>
+      </section>
+      <section id="id1165422265500">
+        <title>Summary</title>
+        <para id="id1165421993490">The criticisms of food miles are valid, and work is continually being done incorporate the many factors that more completely show the environmental impacts of transporting food. This can be a time consuming process, and the many variables are usually not readily available to consumers. A frozen pizza might contain many types of ingredients from various areas that are transported to individual processing plants before being assembled in another location and forwarded to distribution centers before being shipped to stores. Even if this process is eventually simplified, eating decisions should not be made solely on the basis of food miles, which cannot account for the variations in transportation and production methods or the social and economic impacts.</para>
+        <para id="id1165421116146">This does not mean that food miles are never a useful tool. When comparing similar products (e.g., onions to onions) with other similar externalities (e.g., production and transportation methods), food miles provide a convenient way for consumers to begin to make informed decisions about their purchases. Even though food transportation is a relatively small portion of the overall impact of our food consumption, changes to any phase of the process can have a positive additive effect and make a real contribution to environmental health. Moreover, most of the benefits for using food miles can likewise apply to many of our non-food purchases, with allowances for some of the same drawbacks. Additionally, the discussion could be expanded to include other kinds of decisions, such as where to live in relation to location of job, and where to take a vacation. In general, the concept of food miles reflects the need to understand how hidden influences generate environmental, social, and economic impacts.</para>
+      </section>
+      <section id="id1165420755334">
+        <title>Review Questions</title>
+        <exercise id="id1165422196390">
+		  <label>Question</label>
+          <problem id="oo-id1165421145298">
+            <para id="id1165422827915">What are some of the problems with comparing food miles for a cheeseburger to those for a vegetarian salad?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165422638469">
+		  <label>Question</label>
+          <problem id="oo-id1165423180552">
+            <para id="id1165419556709">Why might food producers in isolated but prosperous areas (like Hawaii or New Zealand) argue against the use of food miles?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165420957206">
+		  <label>Question</label>
+          <problem id="oo-id1165421310348">
+            <para id="id1165420650052">Do you think increased reliance on food miles is good or bad for rural areas in developing countries? Explain your decision.</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="secReferences">
+        <title>References</title>
+        <para id="id1165420670327">Cleveland, D. A., Radka, C. N., Müller, N. M., Watson, T. D., Rekstein, N. J., Wright, H. V. M., et al. (2011). Effect of localizing fruit and vegetable consumption on greenhouse gas emissions and nutrition, Santa Barbara County. <emphasis effect="italics">Environmental Science &amp; Technology, </emphasis>45,<emphasis effect="italics"/>4555-4562. doi: 10.1021/es1040317 </para>
+        <para id="id1165420209078">Saunders, C., Barber, A., &amp; Taylor, G. (2006). Food miles – comparative energy/emissions performance of New Zealand's Agriculture Industry. <emphasis effect="italics">Lincoln University Agribusiness &amp; </emphasis><emphasis effect="italics">Economics Research Unit Research Report</emphasis>, 285, 1-105.</para>
+        <para id="id1165420592351">Weber, C. L., &amp; Matthews, H. S. (2008). Food-miles and the relative climate impacts of food choices in the United States. <emphasis effect="italics">Environmental Science &amp; Technology</emphasis>, 42, 3508-3513. doi: 10.1021/es702969f </para>
+      </section>
+      <section id="secResources">
+        <title>Resources for locating farmers' markets in Illinois:</title>
+        <list id="id1165420037049" list-type="bulleted">
+          <item>Local Harvest <link url="http://www.localharvest.org/">http://www.localharvest.org</link></item>
+          <item>Illinois Stewardship Alliance <link url="http://www.ilstewards.org/">http://www.ilstewards.org</link></item>
+          <item>Slow Food Chicago <link url="http://www.slowfoodchicago.org/">http://www.slowfoodchicago.org</link></item>
+          <item>Illinois Farmers Markets, Illinois Department of Agriculture <link url="http://www.agr.state.il.us/markets/farmers/">http://www.agr.state.il.us/markets/farmers/</link></item>
+        </list>
+      </section>
+  </content>
+  <glossary>
+    <definition id="CSA">
+      <term>community-supported agriculture</term>
+      <meaning id="oo-id1165422682462">A collaborative system where local food producers and consumers share in the costs and harvests associated with farming.
+      </meaning>
+    </definition>
+    <definition id="CAFO">
+      <term>confined (or concentrated) animal feeding operation (CAFO)</term>
+      <meaning id="oo-id1165420656075">The practice of raising livestock in high-density settings to maximize production speed; some of the largest CAFOs have more than 100,000 cattle, 10,000 hogs, or 1,000,000 chickens at a single facility; sometimes called factory farming.
+      </meaning>
+    </definition>
+    <definition id="FoodMiles">
+      <term>food miles</term>
+      <meaning id="oo-id1165420729943">The distance food travels from producer to consumer.
+      </meaning>
+    </definition>
+    <definition id="FoodSecurity">
+      <term>food security</term>
+      <meaning id="oo-id1165422049539">The measure of the availability and access to sufficient, safe, and nutritious food.
+      </meaning>
+    </definition>
+    <definition id="GhostAcres">
+      <term>ghost acres</term>
+      <meaning id="oo-id1165422196353">The acres of land needed to indirectly support human needs, or land that is unavailable because of habitat degradation.
+      </meaning>
+    </definition>
+    <definition id="Locavore">
+      <term>locavore</term>
+      <meaning id="oo-id1165420697856">A person who consumes locally-produced food products.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

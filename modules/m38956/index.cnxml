@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Solutions: Property Rights, Regulations, and Incentive Policies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38956</md:content-id>
+  <md:title>Solutions: Property Rights, Regulations, and Incentive Policies</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) defined property rights, 2) types of command and control regulations, and 3) incentive policies.</md:abstract>
+  <md:uuid>2124f52c-cca2-4571-9dbd-08697c770ba9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168458526359">
+      <title>Learning Objectives</title>
+      <para id="id1168466285660">After reading this module, students should be able to</para>
+      <list id="id1168458205915" list-type="bulleted"><item>know why having clearly defined property rights might improve environmental outcomes and be aware of the limitations of that approach</item>
+        <item>define several different types of command and control regulations, and understand their comparative advantages</item>
+        <item>know what incentive policies (taxes and tradable permits) are, what they do, and what their strengths and weaknesses are</item>
+      </list>
+    </section>
+    <section id="id1168481494143">
+      <title>Introduction</title>
+      <para id="id1168472842197">Governments have implemented many policies to solve problems with environmental quality and natural resource depletion. Every policy is unique and deserves detailed individual analysis in the policymaking process—the devil is always in the details. However, economists have developed a taxonomy of policy types. This taxonomy helps us to understand general principles about how policies of different types are likely to perform and under which circumstances they are likely to work best. Policies are broadly characterized as either command-and-control or incentive policies. Command and control includes several types of standards. Incentive policies include taxes, tradable permits, and liability.</para>
+    </section>
+    <section id="id1168470583566">
+      <title>Property Rights</title>
+      <para id="id3580219">In 1960, Ronald Coase wrote the pioneering article "The Problem of Social Cost" in which he put forth ideas about externalities that have come to be known as the <term target-id="id1168461327352">Coase theorem</term> (<link target-id="id1168458068030">Coase, 1960</link>). The basic idea of the Coase theorem is that if property rights over a resource are well specified, and if the parties with an interest in that resource can bargain freely, then the parties will negotiate an outcome that is efficient regardless of who has the rights over the resource. The initial allocation of rights will not affect the efficiency of the outcome, but it will affect the distribution of wealth between the parties because the party with the property rights can extract payment from the other parties as part of the agreement.</para>
+      <para id="id1168474379262">To bring this abstract idea to life, we will draw on the classic example employed by generations of economists to think about the Coase theorem. Suppose a farmer and a rancher live next door to each other. There is land between them on which the farmer wants to plant crops, but the rancher's cows keep eating the crops. The farmer would like to have no cows on the land, and the rancher would like the farmer to stop planting crops so the cows could eat as much grass as they like. The efficient outcome is where the marginal benefit of a cow to the rancher is just equal to the marginal cost to the farmer of that cow's grazing. If the farmer is given property rights over the land, the rancher will have an incentive to pay the farmer to allow the efficient number of cows rather than zero; if the rancher has the rights, then the farmer will have to pay the rancher to limit the herd to just the efficient size. Either way they have incentives to negotiate to the efficient outcome because otherwise both of them could be made better off.</para>
+      <para id="id1168468756738">The Coase theorem is invoked by some scholars and policy analysts to argue that government policy is not needed to correct problems of externalities; all you need is property rights, and private negotiations will take care of the rest. However, Coase himself recognized in his writing that often the real world does not have the frictionless perfect negotiation on which the conclusions of the theorem rest. For example, there are transaction costs in bargaining, and those transaction costs can be prohibitively large when many people are involved, as in the case of air pollution from a factory. Furthermore, perfect bargaining requires perfect information. People often are unaware of the threats posed to their health by air and water pollution, and thus do not know what kind of bargaining would actually be in their own best interests.</para>
+      <para id="id1168473883569">Despite these limitations, there is a move afoot to use property right development to effect environmental improvement and improve natural resource stewardship, particularly in developing countries. In parts of Africa, new systems have given villages property rights over wildlife on their lands, yielding stronger incentives to manage wildlife well and demonstrably increasing wildlife populations. In South America, land-tenure reform is promoted as a way to reduce deforestation.</para>
+    </section>
+    <section id="id1168474382229">
+      <title>Command and Control Regulations</title>
+      <para id="id1168492797184">Most environmental policy in the United States is much more rigid and controlling than property-rights reform. Our policies for things like clean air and water, toxic waste cleanup, and endangered species protection have largely been composed of rigid rules and regulations. Under such policies, people are given strict and specific rules about things they must or must not do regarding some facet of pollution control or natural resource use, and then a government agency enforces the rules. Here we discuss and explore examples of a few kinds of such "<term target-id="id1168486589728">command-and-control</term>" regulations.</para>
+      <section id="id1168481310021">
+        <title>Ambient Standard</title>
+        <para id="id1168463723206">Some policies have targets for the quality of some element of the environment that results from human behavior and natural processes. An <term target-id="id1168463980601">ambient standard</term> establishes a level of environmental quality that must be met. The Clean Air Act directs the U.S. Environmental Protection Agency (EPA) to establish National Ambient Air Quality Standards (NAAQSs) for a range of air pollutants such as ozone and fine particles. The Clean Water Act directs state offices of the EPA to set ambient water quality standards for rivers and streams in their boundaries. In practice, however, such standards are binding only on state regulators. State EPA offices are responsible for developing plans to ensure that air and surface water bodies meet these ambient quality standards, but they cannot do the clean up on their own. They need to use a different set of tools to induce private agents to actually reduce or clean up pollution such that the ambient standards can be met.</para>
+        <para id="id1168475551511">Some ambient standards (such as the NAAQSs) have provoked criticism from economists for being uniform across space. Every county in the country has to meet the same air quality goals, even though the efficient levels of air quality might vary from one county to the next with variation in the marginal benefits and marginal costs of cleaning the air. However, uniform ambient standards grant all people in the U.S. the same access to clean air—a goal that has powerful appeal on the grounds of equity. </para>
+      </section>
+      <section id="id1168463944236">
+        <title>Individual Standards</title>
+        <para id="id1168472724754">First, we discuss a kind of policy applied to individual people or companies called a <term target-id="id1168463491632">technology standard</term>. Pollution and resource degradation result from a combination of human activity and the characteristics of the technology that humans employ in that activity. Behavior can be difficult to monitor and control. Hence, lawmakers have often drafted rules to control our tools rather than our behaviors. For example, automakers are required to install catalytic converters on new automobiles so that cars have lower pollution rates, and people in some parts of the country must use low-flow showerheads and water-efficient toilets to try to reduce water usage.</para>
+        <para id="id1168454155933">Technology standards have the great advantage of being easy to monitor and enforce; it is easy for a regulator to check what pollution controls are in the design of a car. Under some circumstances technology standards can reduce pollution and the rate of natural resource destruction, but they have several serious limitations. First, they provide no incentives for people to alter elements of their behavior other than technology choice. Cars may have to have catalytic converters to reduce emissions per mile, but people are given no reason to reduce the number of miles they drive. Indeed, these policies can sometimes have perverse effects on behavior. Early generations of water-efficient toilets performed very poorly; they used fewer gallons of water per flush, but people found themselves flushing multiple times in order to get waste down the pipes. Thus, these standards are neither always efficient nor cost effective. Second, technology standards are the worst policy in the toolkit for promoting technological innovation. Firms are actively forbidden from using any technology other than the one specified in the standards. Automakers might think of a better and cheaper way to reduce air pollution from cars, but the standard says they have to use catalytic converters.</para>
+        <para id="id1168468055318">A second type of policy applied to individual agents is called a <term target-id="id4204786">performance standard</term>. Performance standards set strict limits on an outcome of human activity. For example, in order to meet the NAAQSs, state EPA offices set emission standards for air pollution sources in their states. Those standards limit the amount of pollution a factory or power plant can release into the air, though each source can control its pollution in any way it sees fit. The limits on pollution are the same for all sources of a given type (e.g., power plant, cement factory, etc.). Performance standards are also used in natural resource regulation. For example, because stormwater runoff causes flooding and harms aquatic habitat, the city of Chicago requires all new development to be designed handle the first inch of rainfall in a storm onsite before runoff begins.</para>
+        <para id="id1168470505639">To enforce a performance standard the regulator must be able to observe the outcome of the agents' activities (e.g. measure the pollution, estimate the runoff). If that is possible, these policies have some advantages over technology standards. Performance standards do give people and firms some incentive to innovate and find cheaper ways to reduce pollution because they are free to use any technology they like to meet the stated requirements. Performance standards are also more efficient because they give people and firms incentives to change multiple things about their activity to reduce the total cost of pollution abatement; a power plant can reduce sulfur dioxide emissions by some combination of installing scrubber technology, switching to low-sulfur coal, and reducing total energy generation. </para>
+        <para id="id1168474450107">Performance standards also have some drawbacks and limitations, however. It is difficult for a regulator to figure out the cost effective allocation of total pollution reduction between sources and then set different performance standards for each source to reach that cost effective allocation. Hence, performance standards tend to be uniform across individual pollution sources, and so pollution reduction is not done in the cheapest way possible for the industry and society overall. This problem is particularly severe where there is great variation among sources in their abatement costs, and thus the cost-effective allocation of cleanup among sources is far from uniform.</para>
+      </section>
+    </section>
+    <section id="id1168475839875">
+      <title>Incentive Policies</title>
+      <para id="id1168468146306">Other approaches to environmental policy give firms and individuals incentives to change their behavior rather than mandating specific changes. These incentive policies try to make use of market forces for what they do best—allocating resources cost-effectively within an economy—while correcting the market failures associated with externalities, public goods, and common pool resources.</para>
+      <section id="id1168470587298">
+        <title>Tax/Subsidy</title>
+        <para id="id1168454434359">Environmental taxes are based on a simple premise: if someone is not bearing the full social costs of their actions, then we should charge them an <term target-id="id1168478286974">externality tax</term> per unit of harmful activity (e.g. ton of pollution, gallon of stormwater runoff) that is equal to the marginal cost that is not borne by the individual. In this way, that person must internalize the externality, and will have the incentive to choose a level of activity that is socially optimal. Thus, if we think the social marginal cost of ton of carbon dioxide (because of its contribution to climate change) is $20, then we could charge a tax of $20 per ton of carbon dioxide emitted. The easiest way to do this would be to have a tax on fossil fuels according to the amount of carbon dioxide that will be emitted when they are burned. </para>
+        <para id="id1168479492885">If a price is placed on carbon dioxide, all agents would have an incentive to reduce their carbon dioxide emissions to the point where the cost to them of reducing one more unit (their marginal abatement cost) is equal to the per unit tax. Therefore, several good things happen. All carbon dioxide sources are abating to the same marginal abatement cost, so the total abatement is accomplished in the most cost-effective way possible. Furthermore, total emissions in the economy overall will go down to the socially efficient level. Firms and individuals have very broad incentives to change things to reduce carbon dioxide emissions—reduce output and consumption, increase energy efficiency, switch to low carbon fuels—and strong incentives to figure out how to innovate so those changes are less costly. Finally, the government could use the revenue it collects from the tax to correct any inequities in the distribution of the program's cost among people in the economy or to reduce other taxes on things like income. </para>
+        <para id="id1168480022846">While taxes on externality-generating activities have many good features, they also have several drawbacks and limitations. First, while an externality tax can yield the efficient outcome (where costs and benefits are balanced for the economy as a whole), that only happens if policy makers know enough about the value of the externality to set the tax at the right level. If the tax is too low, we will have too much of the harmful activity; if the tax is too high, the activity will be excessively suppressed.</para>
+        <para id="id1168478089839">Second, even if we are able to design a perfect externality tax in theory, such a policy can be difficult to enforce. The enforcement agency needs to be able to measure the total quantity of the thing being taxed. In some cases that is easy—in the case of carbon dioxide for example, the particular fixed link between carbon dioxide emissions and quantities of fossil fuels burned means that through the easy task of measuring fossil fuel consumption we can measure the vast majority of carbon dioxide emissions. However, many externality-causing activities or materials are difficult to measure in total. Nitrogen pollution flows into streams as a result of fertilizer applications on suburban lawns, but it is impossible actually to measure the total flow of nitrogen from a single lawn over the course of a year so that one could tax the homeowner for that flow.</para>
+        <para id="id1168488024335">Third, externality taxes face strong political opposition from companies and individuals who don't want to pay the tax. Even if the government uses the tax revenues to do good things or to reduce other tax rates, the group that disproportionately pays the tax has an incentive to lobby heavily against such a policy. This phenomenon is at least partly responsible for the fact that there are no examples of pollution taxes in the U.S. Instead, U.S. policy makers have implemented mirror-image subsidy policies, giving subsidies for activities that reduce negative externalities rather than taxing activities that cause those externalities. Environmental policy in the case of U.S. agriculture is a prime example of this, with programs that pay farmers to take lands out of production or to adopt environmentally friendly farming practices. A subsidy is equivalent to the mirror-image tax in most ways. However, a subsidy tends to make the relevant industry more profitable (in contrast to a tax, which reduces profits), which in turn can stimulate greater output and have a slight perverse effect on total pollution or environmental degradation; degradation per unit output might go down, but total output goes up.</para>
+      </section>
+      <section id="id1168454169015">
+        <title>Tradable Permits</title>
+        <para id="id1168454556176">Another major type of incentive policy is a <term target-id="id1168464283168">tradable permits</term> scheme. Tradable permits are actually very similar to externality taxes, but they can have important differences. These policies are colloquially known as "cap and trade". If we know the efficient amount of the activity to have (e.g., number of tons of pollution, amount of timber to be logged) the policy maker can set a cap on the total amount of the activity equal to the efficient amount. Permits are created such that each permit grants the holder permission for one unit of the activity. The government distributes these permits to the affected individuals or firms, and gives them permission to sell (trade) them to one another. In order to be in compliance with the policy (and avoid punishment, such as heavy fines) all agents must hold enough permits to cover their total activity for the time period. The government doesn't set a price for the activity in question, but the permit market yields a price for the permits that gives all the market participants strong incentives to reduce their externality-generating activities, to make cost-effective trades with other participants, and to innovate to find cheaper ways to be in compliance. Tradable permit policies are similar to externality taxes in terms of efficiency, cost-effectiveness, and incentives to innovate. </para>
+        <para id="id1168472591905">Tradable permit policies have been used in several environmental and natural resource policies. The U.S. used tradable permits (where the annual cap declined to zero over a fixed number of years) in two separate policy applications to reduce the total cost to society of (a) phasing out the use of lead in gasoline and (b) eliminating production of ozone-depleting chlorofluorocarbons. The Clean Air Act amendments of 1990 put in place a nationwide tradable permit program for emissions of acid-rain precursor sulfur dioxide from electric power plants. The European Union used a tradable permit market as part of its policy to reduce carbon dioxide emissions under the Kyoto protocol. Individual tradable quotas for fish in fisheries of Alaska and New Zealand have been used to rationalize fishing activity and keep total catches down to efficient and sustainable levels (see <link document="m38878" window="new">Case Study: Marine Fisheries</link>).</para>
+        <para id="id1168464095817">Tradable permits have been adopted more widely than externality taxes. Two factors may contribute to that difference. First, tradable permit policies can have different distributional effects from taxes depending on how the permits are given out. If the government auctions the permits to participants in a competitive marketplace, then the tradable permit scheme is the same as the tax; the industry pays the government an amount equal to the number of permits multiplied by the permit price. However, policy makers more commonly design policies where the permits are initially given for free to participants in the market, and then participants sell the permits to each other. This eliminates the transfer of wealth from the regulated sector (the electric utilities, the fishing boats, etc.) to the government, a feature that has been popular with industry. Second, taxes and tradable permits behave differently in the face of uncertainty. A tax policy fixes the marginal cost to the industry, but might yield more or less of the harmful activity than expected if market conditions fluctuate. A cap and trade program fixes the total amount of the harmful activity, but can yield costs to industry that are wildly variable. Environmentalists have liked the outcome certainty of tradable permits.</para>
+      </section>
+      <section id="id1168475235360">
+        <title>Liability</title>
+        <para id="id1168458263841">A third type of environmental policy was not designed by economists, but still functions to give agents incentives to take efficient actions to reduce environmental degradation: <term target-id="id1168457245067">liability</term>. Liability provisions can make people or firms pay for the damages caused by their actions. If the expected payment is equal to the total externality cost, then liability makes the agent internalize the externality and take efficient precautions to avoid harming the environment.</para>
+        <para id="id1168478242987">Two kinds of liability exist in the U.S.: statutory and common law. Common law derives from a long tradition of legal history in the U.S.—people have sued companies for damages from pollution under tort law under doctrines such as nuisance, negligence, or trespass. This approach has been highly problematic for a number of reasons. For example, tort law places a high burden of proof on the plaintiff to show that damages resulted directly from actions taken by the defendant. Plaintiffs have often struggled with that burden because pollution problems are often caused by many sources, and the harm caused by pollution can display large lags in space and time. If the defendant expects with high probability not to be held responsible by the courts, then liability does not function effectively to make agents internalize the externality costs of their actions.</para><para id="id1168468494411">Frustration with common law has led to several strong statutory liability laws in the U.S. which make explicit provisions for holding firms liable for damages from pollution with much more manageable burdens of proof. The Oil Pollution Act of 1990 holds companies like Exxon and British Petroleum strictly liable for the damages caused by oil spills from accidents such as the Valdez grounding in Prince William Sound or the Deepwater Horizon explosion in the Gulf of Mexico. Under a rule of strict liability, a party is liable for harm if the harm occurred as a result of their actions regardless of the presence (or absence) of negligence or intent. The Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA, or "Superfund") holds companies strictly liable for damages from toxic waste "Superfund" sites.</para>
+        <para id="id1168470898096">These laws have surely increased the extent to which oil and chemical companies take precautions to avoid spills and other releases of hazardous materials into the environment. However, enforcement of these provisions is very costly. The legal proceedings for a big case like Deepwater Horizon entail court, lawyer, and expert witness activity (and high fees) for many years. The transaction costs are so burdensome to society that liability may not be a viable approach for all environmental problems.</para>
+      </section>
+				</section>
+    <section id="id1168470213753">
+      <title>Review questions</title>
+      <exercise id="id1168467739450">
+				<label>Question</label>
+        <problem id="oo-id1168489298996">
+          <para id="id1168461565538">What are some of the strengths and weaknesses of command and control regulation? When would these be the best policy tool to use?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1168461265265">
+				<label>Question</label>
+        <problem id="oo-id1168477994486">
+          <para id="id1168469494741">What are some of the strengths and weaknesses of incentive policies? When would these be the best policy tool to use?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1168463248353">
+				<label>Question</label>
+        <problem id="oo-id1168468715908">
+          <para id="id1168459211542">Did Coase think government policy was not necessary to solve externality problems? Briefly explain.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1168484892131">
+				<label>Question</label>
+        <problem id="oo-id1168491770586">
+          <para id="id1168464271472">How do liability laws function as incentive policies? What are some of their limitations?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1168461576100">
+      <title>References</title>
+      <para id="id1168458068030">Coase, R.H. 1960. The problem of social cost. <emphasis effect="italics">Journal of Law and Economics, 3</emphasis>, 1-44.</para></section>
+
+  </content>
+  <glossary>
+    <definition id="id1168463980601">
+      <term>ambient standard</term>
+      <meaning id="oo-id1168468006446">A minimum level of overall environmental quality that must be reached.
+      </meaning>
+    </definition>
+    <definition id="id1168461327352">
+      <term>coase theorem</term>
+      <meaning id="oo-id1168489843049">The idea that with property rights and frictionless negotiation, private agents will bargain to reach efficient outcomes even in the face of externalities.
+      </meaning>
+    </definition>
+    <definition id="id1168486589728">
+      <term>command and control</term>
+      <meaning id="oo-id1168462170131">Regulations that set strict, specific guidelines to govern the behavior of polluters and resource users.
+      </meaning>
+    </definition>
+    <definition id="id1168478286974">
+      <term>externality tax</term>
+      <meaning id="oo-id1168461441260">A tax on something that causes negative externalities.
+      </meaning>
+    </definition>
+    <definition id="id1168457245067">
+      <term>liability</term>
+      <meaning id="oo-id1168470591354">A legal construct meaning that an agent is held responsible by the courts to pay when that agent does something that imposes costs on other people in society.
+      </meaning>
+    </definition>
+    <definition id="id4204786">
+      <term>performance standard</term>
+      <meaning id="oo-id1168466323085">A regulation specifying something about the outcome of private behaviors. 
+      </meaning>
+    </definition>
+    <definition id="id1168463491632">
+      <term>technology standard</term>
+      <meaning id="oo-id1168472741309">A regulation specifying what kind of technology agents must or must not use in their activities.
+      </meaning>
+    </definition>
+    <definition id="id1168464283168">
+      <term>tradable permits</term>
+      <meaning id="oo-id1168468132098">A policy in which the total amount of an activity is limited, but agents can trade the rights to engage in that activity (permits).
+      </meaning>
+    </definition>
+  </glossary>
+</document>

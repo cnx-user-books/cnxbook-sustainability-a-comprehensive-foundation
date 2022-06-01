@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainability and Public Policy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42116</md:content-id>
+  <md:title>Sustainability and Public Policy</md:title>
+  <md:abstract>In this module, the problem-driven nature of policy development is discussed.</md:abstract>
+  <md:uuid>dd543a80-2331-4ed5-b651-1476f6a2a363</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172597846354">
+      <title>Learning Objectives</title>
+      <para id="id1172604892746">After reading this module, students should be able to</para>
+      <list id="id1172590201356" list-type="bulleted">
+        <item>understand the problem-driven nature of policy development, from relatively local agricultural problems to regional problems often driven by industrial development to global problems associated with population-driven human consumption</item>
+      </list>
+    </section>
+    <section id="id1172598458069">
+      <title>Complex Environmental Problems</title>
+      <para id="id1172603959737">NEPA, both in tone and purpose, was in sharp contrast to the many environmental laws that followed in the 1970s and 1980s that defined increasingly proscriptive methods for controlling risks from chemical exposure (this is sometimes termed the "<link url="http://www.enviroliteracy.org/article.php/1329.html" window="new">command-and-control</link>" approach to environmental management). In many ways these laws and regulations are ill-suited to the types of environmental problems that have emerged in the past twenty years. Whereas the focus of our environmental policy has been on mitigating risk from local problems that are chemical – and media – (land, water, or air) specific, the need has arisen to address problems that are far more complex, multi-media, and are of large geographic, sometimes global, extent.</para>
+      <para id="id1172590302036">An early example of this type of shift in the complexity of environmental problems is illustrated by the phenomenon of <link url="http://www.epa.gov/ne/eco/acidrain/history.html" window="new">acidic rainfall</link>, a regional problem that occurs in many areas across the globe. Although the chemical cause of acid rain is acidic gases (such as <link url="http://www.epa.gov/oaqps001/sulfurdioxide/" window="new">sulfur dioxide</link> and <link url="http://www.epa.gov/oaqps001/nitrogenoxides/" window="new">nitrogen oxides</link>) released into the atmosphere from combustion processes (such as coal burning), the problem was made considerably worse because of the approach to problem solving typical of the day for episodes such as the Donora disaster (see Figures <link document="m42115" target-id="id1165880482599"><emphasis effect="bold">Zinc Smelter</emphasis></link> and <link document="m42115" target-id="id8096046"><emphasis effect="bold">Noon in Donora</emphasis></link>).</para>
+      <para id="id1172597891360">
+        <figure id="id1172601060360"><media id="id1172601060360_media" alt="Hydrogen Ion Concentrations as pH for 1996" longdesc="Figure shows the distribution in rainfall pH in the United States for the year 1996.">
+            <image mime-type="image/png" src="../../media/Picture 1-413d.png" id="id1172601060360__onlineimage" height="338" width="450"/>
+          </media>
+        <caption><emphasis effect="bold">Hydrogen Ion Concentrations as pH for 1996</emphasis>. Figure shows the distribution in rainfall pH in the United States for the year 1996. <emphasis effect="italics">Source: National Atmospheric Deposition Program/National Trends Network via </emphasis><link url="http://www.nature.nps.gov/air/edu/lessons/figure3.cfm" window="new"><emphasis effect="italics">National Park Service</emphasis></link><emphasis effect="italics">. </emphasis></caption></figure>
+      </para>
+      
+      <para id="id1172591578200">In order to prevent the local accumulation of contaminants, emission stacks were made much taller, effectively relying on the diluting power of the atmosphere to disperse offending pollutants. The result was a significant increase in the acidity of rainfall downwind of major sources, with associated impacts on aquatic and forest resources. Figure <link target-id="id1172601060360"><emphasis effect="bold">Hydrogen Ion Concentrations as pH for 1996</emphasis></link> shows this pattern for the eastern United States in 1996. A more comprehensive solution to this problem (short of replacing coal as a fuel source), has involved integrated activity on many fronts: science to understand the impacts of acid rain, technology to control the release of acidic gases, politics in the form of amendments to the <link url="http://www.epa.gov/air/caa/" window="new">Clean Air Act</link>, social equity that defined the role of regional responsibilities in the face of such large geographic disparities, and economics to understand the total costs of acid rain and <link url="http://www.edf.org/page.cfm?tagID=1085" window="new">design markets</link> to spread the costs of control. Although acidic rainfall is still an issue of concern, its impacts have been mitigated to a significant degree.</para>
+    </section>
+    <section id="id1172601062700">
+      <title>Sustainability as a Driver of Environmental Policy</title>
+      <para id="id1172605648641">The level of complexity illustrated by the acid rain problem can be found in a great many other environmental problems today, among them:</para>
+      <list id="id1172601448611" list-type="bulleted">
+        <item><link url="http://oceanservice.noaa.gov/outreach/pdfs/coastalhypoxia.pdf" window="new">Hypoxic</link> conditions in coastal regions of the world caused by excessive release of nutrients, principally dissolved nitrogen and phosphorous from artificial fertilizer applied to crops (in addition to the <link url="http://toxics.usgs.gov/hypoxia/hypoxic_zone.html" window="new">Gulf of Mexico</link> and <link url="http://www.pewclimate.org/docUploads/Regional-Impacts-Chesapeake.pdf" window="new">Chesapeake Bay</link> in the United States, there are over <link url="http://www.wri.org/map/world-hypoxic-and-eutrophic-coastal-areas" window="new">400 such areas worldwide</link>),</item>
+        <item><link url="http://www.nas.nasa.gov/About/Education/Ozone/" window="new">Stratospheric ozone depletion</link> caused by the release of certain classes of <link url="http://www.epa.gov/ozone/science/ods/classone.html" window="new">chlorofluorocarbon</link> compounds used as propellants and refrigerants (with increases in the incident of skin cancers and cataracts),</item>
+        <item><link url="http://www.wri.org/publication/content/8840" window="new">Urbanization</link> and <link url="http://en.wikipedia.org/wiki/Urban_sprawl" window="new">sprawl</link>, whereby the population density in urban areas, with its attendant problems (degradation of air and water quality, <link url="http://extension.usu.edu/waterquality/htm/urbanstormwater/" window="new">stormwater management</link>, habitat destruction, infrastructure renewal, health care needs, traffic congestion, loss of leisure time, issues of social equality), continues to grow (for example eighty percent of the population of the United States, about fifty percent of global, now lives in urban regions),</item>
+        <item><link url="http://www.epa.gov/climatechange/index.html" window="new">Global climate change</link>, and its resultant impacts (increases in temperature and storm and flooding frequency, <link url="http://www.nrdc.org/oceans/acidification/" window="new">ocean acidification</link>, displacement of human populations, loss of biodiversity, sea-level rise), caused by the human-induced emission of <link url="http://www.epa.gov/climatechange/emissions/index.html" window="new">greenhouse gases</link>.</item>
+      </list>
+      <para id="id1172597762033">Problems such as these, which require highly integrated solutions that include input from many disciplines and stakeholders, have been termed "wicked" (<link target-id="id1172601062481">Batie, 2008</link>; <link target-id="id1172595065600">Kreuter, DeRosa, Howze, &amp; Baldwin, 2004</link>). Wicked problems have certain key characteristics: </para>
+      <list id="id1172593689878" list-type="bulleted">
+        <item>There is not universal agreement on what the problem is – different stakeholders define it differently.</item>
+        <item>There is no defined end solution, the end will be assessed as "better" or "worse."</item>
+        <item>The problem may change over time.</item>
+        <item>There is no clear stopping rule – stakeholders, political forces and resource availability will make that determination on the basis of "judgments."</item>
+        <item>The problem is associated with high uncertainty of both components and outcomes.</item>
+        <item>Values and societal goals are not necessarily shared by those defining the problem or those attempting to make the problem better.</item>
+      </list>
+      <para id="id1172596335714">Wicked problems are not confined to environmental issues, for example the same characteristics arise for problems such as food safety, health care disparities, and terrorism, but in the context of environmental policy they create the need to reassess policy approaches and goals, laws and regulations, as well as methods and models for integrated research. </para>
+      <para id="id1172593783891">Table <link target-id="id1172599084052"><emphasis effect="bold">The Evolution of U.S. Environmental Policy</emphasis></link> summarizes the major attributes of U.S. environmental policy as it has evolved over the past two centuries. To most observers it would seem to be true that advances in public policy, in any realm, are driven by problems, real and perceived, that require systemic solutions. Environmental policy is no exception. Early conservationists were alarmed at the inefficiencies of human resource management and the encroachment of humans on unspoiled lands. During the 20<sup>th</sup> century many groups: scientists, economists, politicians, and ordinary citizens, became alarmed and fearful of the consequences of toxic pollutant loads to the environment that included localized effects on human health and well-being. And now, as we proceed into the 21<sup>st</sup> century, an array of complex problems that have the potential to alter substantially the structure and well-being of large segments of human societies, calls for a renewal and reassessment of our approach to environmental policy. This has, thus far, proven to be a difficult transition. Many of these complex problems have multiple causes and impacts, affect some groups of people more than others, are economically demanding, and are often not as visibly apparent to casual observers as previous impacts, nor are the benefits perceived to be commensurate with costs. Devising a regulatory strategy for such problems requires an adaptive and flexible approach that current laws do not foster.</para>
+      <table id="id1172599084052" summary="Table summarizes the major attributes of U.S. environmental policy as it has evolved over the past two centuries">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry><emphasis effect="bold">1850-1920</emphasis></entry>
+              <entry><emphasis effect="bold">1960-1990</emphasis></entry>
+              <entry><emphasis effect="bold">1990-present</emphasis></entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Focus</emphasis></entry>
+              <entry>Conservation/sanitation</entry>
+              <entry>Media/site/problem specific</entry>
+              <entry>Complex regional/ global problems</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Outcome</emphasis></entry>
+              <entry>Land preservation/efficiency/control of disease</entry>
+              <entry>Manage anthropocentricand ecological risk</entry>
+              <entry>Global sustainable development</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Principal Activity</emphasis></entry>
+              <entry>Resource management reform/simple contaminant controls</entry>
+              <entry>Compliance/ remediation/technological emphasis on problem solving</entry>
+              <entry>Integration of social, economic, and technological information for holistic problem solving</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Economic Focus</emphasis></entry>
+              <entry>Profit maximization/public health</entry>
+              <entry>Cost minimization</entry>
+              <entry>Strategic investments/long-term societal well-being</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Regulatory Activity</emphasis></entry>
+              <entry>Low</entry>
+              <entry>Heavy</entry>
+              <entry>Adaptive and Flexible</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Conceptual Model</emphasis></entry>
+              <entry>Expansion vs. preservation</entry>
+              <entry>Command-and-control</entry>
+              <entry>Systems/life cycle approach</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Disciplinary Approach</emphasis></entry>
+              <entry>Disciplinary and insular</entry>
+              <entry>Multidisciplinary</entry>
+              <entry>Interdisciplinary/Integrative</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption><emphasis effect="bold">The Evolution of U.S. Environmental Policy</emphasis> Table summarizes the major attributes of U.S. environmental policy as it has evolved over the past two centuries. <emphasis effect="italics">Source: T. Theis adapted from <link target-id="id1172603691994">Fiksel, Graedel, Hecht, Rejeski, Saylor, Senge, et al. (2009)</link>.</emphasis> </caption>
+</table>
+      
+    </section>
+    <section id="id1172597774226">
+      <title>References</title>
+      <para id="id1172601062481">Batie, S. S. (2008, December). Wicked problems and applied economics. <emphasis effect="italics">American Journal of Agricultural Economics</emphasis>,<emphasis effect="italics"> 90</emphasis>, 1176-1191 doi: 10.1111/j.1467-8276.2008.01202.x</para>
+      <para id="id1172603691994">Fiksel, J., Graedel, T., Hecht, A. D., Rejeski, D., Saylor, G. S., Senge, P. M., Swackhamer, D. L., &amp; Theis, T. L. (2009). EPA at 40: Bringing environmental protection into the 21<sup>st</sup> century. <emphasis effect="italics">Environmental Science and Technology, 43</emphasis>, 8716-8720. doi: 10.1021/es901653f</para>
+      <para id="id1172595065600">Kreuter, M. W., DeRosa, C., Howze, E. H., &amp; Baldwin, G. T. (2004, August). Understanding wicked problems: A key to advancing environmental health promotion. <emphasis effect="italics">Health, Education and Behavior</emphasis>, <emphasis effect="italics">31</emphasis>, 441-54. doi: 10.1177/1090198104265597</para>
+    </section>
+  </content>
+</document>

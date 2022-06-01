@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Biogeochemical Cycles and the Flow of Energy in the Earth System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41618</md:content-id>
+  <md:title>Biogeochemical Cycles and the Flow of Energy in the Earth System</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) biogeochemical cycle, 2) the natural cycles of carbon, water, and nitrogen, and 3) important ways human activity disrupts those cycles.</md:abstract>
+  <md:uuid>d6cf0855-9713-45d5-bfdd-e64f1b74bf90</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1169993378384">
+        <title>Learning Objectives</title>
+        <para id="id1169992745596">After reading this module, students should be able to</para>
+        <list id="id1170007728975" list-type="bulleted">
+          <item>explain the concept of a biogeochemical cycle, incorporating the terms "pool" and "flux"</item>
+          <item>describe the natural cycles of carbon, water, and nitrogen</item>
+          <item>name some of the important ways human activity disrupts those cycles</item>
+        </list>
+      </section>
+      <section id="id1170006323789">
+        <title>Introduction</title>
+        <para id="id1169996747585">If people are to live sustainably, they will need to understand the processes that control the availability and stability of the ecosystem services on which their well-being depends. Chief among these processes are the <term target-id="id1169999826796">biogeochemical cycles</term> that describe<emphasis effect="bold"/>how chemical elements (e.g. nitrogen, carbon) or molecules (e.g. water) are transformed and stored by both physical and biological components of the Earth system. Storage occurs in <term target-id="id1170005948192">pools</term>, which are amounts of material that share some common characteristic and are relatively uniform in nature, e.g. the pool of carbon found as carbon dioxide (CO<sub>2</sub>) in the atmosphere. Transformations or flows of materials from one pool to another in the cycle are described as <term target-id="id1169991482453">fluxes</term>; for example, the movement of water from the soil to the atmosphere resulting from evaporation is a flux. <term target-id="id1169993096750">Physical components of the earth system</term> are nonliving factors such as rocks, minerals, water, climate, air, and energy. <term target-id="id1170004746039">Biological components of the earth system</term> include all living organisms, e.g. plants, animals and microbes. Both the physical and biological components of the earth system have varied over geological time. Some landmark changes include the colonization of the land by plants (~400 million years ago), the evolution of mammals (~200 million years ago), the evolution of modern humans (~200 thousand years ago) and the end of the last ice age (~10 thousand years ago). The earth system and its biogeochemical cycles were relatively stable from the end of the last ice age until the Industrial Revolution of the eighteenth and nineteenth centuries initiated a significant and ongoing rise in human population and activity. Today, anthropogenic (human) activities are altering all major ecosystems and the biogeochemical cycles they drive. Many chemical elements and molecules are critical to life on earth, but the biogeochemical cycling of carbon, water, and nitrogen are most critical to human well-being and the natural world. </para>
+      </section>
+      <section id="id1170006301409">
+        <title>The Natural Carbon Cycle</title>
+        <para id="id1170005764003">Most of the carbon on Earth is stored in sedimentary rocks and does not play a significant role in the carbon cycle on the timescale of decades to centuries. The atmospheric pool of CO<sub>2 </sub>is smaller [containing 800 GtC (gigatonnes of carbon) = 800,000,000,000 tonnes] but is very important because it is a greenhouse gas. The sun emits short-wave radiation that passes through the atmosphere, is absorbed by the Earth, and re-emitted as long-wave radiation. <term target-id="id1170011223840">Greenhouse gases</term> in the atmosphere absorb this long-wave radiation causing them, and the atmosphere, to warm. The retention of heat in the atmosphere increases and stabilizes the average temperature, making Earth habitable for life. More than a quarter of the atmospheric CO<sub>2</sub> pool is absorbed each year through the process of photosynthesis by a combination of plants on land (120 GtC) and at sea (90 GtC). <term target-id="id1169991354097">Photosynthesis</term><emphasis effect="bold"/> is the process in which plants use energy from sunlight to combine CO<sub>2</sub> from the atmosphere with water to make sugars, and in turn build biomass. Almost as much carbon is stored in terrestrial plant biomass (550 GtC) as in the atmospheric CO<sub>2</sub> pool. On land, biomass that has been incorporated into soil forms a relatively large pool (2300 GtC). At sea, the phytoplankton that perform photosynthesis sink after they die, transporting organic carbon to deeper layers that then either are preserved in ocean sediments or decomposed into a very large dissolved inorganic carbon pool (37,000 GtC). Plants are called <term target-id="id1170009882167">primary producers</term> because they are the primary entry point of carbon into the biosphere. In other words, almost all animals and microbes depend either directly or indirectly on plants as a source of carbon for energy and growth. All organisms, including plants, release CO<sub>2</sub> to the atmosphere as a by-product of generating energy and synthesizing biomass through the process of <term target-id="id1169997888925">respiration</term>. The natural carbon cycle is balanced on both land and at sea, with plant respiration and microbial respiration (much of it associated with decomposition, or rotting of dead organisms) releasing the same amount of CO<sub>2</sub> as is removed from the atmosphere through photosynthesis. </para>
+        <para id="id1170004070397"><figure id="id1170010851766"><media id="id1170010851766_media" alt="The Carbon Cycle" longdesc="Figure illustrates the carbon cycle on, above, and below the Earth's surface."><image mime-type="image/png" src="../../media/graphics1-0e73.png" id="id1170010851766__onlineimage" height="526" width="625"/></media><caption><emphasis effect="bold">The Carbon Cycle</emphasis>. Figure illustrates the carbon cycle on, above, and below the Earth's surface. <emphasis effect="italics">Source: </emphasis><link url="http://genomicscience.energy.gov/carboncycle/index.shtml#page=news" window="new"><emphasis effect="italics">U.S. Department of Energy Genomic Science Program</emphasis></link><emphasis effect="italics">. </emphasis></caption></figure></para>
+        <section id="id1169991173718">
+          <title>Human Interactions with The Carbon Cycle</title>
+          <para id="id1341359">The global carbon cycle contributes substantially to the provisioning ecosystem services upon which humans depend. We harvest approximately 25% of the total plant biomass that is produced each year on the land surface to supply food, fuel wood and fiber from croplands, pastures and forests. In addition, the global carbon cycle plays a key role in regulating ecosystem services because it significantly influences climate via its effects on atmospheric CO<sub>2</sub> concentrations. Atmospheric CO<sub>2</sub> concentration increased from 280 parts per million (ppm) to 390 ppm between the start of industrial revolution in the late eighteenth century and 2010. This reflected a new flux in the global carbon cycle —<term target-id="id1170007196362">anthropogenic CO2 emissions</term><emphasis effect="bold">—</emphasis> where humans release CO<sub>2</sub> into the atmosphere by burning fossil fuels and changing land use. Fossil fuel burning takes carbon from coal, gas, and oil reserves, where it would be otherwise stored on very long time scales, and introduces it into the active carbon cycle. <term target-id="id1170006170686">Land use change</term> releases carbon from soil and plant biomass pools into the atmosphere, particularly through the process of deforestation for wood extraction or conversion of land to agriculture. In 2009, the additional flux of carbon into the atmosphere from anthropogenic sources was estimated to be 9 GtC—a significant disturbance to the natural carbon cycle that had been in balance for several thousand years previously. Slightly more than half of this anthropogenic CO<sub>2</sub> is currently being absorbed by greater photosynthesis by plants on land and at sea (5 GtC). However, that means 4 GtC is being added to the atmospheric pool each year and, while total emissions are increasing, the proportion absorbed by photosynthesis and stored on land and in the oceans is declining (<link target-id="id1170010835259">Le Quere et al., 2009</link>). Rising atmospheric CO<sub>2</sub> concentrations in the twentieth century caused increases in temperature and started to alter other aspects of the global environment. Global environmental change has already caused a measurable decrease in the global harvest of certain crops. The scale and range of impacts from global environmental change of natural and agricultural ecosystems is projected to increase over the twenty-first century, and will pose a major challenge to human well-being. </para>
+        </section>
+      </section>
+      <section id="id1170007941385">
+        <title>The Natural Water Cycle</title>
+        <para id="id1170011380602">The vast majority of water on Earth is saline (salty) and stored in the oceans. Meanwhile, most of the world's fresh water is in the form of ice, snow, and groundwater. This means a significant fraction of the water pool is largely isolated from the water cycle. The major long-term stores of fresh water include ice sheets in Antarctica and Greenland, as well as groundwater pools that were filled during wetter periods of past geological history. In contrast, the water stored in rivers, lakes, and ocean surface is relatively rapidly cycled as it evaporates into the atmosphere and then falls back to the surface as precipitation. The atmospheric pool of water turns over most rapidly because it is small compared to the other pools (e.g. &lt;15% of the freshwater lake pool). <term target-id="id1170001475002">Evaporation</term> is the process whereby water is converted from a liquid into a vapor as a result of absorbing energy (usually from solar radiation). Evaporation from vegetated land is referred to as <term target-id="id1169993094836">evapotranspiration</term> because it includes water transpired by plants, i.e. water taken up from the soil by roots, transported to leaves and evaporated from leaf surfaces into the atmosphere via stomatal pores. <term target-id="id1170007589986">Precipitation</term> is the conversion of atmospheric water from vapor into liquid (rain) or solid forms (snow, hail) that then fall to Earth's surface. Some water from precipitation moves over the land surface by <term target-id="id1169992911594">surface runoff</term> and <term target-id="id7376046">streamflow</term>, while other water from precipitation <term target-id="id1169999984530">infiltrates</term> the soil and moves below the surface as <term target-id="id1170002087556">groundwater discharge</term>. Water vapor in the atmosphere is commonly moved away from the source of evaporation by wind and the movement of air masses. Consequently, most water falling as precipitation comes from a source of evaporation that is located upwind. Nonetheless, local sources of evaporation can contribute as much as 25-33% of water in precipitation.</para>
+        <para id="id1169999789002"><figure id="id1170005555228"><media id="id1170005555228_media" alt="The Water Cycle" longdesc="Figure illustrates the water cycle on, above, and below the Earth's surface. "><image mime-type="image/png" src="../../media/Picture 24.png" id="id1170005555228__onlineimage" height="374" width="538"/></media><caption><emphasis effect="bold">The Water Cycle.</emphasis> Figure illustrates the water cycle on, above, and below the Earth's surface. <emphasis effect="italics">Source: U.S. Department of the Interior and U.S. Geological Survey, </emphasis><link url="http://ga.water.usgs.gov/edu/watercycle.html" window="new"><emphasis effect="italics">The Water Cycle</emphasis></link><emphasis effect="italics">.</emphasis></caption></figure></para>
+        <section id="id7417196">
+          <title>Human Interactions with The Water Cycle</title>
+          <para id="id1170003106566">Freshwater supply is one of the most important provisioning ecosystem services on which human well-being depends. By 2000, the rate of our water extraction from rivers and aquifers had risen to almost 4000 cubic kilometers per year. The greatest use of this water is for irrigation in agriculture, but significant quantities of water are also extracted for public and municipal use, as well as industrial applications and power generation. Other major human interventions in the water cycle involve changes in land cover and infrastructure development of river networks. As we have deforested areas for wood supply and agricultural development we have reduced the amount of vegetation, which naturally acts to trap precipitation as it falls and slow the rate of infiltration into the ground. As a consequence, surface runoff has increased. This, in turn, means flood peaks are greater and erosion is increased. Erosion lowers soil quality and deposits sediment in river channels, where it can block navigation and harm aquatic plants and animals. Where agricultural land is also drained these effects can be magnified. Urbanization also accelerates streamflow by preventing precipitation from filtering into the soil and shunting it into drainage systems. Additional physical infrastructure has been added to river networks with the aim of altering the volume, timing, and direction of water flows for human benefit. This is achieved with reservoirs, weirs, and diversion channels. For example, so much water is removed or redirected from the Colorado River in the western United States that, despite its considerable size, in some years it is dry before reaching the sea in Mexico. We also exploit waterways through their use for navigation, recreation, hydroelectricity generation and waste disposal. These activities, especially waste disposal, do not necessarily involve removal of water, but do have impacts on water quality and water flow that have negative consequences for the physical and biological properties of aquatic ecosystems.</para><para id="id1170002371092">The water cycle is key to the ecosystem service of climate regulation as well as being an essential supporting service that impacts the function of all ecosystems. Consider the widespread impacts on diverse natural and human systems when major droughts or floods occur. Consequently, human disruptions of the natural water cycle have many undesirable effects and challenge sustainable development. There are two major concerns. First, the need to balance rising human demand with the need to make our water use sustainable by reversing ecosystem damage from excess removal and pollution of water. Traditionally, considerable emphasis has been on finding and accessing more supply, but the negative environmental impacts of this approach are now appreciated, and improving the efficiency of water use is now a major goal. Second, there is a need for a safe water supply in many parts of the world, which depends on reducing water pollution and improving water treatment facilities.</para>
+        </section>
+      </section>
+      <section id="id1170006687879">
+        <title>The Natural Nitrogen Cycle</title>
+        <para id="id1170011072638">The vast majority of nitrogen on Earth is held in rocks and plays a minor role in the nitrogen cycle. The second largest pool of nitrogen is in the atmosphere. Most atmospheric nitrogen is in the form of N<sub>2</sub> gas, and most organisms are unable to access it. This is significant because nitrogen is an essential component of all cells—for instance, in protein, RNA, and DNA—and nitrogen availability frequently limits the productivity of crops and natural vegetation. Atmospheric nitrogen is made available to plants in two ways. Certain microbes are capable of <term target-id="id1170007146609">biological nitrogen fixation</term>, whereby N<sub>2</sub> is converted into ammonium, a form of nitrogen that plants can access. Many of these microbes have formed symbiotic relationships with plants—they live within the plant tissue and use carbon supplied by the plant as an energy source, and in return they share ammonia produced by nitrogen fixation. Well-known examples of plants that do this are peas and beans. Some microbes that live in the soil are also capable of nitrogen fixation, but many are found in a zone very close to roots, where significant carbon sources are released from the plant. Together these biological nitrogen fixing processes on land, coupled with others that take place at sea, generate an annual flux out of the atmosphere of approximately 200 MtN (megatonnnes of nitrogen or 200,000,000 tonnes of nitrogen). Lightning causes nitrogen and oxygen in the atmosphere to react and produce nitrous oxides that fall or are washed out of the atmosphere by rain and into the soil, but the is flux is much smaller (30 MtN per year at most) than biological nitrogen fixation. </para>
+        <para id="id1170004818415">While the inputs of nitrogen from the atmosphere to the biosphere are important, the majority (90%) of nitrogen used by plants for growth each year comes from ammonification of organic material. Organic material is matter that comes from once-living organisms. <term target-id="id1170000848897">Ammonification</term> (or mineralization) is the release of ammonia by <term target-id="id1170000783273">decomposers</term>  (bacteria and fungi) when they break down the complex nitrogen compounds in organic material. Plants are able to absorb (<term target-id="id1170006003985">assimilate</term>) this ammonia, as well as nitrates, which are made available by bacterial <term target-id="id1169998635693">nitrification</term>. The cycle of nitrogen incorporation in growing plant tissues and nitrogen release by bacteria from decomposing plant tissues is the dominant feature of the nitrogen cycle and occurs very efficiently. Nitrogen can be lost from the system in three main ways. First, <term target-id="id1169992731857">denitrifying bacteria</term> convert nitrates to nitrous oxide or N<sub>2</sub> gases that are released back to the atmosphere. Denitrification occurs when the bacteria grow under oxygen-depleted conditions, and is therefore favored by wet and waterlogged soils. Denitrification rates almost match biological nitrogen fixation rates, with wetlands making the greatest contribution. Second, nitrates are washed out of soil in drainage water (<term target-id="id1169994552265">leaching</term>) and into rivers and the ocean. Third, nitrogen is also cycled back into the atmosphere when organic material burns.</para>
+        <figure id="id6833224"><media id="id6833224_media" alt="The Nitrogen Cycle" longdesc="Figure illustrates the nitrogen cycle on, above, and below the Earth's surface.">
+            <image mime-type="image/png" src="../../media/Picture 1-93f6.png" id="id6833224__onlineimage" height="341" width="525"/>
+          </media>
+        <caption><emphasis effect="bold">The Nitrogen Cycle.</emphasis> Figure illustrates the nitrogen cycle on, above, and below the Earth's surface. <emphasis effect="italics">Source: </emphasis><link url="http://www.physicalgeography.net/fundamentals/9s.html" window="new"><emphasis effect="italics">Physical Geography Fundamentals eBook</emphasis></link><emphasis effect="italics">.</emphasis></caption></figure>
+      <section id="id1170006687879a">
+        <title>Human Interactions With The Nitrogen Cycle</title>        
+        <para id="id1170001496538">Humans are primarily dependent on the nitrogen cycle as a supporting ecosystem service for crop and forest productivity. Nitrogen fertilizers are added to enhance the growth of many crops and plantations. The enhanced use of fertilizers in agriculture was a key feature of the green revolution that boosted global crop yields in the 1970s. The industrial production of nitrogen-rich fertilizers has increased substantially over time and now matches more than half of the input to the land from biological nitrogen fixation (90 MtN each year). If the nitrogen fixation from leguminous crops (e.g. beans, alfalfa) is included, then the anthropogenic flux of nitrogen from the atmosphere to the land exceeds natural fluxes to the land. As described above, most ecosystems naturally retain and recycle almost all of their nitrogen. The relatively little nitrogen that is being gained or lost by fluxes to the atmosphere and water cycle is also nearly being balanced. When humans make large additions of nitrogen to ecosystems leakage often results, with negative environmental consequences. When the amount of nitrate in the soil exceeds plant uptake, the excess nitrate is either leached in drainage water to streams, rivers, and the ocean or denitrified by bacteria and lost to the atmosphere. One of the main gases produced by denitrifying bacteria (nitrous oxide) is an important greenhouse gas that is contributing to human-induced global warming. Other gases released to the atmosphere by denitrifying bacteria, as well as ammonia released from livestock and sewage sludge, are later deposited from the atmosphere onto ecosystems. The additional nitrogen from this deposition, along with the nitrogen leaching into waterways, causes eutrophication. <term target-id="id1170006928277">Eutrophication</term> occurs when plant growth and then decay is accelerated by an unusually high supply of nitrogen, and it has knock-on effects, including the following: certain plant species out-competing other species, leading to biodiversity loss and altered ecosystem function; algal blooms that block light and therefore kill aquatic plants in rivers, lakes, and seas; exhaustion of oxygen supplies in water caused by rapid microbial decomposition at the end of algal blooms, which kills many aquatic organisms. Excess nitrates in water supplies have also been linked to human health problems. Efforts to reduce nitrogen pollution focus on increasing the efficiency of synthetic fertilizer use, altering feeding of animals to reduce nitrogen content in their excreta, and better processing of livestock waste and sewage sludge to reduce ammonia release. At the same time, increasing demand for food production from a growing global population with a greater appetite for meat is driving greater total fertilizer use, so there is no guarantee that better practices will lead to a reduction in the overall amount of nitrogen pollution.</para>
+			</section>
+      </section>
+      <section id="id1170001078698">
+        <title>Review Questions</title>
+        <exercise id="id1169999998276">
+					<label>Question</label>
+          <problem id="oo-id1170011161455">
+            <para id="id1170005074903">There is approximately 2,000 cubic kilometers of water stored in rivers around the world. Using the terms <emphasis effect="italics">water cycle</emphasis>, <emphasis effect="italics">flux</emphasis> and <emphasis effect="italics">pool</emphasis>, describe under what conditions removing 1000 cubic kilometers per year from rivers for human use could be sustainable.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170011360226">
+					<label>Question</label>
+          <problem id="oo-id3221361">
+            <para id="id1169992076695">Each year, around a quarter of the carbon dioxide found in the atmosphere is turned into plant matter via photosynthesis. Does this mean that, in the absence of human activity, all carbon dioxide would be removed from the atmosphere in around four years? Explain your answer.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169998825236">
+					<label>Question</label>
+          <problem id="oo-id1170006565085">
+            <para id="id1170001603174">The water, carbon, and nitrogen cycles are all influenced by human activity. Can you describe a human activity that impacts all three cycles? In your example, which of the cycles is most significantly altered?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1170006218941">
+        <title>References</title>
+        <para id="id1170010835259">Le Quere, C., Raupach, M. R., Canadell, J. G., Marland, G., Bopp, L., Ciais, P., et al. (2009, December). Trends in the sources and sinks of carbon dioxide. <emphasis effect="italics">Nature Geoscience, 2</emphasis>, 831-836. doi: 10.1038/ngeo689</para>
+        <para id="id1170007345328">Millennium Ecosystem Assessment (2005). Ecosystems and Human Well-Being: Synthesis. Washington DC. Retrieved from <link url="http://www.maweb.org/en/Reports.aspx" window="new">http://www.maweb.org/en/Reports.aspx</link></para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1170000848897">
+      <term>ammonification</term>
+      <meaning id="oo-id1170002415564">The release of ammonia by decomposers<emphasis effect="bold"/>when they break down the complex nitrogen compounds in organic material
+      </meaning>
+    </definition>
+    <definition id="id1170007196362">
+      <term>anthropogenic CO<sub>2</sub> emissions</term>
+      <meaning id="oo-id1169998423986">Human release of CO<sub>2</sub> into the atmosphere by burning fossil fuels and changing land use.
+      </meaning>
+    </definition>
+    <definition id="id1170006003985">
+      <term>assimilation</term>
+      <meaning id="oo-id1170004490811">Acquisition and incorporation of nutrients or resources by plants e.g. nitrogen or carbon.
+      </meaning>
+    </definition>
+    <definition id="id1169999826796">
+      <term>biogeochemical cycles</term>
+      <meaning id="oo-id1170003177289">A concept describing how chemical elements (e.g., nitrogen, carbon) or molecules (e.g. water) are transformed and stored by both physical and biological components of the Earth system.
+      </meaning>
+    </definition>
+    <definition id="id1170004746039">
+      <term>biological components of the earth system</term>
+      <meaning id="oo-id1170008305351">All living organisms, including plants, animals and microbes.
+      </meaning>
+    </definition>
+    <definition id="id1170007146609">
+      <term>biological nitrogen fixation</term>
+      <meaning id="oo-id1170006870026">Where microbes convert N<sub>2</sub> gas in the atmosphere into ammonium that can be absorbed by plants.
+      </meaning>
+    </definition>
+    <definition id="id1170000783273">
+      <term>decomposers</term>
+      <meaning id="oo-id1170005778561">Bacteria and fungi that break down rotting organic material, releasing component elements in the process.
+      </meaning>
+    </definition>
+    <definition id="id1169992731857">
+      <term>denitrifying bacteria</term>
+      <meaning id="oo-id6415292">Microbes that convert nitrates to nitrous oxide or N<sub>2</sub> gases that are released back to the atmosphere.
+      </meaning>
+    </definition>
+    <definition id="id1170006928277">
+      <term>eutrophication</term>
+      <meaning id="oo-id1170001985288">Accelerated plant growth and decay caused by nitrogen pollution.
+      </meaning>
+    </definition>
+    <definition id="id1170001475002">
+      <term>evaporation</term>
+      <meaning id="oo-id1170003858655">The process whereby water is converted from a liquid into a vapor, as a result of absorbing energy (usually from solar radiation).
+      </meaning>
+    </definition>
+    <definition id="id1169993094836">
+      <term>evapotranspiration</term>
+      <meaning id="oo-id1170007485324">Evaporation from vegetated land that includes water transpired by plants as well as evaporation from open water and soils.
+      </meaning>
+    </definition>
+    <definition id="id1169991482453">
+      <term>fluxes</term>
+      <meaning id="oo-id1170007708911">Transformations or flow of materials from one pool to another in a biogeochemical cycle.
+      </meaning>
+    </definition>
+    <definition id="id1170011223840">
+      <term>greenhouse gases</term>
+      <meaning id="oo-id1170000563002">Gases in Earth's atmosphere that absorb long-wave radiation and retain heat.
+      </meaning>
+    </definition>
+    <definition id="id1170002087556">
+      <term>groundwater discharge</term>
+      <meaning id="oo-id1170003720798">Flow of water from below-ground into rivers, lakes, or the ocean.
+      </meaning>
+    </definition>
+    <definition id="id1169999984530">
+      <term>infiltration</term>
+      <meaning id="oo-id1170010686331">Flow of water from the land surface into soils and rocks.
+      </meaning>
+    </definition>
+    <definition id="id1170006170686">
+      <term>land use change</term>
+      <meaning id="oo-id1169996353667">Human change in the use of land, e.g. deforestation or urbanization.
+      </meaning>
+    </definition>
+    <definition id="id1169994552265">
+      <term>leaching</term>
+      <meaning id="oo-id1170004754468">Loss of nitrates from soil in drainage water
+      </meaning>
+    </definition>
+    <definition id="id1169998635693">
+      <term>nitrification</term>
+      <meaning id="oo-id1170001480200">Conversion of ammonia into nitrates by microbes.
+      </meaning>
+    </definition>
+    <definition id="id1169991354097">
+      <term>photosynthesis</term>
+      <meaning id="oo-id1170007370152">The process in which plants use energy from sunlight to combine CO<sub>2</sub> from the atmosphere with water to make sugars, and in turn build biomass.
+      </meaning>
+    </definition>
+    <definition id="id1169993096750">
+      <term>physical components of the earth system</term>
+      <meaning id="oo-id1170002119081">Nonliving factors such as rocks, minerals, water, climate, air, and energy.
+      </meaning>
+    </definition>
+    <definition id="id1170005948192">
+      <term>pools</term>
+      <meaning id="oo-id1170012784811">Amounts of material in biogeochemical cycles that share some common characteristic and are relatively uniform in nature.
+      </meaning>
+    </definition>
+    <definition id="id1170007589986">
+      <term>precipitation</term>
+      <meaning id="oo-id1169998470746">The conversion of atmospheric water from vapor into liquid (rain) or solid forms (snow, hail) that then fall to Earth's surface.
+      </meaning>
+    </definition>
+    <definition id="id1170009882167">
+      <term>primary producers</term>
+      <meaning id="oo-id1169993100240">The primary entry point of carbon into the biosphere—in nearly all land and aquatic ecosystems plants perform this role by virtue of photosynthesis.
+      </meaning>
+    </definition>
+    <definition id="id1169997888925">
+      <term>respiration</term>
+      <meaning id="oo-id6414237">Metabolic process in all organisms that generates energy and synthesizes biomass while releasing CO<sub>2</sub> as a by-product.
+      </meaning>
+    </definition>
+    <definition id="id7376046">
+      <term>streamflow</term>
+      <meaning id="oo-id1170009910411">Flow of water in streams.
+      </meaning>
+    </definition>
+    <definition id="id1169992911594">
+      <term>surface runoff</term>
+      <meaning id="oo-id8514863">Flow of water over the land surface.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

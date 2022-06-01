@@ -1,0 +1,189 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Conversion of Biomass into Biofuels</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41736</md:content-id>
+  <md:title>The Conversion of Biomass into Biofuels</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the social and environmental motivations for biofuels production, 2) the main types of catalytic and biocatalytic routes to produce biofuels and biochemicals, 3) alcohol (ethanol and butanol) biofuels and hydrocarbon biofuels (green gasoline, diesel, and jet fuel).</md:abstract>
+  <md:uuid>4f66707b-2d28-473c-81b3-f61ba8bc4311</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169840281700">
+      <title>Learning Objectives</title>
+      <para id="id1169838350738">After reading this module, students should be able to</para>
+      <list id="id1169835475580" list-type="bulleted">
+        <item>understand the social and environmental motivations for biofuels production</item>
+        <item>learn the main types of catalytic and biocatalytic routes to produce biofuels and biochemicals</item>
+        <item>compare alcohol (ethanol and butanol) biofuels to hydrocarbon biofuels (green gasoline, diesel, and jet fuel)</item>
+      </list>
+    </section>
+    <section id="id2002420">
+      <title>Introduction</title>
+      <para id="id2485936">Biofuels are fuels made from biomass. The best known example is ethanol, which can be easily fermented from sugar cane juice, as is done in Brazil. Ethanol can also be fermented from broken down (saccarified) corn starch, as is mainly done in the United States. Most recently, efforts have been devoted to making drop-in replacement hydrocarbon biofuels called green gasoline, green diesel, or green jet fuel. This chapter discusses the need for biofuels, the types of biofuels that can be produced from the various available biomass feedstocks, and the advantages and disadvantages of each fuel and feedstock. The various ways of producing biofuels are also reviewed.</para>
+    </section>
+    <section id="id1169834651852">
+      <title>The Need for Renewable Transportation Fuels</title>
+      <para id="id1169842659305">In crude oil, coal, and natural gas, (collectively called fossil fuels) our planet has provided us with sources of energy that have been easy to obtain and convert into useful fuels and chemicals. That situation will soon change, however, in a few decades for petroleum crude and in a few centuries for coal and natural gas. <term target-id="id1169846130236">Peak oil</term> refers to the peak in oil production that must occur as petroleum crude runs out. As shown in Figure <link target-id="id1169840429288"><emphasis effect="bold">Peak Oil – The Growing Gap</emphasis></link>, the main discoveries of crude oil occurred prior to 1980.</para>
+      <para id="id6063287">
+        <figure id="id1169840429288"><media id="id1169840429288_media" alt="Peak Oil – The Growing Gap" longdesc="Petroleum crude oil discoveries versus refined oil production.">
+            <image mime-type="image/png" src="../../media/graphics1-ec59.png" id="id1169840429288__onlineimage" height="322" width="435"/>
+          </media>
+        <caption><emphasis effect="bold">Peak Oil – The Growing Gap</emphasis> Petroleum crude oil discoveries versus refined oil production. <emphasis effect="italics">Source: </emphasis><link url="http://www.bartlett.house.gov/uploadedfiles/PeakOilGapDiscoveryConsumption.pdf" window="new"><emphasis effect="italics">Rep. Roscoe Bartlett, Maryland</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1696086">Since oil is getting harder and harder to find, we now have to obtain it from less accessible places such as far under the ocean, which has led to hard-to-repair accidents such as the <link url="http://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill" window="new">Deepwater Horizon oil spill</link> in May, 2010. An additional effect is the higher cost of refining the petroleum since it comes from more remote locations or in less desirable forms such as thick, rocky “tar sand” or “oil sand” found in Canada or Venezuela. Overall, the use of petroleum crude cannot exceed the amount of petroleum that has been discovered, and assuming that no major oil discoveries lie ahead, the production of oil from crude must start to decrease. Some analysts think that this peak has already happened.</para>
+      <para id="id1169834660348">An additional aspect of oil scarcity is energy independence. The United States currently imports about two thirds of its petroleum, making it dependent on the beneficence of countries that possess large amounts of oil. These countries are shown in Figure <link target-id="id2711904"><emphasis effect="bold">The World According to Oil</emphasis></link>, a world map rescaled with the area of each country proportional to its oil reserves. Middle Eastern countries are among those with the highest oil reserves. With its economy and standard of living so based on imported petroleum crude it is easy to see why the United States is deeply involved in Middle East politics. It should be noted that Figure <link target-id="id1169840429288"><emphasis effect="bold">Peak Oil – The Growing Gap</emphasis></link> corresponds to the entire world and even currently oil-rich countries such as Saudi Arabia will soon experience peak oil.</para>
+      <para id="id1169844969474">
+        <figure id="id2711904"><media id="id2711904_media" alt="World According to Oil" longdesc="World map redrawn with country area proportional to oil resources.">
+            <image mime-type="image/png" src="../../media/graphics2-e465.png" id="id2711904__onlineimage" height="347" width="600"/>
+          </media>
+        <caption><emphasis effect="bold">The World According to Oil</emphasis> World map redrawn with country area proportional to oil resources. <emphasis effect="italics">Source: </emphasis><link url="http://www.bartlett.house.gov/uploadedfiles/PeakChartWhoHastheOil.pdf" window="new"><emphasis effect="italics">Rep. Roscoe Bartlett, Maryland</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1169842577163">A second major motivation to move away from petroleum crude is global climate change. While the correlation of carbon dioxide (CO<sub>2</sub>) concentration in the atmosphere to average global temperature is presently being debated, the rise of CO<sub>2</sub> in our atmosphere that has come from burning fossil fuel since the industrial revolution is from about 280 ppm to about 390 ppm at present, and cannot be denied. Energy sources such as wind, solar, nuclear, and biomass are needed that minimize or eliminate the release of atmospheric CO<sub>2</sub>. Biomass is included in this list since the carbon that makes up plant fiber is taken from the atmosphere in the process of photosynthesis. Burning fuel derived from biomass releases the CO<sub>2</sub> back into the atmosphere, where it can again be incorporated into plant mass. The <link url="http://en.wikipedia.org/wiki/Energy_Independence_and_Security_Act_of_2007" window="new">Energy Independence and Security Act (EISA) of 2007</link> defines an advanced biofuel as one that lowers lifecycle greenhouse gas emissions (emissions from all processes involved in obtaining, refining, and finally burning the fuel) by 60% relative to the baseline of 2005 petroleum crude.</para>
+    </section>
+    <section id="id1169840230992">
+      <title>First Generation Biofuels</title>
+      <para id="id1169850701330">First generation biofuels are commonly considered to be ethanol, as has been produced in Brazil for over 30 years from sugar cane, and biodiesel produced by breaking down, in a process called <term target-id="id1169838328634">transesterification</term>, vegetable oil. Brazil can efficiently harvest the juice from its sugar cane and make ethanol, which is price-competitive with gasoline at cost per mile.</para>
+      <para id="id1169845646702">
+        <figure id="id8494761"><media id="id8494761_media" alt="Gas/Ethanol Fuel Pump" longdesc="A fuel pump in Brazil offering either ethanol alcohol (A) or gasoline (G).">
+            <image mime-type="image/jpg" src="../../media/Picture 1-c7c6.jpg" id="id8494761__onlineimage" height="313" width="437"/>
+          </media>
+        <caption><emphasis effect="bold">Gas/Ethanol Fuel Pump</emphasis> A fuel pump in Brazil offering either ethanol alcohol (A) or gasoline (G). <emphasis effect="italics">Source:</emphasis><link url="http://www.flickr.com/photos/natecull/3515757/" window="new"><emphasis effect="italics"> Natecull</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1169838183409">There, if the cost of alcohol (as it is known colloquially) is less than 70% than the cost of gasoline, tanks are filled with ethanol. If the cost of alcohol is more than 70% of the cost of gasoline, people fill up with gasoline since there is about a 30% penalty in gas mileage with ethanol. This comes about simply because the chemical structure of ethanol has less energy per volume (about 76,000 Btu/gallon or 5,100 kcal/liter) than gasoline (115 Btu/gallon or 7,600 kcal/liter) or diesel (132,000 Btu/gallon or 8,800 kcal/liter). Cane ethanol qualifies, per EISA 2007, as an advanced biofuel.</para>
+      <para id="id1169834836716">In the United States, for a cost of about twice that of cane-derived ethanol, corn starch is saccharified and fermented into ethanol. Ethanol is used predominantly as a high octane, oxygenated blend at 10% to improve the combustion in gasoline engines. The distribution of ethanol as <link url="http://en.wikipedia.org/wiki/E85" window="new">E85 flex fuel</link> (85% ethanol and 15% gasoline) has faltered probably because the price, even with a 50 cents/gallon federal subsidy, does not make up for the 25 – 30% decrease in gas mileage (see Figure <link target-id="id1169847823191"><emphasis effect="bold">Mileage Comparisons</emphasis></link>).</para>
+      <para id="id1169845223606">
+        <figure id="id1169847823191"><media id="id1169847823191_media" alt="Mileage Comparisons" longdesc="Mileage comparison of gasoline and E85 flex fuel.">
+            <image mime-type="image/png" src="../../media/graphics3-ef6b.png" id="id1169847823191__onlineimage" height="445" width="460"/>
+          </media>
+        <caption><emphasis effect="bold">Mileage Comparisons</emphasis> Mileage comparison of gasoline and E85 flex fuel. <emphasis effect="italics">Source: U.S. Department of Energy, Energy Efficiency and Renewable Energy. Image created at <link url="http://www.fueleconomy.gov/feg/byfueltype.htm" window="new">http://www.fueleconomy.gov/feg/byfueltype.htm</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169848995111">First generation biodiesel is made via the base catalyzed <term target-id="id1169838328634">transesterification </term>of plant oils such as soy and palm. The main disadvantage with plant oil-based biofuels is the high cost of the plant oil, owing to the relatively little oil that can be produced per acre of farmland compared to other biofuel sources. The problem with transesterification is that it produces a fuel relatively high in oxygen, which a) causes the biodiesel to become cloudy (partially freeze) at relatively high temperature, and makes the biodiesel b) less stable, and c) less energy dense than petroleum-derived diesel.</para>
+      <para id="id1169844515115">Cane ethanol qualifies as an advanced biofuel, as its production lowers greenhouse gas emissions more than 60% relative to the 2005 petroleum baseline (per EISA 2007). Corn ethanol is far from this energy efficiency. However, ethanol made from <term target-id="id1169838519318">lignocellulose</term> – the non-food part of plants - comes close, at a 50% reduction. This brings us to the second generation of biofuels.</para>
+    </section>
+    <section id="id1169839412563">
+      <title>Second Generation Biofuels</title>
+      <para id="id1169852657339">Second generation biofuels are shown in Figure <link target-id="id5957845"><emphasis effect="bold">Second Generation Biofuels</emphasis></link>. In anticipation of the “food versus fuel” debate, EISA 2007 placed a cap on the production of corn ethanol (at 15 billion gallons/year, close to what is now produced), with the bulk of biofuels to be derived from agricultural residues such as corn stover (the parts of the corn plant left over from the ears of corn – the stalk and leaves) and wheat straw, forest waste (wood trimmings) and energy crops such as switchgrass and short rotation poplar trees which can be grown on abandoned or marginal farmland with minimal irrigation and fertilization. A U.S. Department of Agriculture study commissioned in 2005 called the <link url="http://feedstockreview.ornl.gov/pdf/billion_ton_vision.pdf" window="new">Billion Ton Study</link> estimated that approximately one billion tons per year of biomass could be sustainably produced in the United States each year; the energy in this biomass equals to the amount of oil we import. If the energy contained in this biomass can be recovered at an efficiency of 50 percent, we can replace half of our imported oil with domestically produced biofuels.</para>
+      <para id="id8929152">
+        <figure id="id5957845"><media id="id5957845_media" alt="Second Generation Biofuels" longdesc="Second generation biofuels; cellulosic ethanol and green diesel.">
+            <image mime-type="image/png" src="../../media/graphics4-64b2.png" id="id5957845__onlineimage" height="359" width="537"/>
+          </media>
+        <caption><emphasis effect="bold">Second Generation Biofuels</emphasis> Cellulosic ethanol and green diesel. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/jrr" window="new">John Regalbuto</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169838571612">Collectively termed “lignocellulose,” this material consists of three main components; cellulose, hemicellulose, and lignin. Chemical or biological pretreatments are required to separate the whole biomasss into these fractions. Hemicellulose and cellulose, with the appropriate enzymes or inorganic acids, can be deconstructed into simple sugars and the sugars fermented into ethanol, or with some newer strains of microbes, into butanol. Butanol has only 10% less energy density than gasoline. The lignin fraction of biomass is the most resistant to deconstruction by biological or chemical means and is often burned for heat or power recovery.</para>
+      <para id="id1169834646318">At the same time attention turned toward cellulosic ethanol, petroleum refining companies set about to improve biodiesel. A petroleum refining process called <term target-id="id1169845304376">hydrotreating</term> was used to upgrade plant oil. In this process, the oil is reacted with hydrogen in the presence of inorganic catalysts, and the plant oil is converted into a much higher quality, oxygen-free “green diesel” and jet fuel. This type of biofuel is in fact a “drop in replacement” to petroleum-derived diesel and jet fuel and passes all of the stringent regulations demanded by the automobile and defense industries. It has been tested in a number of commercial and military aircraft.</para>
+    </section>
+    <section id="id1169840137519">
+      <title>“Advanced” Biofuels</title>
+      <para id="id6154730">Advanced biofuels are, in fact, characterized by their similarity to present day gasoline, diesel, and jet fuels. Advanced biofuels are <term target-id="id5693672">infrastructure compatible</term> and <term target-id="id1169838392759">energy dense</term>. The two disadvantages with even cellulosic ethanol are its low energy density (the energy content of ethanol being independent of whether it comes from corn, cellulose, etc.) and its incompatibility with existing car engines, oil pipelines, storage tanks, refineries, etc. For these two reasons the latest research and development efforts in the United States have been devoted to hydrocarbon biofuels, which have the same gas mileage as the gasoline and diesel fuels now used, and are completely compatible with the existing oil infrastructure.</para>
+      <para id="id1169834646337">
+        <figure id="id1169844457217"><media id="id1169844457217_media" alt="Routes to Advanced Biofuels" longdesc="Various routes to drop-in replacement hydrocarbon biofuels.">
+            <image mime-type="image/png" src="../../media/graphics5-bda0.png" id="id1169844457217__onlineimage" height="344" width="600"/>
+          </media>
+        <caption><emphasis effect="bold">Routes to Advanced Biofuels</emphasis> Various routes to drop-in replacement hydrocarbon biofuels. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/jrr" window="new">John Regalbuto</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169847972303">The various routes to drop-in replacement hydrocarbon biofuels are shown in Figure <link target-id="id1169844457217"><emphasis effect="bold">Routes to Advanced Biofuels</emphasis></link>. On the left side of the figure, feedstocks are ordered relative to their abundance and cost. The most abundant and, therefore, cheapest feedstock is lignocellulose from sources such as agricultural residue, forest waste, and energy crops such as switch grass and short rotation poplar trees. Of lesser abundance and higher expense are the sugars and starches – corn and sugar cane. The least abundant and most expensive biofuels, lipid-based feedstocks from plant oil or animal fat, are shown at the bottom. Efforts are underway to mass produce oil-laden algae. The oils harvested from algae are relatively easy to convert to hydrocarbon biofuels, by using processing similar to hydrotreating. The main set of problems associated with algae lie in its mass production. Algal feedstocks are easy to convert to hydrocarbons but algae itself is difficult to mass produce, whereas lignocellulose is very abundant but more difficult to convert into hydrocarbons.</para>
+      <para id="id1169838116916">Two of the routes to hydrocarbon biofuels compete directly with <term target-id="id1169840620909">fermentation</term> of sugars to ethanol. The same sugars can be treated with inorganic catalysts, via the blue liquid phase processing routes seen in the center of Figure <link target-id="id1169844457217"><emphasis effect="bold">Routes to Advanced Biofuels</emphasis></link>, or with microbial routes to yield hydrocarbons as the fermentation product (pink routes). Microbes are examples of biocatalysts; enzymes within the microbe act in basically the same way that inorganic catalysts act in inorganic solutions. The field of research in which enzymes are engineered to alter biological reaction pathways is called synthetic biology.</para>
+      <para id="id1169849028066">A flow sheet of an inorganic catalytic set of processes to hydrocarbon biofuels, from a leading biofuel startup company (<link url="http://www.virent.com/" window="new">Virent Energy Systems</link> of Madison, Wisconsin) is shown in Figure <link target-id="id1169835645158"><emphasis effect="bold">Inorganic Catalytic Routes to Advanced Biofuels</emphasis></link>. Both of the <term target-id="id1169834837890">biocatalytic</term> and the inorganic catalytic processes involve an intrinsic separation of the hydrocarbon product from water, which eliminates the energy intensive distillation step needed for alcohol fuels. For the microbial route the added benefit of this self-separation is that the microbes are not poisoned by the accumulation of product as occurs in fermentation to alcohol.</para>
+      <para id="id1801374">
+        <figure id="id1169835645158"><media id="id1169835645158_media" alt="Inorganic Catalytic Routes to Advanced Biofuels" longdesc="A flow sheet of an inorganic catalytic set of processes to hydrocarbon biofuels, from a leading biofuel startup company, Virent Energy Systems.">
+            <image mime-type="image/png" src="../../media/graphics6-6e1f.png" id="id1169835645158__onlineimage" height="267" width="599"/>
+          </media>
+        <caption><emphasis effect="bold">Inorganic Catalytic Routes to Advanced Biofuels</emphasis> A flow sheet of an inorganic catalytic set of processes to hydrocarbon biofuels, from a leading biofuel startup company, Virent Energy Systems. <emphasis effect="italics">Source: </emphasis><link url="http://www.virent.com/News/in_the_media/catalytic_conversion_of_sugar.pdf" window="new"><emphasis effect="italics">Virent Energy Systems, figure 1</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id6790222">Two other main routes to hydrocarbon biofuels are seen in the upper section of Figure <link target-id="id1169844457217"><emphasis effect="bold">Routes to Advanced Biofuels</emphasis></link>: <term target-id="id1169842862271">gasification</term> and <term target-id="id1169840532497">pyrolysis</term>. An advantage of both of these routes is that they process whole biomass, including the energy-rich lignin fraction of it. Gasification produces a mixture of carbon monoxide and hydrogen called synthesis gas, which can be converted to hydrocarbon fuels by a number of currently commercialized catalytic routes including <term target-id="id1169843166214">Fischer-Tropsch synthesis</term> and methanol-to-gasoline. The challenge with biomass is to make these processes economically viable at small scale. The second process is pyrolysis, which yields a crude-like intermediate called pyrolysis oil or bio-oil. This intermediate must be further treated to remove oxygen; once this is done it can be inserted into an existing petroleum refinery for further processing.</para>
+    </section>
+    <section id="id1169840718320">
+      <title>Summary</title>
+      <para id="id1169835690839">The motivations for hydrocarbon biofuels are energy independence and a reduction in greenhouse gas emissions. The first renewable biofuels were biodiesel and bioethanol. With <term target-id="id1169835814852">inorganic catalysis</term> and <term target-id="id2484005">synthetic biology</term>, these have been supplanted with drop-in replacement gasoline, diesel, and jet fuels. These can be made in the United States in a number of ways from presently available, sustainably produced lignocellulosic feedstocks such as corn stover, wood chips, and switchgrass, and in the future, from mass-produced algae. It is too early to tell which production method will prevail, if in fact one does. Some processes might end up being particularly advantageous for a particular feedstock such as wood or switchgrass. What we do know is that something has to be done; our supply of inexpensive, easily accessible oil is running out. Biofuels will be a big part of the country’s long-term energy independence. A great deal of scientific and engineering research is currently underway; it’s an exciting time for biofuels.</para>
+    </section>
+    <section id="id1169847934972">
+      <title>Review Questions</title>
+      <exercise id="id1169835489210">
+				<label>Question</label>
+        <problem id="oo-id1169835374411">
+          <para id="id1169835692166">What are the potential advantages of hydrocarbon biofuels over alcohol biofuels?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8095548">
+				<label>Question</label>
+        <problem id="oo-id1169835366362">
+          <para id="id1169838934459">How could biofuels be used with other alternate energy forms to help the United States become energy independent?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1169834837890">
+      <term>biocatalysis</term>
+      <meaning id="oo-id1169835419643">Catalysis conducted by enzymes – catalysis within the body, for example.
+      </meaning>
+    </definition>
+    <definition id="id1169838392759">
+      <term>energy density</term>
+      <meaning id="oo-id1169834660124">The amount of energy contained in a given volume (say a gas tank). The higher the energy density of a fuel, the farther the car will go on a tank of the fuel.
+      </meaning>
+    </definition>
+    <definition id="id1169840620909">
+      <term>fermentation</term>
+      <meaning id="oo-id1169835371337">The conversion of sugars into alcohols or hydrocarbons by microbes.
+      </meaning>
+    </definition>
+    <definition id="id1169843166214">
+      <term>Fischer-Tropsch synthesis </term>
+      <meaning id="oo-id1169835364974">The inorganic catalytic reaction between CO and H<sub>2</sub> (synthesis gas), which produces diesel and jet fuel.
+      </meaning>
+    </definition>
+    <definition id="id1169842862271">
+      <term>gasification</term>
+      <meaning id="oo-id1169835654677">The conversion of biomass at very high temperature (1000 – 1200°C) in an oxygen atmosphere that results in a “synthesis gas” intermediate – a mixture of carbon monoxide (CO) and hydrogen (H<sub>2</sub>).
+      </meaning>
+    </definition>
+    <definition id="id1169845304376">
+      <term>hydrotreating</term>
+      <meaning id="oo-id1169835787437">Reaction in the presence of hydrogen.
+      </meaning>
+    </definition>
+    <definition id="id5693672">
+      <term>infrastructure compatible</term>
+      <meaning id="oo-id1169835134292">Compatible with existing oil pipelines, storage tanks, petroleum refineries, and internal combustion engines.
+      </meaning>
+    </definition>
+    <definition id="id1169835814852">
+      <term>inorganic catalysis</term>
+      <meaning id="oo-id1169835354473">Solid, inorganic materials such as platinum nanoparticles deposited onto activated carbon, which accelerate the rate of chemical reactions without being consumed in the process.
+      </meaning>
+    </definition>
+    <definition id="id1169838519318">
+      <term>lignocellulose</term>
+      <meaning id="oo-id1169834924548">The non-food portion of plants such as the stalks and leaves of corn plants (corn stover).
+      </meaning>
+    </definition>
+    <definition id="id1169846130236">
+      <term>peak oil</term>
+      <meaning id="oo-id2408765">The peak in world oil production that must come about as oil consumption surpasses the discovery of new oil.
+      </meaning>
+    </definition>
+    <definition id="id1169840532497">
+      <term>pyrolysis</term>
+      <meaning id="oo-id1169834849113">The conversion of biomass at moderately high temperature (500 – 800°C) in an inert atmosphere that results in a “bio-oil” intermediate.
+      </meaning>
+    </definition>
+    <definition id="id2484005">
+      <term>synthetic biology</term>
+      <meaning id="oo-id1169834910101">The field of biology in which microbes are engineered to control metabolic pathways.
+      </meaning>
+    </definition>
+    <definition id="id1169838328634">
+      <term>transesterification</term>
+      <meaning id="oo-id1169835051498">The base catalyzed reaction of plant oil with methanol with breaks the oil into long fatty acid chains, which can be used as a low quality diesel fuel.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

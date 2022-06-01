@@ -1,0 +1,187 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electric and Plug-in Hybrids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41738</md:content-id>
+  <md:title>Electric and Plug-in Hybrids</md:title>
+  <md:abstract>in this module, the following topics are covered: 1) the traditional dependence of transportation on oil and the internal combustion engine, 2) alternatives to oil as a transportation fuel: hydrogen and electricity. 2) the dual use of oil and electricity in hybrid vehicles and their impact on energy efficiency and carbon emissions.</md:abstract>
+  <md:uuid>239fee48-50ad-45b5-b0c6-a9cdf1b98b85</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166904779161">
+      <title>Learning Objectives</title>
+      <para id="id1166905247236">After reading this module, students should be able to</para>
+      <list id="id1166905414048" list-type="bulleted">
+        <item>outline the traditional dependence of transportation on oil and the internal combustion engine</item>
+        <item>understand two alternatives to oil as a transportation fuel: hydrogen and electricity</item>
+        <item>understand the dual use of oil and electricity in hybrid vehicles and their impact on energy efficiency and carbon emissions</item>
+      </list>
+    </section>
+    <section id="id2579486">
+      <title>Introduction</title>
+      <para id="id1166905426402">Since the early 20th Century, oil and the <term target-id="id1166906072503">internal combustion engine</term> have dominated transportation. The fortunes of oil and vehicles have been intertwined, with oil racing to meet the energy demands of the ever growing power and number of personal vehicles, vehicles driving farther in response to growing interstate highway opportunities for long distance personal travel and freight shipping, and greater personal mobility producing living patterns in far-flung suburbs that require oil and cars to function. In recent and future years, the greatest transportation growth will be in developing countries where the need and the market for transportation is growing rapidly. China has an emerging middle class that is larger than the entire population of the United States, a sign that developing countries will soon direct or strongly influence the emergence of new technologies designed to serve their needs. Beyond deploying new technologies, developing countries have a potentially large second advantage: they need not follow the same development path through outdated intermediate technologies taken by the developed world. Leapfrogging directly to the most advanced technologies avoids legacy infrastructures and long turnover times, allowing innovation and deployment on an accelerated scale.</para>
+      <para id="id1166906786055">The internal combustion engine and the vehicles it powers have made enormous engineering strides in the past half century, increasing efficiency, durability, comfort and adding such now-standard features as air conditioning, cruise control, hands-free cell phone use, and global positioning systems. Simultaneously, the automobile industry has become global, dramatically increasing competition, consumer choice and marketing reach. The most recent trend in transportation is dramatic swings in the price of oil, the lifeblood of traditional vehicles powered with internal combustion engines.</para>
+    </section>
+    <section id="id1166910500407">
+      <title>Hydrogen as an Alternative Fuel</title>
+      <para id="id1166910064096">The traditional synergy of oil with automobiles may now be showing signs of strain. The reliance of vehicles on one fuel whose price shows strong fluctuations and whose future course is ultimately unsustainable presents long-term business challenges. Motivated by these business and sustainability concerns, the automobile industry is beginning to diversify to other fuels. Hydrogen made its debut in the early 2000s, and showed that it has the potential to power vehicles using fuel cells to produce on-board electricity for electric motors (<link target-id="id1166905474373">Eberle and von Helmholt, 2010</link>, <link target-id="id1166904381416">Crabtree, Dresselhaus, &amp; Buchanan, 2004</link>). One advantage of hydrogen is efficiency, up to 50 percent or greater for fuel cells, up to 90 percent or greater for electric motors powering the car, compared with 25 percent efficiency for an internal combustion engine. A second advantage is reduced dependence on foreign oil – hydrogen can be produced from natural gas or from entirely renewable resources such as solar decomposition of water. A third potential advantage of hydrogen is environmental – the emissions from the hydrogen car are harmless: water and a small amount of heat, though the emissions from the hydrogen production chain may significantly offset this advantage.</para>
+      <para id="id1166905491889">The vision of hydrogen cars powered by fuel cells remains strong. It must overcome significant challenges, however, before becoming practical, such as storing hydrogen on board vehicles at high densities, finding inexpensive and earth-abundant catalysts to promote the reduction of oxygen to water in fuel cells, and producing enough hydrogen from renewable sources such as solar driven water splitting to fuel the automobile industry (<link target-id="id1166904391874">Crabtree &amp; Dresselhaus, 2008</link>). The hydrogen and electric energy chains for automobiles are illustrated in <emphasis effect="bold">Figure</emphasis> <link target-id="id1166904441577">Electric Transportation</link>. Many scientists and automobile companies are exploring hydrogen as a long-term alternative to oil. </para>
+      <para id="id1166904466697">
+        <figure id="id1166904441577"><media id="id1166904441577_media" alt="Electric Transportation" longdesc="Transportation is electrified by replacing the gasoline engine with an electric motor, powered by electricity from a battery on board the car (upper panel) or electricity from a fuel cell and hydrogen storage system on board the car (lower panel). For maximum effectiveness, both routes require renewable production of electricity or hydrogen.">
+            <image mime-type="image/jpg" src="../../media/graphics1-bc4d.jpg" id="id1166904441577__onlineimage" height="285" width="599"/>
+          </media>
+        <caption> <emphasis effect="bold">Electric Transportation</emphasis> Transportation is electrified by replacing the gasoline engine with an electric motor, powered by electricity from a battery on board the car (upper panel) or electricity from a fuel cell and hydrogen storage system on board the car (lower panel). For maximum effectiveness, both routes require renewable production of electricity or hydrogen. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/crabtree"><emphasis effect="italics">George Crabtree</emphasis></link><emphasis effect="italics"> using images from </emphasis><link url="http://commons.wikimedia.org/wiki/File:Anker_power_lines_.JPG" window="new"><emphasis effect="italics">Rondol</emphasis></link><emphasis effect="italics">, </emphasis><link url="http://www.flickr.com/photos/skinnylawyer/5871298909/" window="new"><emphasis effect="italics">skinnylawyer</emphasis></link><emphasis effect="italics">, </emphasis><link url="http://www.flickr.com/photos/tinou/393794108/#/" window="new"><emphasis effect="italics">Tinu Bao</emphasis></link><emphasis effect="italics">, </emphasis><link url="http://science.energy.gov/~/media/bes/pdf/reports/files/nhe_rpt.pdf" window="new"><emphasis effect="italics">U.S. Department of Energy, Office of Science</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id1166915080088">
+      <title>Electricity as an Alternative Fuel</title>
+      <para id="id1166905230690">Electric cars represent a second alternative to oil for transportation, with many similarities to hydrogen (see <emphasis effect="bold">Figure</emphasis> <link target-id="id1166904441577">Electric Transportation</link>). Electric vehicles are run by an electric motor, as in a fuel cell car, up to four times as efficient as a gasoline engine. The electric motor is far simpler than a gasoline engine, having only one moving part, a shaft rotating inside a stationary housing and surrounded by a coil of copper wire. Electricity comes from a battery, whose storage capacity, like that of hydrogen materials, is too small to enable long distance driving. Developing higher <term target-id="id1166906058453">energy density</term> batteries for vehicles is a major challenge for the electric car industry. The battery must be charged before driving, which can be done from the grid using excess capacity available at night, or during the day from special solar charging stations that do not add additional load to the grid. Because charging typically takes hours, a potentially attractive alternative is switching the battery out in a matter of minutes for a freshly charged one at special swapping stations. A large fleet of electric cars in the United States would require significant additional electricity, as much as 130 GW if the entire passenger and light truck fleet were converted to electricity, or 30 percent of average United States electricity usage in 2008.</para>
+      <para id="id1166899092956">The energy usage of electric cars is about a factor of four less than for gasoline cars, consistent with the higher efficiency of electric motors over internal combustion engines. Although gasoline cars vary significantly in their energy efficiency, a "typical" middle of the road value for a five-passenger car is 80kWh/100km. A typical electric car (such as the Think Ox from Norway, the Chevy Volt operating in its electric mode, or the Nissan Leaf) uses ~ 20 kWh/100km. While the energy cost of electric cars at the <term target-id="id1166901628209">point of use</term> is significantly less, one must consider the cost at the <term target-id="id1166905181046">point of production</term>, the electricity generating plant. If the vehicle's electricity comes from coal with a conversion efficiency of 33 percent, the primary energy cost is 60 kWh/100km, approaching but still smaller than that of the gasoline car. If electricity is generated by combined cycle natural gas turbines with 60 percent efficiency, the primary energy cost is 33 kWh/100km, less than half the primary energy cost for gasoline cars. These comparisons are presented in <emphasis effect="bold">Table</emphasis> <link target-id="id1166912520553">Comparisons of Energy Use</link>.</para>
+      <table id="id1166912520553" summary="Comparison of energy use for gasoline driven and battery driven cars, for the cases of inefficient coal generation (33%) and efficient combined cycle natural gas generation (60%) of electricity."><title>Comparisons of Energy Use</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry><emphasis effect="bold">Gasoline Engine 5 passenger car</emphasis></entry>
+              <entry><emphasis effect="bold">Battery Electric Nissan Leaf, Chevy Volt (battery mode), Think Ox</emphasis></entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Energy use at point of use</emphasis></entry>
+              <entry>80 kWh/100km</entry>
+              <entry>20 kWh/100km</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Energy use at point of production: Coal at 33% efficiency</emphasis></entry>
+              <entry/>
+              <entry>60 kWh/100km</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Combined Cycle Natural Gas at 60% efficiency</emphasis></entry>
+              <entry/>
+              <entry>33 kWh/100km</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of energy use for gasoline driven and battery driven cars, for the cases of inefficient coal generation (33%) and efficient combined cycle natural gas generation (60%) of electricity. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/crabtree"><emphasis effect="italics">George Crabtree</emphasis></link><emphasis effect="italics">.</emphasis></caption>
+</table>
+      
+      <table id="id1166905658301" summary="Comparison of carbon emissions from gasoline driven and battery driven cars, for the cases of high emission coal generation (2.1 lb CO2/kWh), lower emission natural gas (1.3 lbCO2/kWh) and very low emission nuclear, hydro, wind or solar electricity."><title>Comparisons of Carbon Emissions</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry><emphasis effect="bold">Gasoline Engine 5 passenger car</emphasis></entry>
+              <entry><emphasis effect="bold">Battery Electric Nissan Leaf, Chevy Volt (battery mode), Think Ox</emphasis></entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">CO2 Emissions at point of use</emphasis></entry>
+              <entry>41 lbs</entry>
+              <entry>~ 0</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">CO2 Emissions at point of production Coal@2.1 lb CO2/kWh</emphasis></entry>
+              <entry/>
+              <entry>42 lbs</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Gas@1.3 lb CO2/kWh</emphasis></entry>
+              <entry/>
+              <entry>25 lbs</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Nuclear, hydro, wind or solar</emphasis></entry>
+              <entry/>
+              <entry>&lt; 1 lb</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Comparison of carbon emissions from gasoline driven and battery driven cars, for the cases of high emission coal generation (2.1 lb CO2/kWh), lower emission natural gas (1.3 lbCO2/kWh) and very low emission nuclear, hydro, wind or solar electricity. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/crabtree"><emphasis effect="italics">George Crabtree</emphasis></link>.</caption>
+</table>
+      
+      <para id="id1166904422425">The carbon footprint of electric cars requires a similar calculation. For coal-fired electricity producing 2.1 lb CO<sub>2</sub>/kWh, driving 100km produces 42 lbs (19 kgs) of carbon dioxide; for gas-fired electricity producing 1.3 lb CO<sub>2</sub>/kWh, 100km of driving produces 26 lbs (11.7 kgs) of carbon dioxide. If electricity is produced by nuclear or renewable energy such as wind, solar or hydroelectric, no carbon dioxide is produced. For a "typical" gasoline car, 100km of driving produces 41 lbs (18.5 kgs) of carbon dioxide. Thus the carbon footprint of a "typical" electric car is, at worst equal, to that of a gasoline car and, at best, zero. <emphasis effect="bold">Table</emphasis> <link target-id="id1166905658301">Comparisons of Carbon Emissions</link> summarizes the carbon footprint comparisons.</para>
+    </section>
+    <section id="id1166915708359">
+      <title>The Hybrid Solutions</title>
+      <para id="id6634906">Unlike electric cars, <term target-id="id1166905083472">hybrid vehicles</term> rely only on gasoline for their power. Hybrids do, however, have a supplemental electric motor and drive system that operates only when the gasoline engine performance is weak or needs a boost: on starting from a stop, passing, or climbing hills. Conventional gasoline cars have only a single engine that must propel the car under all conditions; it must, therefore, be sized to the largest task. Under normal driving conditions the engine is larger and less efficient than it needs to be. The hybrid solves this dilemma by providing two drive trains, a gasoline engine for normal driving and an electric motor for high power needs when starting, climbing hills and passing. The engine and motor are tailored to their respective tasks, enabling each to be designed for maximum efficiency. As the electric motor is overall much more efficient, its use can raise fuel economy significantly.</para>
+      <para id="id1166899880696">The battery in hybrid cars has two functions: it drives the electric motor and also collects electrical energy from regenerative braking, converted from kinetic energy at the wheels by small generators. Regenerative braking is effective in start-stop driving, increasing efficiency up to 20 percent. Unlike gasoline engines, electric motors use no energy while standing still; hybrids therefore shut off the gasoline engine when the car comes to a stop to save the idling energy. Gasoline engines are notoriously inefficient at low speeds (hence the need for low gear ratios), so the electric motor accelerates the hybrid to ~15 mph (24 kph) before the gasoline engine restarts. Shutting the gasoline engine off while stopped increases efficiency as much as 17 percent.</para>
+      <para id="id1166899907589">The energy saving features of hybrids typically lower their energy requirements from 80 kWh/100km to 50-60 kWh/100km, a significant savings. It is important to note, however, that despite a supplementary electric motor drive system, all of a hybrid's energy comes from gasoline and none from the electricity grid.</para>
+      <para id="id5800115">The plug-in hybrid differs from conventional hybrids in tapping both gasoline and the electricity grid for its energy. Most plug-in hybrids are designed to run on electricity first and on gasoline second; the gasoline engine kicks in only when the battery runs out. The plug-in hybrid is thus an electric car with a supplemental gasoline engine, the opposite of the conventional hybrid cars described above. The value of the plug-in hybrid is that it solves the "driving range anxiety" of the consumer: there are no worries about getting home safely from a trip that turns out to be longer than expected. The disadvantage of the plug-in hybrid is the additional supplemental gasoline engine technology, which adds cost and complexity to the automobile.</para>
+    </section>
+    <section id="id1166901627978">
+      <title>The Battery Challenge</title>
+      <para id="id1166901627984">To achieve reasonable driving range, electric cars and plug-in hybrids need large batteries, one of their greatest design challenges and a potentially significant consumer barrier to widespread sales. Even with the largest practical batteries, driving range on electricity is limited, perhaps to ~100km. Designing higher energy density batteries is currently a major focus of energy research, with advances in Li-ion battery technology expected to bring significant improvements. The second potential barrier to public acceptance of electric vehicles is charging time, up to eight hours from a standard household outlet. This may suit overnight charging at home, but could be a problem for trips beyond the battery's range – with a gasoline car the driver simply fills up in a few minutes and is on his way. Novel infrastructure solutions such as battery swapping stations for long trips are under consideration.</para>
+      <para id="id7839933">From a sustainability perspective, the comparison of gasoline, electric, hybrid and plug-in hybrid cars is interesting. Hybrid cars take all their energy from gasoline and represent the least difference from gasoline cars. Their supplementary electric drive systems reduce gasoline usage by 30-40 percent, thus promoting conservation of a finite resource and reducing reliance on foreign oil. Electric cars, however, get all of their energy from grid electricity, a domestic energy source, completely eliminating reliance on foreign oil and use of finite oil resources. Their sustainability value is therefore higher than hybrids. Plug-in hybrids have the same potential as all electric vehicles, provided their gasoline engines are used sparingly. In terms of carbon emissions, the sustainability value of electric vehicles depends entirely on the electricity source: neutral for coal, positive for gas and highly positive for nuclear or renewable hydro, wind or solar. From an energy perspective, electric cars use a factor of four less energy than gasoline cars at the point of use, but this advantage is partially compromised by inefficiencies at the point of electricity generation. Even inefficient coal-fired electricity leaves an advantage for electric cars, and efficient gas-fired combined cycle electricity leaves electric cars more than a factor of two more energy efficient than gasoline cars.</para>
+    </section>
+    <section id="id1166901627290">
+      <title>Summary</title>
+      <para id="id1166901627296">Electricity offers an attractive alternative to oil as a transportation fuel: it is domestically produced, uses energy more efficiently, and, depending on the mode of electricity generation, can emit much less carbon. Electric vehicles can be powered by fuel cells producing electricity from hydrogen, or from batteries charged from the electricity grid. The hydrogen option presents greater technological challenges of fuel cell cost and durability and high capacity on-board hydrogen storage. The battery option is ready for implementation in the nearer term but requires higher energy density batteries for extended driving range, and a fast charging or battery swapping alternative to long battery charging times.</para>
+    </section>
+    <section id="id1166904402771">
+      <title>Review Questions</title>
+      <exercise id="id1166904393730">
+				<label>Question</label>
+        <problem id="oo-id1166905325221">
+          <para id="id1166904368173">Transportation relies almost exclusively for its fuel on oil, whose price fluctuates significantly in response to global geopolitics and whose long-term availability is limited. What are the motivations for each of the stakeholders, including citizens, companies and governments, to find alternatives to oil as a transportation fuel?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166904319784">
+				<label>Question</label>
+        <problem id="oo-id1166905550705">
+          <para id="id1166904292394">Electricity can replace oil as a transportation fuel in two ways: by on board production in a hydrogen fuel cell, and by on board storage in a battery. What research and development, infrastructure and production challenges must be overcome for each of these electrification options to be widely deployed?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166904283762">
+				<label>Question</label>
+        <problem id="oo-id1166905428738">
+          <para id="id1166904389438">Electric- and gasoline-driven cars each use energy and emit carbon dioxide. Which is more sustainable?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166904286488">
+				<label>Question</label>
+        <problem id="oo-id8417081">
+          <para id="id1166904273329">How do gasoline-driven, battery-driven and hybrid cars (like the Prius) compare for (i) energy efficiency, (ii) carbon emissions, and (iii) reducing dependence on foreign oil?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1166904282660">
+      <title>References</title>
+      <para id="id1166904381416">Crabtree, G.W., Dresselhaus, M.S., &amp; Buchanan, M.V. (2004). The Hydrogen Economy, <emphasis effect="italics">Physics Today</emphasis>, <emphasis effect="italics">57</emphasis>, 39-45. Retrieved September 2, 2011 from <link url="http://tecnet.pte.enel.it/depositi/tecnet/articolisegnalati/1447/38648-hydrogen_economy.pdf" window="new">http://tecnet.pte.enel.it/depositi/tecnet/articolisegnalati/1447/38648-hydrogen_economy.pdf</link></para>
+      <para id="id1166904391874">Crabtree, G.W. &amp; Dresselhaus, M.S. (2008). The Hydrogen Fuel Alternative. <emphasis effect="italics">MRS Bulletin,</emphasis><emphasis effect="italics">33</emphasis>, 421-428. Retrieved September 2, 2011 from <link url="http://www.physics.ohio-state.edu/~wilkins/energy/Resources/harnessing-mtl-energy/hfuel.pdf" window="new">http://www.physics.ohio-state.edu/~wilkins/energy/Resources/harnessing-mtl-energy/hfuel.pdf</link></para>
+      <para id="id1166904910370">Doucette, R.T. &amp; McCulloch, M.D. (2011). Modeling the CO2 emissions from battery electric vehicles given the power generation mixes of different countries. <emphasis effect="italics">Energy Policy</emphasis>, <emphasis effect="italics">39</emphasis>, 803-811. doi: 10.1016/j.enpol.2010.10.054 </para>
+      <para id="id1166905474373">Eberle, U. &amp; Helmolt, R.V. (2010). Sustainable transportation based on electric vehicle concepts: a brief overview. <emphasis effect="italics">Energy and Environmental Science</emphasis>, <emphasis effect="italics">3</emphasis>, 689-699. doi: 10.1039/C001674H</para>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1166906058453">
+      <term>Energy Density</term>
+      <meaning id="oo-id1166904784837">The energy contained in a volume or mass divided by the volume or mass it occupies. High energy density materials pack a large energy into a small space or mass; low energy density materials require more space or mass to store the same amount of energy. The electrical energy of batteries is at the low end of the energy density scale, the chemical energy of gasoline is at the high end, approximately a factor of 30-50 larger than batteries.
+      </meaning>
+    </definition>
+    <definition id="id1166905083472">
+      <term>Hybrid Vehicle</term>
+      <meaning id="oo-id1166905371325">A car that contains two drive systems, one based on the internal combustion engine and one on the electric motor. Conventional hybrids, such as the Toyota Prius, use the electric motor only when high power is needed: starting from a stop, passing, and going uphill. The electricity to run the motor is generated on board by an alternator powered by the internal combustion engine and by regenerative breaking. Plug-in hybrids such as the Chevy Volt, in contrast, use the electric motor as the main drive for the car, relying on the gasoline engine only when the battery is low or empty.
+      </meaning>
+    </definition>
+    <definition id="id1166906072503">
+      <term>Internal Combustion Engine</term>
+      <meaning id="oo-id1166899863292">The engine that converts the chemical energy of gasoline into the mechanical energy of motion, by exploding small amounts of fuel in the confined space of fixed cylinder containing a moving piston. A precise amount of fuel must be metered in, and a spark created at a precise moment in the piston's journey to produce the maximum explosive force to drive the piston. The internal combustion engine is an engineering marvel (the word engineering celebrates it) perfected over more than a century. In contrast, the electric motor is much simpler, more efficient and less expensive for the same power output. 
+      </meaning>
+    </definition>
+    <definition id="id1166905181046">
+      <term>Point of Production</term>
+      <meaning id="oo-id1166899863309">The first (or at least an early) step in the energy chain, where the energy that ultimately will perform a function at the point of use is put into its working form. For gasoline-driven cars, this is the refinery where gasoline is produced from crude oil, for battery-driven cars this is the power generation plant were electricity is produced. Gasoline is then delivered to the pump and finally to the car, where it is converted (the point of use) to mechanical motion by the engine. Similarly, electricity is delivered to the battery of an electric car by the grid, and converted by the electric motor of the car (the point of use) to mechanical motion. 
+      </meaning>
+    </definition>
+    <definition id="id1166901628209">
+      <term>Point of Use</term>
+      <meaning id="oo-id1166899863326">The last step in the energy chain, where energy accomplishes its intended function. For vehicles, this is the conversion of chemical energy in gasoline cars or electric energy in battery cars to motion of the wheels that moves the car along the road.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

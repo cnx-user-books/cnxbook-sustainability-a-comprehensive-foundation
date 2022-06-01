@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Evaluating Projects and Policies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38611</md:content-id>
+  <md:title>Evaluating Projects and Policies</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the challenges of policy evaluation when costs and benefits accrue over time, 2) features of cost-benefit analysis, and 3) criteria for policy evaluation.</md:abstract>
+  <md:uuid>6ea77b47-c5b4-4e4c-aa7c-618765990cbb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169511977461">
+      <title>Learning Objectives</title>
+      <para id="id1169520294647">After reading this module, students should be able to</para>
+      <list id="id1169514845215" list-type="bulleted">
+        <item>know five important features of how economists think about costs</item>
+        <item>understand why discounting is both important and controversial, and be able to calculate the net present value of a project or policy</item>
+        <item>know what cost-benefit analysis is, and be aware of some of its limitations</item>
+        <item>think about four criteria for evaluating a project that are not captured in a basic cost-benefit analysis</item>
+      </list>
+    </section>
+    <section id="id1169506540265">
+      <title>Introduction</title>
+      <para id="id1169516014410">Environmental valuation methods help analysts to evaluate the benefits society would gain from policies or cleanup and restoration projects that improve environmental quality or better steward our natural resources. Another set of tools can yield information about the costs of such actions (a brief description is below). But even if we have plausible estimates of the costs and benefits of something, more work needs to be done to put all that information together and make some rational choices about public policy and investments. This module discusses the challenges of policy evaluation when costs and benefits accrue over time, outlines the main features of cost-benefit analysis, and presents several other criteria for policy evaluation.</para>
+    </section>
+    <section id="id1169512613988">
+      <title>Net Present Value, Discounting, and Cost-benefit Analysis</title>
+      <para id="id1169524335708">Cost estimation has not generated the same amount of scholarly research as benefit valuation because the process of estimating the costs of environmental improvement is usually more straightforward than the process of estimating the benefits. Economists do think differently about costs than engineers or other physical scientists, and several key insights about the economics of cost evaluation are important for policy analysis. Viewed through an inverse lens, all these ideas are important for benefit estimation as well.</para>
+      <section id="id1169505885918">
+        <title>Opportunity Cost</title>
+        <para id="id1169511655947">Not all costs involve actual outlays of money. An opportunity cost is the foregone benefit of something that we choose (or are forced) not to do. The <term target-id="id7243601">opportunity cost</term> of a year of graduate school is the money you could have made if you had instead gotten a full-time job right after college. Endangered species protection has many opportunity costs: timber in old-growth forests can’t be cut and sold; critical habitat in urban areas can’t be developed into housing and sold to people who want to live in the area. Opportunity costs do not appear on firms’ or governments’ accounting sheets and are thus often overlooked in estimates of the costs of a policy. Studies of U.S. expenditures on endangered species’ recoveries have used only information about costs like direct government expenditures because opportunity costs are so challenging to measure (e.g. <link target-id="id1169515895530">Dawson and Shogren, 2001</link>).</para>
+        <para id="id1169510710261">
+          <figure id="id1169518861434" type="Figure"><media id="id1169518861434_media" alt="Redwoods in Muir Woods" longdesc="">
+              <image mime-type="image/jpg" src="../../media/graphics1-2329.jpg" id="id1169518861434__onlineimage" height="432" width="324"/>
+            </media>
+            
+          <caption><emphasis effect="bold">A Redwood Forest in California</emphasis> Forests can’t both be cut down and preserved for habitat. The dollar cost of lumber is straightforward to quantify, but it is more difficult to quantify the value of ecosystems. Cutting down the forest therefore has an opportunity cost that is hard to measure, and this can bias people and governments towards resource extraction. <emphasis effect="italics">Source: 
+              <link url="http://en.wikipedia.org/wiki/File:Redwoods_in_Muir_Woods_2.JPG" window="new">Photo by Michael Barera</link></emphasis>
+            </caption></figure></para>
+      </section>
+      <section id="id1169506005278">
+        <title>Transfers Are Not Costs</title>
+        <para id="id1169513109296">Cost totals should only include real changes in behavior or resource use, and not transfers of money from one party to another. For example, imagine a program in which a wastewater treatment plant can pay a farmer for the cost of taking land out of production and installing a wetland on the land that will soak up nutrients that would otherwise flow into a local river. The cost of those nutrient reductions is the cost of installing the wetland and the opportunity cost of the foregone farming activity. If payments for multiple services are permitted, the farmer might also be able to get paid by a conservation group for the wildlife benefit associated with the new wetland. However, that additional payment to the farmer is a pure transfer. The social cost of the wetland has not gone up just because the farmer was paid more for it.</para>
+      </section>
+      <section id="id1169517407604">
+        <title>Use the Correct Counterfactual</title>
+        <para id="id1169503270472">Many cursory analyses of the costs of a policy find the difference between the cost of something before and after the policy was put in place and claim that any increase was caused by the policy. For example, the U.S. government put temporary restrictions on offshore oil drilling after the Deepwater Horizon explosion and oil spill to consider new environmental regulations on such drilling. After those restrictions were put in place, the price of crude oil in the U.S. went up. A sloppy analysis would attribute all the costs of that price increase to the drilling restrictions. However, during the same period of 2010, the U.S. economy was beginning to pull out of a very deep recession; this caused increased manufacturing activity and consumer driving, and thus an increased call for fossil-fuel energy. Therefore, some of the increase in oil prices might have been driven by the increased demand for oil. A careful analysis would compare the price of oil with the restrictions in place to what the price of oil would have been during the same time period if the restrictions had not been implemented—that hypothetical scenario is the true <term target-id="id1169516709040">counterfactual</term>.</para>
+      </section>
+      <section id="id1169513356342">
+        <title>Additionality</title>
+        <para id="id1169511071386">A careful analysis of the costs of a program includes only costs that are additional, that is, new additions to costs that would have existed even in the absence of the program. For example, current regulations require developers to use temporary controls while constructing a new building to prevent large amounts of sediment from being washed into local rivers and lakes. Suppose EPA wants to estimate the costs of a new regulation that further requires new development to be designed such that stormwater doesn’t run off the site after the building is finished. A proper analysis would not include the costs of the temporary stormwater controls in the estimate of the cost of the new regulation, because those temporary controls would be required even in the absence of the new regulation (<link target-id="id1169521673054">Braden and Ando, 2011</link>). The concept of <term target-id="id1169516333621">additionality</term> has been made famous in the context of benefit estimation by a debate over whether programs that pay landowners not to deforest their lands have benefits that are additional; some of those lands might not have been deforested even without the payments, or the landowners may receive conservation payments from multiple sources for the same activity. </para>
+      </section>
+      <section id="id1169512930888">
+        <title>Control for Associated Market Changes</title>
+        <para id="id1169510853026">A careful cost analysis must pay attention to market changes associated with cost increases. To illustrate, suppose the government is thinking of passing a ban on agricultural use of methyl bromide. This ozone-depleting chemical is widely used as an agricultural fumigant, and is particularly important in strawberry production and shipping. A ban on methyl bromide might, therefore, increase the marginal cost of producing strawberries. A simple approach to estimating the cost of the proposed methyl bromide ban would be to find out how many strawberries were sold before the ban and calculate the increase in the total cost of producing that many strawberries. However, the increase in production costs will drive up the price of strawberries and lower the number of strawberries sold in the marketplace. There is a cost to society with two parts: (a) deadweight loss associated with the net benefits of the strawberries not sold, and (b) the increased cost of producing the strawberries that still are sold. That total social cost is lower, however, than the estimate yielded by the simple approach outlined above because the simple approach includes increased production costs for strawberries that are not sold. An accurate cost estimate must take into account market changes. </para>
+        <para id="id1169520323155">The concept of net benefits was introduced above; in the context of policy or project evaluation, net benefits are, quite simply, the difference between the benefits and the costs of a policy in a given year. However, environmental policies typically have benefits and costs that play out over a long period of time, and those flows are often not the same in every year. For example, wetland restoration in agricultural areas has a large fixed cost at the beginning of the project when the wetland is constructed and planted. Every year after that there is an opportunity cost associated with foregone farm income from the land in the wetland, but that annual cost is probably lower than the fixed construction cost. The wetland will yield benefits to society by preventing the flow of some nitrogen and phosphorus into nearby streams and by providing habitat for waterfowl and other animals. However, the wildlife benefits will be low in the early years, increasing over time as the restored wetland vegetation grows and matures. It is not too difficult to calculate the net benefits of the restoration project in each year, but a different methodology is needed to evaluate the net benefits of the project over its lifetime.</para>
+        <para id="id8486716">Some analysts simply add up all the costs and benefits for the years that they accrue. However, that approach assumes implicitly that we are indifferent between costs and benefits we experience now and those we experience in the future. That assumption is invalid for two reasons. First, empirical evidence has shown that humans are impatient and prefer benefits today over benefits tomorrow. One need only ask a child whether they want to eat a candy bar today or next week in order to see that behavior at work. Second, the world is full of investment opportunities (both financial and physical). Money today is worth more than money tomorrow because we could invest the money today and earn a rate of return. Thus, if there is a cost to environmental cleanup, we would rather pay those costs in the future than pay them now.</para>
+        <para id="id1169517523263">Economists have developed a tool for comparing net benefits at different points in time called <term target-id="id1169509171066">discounting</term>. Discounting converts a quantity of money received at some point in the future into a quantity that can be directly compared to money received today, controlling for the time preference described above. To do this, an analyst assumes a discount rate <emphasis effect="italics">r</emphasis>, where <emphasis effect="italics">r</emphasis> ranges commonly between zero and ten percent depending on the application. If we denote the net benefits <emphasis effect="italics">t</emphasis> years from now as <emphasis effect="italics">V</emphasis><emphasis effect="italics">t</emphasis><emphasis effect="italics"/>(in the current year, <emphasis effect="italics">t</emphasis>=0), then we say the <term target-id="id1169507978031">present discounted value</term> of <emphasis effect="italics">V</emphasis><emphasis effect="italics">t</emphasis> is 
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>PDV</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:mmultiscripts><m:mtext/><m:mprescripts/><m:none/><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:mmultiscripts></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "PDV" \( V rSub { size 8{t} }  \) = {  {V rSub { size 8{t} } }  over  { \( 1+r \) "" lSup { size 8{t} } } } } {}</m:annotation></m:semantics></m:math> Figure 6.4.2 shows how the present value of $10,000 declines with time, and how the rate of the decrease varies with the choice of discount rate <emphasis effect="italics">r</emphasis>. If a project has costs and benefits every year for T years, then the <term target-id="id1169516813320">net present value</term> of the entire project is given by
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NPV</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:munderover><m:mfrac><m:msub><m:mi>V</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mi>r</m:mi></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NPV"= Sum cSub { size 8{t=0} }  cSup { size 8{T} }  { {  {V rSub { size 8{t} } }  over  { left (1+r right ) rSup { size 8{t} } } } } } {}</m:annotation></m:semantics></m:math>.</para>
+        <figure id="id1169511012007" type="Figure">
+
+          <media id="id1169511012007_media" alt="A graph of The Impact of a Discount Rate on Present Value Estimates">
+            <image mime-type="image/png" src="../../media/graphics2-732e.png" id="id1169511012007__onlineimage" height="400" width="650"/>
+          </media>
+          <caption><emphasis effect="bold">The Impact of a Discount Rate on Present Value Estimates</emphasis> <emphasis effect="italics">Source: <link url="http://www.dot.ca.gov/hq/tpp/offices/ote/benefit_cost/calculations/discount_rate.html" window="new">California Department of Transportation</link></emphasis>
+          </caption>
+        </figure>
+        <para id="id1169520005511">A particular cost or benefit is worth less in present value terms the farther into the future it accrues and the higher the value of the discount rate. These fundamental features of discounting create controversy over the use of discounting because they make projects to deal with long-term environmental problems seem unappealing. The most pressing example of such controversy swirls around analysis of climate-change policy. Climate-change mitigation policies typically incur immediate economic costs (e.g. switching from fossil fuels to more expensive forms of energy) to prevent environmental damages from climate change several decades in the future. Discounting lowers the present value of the future improved environment while leaving the present value of current costs largely unchanged.</para>
+        <para id="id1169511705247"><term target-id="id1169513617560">Cost-benefit analysis</term> is just that: analysis of the costs and benefits of a proposed policy or project. To carry out a cost-benefit analysis, one carefully specifies the change to be evaluated, measures the costs and benefits of that change for all years that will be affected by the change, finds the totals of the presented discounted values of those costs and benefits, and compares them. Some studies look at the difference between the benefits and the costs (the net present value), while others look at the ratio of benefits to costs. A “good” project is one with a net present value greater than zero and a benefit/cost ratio greater than one.</para>
+        <para id="id1169515067552">The result of a cost-benefit analysis depends on a large number of choices and assumptions. What discount rate is assumed? What is the status quo counterfactual against which the policy is evaluated? How are the physical effects of the policy being modeled? Which costs and benefits are included in the analysis—are non-use benefits left out? Good cost-benefit analyses should make all their assumptions clear and transparent. Even better practice explores whether the results of the analysis are sensitive to assumptions about things like the discount rate (a practice called <term target-id="id1169510716808">sensitivity analysis</term>). Scandal erupted in 2000 when a whistle-blower revealed that the Army Corps of Engineers was pressuring its staff to alter assumptions to make sure a cost-benefit analysis yielded a particular result (<link target-id="id1169512943197">EDV&amp;CBN, 2000</link>). Transparency and sensitivity analysis can help to prevent such abuses.</para>
+      </section>
+    </section>
+    <section id="id7081429">
+      <title>Efficiency, Cost Effectiveness, Innovation, and Equity</title>
+      <para id="id1169505247892">Cost-benefit analysis gives us a rough sense of whether or not a project is a good idea. However, it has many limitations. Here we discuss several other measures of whether a project is desirable. Economists use all these criteria and more when evaluating whether a policy is the right approach for solving a problem with externalities, public goods, and common-pool resources.</para>
+      <section id="id1169503203573">
+        <title>Efficiency</title>
+        <para id="id1169510574781">A policy is efficient if it maximizes the net benefits society could get from an action of that kind. Many projects and policies can pass a cost-benefit test but still not be efficient. Several levels of carbon dioxide emission reduction, for example, could have benefits exceeding costs, but only one will have the largest difference between benefits and costs possible. Such efficiency will occur when the marginal benefits of the policy are equal to its marginal costs. Sometimes a cost-benefit analysis will try to estimate the total costs and benefits for several policies with different degrees of stringency to try to see if one is better than the others. However, only information about the marginal benefit and marginal cost curves will ensure that the analyst has found the efficient policy. Unfortunately, such information is often very hard to find or estimate. </para>
+      </section>
+      <section id="id6200616">
+        <title>Cost Effectiveness</title>
+        <para id="id1169521917166">As we saw in the Module <link document="m38954"><emphasis effect="bold">Environmental Valuation</emphasis></link>, it can be particularly difficult to estimate the benefits of environmental policy, and benefit estimates are necessary for finding efficient policies. Sometimes policy goals are just set through political processes—reducing sulfur dioxide emissions by 10 million tons below 1980 levels in the Clean Air Act acid rain provisions, cutting carbon dioxide emissions by 5% from 1990 levels in the Kyoto protocol—without being able to know whether those targets are efficient. However, we can still evaluate whether a policy will be <term target-id="id1169515627479">cost effective</term> and achieve its goal in the least expensive way possible. For example, for total pollution reduction to be distributed cost-effectively between all the sources that contribute pollution to an area (e.g. a lake or an urban airshed), it must be true that each of the sources is cleaning up such that they all face the same marginal costs of further abatement. If one source had a high marginal cost and another’s marginal cost was very low, total cost could be reduced by switching some of the cleanup from the first source to the second.</para>
+      </section>
+      <section id="id1169511870757">
+        <title>Incentives to Innovate: </title>
+        <para id="id1169511469794">At any one point in time, the cost of pollution control or resource recovery depends on the current state of technology and knowledge. For example, the cost of reducing carbon dioxide emissions from fossil fuels depends in part on how expensive solar and wind power are, and the cost of wetland restoration depends on how quickly ecologists are able to get new wetland plants to be established. Everyone in society benefits if those technologies improve and the marginal cost of any given level of environmental stewardship declines. Thus, economists think a lot about which kinds of policies do the best job of giving people incentives to develop cheaper ways to clean and steward the environment.</para>
+      </section>
+
+      <section id="id1169511796102">
+        <title>Fairness</title>
+        <para id="id1169515456519">A project can have very high aggregate net benefits, but distribute the costs and benefits very unevenly within society. We may have both ethical and practical reasons not to want a policy that is highly unfair. Some people have strong moral or philosophical preferences for policies that are equitable. In addition, if the costs of a policy are borne disproportionately by a single group of people or firms, that group is likely to fight against it in the political process. Simple cost-benefit analyses do not speak to issues of equity. However, it is common for policy analyses to break total costs and benefits down among subgroups to see if uneven patterns exist in their distribution. Studies can break down policy effects by income category to see if a policy helps or hurts people disproportionately depending on whether they are wealthy or poor. Other analyses carry out regional analyses of policy effects. . For example, climate-change mitigation policy increases costs disproportionately for poor households because of patterns in energy consumption across income groups. Furthermore, the benefits and costs of such policy are not uniform across space in the U.S. The benefits of reducing the severity of climate change will accrue largely to those areas that would be hurt most by global warming (coastal states hit by sea level rise and more hurricanes, Western states hit by severe water shortages) while the costs will fall most heavily on regions of the country with economies dependent on sales of oil and coal. </para>
+        <para id="id1169518073534">Some of our evaluative criteria are closely related to each other; a policy cannot be efficient if it is not cost-effective. However, other criteria have nothing to do with each other; a policy can be efficient but not equitable, and vice versa. Cost-benefit analyses provide crude litmus tests—we surely do not want to adopt policies that have costs exceeding their benefits. However, good policy development and evaluation considers a broader array of criteria.</para>
+      </section>
+    </section>
+    <section id="id1169505802230">
+      <title>Review Questions</title>
+      <exercise id="id1169511012819"><label>Question</label>
+        <problem id="oo-id1169515437301">
+          <para id="id1169509212771">What are some common mistakes people make in evaluating the costs of a policy or project, and what should you do to avoid them?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169511436669"><label>Question</label>
+        <problem id="oo-id1169524301039">
+          <para id="id1169516884755">What is discounting, and how do we use it in calculating the costs and the benefits of a project that has effects over a long period of time?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169509924676"><label>Question</label>
+        <problem id="oo-id1169510541002">
+          <para id="id1169505062150">Why is discounting controversial?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169506826055"><label>Question</label>
+        <problem id="oo-id1169513441462">
+          <para id="id1169509162224">How does cost-benefit analysis complement some of the other measures people use to evaluate a policy or project?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1169517315295">
+      <title>References</title>
+      <para id="id1169521673054">Braden, J. B. &amp; A. W. Ando. 2011. Economic costs, benefits, and achievability of low-impact development based stormwater regulations, in <emphasis effect="italics">Economic Incentives for Stormwater Control</emphasis>, Hale W. Thurston, ed., Taylor &amp; Francis, Boca Raton, FL.</para>
+      <para id="id1169516212314">Carson, R. T., Mitchell, R. C., Hanemann, M., Kopp, R. J., Presser, S., and Ruud, P. A. (2003).Contingent valuation and lost passive use: Damages from the Exxon Valdez oil spill. <emphasis effect="italics">Environmental and Resource Economics, 25</emphasis>(3), 257-286. DOI: 10.1023/A:1024486702104. </para>
+      <para id="id1169515895530">Dawson, D. &amp; Shogren, J. F. (2001). An update on priorities and expenditures under the Endangered Species Act. <emphasis effect="italics">Land Economics, 77</emphasis>(4), 527-532.</para>
+      <para id="id1169512943197">EDV&amp;CBN (2000). Environmental groups protest alteration of U.S. Army Corps cost benefit analysis. <emphasis effect="italics">Environmental Damage Valuation and Cost Benefit News</emphasis>, 7(4), 1-3. <link url="http://www.costbenefitanalysis.org/newsletters/nws00apr.pdf" window="new">http://www.costbenefitanalysis.org/newsletters/nws00apr.pdf</link> .</para>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1169516333621">
+      <term>additionality</term>
+      <meaning id="oo-id1169512792057">The extent to which a new action (policy, project etc.) adds to the benefits or costs associated with existing conditions.
+      </meaning>
+    </definition>
+    <definition id="id1169513617560">
+      <term>cost-benefit analysis</term>
+      <meaning id="oo-id1169506076204">Evaluation of how the overall benefits of a project compare to its costs.
+      </meaning>
+    </definition>
+    <definition id="id1169515627479">
+      <term>cost effectiveness</term>
+      <meaning id="oo-id1169511693402">The extent to which an outcome is achieved at the lowest cost possible.
+      </meaning>
+    </definition>
+    <definition id="id1169516709040">
+      <term>counterfactual</term>
+      <meaning id="oo-id1169515954061">The scenario against which a different scenario should be compared; in policy analysis, the way the world would have been in the absence of the policy.
+      </meaning>
+    </definition>
+    <definition id="id1169509171066">
+      <term>discounting</term>
+      <meaning id="oo-id1169513446806">The process of converting future values (costs or benefits) into an equivalent amount of money received today; controls for human time preference.
+      </meaning>
+    </definition>
+    <definition id="id1169516813320">
+      <term>net present value</term>
+      <meaning id="oo-id1169511792013">The present discounted value of a stream of net benefits.
+      </meaning>
+    </definition>
+    <definition id="id7243601">
+      <term>opportunity cost</term>
+      <meaning id="oo-id5934377">The cost of foregoing the next best choice when making a decision.
+      </meaning>
+    </definition>
+    <definition id="id1169507978031">
+      <term>present discounted value</term>
+      <meaning id="oo-id8327071">The value of something in present-day (rather than future) terms.
+      </meaning>
+    </definition>
+    <definition id="id1169510716808">
+      <term>sensitivity analysis</term>
+      <meaning id="oo-id1169515661809">Evaluation of how sensitive the results of an analysis are to changes in assumptions used in the analysis.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

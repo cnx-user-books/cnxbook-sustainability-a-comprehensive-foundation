@@ -1,0 +1,217 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Milankovitch Cycles and the Climate of the Quaternary</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38572</md:content-id>
+  <md:title>Milankovitch Cycles and the Climate of the Quaternary</md:title>
+  <md:abstract>In this module, we will look at the recent natural changes in Earth’s climate, and we will use these drivers to understand why the climate has changed.</md:abstract>
+  <md:uuid>6e9c964a-856b-4db7-85fe-dadf80a3b0de</md:uuid>
+</metadata>
+
+<content>
+
+      <section id="id1165534762433">
+        <title>Learning Objectives</title>
+        <para id="id1165534762440">After reading this module, students should be able to</para>
+        <list id="id1165534762444" list-type="bulleted">
+          <item>describe the changing climate of the Quaternary</item>
+          <item>explain why Milankovitch cycles explain the variations of climate over the Quaternary, in terms of the similar periods of orbital variations and glacial cycles </item>
+          <item>explain how the glacier/climate system is linked via albedo feedbacks</item>
+          <item>describe how sediment and ice cores provide information about past climates</item>
+          <item>use the mechanisms that cause stable isotope fractionation to predict the impact of changing climate on stable isotope records</item>
+        </list>
+      </section>
+      <section id="id1165534762477">
+        <title>Introduction</title>
+        <para id="id1165534762484">In Module <link document="m38482" window="new"><emphasis effect="bold">Climate Processes; External and Internal Controls</emphasis></link> we saw the major drivers of the climate—the energy that comes from the Sun (insolation) and the properties of the planet that determine how long that energy stays in the Earth system (albedo, greenhouse gases). In this section, we will look at the recent natural changes in Earth's climate, and we will use these drivers to understand why the climate has changed.</para>
+        <para id="id1165534762495">The most recent period of Earth's geologic history—spanning the last 2.6 million years—is known as the <term target-id="id1165534799988">Quaternary period</term>. This is an important period for us because it encompasses the entire period over which humans have existed—our species evolved about 200,000 years ago. We will examine how the climate has changed over this period in detail. By understanding recent natural processes of climate change, we will be able to better understand why scientists attribute the currently observed changes in global climate as being the result of human activity.</para>
+      </section>
+      <section id="id1165534762515">
+        <title>Quaternary Climate — Information From Ice Cores</title>
+        <para id="id1165534762529">How do we know about the Quaternary climate? After all, most of the period predates human existence, and we have only been recording the conditions of climate for a few centuries. Scientists are able to make informed judgments about the climates of the deep past by using <term target-id="id1165534800008">proxy data</term><emphasis effect="italics">.</emphasis> Proxy data is information about the climate that accumulates through natural phenomena. In the previous module, for example, we discussed how 60-million-year-old crocodile fossils have been found in North Dakota. This gives us indirect information about the climate of the period—that the climate of the region was warmer than it is today. Although not as precise as climate data recorded by instruments (such as thermometers), proxy data has been recovered from a diverse array of natural sources, and provides a surprisingly precise picture of climate change through deep time.</para>
+        <para id="id1165534762555">One highly detailed record of past climate conditions has been recovered from the great <term target-id="id1165534799935">ice sheets</term> of Greenland and Antarctica. These ice sheets are built by snow falling on the ice surface and being covered by subsequent snowfalls. The compressed snow is transformed into ice. It is so cold in these polar locations that the ice doesn't melt even in the summers, so the ice is able to build up over hundreds of thousands of years. Because the ice at lower depths was produced by progressively earlier snowfalls, the age of the ice increases with depth, and the youngest ice is at the surface. The Antarctic ice sheet is up to three miles thick. It takes a long time to build up this much ice, and the oldest ice found at the bottom of the Antarctica ice sheet is around 800,000 years old.</para>
+        <para id="id1165534762576">Scientists drill into these ice sheets to extract <emphasis effect="italics">ice cores</emphasis>, which record information about past climates. Figure <link target-id="id1165534762620"><emphasis effect="bold">Ice Cores</emphasis></link> shows what these cores look like when they are cut open. Like tree rings, ice cores indicate years of growth. Note how the middle core (which required over a mile of drilling to extract!) has distinct layers—this is because the seasons leave an imprint in the layers of snow. Scientists can use this imprint to help calculate the age of the ice at different depths, although the task becomes more difficult the deeper the core sample, since the ice layers become more compressed. The ice records several different types of climate information: the temperature of the core, the properties of the water that make up the ice, trapped dust, and tiny entombed bubbles of ancient atmosphere.</para>
+        <figure id="id1165534762620" type="Figure">        	
+         	<media id="id1165534762620_media" alt="Ice Cores" longdesc="An image comparing three sections of an ice core.">
+            <image mime-type="image/jpg" src="../../media/Picture 1-033a.jpg" id="id1165534762620__onlineimage" height="189" width="649"/>
+          </media>
+          <caption><emphasis effect="bold">Ice Cores</emphasis> Three different sections of an ice core. The seasonal layers are most clear in the middle section (note the dark and light bands). The deepest section (bottom core) is taken from almost two miles down and is colored brown by rocky debris from the ground under the ice. <emphasis effect="italics">Source: <link window="new" url="http://nicl.usgs.gov/">National Ice Core Laboratory</link></emphasis></caption>
+        </figure>
+        <para id="id1165534762651">The water molecules that make up the ice record information about the temperature of the atmosphere. Each water molecule is made up of two hydrogen atoms and one oxygen atom (and so has the chemical name H<sub>2</sub>O). Not all oxygen atoms are the same however; some are "light" and some are "heavy". These different types of oxygen are called <term target-id="id1165534799956">isotopes</term>, which are atoms that have same number of protons but different numbers of neutrons. The heavy isotope of oxygen (oxygen-18, or <sup>18</sup>O) is more than 10% heavier than the light isotope (oxygen-16 or <sup>16</sup>O). This means that some water molecules weigh more than others. This is important because lighter water molecules are more easily evaporated from the ocean, and once in the atmosphere, heavier water molecules are more likely to condense and fall as precipitation. As we can see from Figure <link target-id="id1165534762752"><emphasis effect="bold">Oxygen Schematic</emphasis></link>, the water in the ice sheets is lighter (has a higher proportion of <sup>16</sup>O relative to <sup>18</sup>O) than the water in the oceans.</para>
+        <para id="id1165534762712">The process of differentiation between heavy and light water molecules is temperature dependent. If the atmosphere is warm, there is more energy available to evaporate and hold the heavier <sup>18</sup>O water in the atmosphere, so the snow that falls on the polar ice sheets is relatively higher in <sup>18</sup>O. When the atmosphere is cold, the amount of energy is less, and so less <sup>18</sup>O makes it to the poles to be turned into glacial ice. We can compare the amount of <sup>18</sup>O in different parts of the ice core to see how the atmosphere's temperature—the climate—has changed.</para>
+        <figure id="id1165534762752" type="Figure">         	
+         	<media id="id1165534762752_media" alt="Oxygen Schematic" longdesc="An image depicting the changing weight of water molecules over different parts of the Earth.">
+            	<image mime-type="image/jpg" src="../../media/Picture 2-dc55.jpg" id="id1165534762752__onlineimage" height="272" width="500"/>
+         	</media>          	
+          <caption><emphasis effect="bold">Oxygen Schematic</emphasis> Water becomes lighter as it travels toward the poles. The heavy (18O) water drops out of the atmosphere (as rain or snow) before reaching the ice sheet. This means that the snow that forms the glacial ice is lighter than the ocean water (has more 16O than 18O, compared to ocean water). <emphasis effect="italics">Source: <link window="new" url="http://earthobservatory.nasa.gov/Features/Paleoclimatology_OxygenBalance/oxygen_balance.php">Robert Simmon, NASA GSFC, NASA Earth Observatory</link></emphasis></caption>
+				</figure>
+        <para id="id1165534762807">Figure <link target-id="id1165534762861"><emphasis effect="bold">Ice Age Temperature</emphasis></link> shows what this record looks like over the last 400,000 years. The blue and green lines depict two different Antarctic ice cores (taken from ice about 350 miles apart) and the variations in oxygen isotopes are converted into temperature changes. The y-axis shows temperature change; today's climate is at zero—the dashed line. Notice that the Earth's climate has not been stable! Sometimes the temperature is higher than it is today—the blue and green lines are higher than the dashed about 120,000 years ago, for example. Most of the time the climate is much colder than today's, however: the most common value is around -6 <sup>o</sup>C (-13 <sup>o</sup>F). On average, the earth's temperature between 25,000 and 100,000 years ago was about 6 <sup>o</sup>C lower than it is today. These changes can be double-checked by measuring the temperature of the ice in the cores directly. Ice that is 30,000 years old is indeed colder than the ice made today, just as the isotope data predicts.</para>
+        <figure id="id1165534762861" type="Figure">
+    			<media id="id1165534762861_media" alt="Ice Age Temperature" longdesc="Image depicts the changes in ice core temperature over the last 400,000 years.">
+            	<image mime-type="image/png" src="../../media/Picture 3-14f7.png" id="id1165534762861__onlineimage" height="267" width="400"/>
+         	</media>    
+		      <caption><emphasis effect="bold">Ice Age Temperature</emphasis> The blue and green lines depict two different Antarctic ice cores (taken from ice about 350 miles apart) and the variations in oxygen isotopes are converted into temperature changes. The red line depicts global ice volume. The y-axis shows temperature change; today's climate is at zero – the dashed line. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/User:Dragons_flight">Robert A. Rohde</link></emphasis></caption></figure>
+        
+        <figure id="id1165534762908" type="Figure">
+         	<media id="id1165534762908_media" alt="Five Myr Climate Change" longdesc="Image depicts a comparison of the age of sediment (x-axis) and the change in temperature over time (left y-axis) as derived from oxygen isotope ratios (right y-axis).">
+            	<image mime-type="image/png" src="../../media/Picture 5-5389.png" id="id1165534762908__onlineimage" height="237" width="650"/>
+         	</media>
+         	<caption><emphasis effect="bold">Five Myr Climate Change</emphasis> A comparison of the age of sediment (x-axis) and the change in temperature over time (left y-axis) as derived from oxygen isotope ratios (right y-axis). The dashed line shows today's climate. Note that the climate is cooling over the last few million years, but it is highly variable. In the last one million years the climate alternates between warm and cool conditions on a 100,000-year time scale ("100 kyr cycle"), before this it alternated on a 41,000 year cycle. Both these period lengths are the same as Milankovitch cycles. These cores suggest that today's temperature is higher than almost all of that of the Quaternary (the last 2.6 Million years).  <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Five_Myr_Climate_Change.svg">Jo Weber</link></emphasis>
+					</caption>
+        </figure>
+        <para id="id1165534762947">The changes in climate recorded in ice sheets are thought to be worldwide. The same climate changes observed in Antarctica are also found in cores taken from Greenland, which is on the other side of the Earth. Isotope data can also be taken from sediment cored from the ocean floor—all over the planet—and these cores also show the same changes in climate, alternating between cold and warm. Because ocean sediment is deposited over millions of years, the sediment can give an indication of the climate across the whole of the Quaternary and beyond. Figure <link target-id="id1165534762908"><emphasis effect="bold">Five Myr Climate Change</emphasis></link> shows how temperature has changed over time (blue line), compared with today (dashed line). The temperature has, on average, gotten colder over the Quaternary, but it also appears to oscillate between warm and cold periods. We'll investigate these periodic changes in the next section of this chapter.</para>
+        <para id="id1165534762978">As falling snow accumulates on the ground, tiny bubbles of air become trapped in it. These bubbles are retained as the snow transforms to ice, and constitute tiny samples of the ancient atmosphere that can be analyzed to find out if the changes in temperature (as recorded in the oxygen isotopes) are related to changes in the atmosphere. The temperature recorded by the isotopes in the ice is directly related to the amount of carbon dioxide in the trapped air (Figure <link target-id="id1165534782248"><emphasis effect="bold">Vostok Petit Data</emphasis></link>): the times with higher carbon dioxide are also times of high temperature.</para>
+        <para id="id1165534782234">Falling snow also captures and entombs atmospheric dust, which is topsoil born aloft by the wind, and which is especially prevalent during droughts. The fact that more dust occurs in the ice accumulated during cold periods suggests that the glacial climate was dry, as well as cold. </para>
+        <figure id="id1165534782248" type="Figure">
+			    <media id="id1165534782248_media" alt="Vostok Petit Data" longdesc="The three graphs depict how changes in temperature—inferred from changes in isotope ratios (blue line)--correspond to changes in atmospheric carbon dioxide (green line) and dust (red line) over the last 400,000 years as recorded in an ice core extracted from Antarctica">
+            <image mime-type="image/png" src="../../media/Picture 6.png" id="id1165534782248__onlineimage" height="488" width="650"/>
+         	</media>
+          <caption><emphasis effect="bold">Vostok Petit Data</emphasis> These graphs depict how changes in temperature—inferred from changes in isotope ratios (blue line)--correspond to changes in atmospheric carbon dioxide (green line) and dust (red line) over the last 400,000 years as recorded in an ice core extracted from Antarctica. Carbon dioxide varies directly with temperature – the warmer the climate the higher the carbon dioxide level. Atmospheric dust is highest during the coolest periods (such as 25,000 and 150,000 years ago). <emphasis effect="italics">Source: <link window="new" url="http://commons.wikimedia.org/wiki/File:Vostok-ice-core-petit.png">William M. Connolley produced figure using data from the National Oceanic and Atmospheric Administration, U.S. Department of Commerce, Paleoclimatology branch, Vostok Ice Core Data.</link></emphasis>
+					</caption>
+		    </figure>
+        
+      </section>
+      <section id="id1165534782300">
+        <title>Quaternary Climate — Cycling Between Glacials and Interglacials</title>
+        <figure id="id1165534782315" type="Figure"> 
+    		  <media id="id1165534782315_media" alt="Ice Age Earth" longdesc="Image shows an artist's impression of the Earth during an ice age.">
+			      <image mime-type="image/jpg" src="../../media/Picture 7-c94d.jpg" id="id1165534782315__onlineimage" height="300" width="300"/>
+		      </media>
+      		<caption><emphasis effect="bold">Ice Age Earth</emphasis> An artist's impression of the Earth during an ice age. Note that the Northern parts of North America and Europe (including Canada and Scandinavia) are entirely covered by ice-sheets. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:IceAgeEarth.jpg">Ittiz</link></emphasis></caption>
+				</figure>
+        <para id="id1165534782349">During the Quaternary, the Earth has cycled between <term target-id="id1165534799926">glacial periods</term> (sometimes referred to as "ice ages") and <term target-id="id1165534799946">interglacial periods</term>. The ice was at its most recent extreme around 20,000 years ago in a period known as the <term target-id="id1165534799966">Last Glacial Maximum</term>, or LGM. As we can see from the ice core record, the Quaternary climate is usually cold (see Figure <link target-id="id1165534762861"><emphasis effect="bold">Ice Age Temperature</emphasis></link>), with long periods of cold punctuated with shorter (10,000 year long, or so) periods of warmer conditions, like those we experience today. In many ways, our current climate is exceptional—for most of human existence, the Earth has been a much colder place.</para>
+        <para id="id1165534782390">What was the Earth like during these glacial periods? Almost all the world was cold; average temperatures were around 6<sup> o</sup>C (-13 <sup>o</sup>F) colder than today. Such conditions allow ice sheets to grow—much of North America, Asia and Europe were covered under mile-thick ice (see Figure <link target-id="id1165534782315"><emphasis effect="bold">Ice Age Earth</emphasis></link>). Because this ice was made of water that was once in the oceans, sea levels were much lower. At the LGM, sea level was about 120 meters (or about 400 feet) lower than it is today. As the seas retreated, the continents grew larger, creating land bridges that joined Asia with North America, Britain with Europe, and Australia with Papua New Guinea.</para>
+        <para id="id1165534782423">During glacial periods the climate was also much drier, as evidenced by the increase in atmospheric dust (Figure <link target-id="id1165534782248"><emphasis effect="bold">Vostok Petit Data</emphasis></link>). The lands at and near the poles were covered with ice, and dry grasslands occupied areas where temperate forests occur today. Deserts were much larger than they are now, and tropical rainforests, having less water and less warmth, were small. The animals and plants of glacial periods were different in their distribution than they are today, as they were adapted to these different conditions. Fossils of Mastodons (Figure <link target-id="id1165534782464"><emphasis effect="bold">Knight Mastodon</emphasis></link>) have been found from all across what is now the United States, including from Florida, which currently enjoys a subtropical climate.</para>
+        <para id="id1165534782460">
+          <figure id="id1165534782464" type="Figure"> 
+            <media id="id1165534782464_media" alt="Knight Mastodon" longdesc="Image depicts an artist's impression of a Mastodon, an elephant-like mammal with a thick wooly coat.">
+              <image mime-type="image/jpg" src="../../media/Picture 8-25c5.jpg" id="id1165534782464__onlineimage" height="242" width="400"/>
+            </media>
+            <caption><emphasis effect="bold">Knight Mastodon</emphasis> An artist's impression of a Mastodon, an elephant-like mammal with a thick wooly coat. Mastodon fossils dating from past glacial periods have been found across North America—from Florida to Alaska. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Knight_Mastodon.jpg">Charles R. Knight</link></emphasis></caption>
+					</figure>
+        </para>
+        <para id="id1165534782498">During glacial periods humans would have been unable to occupy the globe as they do today because all landmasses experienced different climactic conditions. Some countries of the present could not exist, as they would be almost completely covered by ice. As examples, look for Canada, Iceland and The United Kingdom in Figure <link target-id="id1165534782810"><emphasis effect="bold">800pn Northern Icesheet</emphasis></link>.</para>
+      </section>
+      <section id="id1165534782518">
+        <title>Milankovitch Cycles</title>
+        <para id="id1165534782524">Why has the Earth cycled through hot and cold climates throughout the Quaternary? As we learned in the previous module, the Earth's climate is controlled by several different factors—insolation, greenhouse gases, and albedo are all important. Scientists believe that changes in insolation are responsible for these climate swings, and the insolation varies as a result of wobbles in the Earth's orbit.</para>
+        <para id="id1165534782536">The Earth's orbit is not fixed – it changes regularly over time. These periodic changes in Earth's orbit named are referred to as <term target-id="id1165534799976">Milankovitch Cycles</term>, and are illustrated in Figure <link target-id="id1165534782659"><emphasis effect="bold">Milankovitch Cycles</emphasis></link>. Changes in the Earth's orbit alter the pattern of insolation that the Earth receives. There are three principle ways in which the Earth's orbit varies:</para>
+        <list id="id1165534782562" list-type="enumerated" number-style="arabic">
+          <item><term target-id="id1165534799918">Eccentricity</term> (or <emphasis effect="italics">Orbital shape</emphasis>). The Earth's orbit is not perfectly circular, but instead follows an ellipse. This means that the Earth is, through the course of the year, sometimes closer and sometimes further away from the Sun. Currently, the Earth is closest to the Sun in early January, and furthest from the Sun in Early July. This changes the amount of insolation by a few percent, so Northern Hemisphere seasons are slightly milder than they would be if the orbital was circular (cooler summers and warmer winters). The orbital shape changes over time: the Earth moves between being nearly circular and being mildly elliptical. There are two main periods over which this change occurs, one takes around 100,000 years (this is the time over which the orbit goes from being circular, to elliptic, and back to circular), another takes around 400,000 years.</item>
+          <item><term target-id="id1165534799906">Axial Tilt</term> (or <term target-id="id1165534799998">Obliquity</term>). The Earth axis spins at an angle to its orbit around the Sun – currently this angle is 23.5 degrees (this angle is known as the <emphasis effect="italics">axial tilt</emphasis>). This difference in orbit creates the seasons (as each hemisphere takes turns being tilted towards and away from the Sun over the course of the year). If the axis of spin lined up with the direction of the Earth's orbit (so that the tilt angle was zero) there would be no seasons! This axial tilt also changes over time, varying between 22.1 and 24.5 degrees. The larger the angle, the larger the temperature difference between summer and winter. It takes about 41,000 year for the axial tilt to change from one extreme to the other, and back again. Currently, the axial tilt is midway between the two extremes and is decreasing—which will make the seasons weaker (cooler summers and warmer winters) over the next 20,000 years.</item>
+          <item><term target-id="id1165534799895">Axial Precession.</term> The direction of Earth's axis of rotation also changes over time relative to the stars. Currently, the North Pole points towards the star Polaris, but the axis of rotation cycles between pointing to that star and the star Vega. This impacts the Earth's climate as it determines when the seasons occur in Earth's orbit. When the axis is pointing at Vega, the Northern Hemisphere's peak summer is in January, not July. If this were true today, it would mean that the Northern Hemisphere would experience more extreme seasons, because January is when the Earth is closest to the Sun (as discussed above in eccentricity). This cycle takes around 20,000 years to complete.</item>
+        </list>
+        <para id="id1165534782655">
+          <figure id="id1165534782659" type="Figure">
+            <media id="id1165534782659_media" alt="Milankovitch Cycles" longdesc="Image is an illustration of the three variables in Earth's orbit, with periods of variation marked.">
+              <image mime-type="image/jpg" src="../../media/Picture 9-84d9.jpg" id="id1165534782659__onlineimage" height="375" width="500"/>
+            </media>
+            <caption><emphasis effect="bold">Milankovitch Cycles</emphasis> Illustration of the three variables in Earth's orbit, with periods of variation marked. <emphasis effect="italics">Source: <link window="new" url="http://meted.ucar.edu/">COMET® at the University Corporation for Atmospheric Research (UCAR) pursuant to a Cooperative Agreements with the National Oceanic and Atmospheric Administration, U.S. Department of Commerce. ©1997-2009 University Corporation for Atmospheric Research. All Rights Reserved.</link></emphasis>  </caption>
+					</figure>
+        </para>
+        <para id="id1165534782694">The three cycles described above have different periods, all of which are long by human standards: 20,000, 40,000, 100,000 and 400,000 years. If we look at the temperature data from ice and sediment cores, we see that these periods are reflected in Earth's climate. In the last million or so years, the 100,000-year eccentricity in the orbit has determined the timing of glaciations, and before that the 40,000-year axial tilt was dominant (Figure <link target-id="id1165534762908"><emphasis effect="bold">Five Myr Climate Change</emphasis></link>). These cycles have been important for a long time; geologists have even found evidence of these periods in rocks that are hundreds of millions of years old.</para>
+        <para id="id1165534782718">But how do the Milankovitch Cycles change our climate? These orbital cycles do not have much impact on the <emphasis effect="italics">total</emphasis> insolation the Earth receives: they change only the <emphasis effect="italics">timing</emphasis> of that insolation. Since the total insolation does not change, these orbital variations have the power to make the Earth's seasons stronger or weaker, but the average annual temperature should stay the same. The best explanation for long term changes in average annual temperature is that the Milankovitch cycles initiate a positive feedback that amplifies the small change in insolation.</para>
+      </section>
+      <section id="id1165534782743">
+        <title>Insolation and the Albedo Feedback</title>
+        <para id="id1165534782750">Today, the Earth's orbit is not very eccentric (it is almost circular), but at the beginning of each of the recent ice age periods, the orbit was much more elliptical. This meant that the Earth was further away from the sun during the northern hemisphere summers, reducing the total insolation. Lower insolation meant that the summer months were milder than they would otherwise be, with cooler temperatures. Summer temperatures were also lower when the Earth's axial tilt was smaller, so the two different orbital parameters could reinforce one another's effects, in this case producing especially mild summers.</para>
+        <para id="id1165534782760">It is thought that these mild northern summers produced an albedo feedback that made the whole planet slip into an ice age. The northern hemisphere has continents near the poles—Europe, Asia, and North America. Today, these continents have largely temperate climates. During the winter, snow falls across much of the land (see Figure <link document="m38482" target-id="id1168365983886"><emphasis effect="bold">Surface of the Earth in February with Cloud Cover Removed</emphasis></link> in the previous module) only to melt during the summer months. If the summers are not hot enough to melt all the snow and ice, glaciers can advance, covering more of the land. Because ice has a high albedo, more sunlight is reflected than before, and the Earth is made cooler. This creates a positive feedback, as the cooler conditions allow the ice to advance further—which, in turn, increases the albedo and cools the Earth! Eventually, a large proportion of the northern continents became covered in ice (Figure <link target-id="id1165534782810"><emphasis effect="bold">800pn Northern Icesheet</emphasis></link>).</para>
+        <para id="id1165534782806">
+          <figure id="id1165534782810" type="Figure">
+            <media id="id1165534782810_media" alt="800pn Northern Icesheet" longdesc="Glacial coverage (light blue) of the northern hemisphere during the ice ages.">
+              <image mime-type="image/png" src="../../media/Picture 10.png" id="id1165534782810__onlineimage" height="367" width="500"/>
+            </media>
+            <caption><emphasis effect="bold">800pn Northern Icesheet</emphasis> Glacial coverage (light blue) of the northern hemisphere during the ice ages. <emphasis effect="italics">Source: <link window="new" url="http://en.wikipedia.org/wiki/File:Northern_icesheet_hg.png">Hannes Grobe</link></emphasis></caption>
+					</figure>
+        </para>
+        <para id="id1165534782840">This positive feedback process works in the other direction, as well. The interglacial periods are ushered in when the orbital parameters create summers that are unusually warm, which melts some of the ice. When the ice sheets shrink, the Earth's albedo decreases, which further warms the system. The giant northern ice sheets shriveled up in a few thousand years as warm summers and decreasing albedo worked together.</para>
+        <para id="id1165534782852">These cycles of alternating cooling and warming are also related to changes in the amount of greenhouse gases in the atmosphere. As we observed in Figure <link target-id="id1165534782248"><emphasis effect="bold">Vostok Petit Data</emphasis></link>, the climate contains higher levels of carbon dioxide during interglacial periods. Although this appears to make sense—carbon dioxide is a greenhouse gas, and so should produce warmer climates—it is also a puzzle, because it is not clear how changes in Milankovitch cycles lead to higher levels of carbon dioxide in the atmosphere. It is clear that these changes in carbon dioxide are important in making the change in temperature between interglacial and glacial periods so extreme. Several different hypotheses have been proposed to explain why glacial periods produce lower levels of carbon dioxide (it may be related to how the physical changes influence the Earth's ecosystems ability to absorb carbon dioxide: perhaps lower sea levels increase the nutrient supply in the ocean, or the drop in sea level destroys coral reefs, or iron-rich dust from new deserts fertilizes the oceans) but further work on this question remains to be done.</para>
+        <para id="id1165534782885">It is a concern for all of us that there are gaps in our understanding of how the feedbacks between insolation, albedo and greenhouse gases operate, as it makes it hard to predict what the consequences of any changes in the climate system might lead to. The current level of atmospheric carbon dioxide is unprecedented in human experience; it is at the highest level ever recorded in the Quaternary. Will the current increase in greenhouse gases lead to a positive feedback, warming the Earth even more?</para>
+      </section>
+      <section id="id1165534782895">
+        <title>Review Questions</title>
+        <exercise id="id1165534782902">
+			<label>Question</label>
+          	<problem id="oo-id1165534775532">
+            <para id="id1165534782905">In the text, we discuss how polar ice has a smaller <sup>18</sup>O to <sup>16</sup>O ratio (that is, it has proportionally less heavy isotope water) than ocean water does. Hydrogen also has isotopes, the two most common being hydrogen-1 (<sup>1</sup>H) and hydrogen-2 (<sup>2</sup>H, also known as deuterium). Water is made up of both hydrogen and oxygen, and scientists analyze both elements when examining ice cores. Do you predict that polar ice sheets would have a higher ratio or a lower ratio of <sup>1</sup>H to <sup>2</sup>H than ocean water? Will colder global temperatures increase or decrease the amount of <sup>2</sup>H in polar ice?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165534782947">
+			<label>Question</label>
+          	<problem id="oo-id1165534775566">
+            <para id="id1165534782950">In the text, we discuss how polar ice has a smaller <sup>18</sup>O to <sup>16</sup>O ratio (that is, it has proportionally less heavy-isotope water) when the climate is cooler. We also discuss how changes in the ratio of <sup>18</sup>O to <sup>16</sup>O ratio in sediment cores can also be used to determine the climate's average temperature. In ocean sediments, the ratio of <sup>18</sup>O to <sup>16</sup>O increases when the climate is cooler (that is, it has proportionally more heavy isotope water). Explain why isotope ratios in ocean sediment have the opposite reaction to those in polar ice.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165534782989">
+			<label>Question</label>
+          	<problem id="oo-id1165534775599">
+            <para id="id1165534782992">There are three different ways in which the Earth's orbit changes through time. What combination of orbital parameters would be most likely to start an ice age? (Hint: Ice ages require cool northern summers.) </para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1165534799862"><title>Resources</title><para id="id1165534799869">Do you want to know more about how ice cores are extracted and analyzed? NASA's Earth Observatory has details about the practical issues of drilling ice cores (deep ice needs to "relax" for as long as a year at the surface before being cut open – or it can shatter!) and how chemical data is interpreted. Go to <link window="new" url="http://earthobservatory.nasa.gov/Features/Paleoclimatology_IceCores/">http://earthobservatory.nasa.gov/Features/Paleoclimatology_IceCores/</link> for an in-depth article with great links.</para>
+      </section>
+
+  </content>
+  <glossary>
+    <definition id="id1165534799895">
+      <term>axial precession</term>
+      <meaning id="oo-id1165534775639">The movement in the axis of rotation, which change in the direction of Earth's axis of rotation relative to the stars.
+      </meaning>
+    </definition>
+    <definition id="id1165534799906">
+      <term>axial tilt</term>
+      <meaning id="oo-id1165534761619">The angle between a planet's axis of rotation and the line perpendicular to the plane in which it orbits. The Earth's current axial tilt is 23.5 degrees.
+      </meaning>
+    </definition>
+    <definition id="id1165534799918">
+      <term>eccentricity</term>
+      <meaning id="oo-id1165534761634">A measure of how much an ellipse departs from circularity.
+      </meaning>
+    </definition>
+    <definition id="id1165534799926">
+      <term>glacial period</term>
+      <meaning id="oo-id1165534761645">A long period of time in which ice -sheets and glaciers are advanced in their extent.
+      </meaning>
+    </definition>
+    <definition id="id1165534799935">
+      <term>ice sheets</term>
+      <meaning id="oo-id1165534761658">Glaciers big enough to cover a continent. Currently, ice sheets are found in Antarctica and Greenland, but during glacial periods, ice sheets have covered other land masses, including North America.
+      </meaning>
+    </definition>
+    <definition id="id1165534799946">
+      <term>interglacial period</term>
+      <meaning id="oo-id1165534761671">The warm periods of the Quaternary in which glaciers and ice-sheets retreat. These occur between the longer glacial periods. 
+      </meaning>
+    </definition>
+    <definition id="id1165534799956">
+      <term>isotopes</term>
+      <meaning id="oo-id1165534761684">Atoms that have same number of protons but different numbers of neutrons. This means that they are the same element (e.g. oxygen), have the same chemical properties, but different masses.
+      </meaning>
+    </definition>
+    <definition id="id1165534799966">
+      <term>last glacial maximum</term>
+      <meaning id="oo-id1165534761697">The time at which ice sheets were at their greatest extent during the latest glacial period.
+      </meaning>
+    </definition>
+    <definition id="id1165534799976">
+      <term>milankovitch cycles</term>
+      <meaning id="oo-id1165534761710">Periodic variations in the Earth's orbit that influence its climate. These cycles are named after Milutin Milankovitch, a mathematician who quantified the theory.
+      </meaning>
+    </definition>
+    <definition id="id1165534799988">
+      <term>quaternary period</term>
+      <meaning id="oo-id1165534761724">The most recent geological period, spanning the time from 2.6 million years ago to today.
+      </meaning>
+    </definition>
+    <definition id="id1165534799998">
+      <term>obliquity</term>
+      <meaning id="oo-id1165534761737">See Axial Tilt.
+      </meaning>
+    </definition>
+    <definition id="id1165534800008">
+      <term>proxy data </term>
+      <meaning id="oo-id1165534761749">Information about the climate that accumulates through natural phenomena.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

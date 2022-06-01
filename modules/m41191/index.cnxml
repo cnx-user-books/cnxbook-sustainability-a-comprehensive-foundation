@@ -1,0 +1,258 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Human Consumption Patterns and the “Rebound” Effect</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41191</md:content-id>
+  <md:title>Human Consumption Patterns and the “Rebound” Effect</md:title>
+  <md:abstract/>
+  <md:uuid>765bd251-2d37-4b8e-bb53-4c8246283f16</md:uuid>
+</metadata>
+
+<content>
+  <para id="id1167927453046">In 1865 <link url="http://en.wikipedia.org/wiki/William_Stanley_Jevons" window="new">William Jevons</link> (1835-1882), a British economist, wrote a book entitled “<link url="http://www.econlib.org/library/YPDBooks/Jevons/jvnCQ.html" window="new">The Coal Question</link>,” in which he presented data on the depletion of coal reserves yet, seemingly paradoxically, an increase in the consumption of coal in England throughout most of the 19<sup>th</sup> century. He theorized that significant improvements in the efficiency of the steam engine had increased the utility of energy from coal and, in effect, lowered the price of energy, thereby increasing consumption. This is known as the <term target-id="id1167926234151">Jevons paradox</term>, the principle that as technological progress increases the efficiency of resource utilization, consumption of that resource will increase. Increased consumption that negates part of the efficiency gains is referred to as “rebound,” while <term target-id="id1167901594637">overconsumption</term> is called “backfire.” Such a counter-intuitive theory has not been met with universal acceptance, even among economists (see, for example, “<link url="http://www.newyorker.com/reporting/2010/12/20/101220fa_fact_owen" window="new">The Efficiency Dilemma</link>”). Many environmentalists, who see improvements in efficiency as a cornerstone of sustainability, openly question the validity of this theory. After all, is it sensible to suggest that we <emphasis effect="italics">not</emphasis> improve technological efficiency?</para>
+      <para id="id1167923162883">Whether or not the paradox is correct, the fact that it has been postulated gives us pause to examine in somewhat greater depth consumption patterns of society. If we let <emphasis effect="italics">Q</emphasis> be the quantity of goods and services delivered (within a given time period) to people, and <emphasis effect="italics">R</emphasis> be the quantity of resources consumed in order to deliver those goods and services, then the IPAT equation can be rewritten in a slightly different way as:</para>
+      <equation id="id1167901415616">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>I</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>P</m:mi>
+                            <m:mo stretchy="false">×</m:mo>
+                            <m:mfenced open="[" close="]">
+                              <m:mfrac>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>GDP</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi>P</m:mi>
+                              </m:mfrac>
+                            </m:mfenced>
+                          </m:mrow>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfenced open="[" close="]">
+                            <m:mfrac>
+                              <m:mi>Q</m:mi>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>GDP</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mfrac>
+                          </m:mfenced>
+                        </m:mrow>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfenced open="[" close="]">
+                          <m:mfrac>
+                            <m:mi>R</m:mi>
+                            <m:mi>Q</m:mi>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mfenced open="[" close="]">
+                        <m:mfrac>
+                          <m:mi>I</m:mi>
+                          <m:mi>R</m:mi>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{I=P times  left [ {  { ital "GDP"}  over  {P} }  right ] times  left [ {  {Q}  over  { ital "GDP"} }  right ] times  left [ {  {R}  over  {Q} }  right ] times  left [ {  {I}  over  {R} }  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1167914459102">where <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mfrac><m:mi>R</m:mi><m:mi>Q</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {Q}  over  {R} }  right ]} {}</m:annotation></m:semantics></m:math> represents the “resource intensity,” and <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mfrac><m:mi>I</m:mi><m:mi>R</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {Q}  over  {R} }  right ]} {}</m:annotation></m:semantics></m:math> is the impact created per unit of resources consumed. Rearranging this version of the equation gives:</para>
+      <equation id="id1167904831331">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mi>Q</m:mi>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mfenced open="[" close="]">
+                        <m:mfrac>
+                          <m:mi>R</m:mi>
+                          <m:mi>Q</m:mi>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{R=Q times  left [ {  {R}  over  {Q} }  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1167927332643">which says simply that resources consumed are equal to the quantity of goods and services delivered times the resource intensity. The inverse of resource intensity 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mfrac><m:mi>Q</m:mi><m:mi>R</m:mi></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {Q}  over  {R} }  right ]} {}</m:annotation></m:semantics></m:math> is called the resource use efficiency, also known as “resource productivity” or “<term target-id="id1167901585918">eco-efficiency</term>,” an approach that seeks to minimize environmental impacts by maximizing material and energy efficiencies of production. Thus we can say:</para>
+      <equation id="id1167900736352">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mi>Q</m:mi>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mfenced open="[" close="]">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Eco</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>efficiency</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{R=Q times  left [ {  {1}  over  { ital "Eco" -  ital "efficiency"} }  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1167916160438">that is, resources consumed are equal to goods and services delivered divided by eco-efficiency. Whether or not gains in eco-efficiency yield genuine savings in resources and lower environmental impacts depends on how much, over time, society consumes of a given product or service (i.e. the relative efficiency gain, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi fontstyle="italic">Δe</m:mi><m:mi>e</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Δe}  over  {e} } } {}</m:annotation></m:semantics></m:math>) must outpace the quantity of goods and services delivered 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi fontstyle="italic">ΔQ</m:mi><m:mi>Q</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ΔQ}  over  {Q} } } {}</m:annotation></m:semantics></m:math> . In the terms of Jevons paradox, if 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi fontstyle="italic">ΔQ</m:mi><m:mi>Q</m:mi></m:mfrac><m:mo stretchy="false">≥</m:mo><m:mfrac><m:mi fontstyle="italic">Δe</m:mi><m:mi>e</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ΔQ}  over  {Q} }  &gt;=  {  {Δe}  over  {e} } } {}</m:annotation></m:semantics></m:math> then the system is experiencing “backfire.”</para>
+      <para id="id1167900682065">Part of the problem in analyzing data pertaining to whether or not such “overconsumption” is happening depends on the specific good or service in question, the degree to which the data truly represent that good or service, and the level of detail that the data measure. Table <link target-id="eip-666"><emphasis effect="Bold">Historical Efficiency and Consumption Trends in the United States</emphasis></link> summarizes some recent findings from the literature on the comparative efficiency and consumption for several activities over extended periods of observation. Taken collectively these activities capture several basic enabling aspects of modern society: major materials, transportation, energy generation, and food production. In all cases the data show that over the long term, consumption outpaces gains in efficiency by wide margins, (i.e., 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi fontstyle="italic">ΔQ</m:mi><m:mi>Q</m:mi></m:mfrac><m:mo stretchy="false">≥</m:mo><m:mfrac><m:mi fontstyle="italic">Δe</m:mi><m:mi>e</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ΔQ}  over  {Q} }  &gt;=  {  {Δe}  over  {e} } } {}</m:annotation></m:semantics></m:math>). It should also be noted that in all cases, the increases in consumption are significantly greater than increases in population. The data of Table <link target-id="eip-666"><emphasis effect="Bold">Historical Efficiency and Consumption Trends in the United States</emphasis></link> do not verify Jevons paradox; we would need to know something about the prices of these goods and services over time, and examine the degree to which substitution might have occurred (for instance aluminum for iron, air travel for automobile travel). To see if such large increases in consumption have translated into comparable decreases in environmental quality, or declines in social equity, other information must be examined. Despite this, the information presented does show a series of patterns that broadly reflect human consumption of goods and services that we consider essential for modern living and for which efficiency gains have not kept pace; in a world of finite resources such consumption patterns cannot continue indefinitely.</para>
+      <table id="eip-666" summary="Historical Efficiency and Consumption Trends in the United States">
+<tgroup cols="5"><thead>
+    <row>
+      <entry>Activity</entry>
+      <entry>Time Period</entry>
+      <entry>Avg Annual Efficiency Improvement (%)</entry>
+			<entry>Avg Annual Increase in Consumption (%)</entry>
+			<entry>Ratio: Consumption/Efficiency</entry>
+    </row>
+  </thead>
+	<tbody>
+  <row>
+    <entry>Pig Iron</entry>
+    <entry>1800-1990</entry>
+    <entry>1.4</entry>
+    <entry>4.1</entry>
+    <entry>3.0</entry>
+  </row>
+  <row>
+    <entry>Aluminum</entry>
+    <entry>1900-2005</entry>
+    <entry>1.2</entry>
+    <entry>9.8</entry>
+    <entry>7.9</entry>
+  </row>
+  <row>
+    <entry>Fertilizer  </entry>
+    <entry>1920-2000</entry>
+
+    <entry>1.0</entry>
+    <entry>8.8</entry>
+    <entry>8.9</entry>
+  </row>
+  <row>
+    <entry>Electricity-Coal</entry>
+    <entry>1920-2007</entry>
+    <entry>1.3</entry>
+    <entry>5.7</entry>
+    <entry>4.5</entry>
+  </row>
+  <row>
+    <entry>Electricity-Oil</entry>
+    <entry>1920-2007</entry>
+    <entry>1.5</entry>
+    <entry>6.2</entry>
+    <entry>4.2</entry>
+  </row>
+  <row>
+    <entry>Electricity-Nat Gas</entry>
+    <entry>1920-2007</entry>
+    <entry>1.8</entry>
+    <entry>9.6</entry>
+    <entry>5.5</entry>
+  </row>
+  <row>
+    <entry>Freight Rail Travel</entry>
+    <entry>1960-2006</entry>
+    <entry>2.0</entry>
+    <entry>2.5</entry>
+    <entry>1.2</entry>
+  </row>
+  <row>
+    <entry>Air Passenger Travel</entry>
+    <entry>1960-2007</entry>
+    <entry>1.3</entry>
+    <entry>6.3</entry>
+    <entry>4.9</entry>
+  </row>
+  <row>
+    <entry>Motor Vehicle Travel</entry>
+    <entry>1940-2006</entry>
+    <entry>0.3</entry>
+    <entry>3.8</entry>
+    <entry>11.0</entry>
+  </row>
+</tbody>
+
+</tgroup><caption><emphasis effect="bold">Historical Efficiency and Consumption Trends in the United States</emphasis> <emphasis effect="italics">Source: <link target-id="id1167923564522">Dahmus and Gutowski, 2011</link></emphasis></caption>
+</table><para id="id1167900722736">Our consumption of goods and services creates a viable economy, and also reflects our social needs. For example, most of us consider it a social good that we can travel large distances rather quickly, safely, and more or less whenever we feel the need. Similarly, we realize social value in having aluminum (lightweight, strong, and ductile) available, in spite of its energy costs, because it makes so many conveniences, from air travel to beverage cans, possible. This is at the center of the sustainability paradigm: human behavior is a social and ethical phenomenon, not a technological one. Whether or not we must “overconsume” to realize social benefits is at the core of sustainable solutions to problems.</para>
+      <section id="id1167901710471">
+        <title>Resources</title>
+        <para id="id1167903369523">For more information about eco-efficiency, see the World Business Council for Sustainable Development report titled "<link url="http://www.wbcsd.org/plugins/docsearch/details.asp?txtDocTitle=efficiency&amp;DocTypeId=25&amp;CharValList=25;&amp;ObjectId=Mjc5&amp;URLBack=result%2Easp%3FtxtDocTitle%3Defficiency%26DocTypeId%3D25%26CharValList%3D25%3B%26SortOrder%3D%26CurPage%3D2" window="new">Eco-Efficiency: Creating more value with less impact</link>"</para>
+      </section>
+      <section id="id1167900697898">
+        <title>References</title>
+        <para id="id1167923564522">Dahmus, J. B., and T. G. Gutowski (2011) “Can Efficiency Improvements Reduce Resource Consumption? A Historical Analysis of Ten Activities” Journal of Industrial Ecology (accepted for publication).</para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1167901585918">
+      <term>eco-efficiency</term>
+      <meaning id="oo-id1167900716124">An approach that seeks to minimize environmental impacts by maximizing material and energy efficiencies of production.
+      </meaning>
+    </definition>
+    <definition id="id1167926234151">
+      <term>Jevons paradox</term>
+      <meaning id="oo-id1167901120240">The principle that as technological progress increases the efficiency of resource utilization, consumption of that resource will increase.
+      </meaning>
+    </definition>
+    <definition id="id1167901594637">
+      <term>overconsumption</term>
+      <meaning id="oo-id1167901147007">A long-term result in which the increase in consumption is greater than the efficiency improvement
+      </meaning>
+    </definition>
+  </glossary>
+</document>

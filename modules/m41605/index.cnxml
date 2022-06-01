@@ -1,0 +1,309 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41605</md:content-id>
+  <md:title>Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</md:title>
+  <md:abstract/>
+  <md:uuid>097fe5dc-4f9a-470f-a08d-e5504e33ae2a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171170433713">
+      <title>Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</title>
+      <para id="id1171168849921">How do different measures of sustainability compare when looking at one institution? This case study compares these different measures for the University of Illinois at Chicago (UIC). Located just southwest of downtown Chicago, UIC has 13 colleges serving 27,000 students and 12,000 employees, with over 100 buildings on 240 acres (97 hectares) of land. The activities of the faculty, staff and students and the buildings and grounds have an impact on the sustainability of the institution. This case study will look at the results of the greenhouse gas emission inventory, ecology footprint, and sustainability rating.</para>
+
+      <figure id="id1171168428679"><media id="id1171168428679_media" alt="Greenhouse Gas Emissions Inventory" longdesc="UIC's Greenhouse gas emissions profile for FY2004-2010, using the regional mix for purchased electricity.">
+            <image mime-type="image/png" src="../../media/Chart 1.png" id="id1171168428679__onlineimage" height="430" width="652"/>
+          </media>
+        <caption><emphasis effect="bold">Greenhouse Gas Emissions Inventory </emphasis>UIC's Greenhouse gas emissions profile for FY2004-2010, using the regional mix for purchased electricity. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/cindykb" window="new">C. Klein-Banai</link></emphasis></caption>
+			</figure>
+
+      
+      <para id="id1171169560305">Figure <link target-id="id1171168428679">Greenhouse Gas Emissions Inventory</link> displays UIC's GHG emissions profile for seven years. The emissions were calculated using the <link url="http://www.cleanair-coolplanet.org/toolkit/inv-calculator.php" window="new">Campus Carbon Calculator</link> developed by the not-for-profit organization, Clean Air-Cool Planet. While this tool has a number of limitations it has been used by many of the over 670 colleges and universities who are signatory to the <link url="http://www.presidentsclimatecommitment.org/about/commitment" window="new">American College and University Presidents Climate Commitment</link> (ACUPCC) to simplify the emissions inventory profile. The tool is also recommended by the ACUPCC as a standard method of emissions calculation for United States universities. It is based on the World Resources Institute (WRI) and World Business Council for Sustainable Development (WBSCD) <link url="http://www.ghgprotocol.org/" window="new">Greenhouse Gas (GHG) Protocol Initiative</link> that developed GHG emissions inventory standards. UIC's emissions were calculated using the regional average electricity sources for the electric grid servicing the Chicago area. However, until August of 2009, UIC purchased electricity from Commonwealth Edison which has a much lower greenhouse gas emissions factor due to the high percentage of nuclear power in the Chicago region.</para>
+      <para id="id1171170293898">UIC operates two combined heat and power plants. However, the university has increasingly lowered its production of electricity from natural gas by purchasing more electricity through block purchases (for defined amounts of electricity for a certain period of time) due to the relatively low cost of purchasing electricity as compared to self-generating. This strategy has increased UIC's emissions as the regional mix has a fair amount of coal-powered plants providing electricity. Neverthless, a downward trend in emissions is beginning in spite of the increased electricity purchases between 2009 and 2010. This may be due to overall reduction in energy consumption on campus, which is reducing the GHG emissions.</para>
+      <para id="id1171168686968">Figure <link target-id="id1171169619803">Breakdown of UIC's Greenhouse Gas Emissions</link> illustrates the relative contribution to UIC's 2010 emissions profile, with 77 percent of emissions coming from buildings (power plants, purchased electricity, and other on-campus stationary, i.e. natural gas supply to the buildings), 20 percent due to transportation (campus fleet , commuting to campus, and air travel), and less than one percent for emissions due to waste sent to the landfill (which generates methane).</para>
+
+			<figure id="id1171169619803"><media id="id1171169619803_media" alt="Breakdown of UIC's Greenhouse Gas Emissions" longdesc="Figure shows the breakdown of UIC's greenhouse gas emissions inventory for the fiscal year 2010, in metric tons of carbon dioxide equivalents (mt CO2-e). Total emissions: 354,758 mt CO2-e">
+            <image mime-type="image/png" src="../../media/Picture 1-8f88.png" id="id1171169619803__onlineimage" height="349" width="616"/>
+          </media>
+        <caption><emphasis effect="bold">Breakdown of UIC's Greenhouse Gas Emissions</emphasis> Figure shows the breakdown of UIC's greenhouse gas emissions inventory for the fiscal year 2010, in metric tons of carbon dioxide equivalents (mt CO<sub>2</sub>-e). Total emissions: 354,758 mt CO<sub>2</sub>-e. <emphasis effect="italics">Source: <link url=" http://cnx.org/member_profile/cindykb" window="new">C. Klein-Banai</link></emphasis> </caption>
+			</figure>
+
+      
+      <para id="id8406422">UIC's total emissions for fiscal year 2010 were 354,758 mt CO<sub>2</sub>-e, which amounts to 13.14 mt CO<sub>2</sub>-e per full-time equivalent student enrolled. Table <link target-id="id8600016">Comparison of GHG Emissions</link> compares UIC's emissions to those of the city of Chicago, state of Illinois, and the United States.</para>
+      <table id="id8600016" summary="Comparison of GHG Emissions Index: Ecological Footprint Analysis"><title>Comparison of GHG Emissions</title> 
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+					<thead>
+            <row>
+              <entry><emphasis effect="bold">Entity</emphasis></entry>
+              <entry>
+                <emphasis effect="bold">GHG emissions, million MT CO</emphasis>
+                <emphasis effect="bold">2</emphasis>
+                <emphasis effect="bold">-e</emphasis>
+              </entry>
+              <entry><emphasis effect="bold">Most Recent Year Reported</emphasis></entry>
+            </row>
+					</thead>
+          <tbody>
+            <row>
+              <entry>US</entry>
+              <entry>6,633.20</entry>
+              <entry>2009</entry>
+            </row>
+            <row>
+              <entry>Illinois</entry>
+              <entry>274.9</entry>
+              <entry>2003</entry>
+            </row>
+            <row>
+              <entry>Chicago</entry>
+              <entry>36.2 </entry>
+              <entry>2005</entry>
+            </row>
+            <row>
+              <entry>UIC</entry>
+              <entry>0.4 </entry>
+              <entry>2010</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption><emphasis effect="italics">Sources: <link url="http://cnx.org/member_profile/cindykb" window="new">C. Klein-Banai</link> created table using data from UIC Climate Action Plan, Chicago Climate Action Plan, U.S. EPA</emphasis>. </caption>
+</table>
+      
+      <para id="id1171169508072">An Ecological Footprint Analysis (EFA) was conducted using data from fiscal year 2008, including much of the same data used for the GHG emissions inventory. In addition, water, food, recycling, and built-up land data were used to calculate the number of global hectares required to provide the resources and absorb the waste and GHG emissions produced to support UIC's activities. The results are displayed in Table <link target-id="id1171169537989">UIC's Ecological Footprint Using FY2008 Data</link>. The total footprint was 97,601 global hectares, on a per capita basis this is equivalent to 2.66 gha/person. This is in contrast to about 8.00 gha/person nationally in the United States, although one must use caution in making comparisons because the scope and methodology of the analysis differ.</para>
+      <table id="id1171169537989" summary="UIC's Ecological Footprint Using FY2008 Data. Composite Indicator: Sustainability Tracking, Assessment and Rating System"><title>UIC's Ecological Footprint Using FY2008 Data</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+					<thead>
+            <row>
+              <entry>Category</entry>
+              <entry>Global Hectares</entry>
+              <entry>Percent</entry>
+            </row>
+					</thead>
+					<tfoot>
+            <row>
+              <entry>TOTAL, Global Hectares</entry>
+              <entry>97,601</entry>
+              <entry>100.0%</entry>
+            </row>					
+					</tfoot>
+          <tbody>
+            <row>
+              <entry>Energy</entry>
+              <entry>70,916</entry>
+              <entry>72.7%</entry>
+            </row>
+            <row>
+              <entry>Transportation</entry>
+              <entry>12,293</entry>
+              <entry>12.6%</entry>
+            </row>
+            <row>
+              <entry>Water</entry>
+              <entry>139</entry>
+              <entry>0.1%</entry>
+            </row>
+            <row>
+              <entry>Materials and waste</entry>
+              <entry>11,547</entry>
+              <entry>11.8%</entry>
+            </row>
+            <row>
+              <entry>Built-up land</entry>
+              <entry>172</entry>
+              <entry>0.2%</entry>
+            </row>
+            <row>
+              <entry>Food</entry>
+              <entry>2,533</entry>
+              <entry>2.6%</entry>
+            </row>
+          </tbody>
+</tgroup><caption>Composite Indicator: Sustainability Tracking, Assessment and Rating System. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/cindykb" window="new">C. Klein-Banai</link></emphasis>.</caption>
+</table>
+      
+      <para id="id1171168920226">The STARS system (see module <link document="m41616">Sustainability Metrics and Rating Systems</link>) was used to rate UIC. The university received 39.1 points, for a Bronze rating. The points break down into the categories shown in Table <link target-id="id1171169278359">STARS Points Received by UIC by Category</link>. There are three main categories of points – Education &amp; Research; Operations; and Planning, Administration &amp; Engagement. Within each of the categories there are sub-categories such as Curriculum, Climate, and Coordination &amp; Planning. Within those sub-categories there are specific strategies that address them, with varying amounts of points that depend on the assessed weight of each strategy. Each category's individual percentage score is weighted equally to the others. In addition, four innovation strategies are available for which an institution can receive one point. These points are not attributed to a particular category.</para>
+      <table id="id1171169278359" summary="STARS Points Received by UIC by Category"><title>STARS Points Received by UIC by Category</title>
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+					<thead>
+            <row>
+              <entry>Points</entry>
+              <entry>Received</entry>
+              <entry>Possible</entry>
+              <entry>% Per Category</entry>
+              <entry>Weight</entry>
+            </row>
+					</thead>
+          <tbody>
+            <row>
+              <entry>Education &amp; Research </entry>
+              <entry/>
+              <entry/>
+              <entry>38.61%</entry>
+              <entry>33.33/100</entry>
+            </row>
+            <row>
+              <entry>Co-Curricular Education </entry>
+              <entry>11.75</entry>
+              <entry>18.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Curriculum </entry>
+              <entry>18.89</entry>
+              <entry>55.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Research </entry>
+              <entry>7.97</entry>
+              <entry>27.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Operations </entry>
+              <entry/>
+              <entry/>
+              <entry>23.78%</entry>
+              <entry>33.33/100</entry>
+            </row>
+            <row>
+              <entry>Buildings </entry>
+              <entry>0.23</entry>
+              <entry>13.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Climate</entry>
+              <entry>1.75</entry>
+              <entry>16.50</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dining Services </entry>
+              <entry>1.25</entry>
+              <entry>8.50</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Energy</entry>
+              <entry>3.44</entry>
+              <entry>16.50</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Grounds</entry>
+              <entry>1.00</entry>
+              <entry>3.25</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Purchasing </entry>
+              <entry>1.76</entry>
+              <entry>7.50</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Transportation</entry>
+              <entry>5.71</entry>
+              <entry>12.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Waste</entry>
+              <entry>6.89</entry>
+              <entry>12.50</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Water </entry>
+              <entry>1.75</entry>
+              <entry>10.25</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Planning, Administration &amp; Engagement </entry>
+              <entry/>
+              <entry/>
+              <entry>54.91%</entry>
+              <entry>33.33/100</entry>
+            </row>
+            <row>
+              <entry>Coordination and Planning </entry>
+              <entry>15.00</entry>
+              <entry>18.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Diversity and Affordability </entry>
+              <entry>13.50</entry>
+              <entry>13.75</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Human Resources </entry>
+              <entry>19.75</entry>
+              <entry>19.75</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Investment</entry>
+              <entry>0.00</entry>
+              <entry>16.75</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Public Engagement </entry>
+              <entry>6.66</entry>
+              <entry>31.75</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Innovation</entry>
+              <entry>0.00</entry>
+              <entry>4.00</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption><emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/cindykb" window="new">C. Klein-Banai</link> with data from <link url="https://stars.aashe.org/institutions/university-of-illinois-chicago-il/report/2011-01-31/" window="new">STARS</link></emphasis> </caption>
+</table>
+      
+      <para id="id1171169503415">This reporting system shows that UIC's strengths lie in the areas outside of operations, which are what is measured with an EFA or GHG emissions inventory. Most points were gained for Planning, Administration &amp; Engagement. This rating system can be used to identify specific areas that can be targeted for advancing sustainability initiatives in a much broader realm than the other two metric allow. This case study demonstrates the different types of information and sustainability tracking that can be done using different types of measures of sustainability. Whether you use one measure or several depends on the purpose and scope of the sustainability reporting.</para>
+      <section id="id1171168843496">
+        <title>References</title>
+        <para id="id1171168566675">Klein-Banai, C, Theis, T.L., Brecheisen, T.A. &amp; Banai, A. (2010). A Greenhouse Gas Inventory as a Measure of Sustainability for an Urban Public Research University, <emphasis effect="italics">Environmental Practice</emphasis>, <emphasis effect="italics">12</emphasis>, 25-47.</para>
+        <para id="id1171168398896">Klein-Banai, C &amp; Theis, T.L. (2011). An urban university's ecological footprint and the effect of climate change, <emphasis effect="italics">Ecological Indicators</emphasis>, <emphasis effect="italics">11</emphasis>, 857–860.</para>
+        <para id="id3650920">UIC Office of Sustainability. (2011). <emphasis effect="italics">State of Sustainability University of Illinois at Chicago Biennial Report</emphasis>. Retrieved May 30, 2011 from <link url="http://www.uic.edu/sustainability/reports/UIC.STARS_report.2010.pdf" window="new">http://www.uic.edu/sustainability/reports/UIC.STARS_report.2010.pdf</link>. </para>
+      </section>
+    </section>
+  </content>
+</document>

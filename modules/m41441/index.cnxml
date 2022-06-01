@@ -1,0 +1,541 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Water Pollution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41441</md:content-id>
+  <md:title>Water Pollution</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) water pollutants and how they degrade water quality, 2) the lack of safe drinking water in some parts of the world , 3) sewage treatment 4) the difficult process to remediate groundwater pollution, and 5) solutions for the crisis involving water pollution</md:abstract>
+  <md:uuid>2f834f44-aae1-448f-a1ce-bed42c63507f</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1172491735343">
+        <title>Learning Objectives</title>
+        <para id="id1172498953521">After reading this module, students should be able to</para>
+        <list id="id1172496510117" list-type="bulleted">
+          <item>understand the major kinds of water pollutants and how they degrade water quality</item>
+          <item>understand how and why the lack of safe drinking water in some parts of the world is a major problem</item>
+          <item>know what sewage treatment does and why it is important</item>
+          <item>know why it is more difficult to remediate groundwater pollution than surface water pollution</item>
+          <item>understand how we can work toward solving the crisis involving water pollution</item>
+        </list>
+      </section>
+      <section id="id1172500458659">
+        <title>The Water Pollution Crisis</title>
+        <para id="id1172476341759">The Module <link document="m41397"><emphasis effect="bold">Water Cycle and Fresh Water Supply</emphasis></link> described one aspect of the global water crisis, the water shortages that afflict many arid and densely populated areas. The global water crisis also involves water pollution, because to be useful for drinking and irrigation, water must not be polluted beyond certain thresholds. According to the World Health Organization, in 2008 approximately 880 million people in the world (or 13% of world population) did not have access to improved (safe) drinking water (<link target-id="id1172477317035">World Health Statistics, 2010</link>) (See Figure <link target-id="id1172500132430"><emphasis effect="bold">Proportion of Population by Country Using Improved Drinking Water Sources in 2008</emphasis></link>). At the same time, about 2.6 billion people (or 40% of world population) lived without improved sanitation (see Figure <link target-id="id1172487193354"><emphasis effect="bold">Proportion of Population by Country Using Improved Sanitation Facilities in 2008</emphasis></link>), which is defined as having access to a public sewage system, septic tank, or even a simple pit latrine. Each year approximately 1.7 million people die from diarrheal diseases associated with unsafe drinking water, inadequate sanitation, and poor hygiene, e.g., hand washing with soap. Almost all of these deaths are in developing countries, and around 90% of them occur among children under the age of 5 (see Figure <link target-id="id1172494387829"><emphasis effect="bold">Deaths by Country from Diarrhea Caused by Unsafe Water, Unimproved Sanitation, and Poor Hygiene in Children Less than 5 Years Old, 2004</emphasis></link>). Compounding the water crisis is the issue of social justice; poor people more commonly lack clean water and sanitation than wealthy people in similar areas. Globally, improving water, sanitation, and hygiene could prevent up to 9% of all disease and 6% of all deaths. In addition to the global waterborne disease crisis, chemical pollution from agriculture, industry, cities, and mining threatens global water quality. Some chemical pollutants have serious and well-known health effects; however, many others have poorly known long-term health effects. In the U.S. currently more than 40,000 water bodies fit the definition of “impaired” set by EPA (See Figure <link target-id="id1172486263188"><emphasis effect="bold">Percentage of Impaired Water Bodies in a Watershed by State in USA Based on US EPA Data in 2000</emphasis></link>), which means they could neither support a healthy ecosystem nor meet water quality standards. In Gallup public polls conducted over the past decade Americans consistently put water pollution and water supply as the top environmental concerns over issues such as air pollution, deforestation, species extinction, and global warming.</para>
+        <para id="id1172487849317">
+          <figure id="id1172500132430" type="Figure">
+						
+            <media id="id1172500132430_media" alt="map of proportion of population using improved drinking water sources in 2008">
+              <image mime-type="image/png" src="../../media/graphics1-9f1f.png" id="id1172500132430__onlineimage" height="435" width="650"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Proportion of Population by Country Using Improved Drinking Water Sources in 2008</emphasis> Improved drinking water sources, e.g., household connections, public standpipes, boreholes, protected dug wells and springs, and rainwater collections, are defined as those more likely to provide safe water than unimproved water sources, e.g., unprotected wells and springs, vendor-provided water, bottled water (unless water for other uses is available from an improved source), and tanker truck-provided water. <emphasis effect="italics">Source: <link url="http://gamapserver.who.int/mapLibrary/Files/Maps/phe_water_08.png" window="new">World Health Organization</link></emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172478105478">
+          <figure id="id1172487193354" type="Figure">
+						
+            <media id="id1172487193354_media" alt="map of proportion of population using improved sanitation facilities in 2008">
+              <image mime-type="image/png" src="../../media/graphics2-7bb1.png" id="id1172487193354__onlineimage" height="435" width="650"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Proportion of Population by Country Using Improved Sanitation Facilities in 2008</emphasis> Improved sanitation facilities, e.g., connection to public sewers or septic systems, pour-flush latrines, pit latrines, and ventilated improved pit latrines, are defined as those more likely to be sanitary than unimproved facilities, e.g., bucket latrines, public latrines, and open pit latrines.<emphasis effect="italics"> Source: <link url="http://gamapserver.who.int/mapLibrary/Files/Maps/MDG7_sanitation_08.png" window="new">World Health Organization</link> </emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172495638730">
+          <figure id="id1172494387829" type="Figure">
+						
+            <media id="id1172494387829_media" alt="map of deaths by country from diarrhea caused by unsafe water, etc. in 2004">
+              <image mime-type="image/png" src="../../media/graphics3-a416.png" id="id1172494387829__onlineimage" height="435" width="650"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Deaths by Country from Diarrhea Caused by Unsafe Water, Unimproved Sanitation, and Poor Hygiene in Children Less than 5 Years Old, 2004</emphasis>
+              <emphasis effect="italics">Source: <link url="http://gamapserver.who.int/mapLibrary/Files/Maps/Global_wsh_death_under5_2004.png" window="new">World Health Organization</link> </emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172478042939">
+          <figure id="id1172486263188" type="Figure">
+						
+            <media id="id1172486263188_media" alt="map of watersheds">
+              <image mime-type="image/png" src="../../media/graphics4-bd0a.png" id="id1172486263188__onlineimage" height="310" width="588"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Percentage of Impaired Water Bodies in a Watershed by State in USA Based on US EPA Data in 2000</emphasis> Map of watersheds containing impaired water bodies from the U.S. Environmental Protection Agency's 1998 list of impaired waters<emphasis effect="italics"> Source: <link url="http://pubs.usgs.gov/fs/FS-130-01/" window="new">U.S. Geological Survey</link></emphasis>
+            </caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1172498584425">
+        <title>Water Chemistry Overview</title>
+        <para id="id7721237">Compared to other molecules of similar molecular weight, water (H<sub>2</sub>O) has unique physical properties including high values for melting and boiling point, surface tension (water’s cohesion, or “stickiness”), and capacity to dissolve soluble minerals, i.e., act as a <term target-id="id1172488076920">solvent</term>. These properties are related to its asymmetrical structure and <emphasis effect="italics">polar nature</emphasis>, which means it is electrically neutral overall but it has a net positive charge on the side with the two hydrogen atoms and a net negative charge on the oxygen side (see Figure <link target-id="id1172488146126"><emphasis effect="bold">Structure of Water, Polar Charge of Water, and Hydrogen Bonds between Water Molecules</emphasis></link>). This separation of the electrical charge within a water molecule results in <emphasis effect="italics">hydrogen bonds</emphasis> with other water molecules, mineral surfaces (hydrogen bonding produces the water films on minerals in the unsaturated zone of the subsurface), and <emphasis effect="italics">dissolved ions</emphasis> (atoms with a negative or positive charge). Many minerals and pollutants dissolve readily in water because water forms <emphasis effect="italics">hydration shells</emphasis> (spheres of loosely coordinated, oriented water molecules) around ions.</para>
+        <para id="id1172483589722">
+          <figure id="id1172488146126" type="Figure">
+						
+            <media id="id1172488146126_media" alt="Structure of water, polar charge of water, and hydrogen bonds between water molecules">
+              <image mime-type="image/jpg" src="../../media/graphics5-fb39.jpg" id="id1172488146126__onlineimage" height="413" width="417"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Structure of Water, Polar Charge of Water, and Hydrogen Bonds between Water Molecules</emphasis><emphasis effect="italics"> Source: <link url="http://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.jpg" window="new">Michal Maňas</link> at Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172500140568">Any natural water contains dissolved chemicals; some of these are important human nutrients, while others can be harmful to human health. The abundance of a water pollutant is commonly given in very small concentration units such as parts per million (ppm) or even parts per billion (ppb). An arsenic concentration of 1 ppm means 1 part of arsenic per million parts of water. This is equivalent to one drop of arsenic in 50 liters of water. To give you a different perspective on appreciating small concentration units, converting 1 ppm to length units is 1 cm (0.4 in) in 10 km (6 miles) and converting 1 ppm to time units is 30 seconds in a year. <term target-id="id1172489922455">Total dissolved solids</term> (TDS) represent the total amount of dissolved material in water. Average TDS (salinity) values for rainwater, river water, and seawater are about 4 ppm, 120 ppm, and 35,000 ppm. As discussed in Module <link document="m38482"><emphasis effect="bold">Climate Processes; External and Internal Controls</emphasis></link>, the most important processes that affect the salinity of natural waters are evaporation, which distills nearly pure water and leaves the dissolved ions in the original water, and chemical weathering, which involves mineral dissolution that adds dissolved ions to water. Fresh water is commonly defined as containing less than either 1,000 or 500 ppm TDS, but the US Environmental Protection Agency (EPA) recommends that drinking water not exceed 500 ppm TDS or else it will have an unpleasant salty taste.</para>
+      </section>
+      <section id="id1172495488826">
+        <title>Water Pollution Overview</title>
+        <para id="id1172484472464"><term target-id="id1172483209992">Water pollution</term> is the contamination of water by an excess amount of a substance that can cause harm to human beings and the ecosystem. The level of water pollution depends on the abundance of the pollutant, the ecological impact of the pollutant, and the use of the water. Pollutants are derived from biological, chemical, or physical processes. Although natural processes such as volcanic eruptions or evaporation sometimes can cause water pollution, most pollution is derived from human, land-based activities (see Figure <link target-id="id7774558"><emphasis effect="bold">Water Pollution</emphasis></link>). Water pollutants can move through different water reservoirs, as the water carrying them progresses through stages of the water cycle (see Figure <link target-id="id1172498832691"><emphasis effect="bold">Sources of Water Contamination</emphasis></link>). Water residence time (the average time that a water molecule spends in a water reservoir) is very important to pollution problems because it affects pollution potential. Water in rivers has a relatively short residence time, so pollution usually is there only briefly. Of course, pollution in rivers may simply move to another reservoir, such as the ocean, where it can cause further problems. Groundwater is typically characterized by slow flow and longer residence time, which can make groundwater pollution particularly problematic. Finally, pollution residence time can be much greater than the water residence time because a pollutant may be taken up for a long time within the ecosystem or absorbed onto sediment.</para>
+        <para id="id1172483761937">
+          <figure id="id7774558" type="Figure">
+						
+            <media id="id7774558_media" alt="photograph of water pollution" longdesc="photograph of two young children in a small boat in a very polluted river">
+              <image mime-type="image/jpg" src="../../media/graphics6-0450.jpg" id="id7774558__onlineimage" height="625" width="415"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Water Pollution</emphasis> Obvious water pollution in the form of floating debris; invisible water pollutants sometimes can be much more harmful than visible ones. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/?title=File:Obvious_water_pollution.jpeg" window="new">Stephen Codrington</link> at Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172495378457">
+          <figure id="id1172498832691" type="Figure">
+						
+            <media id="id1172498832691_media" alt="Diagram showing contamination to water can come from many sources">
+              <image mime-type="image/png" src="../../media/graphics7-7edd.png" id="id1172498832691__onlineimage" height="415" width="673"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Sources of Water Contamination</emphasis> Sources of some water pollutants and movement of pollutants into different water reservoirs of the water cycle. <emphasis effect="italics">Source: <link url="http://ga.water.usgs.gov/edu/waterquality.html" window="new">U.S. Geological Survey</link></emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172503374704">Pollutants enter water supplies from <term target-id="id1172482234836">point sources</term>, which are readily identifiable and relatively small locations, or <term target-id="id1172500906596">nonpoint sources</term>, which are large and more diffuse areas. Point sources of pollution include animal “factory” farms that raise a large number and high density of livestock such as cows, pigs, and chickens (see Figure <link target-id="id1172488871102"><emphasis effect="bold">A Commercial Meat Chicken Production House</emphasis></link>) and discharge pipes from a factories or sewage treatment plants. <term target-id="id1172498344827">Combined sewer systems</term> that have a single set of underground pipes to collect both sewage and storm water runoff from streets for wastewater treatment can be major point sources of pollutants. During heavy rain, storm water runoff may exceed sewer capacity, causing it to back up and spilling untreated sewage into surface waters (see Figure <link target-id="id1172498344827"><emphasis effect="bold">Combined Sewer System</emphasis></link>). Nonpoint sources of pollution include agricultural fields, cities, and abandoned mines. Rainfall runs over the land and through the ground, picking up pollutants such as herbicides, pesticides, and fertilizer from agricultural fields and lawns; oil, antifreeze, car detergent, animal waste, and road salt from urban areas; and acid and toxic elements from abandoned mines. Then, this pollution is carried into surface water bodies and groundwater. Nonpoint source pollution, which is the leading cause of water pollution in the U.S., is usually much more difficult and expensive to control than point source pollution because of its low concentration, multiple sources, and much greater volume of water.</para>
+        <para id="id1172496947775">
+          <figure id="id1172488871102" type="Figure">
+						
+            <media id="id1172488871102_media" alt=" Photograph of a Commercial Meat Chicken Production House" longdesc="photograph of a very crowded commercial chicken production house, with thousands of chickens covering the entire long floor.">
+              <image mime-type="image/jpg" src="../../media/graphics8-9215.jpg" id="id1172488871102__onlineimage" height="443" width="649"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">A Commercial Meat Chicken Production House</emphasis> This chicken factory farm is a possible major point source of water pollution. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Florida_chicken_house.jpg" window="new">Larry Rana</link> at Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172498968325">
+          <figure id="id1172498344827" type="Figure">
+						
+            <media id="id1172498344827_media" alt="illustration of a combined sewer system">
+              <image mime-type="image/jpg" src="../../media/graphics9-2773.jpg" id="id1172498344827__onlineimage" height="294" width="649"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Combined Sewer System</emphasis> A combined sewer system is a possible major point source of water pollution during heavy rain due to overflow of untreated sewage. During dry weather (and small storms), all flows are handled by the publicly owned treatment works (POTW). During large storms, the relief structure allows some of the combined stormwater and sewage to be discharged untreated to an adjacent water body. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:CSO_diagram_US_EPA.jpg" window="new">U.S. Environmental Protection Agency</link> at Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1172498580505">
+        <title>Types of Water Pollutants</title>
+        <para id="id1172488230695"><term target-id="id1172481928941">Oxygen-demanding waste</term> is an extremely important pollutant to ecosystems. Most surface water in contact with the atmosphere has a small amount of dissolved oxygen, which is needed by aquatic organisms for cellular respiration. Bacteria decompose dead organic matter (chemically represented in a simplified way as CH<sub>2</sub>O) and remove dissolved oxygen (O<sub>2</sub>) according to the following reaction:</para>
+        <equation id="id1172483762880">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>CH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mi>O</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>O</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ ital "CH" rSub { size 8{2} } O+O rSub { size 8{2} }  rightarrow  ital "CO" rSub { size 8{2} } +H rSub { size 8{2} } O} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1172500651380">Too much decaying organic matter in water is a pollutant because it removes oxygen from water, which can kill fish, shellfish, and aquatic insects. The amount of oxygen used by aerobic (in the presence of oxygen) bacterial decomposition of organic matter is called <term target-id="id1172485300478">biochemical oxygen demand</term> (BOD). The major source of dead organic matter in most natural waters is sewage; grass and leaves are smaller sources. An unpolluted water body with respect to oxygen is a turbulent river that flows through a natural forest. Turbulence continually brings water in contact with the atmosphere where the O<sub>2</sub> content is restored. The dissolved oxygen content in such a river ranges from 10 to 14 ppm O<sub>2</sub>, BOD is low, and clean-water fish, e.g., bass, trout, and perch dominate. A polluted water body with respect to oxygen is a stagnant deep lake in an urban setting with a combined sewer system. This system favors a high input of dead organic carbon from sewage overflows and limited chance for water circulation and contact with the atmosphere. In such a lake, the dissolved O<sub>2</sub> content is ≤5 ppm O<sub>2</sub>, BOD is high, and low O<sub>2</sub>-tolerant fish, e.g., carp and catfish dominate.</para>
+        <para id="id1172498581435"><term target-id="id1172480449626">Excessive plant nutrients</term>, particularly nitrogen (N) and phosphorous (P), are pollutants closely related to oxygen-demanding waste. Aquatic plants require about 15 nutrients for growth, most of which are plentiful in water. N and P are called <emphasis effect="italics">limiting nutrients</emphasis>, because they usually are present in water at low concentrations and therefore restrict the total amount of plant growth. This explains why N and P are major ingredients in most fertilizer. High concentrations of N and P from human sources (mostly agricultural and urban runoff including fertilizer, sewage, and P-based detergent) can cause <term target-id="id1172493720729">cultural eutrophication</term>, which involves the rapid growth of aquatic plants, particularly algae, called an <emphasis effect="italics">algal bloom</emphasis>. Thick mats of floating and rooted green or sometimes red algae (see Figure <link target-id="id1172496501223"><emphasis effect="bold">Algal Bloom in River in Sichuan, China</emphasis></link>) create water pollution, damage the ecosystem by clogging fish gills and blocking sunlight, and damage lake aesthetics by making recreation difficult and creating an eyesore. A small percentage of algal species produce toxins that can kill fish, mammals, and birds, and may cause human illness; explosive growths of these algae are called <emphasis effect="italics">harmful algal blooms</emphasis> (see Figure <link target-id="id1172495954226"><emphasis effect="bold">Harmful Algal Bloom</emphasis></link>). When the prolific algal layer dies, it becomes oxygen-demanding waste, which can create very low O<sub>2</sub> water (&lt;~2 ppm O<sub>2</sub>), called <term target-id="id1172493435664">hypoxia</term> or dead zone because it causes death to organisms that are unable to leave that environment. An estimated 50% of lakes in North America, Europe, and Asia are negatively impacted by cultural eutrophication. In addition, the size and number of marine hypoxic zones have grown dramatically over the past 50 years (see Figure <link target-id="id1172495883579"><emphasis effect="bold">Aquatic Dead Zones</emphasis></link>), including a very large dead zone located offshore Louisiana in the Gulf of Mexico. Cultural eutrophication and hypoxia are difficult to combat, because they are caused primarily by nonpoint source pollution, which is difficult to regulate, and N and P, which are difficult to remove from wastewater.</para>
+        <para id="id1172496509941">
+          <figure id="id1172496501223" type="Figure">
+						
+            <media id="id1172496501223_media" alt="picture of Algal bloom">
+              <image mime-type="image/jpg" src="../../media/graphics10-128d.jpg" id="id1172496501223__onlineimage" height="628" width="471"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Algal Bloom in River in Sichuan, China</emphasis> Algal blooms can present problems for ecosystems and human society. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:River_algae_Sichuan.jpg" window="new">Felix Andrews</link> via Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1819923">
+          <figure id="id1172495954226" type="Figure">
+						
+            <media id="id1172495954226_media" alt="photograph of harmful algal bloom">
+              <image mime-type="image/jpg" src="../../media/graphics11-3ff6.jpg" id="id1172495954226__onlineimage" height="308" width="650"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Harmful Algal Bloom</emphasis> Harmful algal bloom with deep red color. <emphasis effect="italics">Source: <link url="http://oceanservice.noaa.gov/hazards/hab/" window="new">Kai Schumann</link> via National Oceanic and Atmospheric Administration </emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172499974484">
+          <figure id="id1172495883579" type="Figure">
+            <media id="id1172495883579_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Aquatic Dead Zones.jpg" id="id1172495883579__onlineimage" height="380" width="650"/>
+            </media>
+            
+          <caption><emphasis effect="bold">Aquatic Dead Zones</emphasis> Zones of hypoxia shown as red circles. Black dots show hypoxia zones of unknown size, brown shading shows population density, and blue shading shows density of particulate organic carbon, an indicator of organic productivity. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Aquatic_Dead_Zones.jpg" window="new">Robert Simmon &amp; Jesse Allen</link> at NASA Earth Observatory via Wikimedia Commons </emphasis>
+            </caption></figure>
+        </para>
+        <para id="id1172498204828"><term target-id="id1172486434838">Pathogens</term> are disease-causing microorganisms, e.g., viruses, bacteria, parasitic worms, and protozoa, which cause a variety of intestinal diseases such as dysentery, typhoid fever, hepatitis, and cholera. Pathogens are the major cause of the water pollution crisis discussed at the beginning of this section. Unfortunately nearly a billion people around the world are exposed to waterborne pathogen pollution daily and around 1.5 million children mainly in underdeveloped countries die every year of waterborne diseases from pathogens (see Figure <link target-id="id1172494387829"><emphasis effect="bold">Deaths by Country from Diarrhea Caused by Unsafe Water, Unimproved Sanitation, and Poor Hygiene in Children Less than 5 Years Old, 2004</emphasis></link>). Pathogens enter water primarily from human and animal fecal waste due to inadequate sewage treatment. In many underdeveloped countries, sewage is discharged into local waters either untreated or after only rudimentary treatment. In developed countries untreated sewage discharge can occur from overflows of combined sewer systems, poorly managed livestock factory farms, and leaky or broken sewage collection systems (see Figure <link target-id="id1172499036101"><emphasis effect="bold">Overflowing Sanitary Sewer</emphasis></link>). Water with pathogens can be remediated by adding chlorine or ozone, by boiling, or by treating the sewage in the first place.</para>
+        <para id="id1172485068313">
+          <figure id="id1172499036101" type="Figure">
+						
+            <media id="id1172499036101_media" alt="Image of Overflowing Sanitary Sewer">
+              <image mime-type="image/jpg" src="../../media/graphics13-b368.jpg" id="id1172499036101__onlineimage" height="325" width="483"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Overflowing Sanitary Sewer</emphasis> A manhole cover blown off by a June 2006 sanitary sewer overflow in Rhode Island. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Sewer_overflow_RI_EPA.jpg" window="new">U.S. Environmental Protection Agency</link> via Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172487845430"><term target-id="id1172483490711">Oil spills</term> are another kind of organic pollution. Oil spills can result from supertanker accidents such as the Exxon Valdez in 1989, which spilled 10 million gallons of oil into the rich ecosystem of offshore south Alaska and killed massive numbers of animals. The largest marine oil spill was the Deepwater Horizon disaster, which began with a natural gas explosion (see Figure <link target-id="id7713370"><emphasis effect="bold">Deepwater Horizon Explosion</emphasis></link>) at an oil well 65 km offshore of Louisiana and flowed for 3 months in 2010, releasing an estimated 200 million gallons of oil. The worst oil spill ever occurred during the Persian Gulf war of 1991, when Iraq deliberately dumped approximately 200 million gallons of oil in offshore Kuwait and set more than 700 oil well fires that released enormous clouds of smoke and acid rain for over nine months. During an oil spill on water, oil floats to the surface because it is less dense than water, and the lightest hydrocarbons evaporate, decreasing the size of the spill but polluting the air. Then, bacteria begin to decompose the remaining oil, in a process that can take many years. After several months only about 15% of the original volume may remain, but it is in thick asphalt lumps, a form that is particularly harmful to birds, fish, and shellfish. Cleanup operations can include <emphasis effect="italics">skimmer ships</emphasis> that vacuum oil from the water surface (effective only for small spills), controlled <emphasis effect="italics">burning</emphasis> (works only in early stages before the light, ignitable part evaporates but also pollutes the air), <emphasis effect="italics">dispersants</emphasis> (detergents that break up oil to accelerate its decomposition, but some dispersants may be toxic to the ecosystem), and <emphasis effect="italics">bioremediation</emphasis> (adding microorganisms that specialize in quickly decomposing oil, but this can disrupt the natural ecosystem).</para>
+        <para id="id1172486261687">
+          <figure id="id7713370" type="Figure">
+						
+            <media id="id7713370_media" alt="photograph of Deepwater Horizon explosion">
+              <image mime-type="image/jpg" src="../../media/graphics14-c771.jpg" id="id7713370__onlineimage" height="487" width="649"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Deepwater Horizon Explosion</emphasis> Boats fighting the fire from an explosion at the Deepwater Horizon drilling rig in Gulf of Mexico offshore Louisiana on April 20, 2010. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg" window="new">United States Coast Guard</link> via Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172498352415"><term target-id="id1172497495360">Toxic chemicals</term> involve many different kinds and sources, primarily from industry and mining. General kinds of toxic chemicals include <emphasis effect="italics">hazardous chemicals</emphasis>, which are a wide variety of synthetic organic and inorganic chemicals such as acids, bases, cyanide, and a class of compounds called <term target-id="id1172483243848">persistent organic pollutants</term> that includes <emphasis effect="italics">DDT</emphasis> (pesticide), <emphasis effect="italics">dioxin</emphasis> (herbicide by-product), and <emphasis effect="italics">PCBs</emphasis> (polychlorinated biphenyls, which were used as a liquid insulator in electric transformers). Persistent organic pollutants are long-lived in the environment, accumulate through the food chain (bioaccumulation), and can be toxic. Another category of toxic chemicals includes <emphasis effect="italics">radioactive materials</emphasis> such as cesium, iodine, uranium, and radon gas, which can result in long-term exposure to radioactivity if it gets into the body. A final group of toxic chemicals is <term target-id="id1172478494297">heavy metals</term> such as lead, mercury, arsenic, cadmium, and chromium, which can accumulate through the food chain. Heavy metals are commonly produced by industry and at metallic ore mines. Arsenic and mercury are discussed in more detail below. The US EPA regulates 83 contaminants in drinking water to ensure a safe public water supply. Similarly, at the international level the World Health Organization has drinking water standards for a variety of contaminants. </para>
+        <para id="id1172476779348"><term target-id="id1172486543131">Arsenic</term> (As) has been famous as an agent of death for many centuries. In large doses arsenic causes cancer and can be fatal. Only recently have scientists recognized that health problems can be caused by drinking small arsenic concentrations in water over a long time. It attacks the central nervous system and can damage the respiratory system, bladder, lungs, liver, and kidneys. It enters the water supply naturally from weathering of As-rich minerals and from human activities such as coal burning and smelting of metallic ores. The worst case of arsenic poisoning occurred in the densely populated impoverished country of Bangladesh, which had experienced 100,000s of deaths from diarrhea and cholera each year from drinking surface water contaminated with pathogens due to improper sewage treatment. In the 1970s the United Nations provided aid for millions of shallow water wells, which resulted in a dramatic drop in pathogenic diseases. Unfortunately, many of the wells produced water naturally rich in arsenic. Tragically, there are an estimated 77 million people (about half of the population) who inadvertently may have been exposed to toxic levels of arsenic in Bangladesh as a result. The World Health Organization has called it the largest mass poisoning of a population in history.</para>
+        <para id="id1172496225896"><term target-id="id5450038">Mercury</term> (Hg) is used in a variety of electrical products, such as dry cell batteries, fluorescent light bulbs, and switches, as well as in the manufacture of paint, paper, vinyl chloride, and fungicides. In the methylmercury form (CH<sub>3</sub>Hg<sup>+</sup>) it is highly toxic; ≥ 1 ppb of methylmercury represents water contaminated with mercury. Mercury concentrates in the food chain, especially in fish, in a process caused biomagnification (see Sidebar <link target-id="id2129672"><emphasis effect="bold">Biomagnification</emphasis></link>). It acts on the central nervous system and can cause loss of sight, feeling, and hearing as well as nervousness, shakiness, and death. Like arsenic, mercury enters the water supply naturally from weathering of Hg-rich minerals and from human activities such as coal burning and metal processing. A famous mercury poisoning case in Minamata, Japan involved methylmercury-rich industrial discharge that caused high Hg levels in fish. People in the local fishing villages ate fish up to three times per day for over 30 years, which resulted in over 2,000 deaths. During that time the responsible company and national government did little to mitigate, help alleviate, or even acknowledge the problem.</para>
+			<note id="id2129672" type="sidebar">
+				<label>Sidebar</label>
+				<title>Biomagnification</title>
+        <para id="id1172486057922">Biomagnification represents the processes in an ecosystem that cause greater concentrations of a chemical, such as methylmercury, in organisms higher up the food chain. Mercury and methylmercury are present in only very small concentrations in seawater; however, at the base of the food chain algae absorb methylmercury. Then, small fish eat the algae, large fish and other organisms higher in the food chain eat the small fish, and so on. Fish and other aquatic organisms absorb methylmercury rapidly but eliminate it slowly from the body. Therefore, each step up the food chain increases the concentration from the step below (see Figure <link target-id="id1172478317994"><emphasis effect="bold">Biomagnification</emphasis></link>). Largemouth bass can concentrate methylmercury up to 10 million times over the water concentration and fish-eating birds can concentrate it even higher. Other chemicals that exhibit biomagnification are DDT, PCBs, and arsenic.</para>
+        <para id="id1172483519467">
+          <figure id="id1172478317994" type="Figure">
+						
+            <media id="id1172478317994_media" alt="illustration of Biomagnification">
+              <image mime-type="image/png" src="../../media/graphics15-635b.png" id="id1172478317994__onlineimage" height="313" width="167"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Biomagnification</emphasis> An illustrative example of biomagnification of mercury from water through the food chain and into a bird's egg. <emphasis effect="italics">Source: <link url="http://sofia.usgs.gov/sfrsf/rooms/mercury/achilles_heel/cause.html" window="new">U.S. Geological Survey</link></emphasis>
+            </caption>
+          </figure>
+        </para>
+			</note>
+        <para id="id1172483548175">Other water pollutants include <term target-id="id1172487377639">sediment</term> and <term target-id="id1172482499959">heat</term>. Muddy water is bad for drinking but even worse for underwater plants that need sunlight for photosynthesis. Much of the sediment in water bodies is derived from the erosion of soil, so it also represents a loss of agricultural productivity. Thermal pollution involves the release of heated waters from power plants and industry to surface water, causing a drop in the dissolved O<sub>2</sub> content, which can stress fish.</para>
+        <para id="id1172498087915"><term target-id="id1172482706572">Hard water</term> contains abundant calcium and magnesium, which reduces its ability to develop soapsuds and enhances <emphasis effect="italics">scale</emphasis> (calcium and magnesium carbonate minerals) formation on hot water equipment. Water softeners remove calcium and magnesium, which allows the water to lather easily and resist scale formation. Hard water develops naturally from the dissolution of calcium and magnesium carbonate minerals in soil; it does not have negative health effects in people.</para>
+        <para id="id1172500495672">Groundwater pollution can occur from underground sources and all of the pollution sources that contaminate surface waters. Common sources of groundwater pollution are leaking underground storage tanks for fuel, septic tanks, agricultural activity, and landfills. Common groundwater pollutants include nitrate, pesticides, volatile organic compounds, and petroleum products. Polluted groundwater can be a more serious problem than polluted surface water because the pollution in groundwater may go undetected for a long time because usually it moves very slowly. As a result, the pollution in groundwater may create a <term target-id="id1172486695717">contaminant plume</term>, a large body of flowing polluted groundwater (see Figure <link target-id="id7759007"><emphasis effect="bold">Contaminant Plume in Groundwater</emphasis></link>), making cleanup very costly. By the time groundwater contamination is detected, the entity responsible for the pollution may be bankrupt or nonexistent. Another troublesome feature of groundwater pollution is that small amounts of certain pollutants, e.g., petroleum products and organic solvents, can contaminate large areas. In Denver, Colorado 80 liters of several organic solvents contaminated 4.5 trillion liters of groundwater and produced a 5 km long contaminant plume. Most groundwater contamination occurs in shallow, unconfined aquifers located near the contamination source. Confined aquifers are less susceptible to pollution from the surface because of protection by the confining layer. A major threat to groundwater quality is from <term target-id="id1172486227652">underground fuel storage tanks</term>. Fuel tanks commonly are stored underground at gas stations to reduce explosion hazards. Before 1988 in the U.S. these storage tanks could be made of metal, which can corrode, leak, and quickly contaminate local groundwater. Now, leak detectors are required and the metal storage tanks are supposed to be protected from corrosion or replaced with fiberglass tanks. Currently there are around 600,000 underground fuel storage tanks in the U.S. and over 30% still do not comply with EPA regulations regarding either release prevention or leak detection.</para>
+        <para id="id7759007">
+          <figure id="id1172498329367" type="Figure">
+						
+            <media id="id1172498329367_media" alt="diagram of Contaminant Plume in Groundwater">
+              <image mime-type="image/jpg" src="../../media/graphics16-3d8f.jpg" id="id1172498329367__onlineimage" height="371" width="650"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Contaminant Plume in Groundwater</emphasis> Mapping how a contaminant plume will migrate once it reaches groundwater requires understanding of the pollutant's chemical properties, local soil characteristics, and how permeable the aquifer is. <emphasis effect="italics">Source: <link url="http://www.learner.org/courses/envsci/visual/visual.php?shortname=contaminant_flow" window="new">United States Geological Survey</link></emphasis>
+            </caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1172477057317">
+        <title>Sustainable Solutions to the Water Pollution Crisis?</title>
+        <para id="id1172483842748">Resolution of the global water pollution crisis described at the beginning of this section requires multiple approaches to improve the quality of our fresh water and move towards sustainability. The most deadly form of water pollution, pathogenic microorganisms that cause waterborne diseases, kills almost 2 million people in underdeveloped countries every year. The best strategy for addressing this problem is proper sewage (wastewater) treatment. Untreated sewage is not only a major cause of pathogenic diseases, but also a major source of other pollutants, including oxygen-demanding waste, plant nutrients (N and P), and toxic heavy metals. Wastewater treatment is done at a <term target-id="id1172493767274">sewage treatment plant</term> in urban areas and through a <term target-id="id1172479587572">septic tank system</term> in rural areas.</para>
+        <para id="id1172478294889">The main purpose of a sewage treatment plant is to remove organic matter (oxygen-demanding waste) and kill bacteria; special methods also can be used to remove plant nutrients and other pollutants. The numerous processing steps at a conventional sewage treatment plant (see Figure <link target-id="id1172495378846"><emphasis effect="bold">Steps at a Sewage Treatment Plant</emphasis></link>) include <emphasis effect="italics">pretreatment</emphasis> (screening and removal of sand and gravel), <emphasis effect="italics">primary treatment </emphasis>(settling or floatation to remove organic solids, fat, and grease), <emphasis effect="italics">secondary treatment</emphasis> (aerobic bacterial decomposition of organic solids), <emphasis effect="italics">tertiary treatment</emphasis> (bacterial decomposition of nutrients and filtration), <emphasis effect="italics">disinfection</emphasis> (treatment with chlorine, ozone, ultraviolet light, or bleach), and either <emphasis effect="italics">discharge</emphasis> to surface waters (usually a local river) or <emphasis effect="italics">reuse</emphasis> for some other purpose, such as irrigation, habitat preservation, and artificial groundwater recharge. The concentrated organic solid produced during primary and secondary<emphasis effect="italics"/>treatment is called <term target-id="id1172495223274">sludge</term>, which is treated in a variety of ways including landfill disposal, incineration, use as fertilizer, and anaerobic bacterial decomposition, which is done in the absence of oxygen. Anaerobic decomposition of sludge produces methane gas, which can be used as an energy source. To reduce water pollution problems, separate sewer systems (where street runoff goes to rivers and only wastewater goes to a wastewater treatment plant) are much better than combined sewer systems, which can overflow and release untreated sewage into surface waters during heavy rain. Some cities such as Chicago, Illinois have constructed large underground caverns and also use abandoned rock quarries to hold storm sewer overflow. After the rain stops, the stored water goes to the sewage treatment plant for processing.</para>
+        <para id="id1172480950465">
+          <figure id="id1172495378846" type="Figure">
+						
+            <media id="id1172495378846_media" alt="Process Flow Diagram for a typical large-scale treatment plant">
+              <image mime-type="image/jpg" src="../../media/graphics17-0798.jpg" id="id1172495378846__onlineimage" height="417" width="625"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Steps at a Sewage Treatment Plant</emphasis> The numerous processing steps at a conventional sewage treatment plant include pretreatment (screening and removal of sand and gravel), primary treatment (settling or floatation to remove organic solids, fat, and grease), secondary treatment (aerobic bacterial decomposition of organic solids), tertiary treatment (bacterial decomposition of nutrients and filtration), disinfection (treatment with chlorine, ozone, ultraviolet light, or bleach), and either discharge to surface waters (usually a local river) or reuse for some other purpose, such as irrigation, habitat preservation, and artificial groundwater recharge. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:ESQUEMPEQUE-EN.jpg" window="new">Leonard G.</link>via Wikipedia</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id1172483583412">A septic tank system is an individual sewage treatment system for homes in rural and even some urban settings. The basic components of a septic tank system (see Figure <link target-id="id1172494115777"><emphasis effect="bold">Septic System</emphasis></link>) include a sewer line from the house, a <emphasis effect="italics">septic tank</emphasis> (a large container where sludge settles to the bottom and microorganisms decompose the organic solids anaerobically), and the drain field (network of perforated pipes where the clarified water seeps into the soil and is further purified by bacteria). Water pollution problems occur if the septic tank malfunctions, which usually occurs when a system is established in the wrong type of soil or maintained poorly.</para>
+        <para id="id1172478140487">
+          <figure id="id1172494115777" type="Figure">
+						
+            <media id="id1172494115777_media" alt="Diagram of a typical septic system">
+              <image mime-type="image/png" src="../../media/graphics18-38b3.png" id="id1172494115777__onlineimage" height="509" width="355"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Septic System</emphasis> Septic tank system for sewage treatment. <emphasis effect="italics">Source: <link url="http://pubs.usgs.gov/fs/fs07203/" window="new">United States Geological Survey</link> </emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id2426466">For many developing countries, financial aid is necessary to build adequate sewage treatment facilities; however, the World Health Organization estimates an estimated cost savings of between $3 and $34 for every $1 invested in clean water delivery and sanitation (<link target-id="id1172489698248">Water for Life, 2005</link>). The cost savings are from health care savings, gains in work and school productivity, and deaths prevented. Simple and inexpensive techniques for treating water at home include chlorination, filters, and solar disinfection. Another alternative is to use <term target-id="id1172487285564">constructed wetlands</term> technology (marshes built to treat contaminated water), which is simpler and cheaper than a conventional sewage treatment plant.</para>
+        <para id="id1591261"><term target-id="id1172492405698">Bottled water</term> is <emphasis effect="italics">not</emphasis> a sustainable solution to the water crisis, despite exponential growth in popularity in the U.S. and the world. Bottled water is not necessarily any safer than the U.S. public water supply, it costs on average about 700 times more than U.S. tap water, and every year it uses approximately 200 billion plastic and glass bottles that have a relatively low rate of recycling. Compared to tap water, it uses much more energy, mainly in bottle manufacturing and long-distance transportation. If you don’t like the taste of your tap water, then please use a water filter instead of bottled water!</para>
+        <para id="id1172483557595">
+          <figure id="id1172491654120" type="Figure">
+						
+            <media id="id1172491654120_media" alt="photograph of a storm drain" longdesc="Curbside storm drain receiving urban runoff">
+              <image mime-type="image/jpg" src="../../media/graphics19.jpg" id="id1172491654120__onlineimage" height="419" width="630"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Storm Drain</emphasis> Curbside storm drain receiving urban runoff. <emphasis effect="italics">Source: By <link url="http://commons.wikimedia.org/wiki/File:Storm_Drain.JPG" window="new">Robert Lawton</link> via Wikimedia Commons</emphasis>
+            </caption>
+          </figure>
+        </para>
+        <para id="id2353086">Additional sustainable solutions to the water pollution crisis include legislation to eliminate or greatly reduce point sources of water pollution. In the U.S., the Clean Water Act of 1972 and later amendments led to major improvements in water quality (see Sidebar <link target-id="id1172489677600"><emphasis effect="bold">Clean Water Act</emphasis></link>). Nonpoint sources of water pollution, e.g., agricultural runoff and urban runoff (see Figure <link target-id="id1172483557595"><emphasis effect="bold">Storm Drain</emphasis></link>), are much harder to regulate because of their widespread, diffuse nature. There are many construction and agricultural practices that reduce polluted runoff including no-till farming and sediment traps. Artificial aeration or mechanical mixing can remediate lakes with oxygen depletion. Specific things that we can do to reduce urban runoff include the following: keep soil, leaves, and grass clippings off driveways, sidewalks, and streets; don't pour used motor oil, antifreeze, paints, pesticides, or any household hazardous chemical down the storm sewer or drain; recycle used motor oil; use hazardous waste disposal programs offered by the community; compost your organic waste; don't use fertilizers and herbicides on your lawn; and flush pet waste down the toilet.</para>
+
+        <note id="id1172489677600" type="sidebar">
+					<label>Sidebar</label>
+				  <title>Clean Water Act</title>
+	        <para id="id1172500975977">During the early 1900s rapid industrialization in the U.S. resulted in widespread water pollution due to free discharge of waste into surface waters. The Cuyahoga River in northeast Ohio caught fire numerous times (see Figure <link target-id="id1172481218979"><emphasis effect="bold">Cuyahoga River on Fire</emphasis></link>), including a famous fire in 1969 that caught the nation’s attention. In 1972 Congress passed one of the most important environmental laws in U.S. history, the Federal Water Pollution Control Act, which is more commonly called the Clean Water Act. The purpose of the Clean Water Act and later amendments is to maintain and restore water quality, or in simpler terms to make our water swimmable and fishable. It became illegal to dump pollution into surface water unless there was formal permission and U.S. water quality improved significantly as a result. More progress is needed because currently the EPA considers over 40,000 U.S. water bodies as impaired, most commonly due to pathogens, metals, plant nutrients, and oxygen depletion. Another concern is protecting groundwater quality, which is not yet addressed sufficiently by federal law.</para>
+          <figure id="id1172481218979" type="Figure">
+            <media id="id1172481218979_media" alt="photograph of Cuyahoga River on Fire">
+            	<image mime-type="image/jpg" src="../../media/graphics20-0cd2.jpg" id="id1172481218979__onlineimage" height="357" width="500"/>
+            </media>
+            <caption>
+              <emphasis effect="bold">Cuyahoga River on Fire</emphasis>
+              <emphasis effect="italics">Source: <link url="http://oceanservice.noaa.gov/education/kits/pollution/media/supp_pol02d.html" window="new">National Oceanic and Atmospheric</link> </emphasis>
+            </caption>
+          </figure>
+        </note>
+        <para id="id1172484435161">Sometimes slow flow through a soil can naturally purify groundwater because some pollutants, such as P, pesticides, and heavy metals, chemically bind with surfaces of soil clays and iron oxides. Other pollutants are not retained by soil particles: These include N, road salt, gasoline fuel, the herbicide atrazine, tetrachloroethylene (a carcinogenic cleaning solvent used in dry cleaning), and vinyl chloride. In other cases, slow groundwater flow can allow bacteria to decompose dead organic matter and certain pesticides. There are many other ways to remediate polluted groundwater. Sometimes the best solution is to stop the pollution source and allow natural cleanup. Specific treatment methods depend on the geology, hydrology, and pollutant because some light contaminants flow on top of groundwater, others dissolve and flow with groundwater, and dense contaminants can sink below groundwater. A common cleanup method called pump and treat involves pumping out the contaminated groundwater and treating it by oxidation, filtration, or biological methods. Sometimes soil must be excavated and sent to a landfill. In-situ treatment methods include adding chemicals to immobilize heavy metals, creating a permeable reaction zone with metallic iron that can destroy organic solvents, or using <term target-id="id1172501607450">bioremediation</term> by adding oxygen or nutrients to stimulate growth of microorganisms.</para>
+      </section>
+      <section id="id1172481248747">
+        <title>Review Questions</title>
+        <exercise id="id1172493485413">
+					<label>Question</label>
+          <problem id="oo-id1172497021930">
+            <para id="id1172484110852">What are the major kinds of water pollutants and how do they degrade water quality?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1172492485522">
+					<label>Question</label>
+          <problem id="oo-id1172477812348">
+            <para id="id1172501545275">How would you rank the water pollution problems described in this chapter? Why?</para>
+          </problem>
+        </exercise>
+        <exercise id="id2475736">
+					<label>Question</label>
+          <problem id="oo-id6383050">
+            <para id="id2447554">Why is untreated sewage such an important water pollutant to remediate?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1172503460912">
+					<label>Question</label>
+          <problem id="oo-id1172495617309">
+            <para id="id1978825">What should society learn from the case history of Love Canal?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1172485288414">
+					<label>Question</label>
+          <problem id="oo-id1172495178347">
+            <para id="id1172483456041">Why are people facing a crisis involving water pollution and how can we solve it?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id2462908">
+        <title>References</title>
+        <para id="id1172489698248">Water for Life: Making it Happen (2005) World Health Organization and UNICEF. Retrieved from <link url="http://www.who.int/water_sanitation_health/waterforlife.pdf" window="new">http://www.who.int/water_sanitation_health/waterforlife.pdf</link></para>
+        <para id="id1172477317035">World Health Statistics (2010) World Health Organization. Retrieved from <link url="http://www.who.int/whosis/whostat/EN_WHS10_Full.pd" window="new">http://www.who.int/whosis/whostat/EN_WHS10_Full.pdf</link></para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1172486543131">
+      <term>arsenic</term>
+      <meaning id="oo-id1172503944800">A type of water pollutant that can be fatal in large doses and can cause health problems in small doses over a long time.
+      </meaning>
+    </definition>
+    <definition id="id1172485300478">
+      <term>biochemical oxygen demand</term>
+      <meaning id="oo-id1172498664232">The amount of oxygen used by aerobic (in presence of oxygen) bacterial decomposition of organic matter.
+      </meaning>
+    </definition>
+    <definition id="id1172501607450">
+      <term>bioremediation</term>
+      <meaning id="oo-id1172495931573">Method of groundwater remediation involving the addition oxygen or nutrients. to stimulate growth of microorganisms, which decompose an organic pollutant.
+      </meaning>
+    </definition>
+    <definition id="id1172492405698">
+      <term>bottled water</term>
+      <meaning id="oo-id6633223">Drinking water packaged in plastic bottles or glass bottles, bottled water is not a sustainable solution to the water crisis because of the nonrenewable energy and material resources involved in manufacturing and transporting it.
+      </meaning>
+    </definition>
+    <definition id="id1172497745635">
+      <term>combined sewer systems</term>
+      <meaning id="oo-id1172496064927">A single set of underground pipes used to collect both sewage and. storm water runoff from streets for wastewater treatment.
+      </meaning>
+    </definition>
+    <definition id="id1172487285564">
+      <term>constructed wetland</term>
+      <meaning id="oo-id1172496029551">Marsh built to treat contaminated water.
+      </meaning>
+    </definition>
+    <definition id="id1172486695717">
+      <term>contaminant plume</term>
+      <meaning id="oo-id1172484493833">A large body of flowing polluted groundwater.
+      </meaning>
+    </definition>
+
+    <definition id="id1172493720729">
+      <term>cultural eutrophication</term>
+      <meaning id="oo-id1172476410936">Rapid aquatic plant growth, particularly algae, in a surface water body.
+      </meaning>
+    </definition>
+    <definition id="id1172480449626">
+      <term>excessive plant nutrient</term>
+      <meaning id="oo-id5889629">A type of water pollutant involving a limiting plant nutrient that usually is present in water at low concentrations and therefore restricts the total amount of plant growth, examples include nitrogen and phosphorous.
+      </meaning>
+    </definition>
+    <definition id="id1172482706572">
+      <term>hard water</term>
+      <meaning id="oo-id6582663">Water with abundant calcium and magnesium, which reduces its ability to develop soapsuds and enhances scale; hard water does not have negative health effects in people.
+      </meaning>
+    </definition>
+    <definition id="id1172482499959">
+      <term>heat</term>
+      <meaning id="oo-id1172491515538">A type of water pollutant that causes a drop in the dissolved oxygen content, which can stress fish.
+      </meaning>
+    </definition>
+    <definition id="id1172478494297">
+      <term>heavy metal</term>
+      <meaning id="oo-id7096540">A type of water pollutant involving elements such as lead, mercury, arsenic, cadmium, and chromium, which can accumulate through the food chain.
+      </meaning>
+    </definition>
+    <definition id="id1172493435664">
+      <term>hypoxia</term>
+      <meaning id="oo-id1172483520741">Very low oxygen water due to prolific growth of algae, algal death, and then decomposition, also called dead zone.
+      </meaning>
+    </definition>
+    <definition id="id5450038">
+      <term>mercury</term>
+      <meaning id="oo-id1172500637598">A type of water pollutant that acts on the central nervous system and can cause loss of sight, feeling, and hearing as well as nervousness, shakiness, and death.
+      </meaning>
+    </definition>
+    <definition id="id1172500906596">
+      <term>nonpoint source (of water pollution)</term>
+      <meaning id="oo-id1172478189890">Large and diffuse location where a pollution source occurs.
+      </meaning>
+    </definition>
+    <definition id="id1172483490711">
+      <term>oil spill</term>
+      <meaning id="oo-id1172477813635">A type of organic water pollutant involving the release of liquid petroleum into the environment due to human activity.
+      </meaning>
+    </definition>
+    <definition id="id1172481928941">
+      <term>oxygen-demanding waste</term>
+      <meaning id="oo-id6507450">A type of water pollutant involving abundant dead organic matter.
+      </meaning>
+    </definition>
+    <definition id="id1172486434838">
+      <term>pathogens</term>
+      <meaning id="oo-id1172500379844">Disease-causing microorganisms, e.g., viruses, bacteria, parasitic worms, and protozoa, which cause a variety of intestinal diseases such as dysentery, typhoid fever, hepatitis, and cholera.
+      </meaning>
+    </definition>
+    <definition id="id1172483243848">
+      <term>persistent organic pollutant</term>
+      <meaning id="oo-id1172495548050">A group of organic water pollutants that are long-lived in the environment, accumulate through the food chain, and can be toxic.
+      </meaning>
+    </definition>
+    <definition id="id1172482234836">
+      <term>point source (of water pollution)</term>
+      <meaning id="oo-id1172498352370">Readily identifiable and relatively small location where a pollution source occurs.
+      </meaning>
+    </definition>
+    <definition id="id1172487377639">
+      <term>sediment</term>
+      <meaning id="oo-id1172478293239">A type of water pollutant that degrades drinking water and can kill underwater plants that need sunlight for photosynthesis.
+      </meaning>
+    </definition>
+    <definition id="id1172479587572">
+      <term>septic tank system</term>
+      <meaning id="oo-id2241669">An individual sewage treatment system for homes in rural and even some urban settings.
+      </meaning>
+    </definition>
+
+    <definition id="id1172493767274">
+      <term>sewage treatment plant</term>
+      <meaning id="oo-id1172487883612">A facility that processes wastewater with the main goal of removing organic matter (oxygen-demanding waste) and killing bacteria.
+      </meaning>
+    </definition>
+    <definition id="id1172495223274">
+      <term>sludge</term>
+      <meaning id="oo-id1172482010010">Concentrated organic solid produced during primary and secondary<emphasis effect="italics"/>treatment of sewage treatment.
+      </meaning>
+    </definition>
+    <definition id="id1172488076920">
+      <term>solvent</term>
+      <meaning id="oo-id1172498930790">Capacity of a liquid such as water to dissolve soluble minerals.
+      </meaning>
+    </definition>
+    <definition id="id1172489922455">
+      <term>total dissolved solids</term>
+      <meaning id="oo-id1172491427909">Total amount of dissolved material in water, typically reported in parts per million (ppm) units.
+      </meaning>
+    </definition>
+    <definition id="id1172497495360">
+      <term>toxic chemical</term>
+      <meaning id="oo-id1172495384697">A type of organic water pollutant involving chemicals with a severe human health risk.
+      </meaning>
+    </definition>
+    <definition id="id1172486227652">
+      <term>underground fuel storage tank</term>
+      <meaning id="oo-id1172477813277">A type of water pollutant if it leaks.
+      </meaning>
+    </definition>
+    <definition id="id1172483209992">
+      <term>water pollution</term>
+      <meaning id="oo-id1798778">Contamination of water by an excess amount of a substance that can cause harm to human beings and the ecosystem.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

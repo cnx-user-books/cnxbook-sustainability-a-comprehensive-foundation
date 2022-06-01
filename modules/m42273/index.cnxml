@@ -1,0 +1,144 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainability and Business</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42273</md:content-id>
+  <md:title>Sustainability and Business</md:title>
+  <md:abstract>In this module, the following topics are presented: 1) the incorporation of sustainability into businesses plans, 2) sustainable product chains, and 3) measuring and assessing sustainable performance.</md:abstract>
+  <md:uuid>c0c4fec6-a02c-4465-9513-825842a0b190</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1171035694003">
+        <title>Learning Objectives</title>
+        <para id="id1171024362257">After reading this module, students should be able to</para>
+        <list id="id1171029666296" list-type="bulleted">
+          <item>understand how businesses incorporate sustainability into their plans, the basis of sustainable product chains, and factors that need to be considered in measuring and assessing sustainable performance</item>
+        </list>
+      </section>
+      <section id="id1171025028399">
+        <title>Introduction</title>
+        <para id="id1171023270095">Throughout this text the integrative nature of environmental, social, and economic sustainability has been stressed. In this chapter, various ways of framing the sustainability paradigm and measuring progress toward its achievement have been presented. This section focuses more directly on businesses, and how they attempt to incorporate sustainability into their decisions and plans. The business sector, continually seeking ways to create competitive advantages, has become acutely aware of the general value of adjusting various business models to accommodate consumers’ desires for sustainable products and services. Still, the broad definition of sustainable development provided by the Brundtland report is a difficult one to make operational. <link url="http://www.wbcsd.org/" window="new">The World Business Council for Sustainable Development</link> has adapted Brundtland to a view more understandable to business interests, focusing on living within the “interest” of natural systems and being cautious about drawing down the “principal” (i.e. degrading natural ecosystems), but there remain substantial differences on precisely how to measure progress toward the goals of the sustainability paradigm.</para>
+        <para id="id1171032394095">It is a common practice for businesses to refer to the <term target-id="id2517141">triple bottom line</term>, a reference to the value of a business going beyond dollar profitability to include social and environmental costs and benefits as well. Indeed, many of the tools and indices outlined in Module <link document="m38643"><emphasis effect="bold">Life Cycle Assessment</emphasis></link> and Module <link document="m41616"><emphasis effect="bold">Sustainability Metrics and Rating Systems</emphasis></link> are widely used by businesses to measure progress toward corporate goals. However, there is no agreed upon way of using these tools, and many businesses have developed their own methods for assessing progress. This has, inevitably perhaps, led to claims and counter-claims by various parties about the “sustainability” of their products or services. Such claims usually find their way into corporate brochures and advertising so that, often without substantive backing or very subjective analysis, the impression of significant corporate sustainability is created, practices known generally as <term target-id="id1171029660814">greenwashing</term>. Greenwashing is a concern because these kinds of advertising messages can mislead consumers about the “the environmental practices of a company or the environmental benefits of a product or service” (<link target-id="id1171020854702">Greenpeace, 2011</link>). Nevertheless, businesses must ultimately generate profits to remain viable, and increasingly they are being held to account for their impacts on all aspects of business operations, however difficult it may be to assign value to decisions made under conditions of considerable uncertainty. The intergenerational mandate of Brundtland and the nature of modern environmental problems facing society ask that business plans extend far beyond the usual five to ten year range. </para>
+      </section>
+      <section id="id1171027209356">
+        <title>Tools for Assessing Sustainability in Business</title>
+        <para id="id1171022442748">One useful organizational framework for envisioning different kinds of costs and benefits that businesses encounter is referred to as Total Cost Assessment (TCA). TCA assigns levels of uncertainty to the types of costs associated with various aspects of business activities. Typically five such types are recognized:</para>
+        <list id="id1171027544481" list-type="bulleted">
+          <item>Type I (Direct Costs) – Costs associated with direct operation of the manufacturing or service enterprise that can be readily attributed to a specific activity. Labor, medical, materials, land, and energy are examples of this type of cost.</item>
+          <item>Type II (Indirect Costs) – Costs similar to Type I that are not easily assigned to a specific activity and thus are born more generally by the company. These include various kinds of overhead costs, outsourced services and subcontracts (e.g. component subassemblies, janitorial needs), and general support activities such as central offices for purchasing, human resources, etc.</item>
+          <item>Type III (Contingent Liability Costs) – These are costs associated with environmental cleanup, non-compliance fines, product or service liability, civil suits, and accidents.</item>
+          <item>Type IV (Internal Intangible Costs/Benefits) – These are costs and benefits that accrue to a business that are connected to a variety of intangibles such as worker morale, consumer loyalty, corporate image, and branding of products and services.</item>
+          <item>Type V (External Costs) – Put simply, Type V costs are those associated with environmental degradation. They are “external” in the sense that normal financial accounting does not include them; the damage is born in a general sense by society at large. Environmental protection requirements that are enforceable by various laws (see section Government and Laws on the Environment), and mandated market or taxation mechanisms, are policy decisions meant to internalize these costs, forcing the generator of the pollution to either pay for the damage or prevent damage in the first place. </item>
+        </list>
+        <para id="id1171030629444">Taken as a whole, these cost/benefit types include all three of the basic elements of the sustainability paradigm. However Type IV and V costs are often difficult to assign a dollar value to; indeed even if this can be done, projecting their value into the future is an uncertain science.</para>
+        <para id="id1171029664184">Life cycle assessment (LCA) can also be used to visualize and organize a sustainability model for businesses (See Module <link document="m38643"><emphasis effect="bold">Life Cycle Assessment</emphasis></link> for more information). Recall that LCA grew out of industry’s needs to understand how product manufacturing systems behave, and to develop workable models that could be used to control and optimize material and energy flows, ensure product quality, manage environmental impacts, and minimize costs (these functions are collectively referred to as the supply chain). An expanded use of LCA incorporates the complete <term target-id="id1171020907113">product chain</term>, examining consumer uses, benefits and costs, and the post-consumer disposition of the product. This has led to product conceptualization and development, and in some cases regulatory reform, that incorporate business practices and plans built upon the concept of <term target-id="id1171018351779">eco-efficiency</term>, and <term target-id="id1171020802327">extended product/producer responsibility</term> (EPR). Eco-efficiency is an evolutionary business model in which more goods and services are created with less use of resources, and fewer emissions of waste and pollution. Extended product/producer responsibility involves the creation of financial incentives, and legal disincentives, to encourage manufacturers to make more environmentally friendly products that incorporate <term target-id="id1171023286644">end-of-life costs</term> into product design and business plans. For example one business model that is conducive to EPR is a “lease-and-take-back” model in which products must eventually come back to the manufacturer or retailer, who then must reckon with the best way to minimize end-of-life costs. Remanufacturing, recycling, and reuse of materials are the intended results of EPR, but ordinary disposal, including landfilling or incineration, can also be an option.</para>
+        <para id="id1171034044928">Figure <link target-id="id9_4_1_Figure"><emphasis effect="bold">LCA Framework Applied to Product Development</emphasis></link>, illustrates in a general way how the LCA framework can be structured for understanding how product development can benefit from the various material and information transfers and feedback loops along the product chain. Such a figure illustrates the complexities involved in creating, marketing, and discerning the impacts of a product or service, and raises the general concept of what is often referred to as <term target-id="id1171032977370">product stewardship</term>, an approach in which products are conceived, designed, manufactured, and marketed within a <term target-id="id1171028090026">systems thinking</term> context. It is a way of framing environmental problems that recognizes the three parts of the sustainability paradigm, and incorporates the concepts of sustainable manufacturing, marketing, utility-to-society, impacts of the use of the product, and end-of-life disposition of the product.</para>
+          <figure id="id9_4_1_Figure" type="Figure">
+            <media id="id9_4_1_Figure_media" alt="LCA Framework Applied to Product Development" longdesc="Generalized view of the life cycle product chain, showing major material and information transfers and feedback loops.">
+              <image mime-type="image/png" src="../../media/LCAFramework.png" id="id1167995287003__onlineimage" height="300" width="720"/>
+            </media>
+            <caption><emphasis effect="bold">LCA Framework Applied to Product Development</emphasis>. Generalized view of the life cycle product chain, showing major material and information transfers and feedback loops. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/theist" window="new">Tom Theis</link></emphasis></caption>
+          </figure>        
+        
+      </section>
+      <section id="id1171018374235">
+        <title>Creating Uniformity</title>
+        <para id="id1171017934436">The problem of lack of uniformity in measuring, assessing, and valuing business actions taken at least in part for the sake of sustainability might be dealt with more effectively through the development of uniform standards and metrics that are applied by an agreed upon authority who uses transparent methodologies and reporting techniques so that other companies, and consumers, can make more objective judgments about comparative performances. From what has been presented in this section this may appear to be a near-impossible task. Yet attempts in this direction are being made, for example by the aforementioned World Business Council for Sustainable Development, the <link url="http://www.oecd.org/" window="new">Organization for Economic Cooperation and Development</link>, and the <link url="http://www.un.org/millenniumgoals/environ.shtml" window="new">United Nations Millennium Development Goals</link>. One of the more popular approaches for measuring and ranking corporate sustainability has been developed by the Dow Jones Corporation (DJC), through its <link url="http://www.sustainability-index.com/" window="new">Sustainability Index</link> (DJSI). It may seem ironic that such a bastion of the free market economy has put together a system for measuring and assessing corporate sustainability, yet the size and general acceptability of DJC by corporations and investors work in favor of the establishment of an objective and transparent index. The DJSI itself was created in 1999 in response to the need, articulated from many sectors including consumers, for a way to assess progress toward sustainable corporate responsibility. The index contains three general evaluative sectors – economic, social, and environmental – that reflect the Brundtland definition. Each sector is composed, in turn, of specific categories as follows:</para>
+        <para id="id1171035648295"><emphasis effect="bold">Economic</emphasis></para>
+        <list id="id1171022443695" list-type="bulleted">
+          <item>Codes of Conduct/Compliance/Corruption and Bribery</item>
+          <item>Corporate Governance</item>
+          <item>Risk and Crisis Management</item>
+          <item>Industry-specific Criteria</item>
+        </list>
+        <para id="id1171032974476"><emphasis effect="bold">Social</emphasis></para>
+        <list id="id1171057083306" list-type="bulleted">
+          <item>Corporate Citizenship and Philanthropy</item>
+          <item>Labor Practice Indicators</item>
+          <item>Human Capital Development</item>
+          <item>Social Reporting</item>
+          <item>Talent Attraction and Retention</item>
+          <item>Industry-specific Criteria</item>
+        </list>
+        <para id="id1171029664144"><emphasis effect="bold">Environmental</emphasis></para>
+        <list id="id1171027122196" list-type="bulleted">
+          <item>Environmental Performance (Eco-efficiency)</item>
+          <item>Environmental Reporting</item>
+          <item>Industry-specific Criteria</item>
+        </list>
+        <para id="id1171020910382">Each of these categories is composed of quantitative measures and assigned a specific, and constant, weighting. From the data gathered, a “best-in-class” (i.e. industry class) ranking is published annually. The index has engendered considerable corporate competition such that mere attainment of the previous year’s statistics, for a given company, usually results in a drop in rank. Of course one can argue with the choice of categories, or the data that are gathered and the way categories are parameterized, or with the weighting scheme used, but the important aspects of DJSI (and other sustainability rankings) is its comprehensiveness, uniformity, and transparency. </para>
+      </section>
+      <section id="id1171028141285">
+        <title>Summary</title>
+        <para id="id1171025234436">In the final analysis, no economy can move in the direction of sustainability without the active participation of the business sector. In other words, significant progress cannot be achieved through government or individual actions alone. As noted above, this creates difficulties and conflicts for businesses. As they continue to work together in the future, businesses and sustainability experts face many questions such as: What are the best measures of sustainability and how should businesses develop and plan for delivering more sustainable products and services? Is reliance on eco-efficiency enough to reduce the impacts of increasing consumption? Should businesses play a more significant role in educating consumers on the factors that affect sustainable development? How can businesses adapt to uncertainties that lie beyond the near term? What is the role of government in overseeing or regulating business activities that contribute to sustainability?</para>
+      </section>
+      <section id="id1171024832029">
+        <title>Review Questions</title>
+				<exercise id="eip-9_4_1"><label>Question</label>
+					<problem id="eip-9_4_1_1">
+       			<para id="id1171042632020">Find a product chain for the manufacture of a major consumer item such as a flat screen television, a computer, or an automobile and cast the stages of the chain in life cycle form as shown in Figure <link target-id="id9_4_1_Figure"><emphasis effect="bold">LCA Framework Applied to Product Development</emphasis></link>. As part of your answer, define the various information transfers and feedback loops involved.</para>
+					</problem>
+				</exercise>
+				<exercise id="eip-9_4_2"><label>Question</label>
+					<problem id="eip-9_4_2_1">
+        		<para id="id1171022444937">Consider the various types of costs in the total cost accounting framework. In proceeding from Type I to Type V, give reasons why uncertainties usually increase at each level? </para>
+					</problem>
+				</exercise>
+				<exercise id="eip-9_4_3"><label>Question</label>
+					<problem id="eip-9_4_3_1">
+        		<para id="id1171020802209">What are the main attributes of a sound index for measuring progress toward sustainability of products and services?</para>
+					</problem>
+				</exercise>
+      </section>
+			<section id="idResourcesSection">
+				<title>Resources</title>
+				<para id="idResourcesPara"><link url="http://www.wbcsd.org/home.aspx" window="new">The World Business Council for Sustainable Development</link></para>
+			</section>
+      <section id="id1171028627142">
+        <title>References</title>
+        <para id="id1171020854702">Greenpeace (2011). Greenwashing. <emphasis effect="italics">Greenpeace</emphasis>. Retrieved December 17, 2011 from <link url="http://stopgreenwash.org/" window="new">http://stopgreenwash.org/</link></para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1171018351779">
+      <term>eco-efficiency</term>
+      <meaning id="oo-id1171024270428">An evolutionary business model in which more goods and services are created with less use of resources, and fewer emissions of waste and pollution.
+      </meaning>
+    </definition>
+    <definition id="id1171023286644">
+      <term>end-of-life costs</term>
+      <meaning id="oo-id1171029619908">Those costs that arise through activities associated with the disposition of a product at the end of its useful life. These include costs associated with disposal, recycling, reuse, and remanufacturing.
+      </meaning>
+    </definition>
+    <definition id="id1171020802327">
+      <term>extended product/producer responsibility</term>
+      <meaning id="oo-id1171020907489">The creation of financial incentives, and legal disincentives, to encourage manufacturers to make more environmentally friendly products that incorporate end-of-life costs into product design and business plans.
+      </meaning>
+    </definition>
+    <definition id="id1171029660814">
+      <term>greenwashing</term>
+      <meaning id="oo-id1171025312886">Claims made by businesses about the superior contributions of their products and services to sustainability without substantive backing or via a very subjective analysis.
+      </meaning>
+    </definition>
+    <definition id="id1171020907113">
+      <term>product chain</term>
+      <meaning id="oo-id1171032631728">Those stages in the conception, design, manufacture, marketing, use, and end-of-life that define the impacts of a product or service on society. 
+      </meaning>
+    </definition>
+    <definition id="id1171032977370">
+      <term>product stewardship</term>
+      <meaning id="oo-id1171027430496">An approach to product development in which products are conceived, designed, manufactured, and marketed within a “systems thinking” context. It is a way of framing environmental problems that recognizes the three parts of the sustainability paradigm, and incorporates the concepts of sustainable manufacturing, marketing, utility-to-society, impacts of the use of the product, and end-of-life disposition of the product.
+      </meaning>
+    </definition>
+    <definition id="id1171028090026">
+      <term>systems thinking</term>
+      <meaning id="oo-id1171028569723">In the context of sustainability, systems thinking is a way of conceiving human-created and natural systems as functional parts of a larger, integrated system.
+      </meaning>
+    </definition>
+    <definition id="id2517141">
+      <term>triple bottom line</term>
+      <meaning id="oo-id1171036723211">A reference to the value of a business going beyond dollar profitability to include social and environmental costs and benefits as well.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

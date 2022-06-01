@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Applications of Phase Change Materials for Sustainable Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41734</md:content-id>
+  <md:title>Applications of Phase Change Materials for Sustainable Energy</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) the general concept of Phase Change Materials (PCM), 2) understand the applications of PCMs in sustainable energy, 3) recognize the uses of PCM for heating and cooling systems, 4) recognize the uses of PCM in buildings, 5) recognize the uses of PCM in transportation.</md:abstract>
+  <md:uuid>e622053d-4e0a-4f86-be94-48cb8c24bd0a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169207964043">
+      <title>Learning Objectives</title>
+      <para id="id1169219552628">After reading this module, students should be able to</para>
+      <list id="id1169192851537" list-type="bulleted">
+        <item>learn the general concept of Phase Change Materials (PCM)</item>
+        <item>understand the applications of PCMs in sustainable energy</item>
+        <item>recognize the uses of PCM for heating and cooling systems</item>
+        <item>recognize the uses of PCM in buildings </item>
+        <item>recognize the uses of PCM in transportation</item>
+      </list>
+    </section>
+    <section id="id1169195041804">
+      <title>Introduction</title>
+      <para id="id1169196616181">The growing demand for sustainable energy from consumers and industry is constantly changing. The highest demand of energy consumption during a single day brings a continuous and unsolved problem: how to maintain a consistent desired temperature in a sustainable way. Periods of extreme cold or warm weather are the triggering factors for increasing the demand on heating or cooling. Working hours, industry processes, building construction, operating policies, and type and volume of energy production facilities are some of the main reasons for peak demand crises. Better power generation management and significant economic benefit can be achieved if some of the peak load could be shifted to the off peak load period. This can be achieved by thermal storage for space heating and cooling purposes.</para>
+      <para id="id1169197364182">Thermal energy can be stored as a change in the internal energy of certain materials as <term target-id="id1169192403036">sensible heat</term>, <term target-id="id1169201609091">latent heat</term> or both. The most commonly used method of thermal energy storage is the sensible heat method, although <term target-id="id1169201761337">phase change materials</term> (PCM), which effectively store and release latent heat energy, have been studied for more than 30 years. Latent heat storage can be more efficient than sensible heat storage because it requires a smaller temperature difference between the storage and releasing functions. Phase change materials are an important and underused option for developing new energy storage devices, which are as important as developing new sources of renewable energy. The use of phase change material in developing and constructing sustainable energy systems is crucial to the efficiency of these systems because of PCM’s ability to harness heat and cooling energies in an effective and sustainable way.</para>
+    </section>
+    <section id="id1169203309656">
+      <title>Phase Change Materials for Energy Storage Devices</title>
+      <para id="id1169214172334">Thermal storage based on sensible heat works on the temperature rise on absorbing energy or heat, as shown in the solid and liquid phases in Figure <link target-id="id1169202128508"><emphasis effect="bold">Temperature Profile of a PCM</emphasis></link>. When the stored heat is released, the temperature falls, providing two points of different temperature that define the storage and release functions. Phase change materials are conceptually different, however. They operate by storing energy at a constant temperature while phase change occurs, for example from solid to a liquid, as illustrated in the center of Figure <link target-id="id1169202128508"><emphasis effect="bold">Temperature Profile of a PCM</emphasis></link>. As heat is added to the material, the temperature does not rise; instead heat drives the change to a higher energy phase. The liquid, for example, has kinetic energy of the motion of atoms that is not present in the solid, so its energy is higher. The higher energy of the liquid compared to the solid is the <emphasis effect="italics">latent heat</emphasis>. When the solid is fully transformed to liquid, added energy reverts to going into <emphasis effect="italics">sensible heat</emphasis> and raising the temperature of the liquid.</para>
+      <para id="id1169202128508">
+        <figure id="id1169194064330"><media id="id1169194064330_media" alt="Temperature Profile of a PCM" longdesc="Figure shows the temperature profile of a PCM. In the region where latent heat is effective, the temperature keeps either constant or in a narrow range. The phase of the material turns from one to another and both phases appears in the medium.">
+            <image mime-type="image/png" src="../../media/graphics1-1fea.png" id="id1169194064330__onlineimage" height="440" width="600"/>
+          </media>
+        <caption> <emphasis effect="bold">Temperature Profile of a PCM</emphasis>. Figure shows the temperature profile of a PCM. In the region where latent heat is effective, the temperature keeps either constant or in a narrow range. The phase of the material turns from one to another and both phases appears in the medium. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/sah" window="new">Said Al-Hallaj</link> &amp; <link url="http://cnx.org/member_profile/rkizilel" window="new">Riza Kizilel</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169194023218">A PCM is a substance with a high <term target-id="id1169201609091">latent heat</term> (also called the heat of fusion if the phase change is from solid to liquid) which is capable of storing and releasing large amounts of energy at a certain temperature. A PCM stores heat in the form of latent heat of fusion which is about 100 times more than the sensible heat. For example, latent heat of fusion of water is about 334kJ/kg whereas sensible heat at 25° Celsius (77°F) is about 4.18kJ/kg. PCM will then release thermal energy at a freezing point during solidification process (Figure <link target-id="id1169205489185"><emphasis effect="bold">Phase Change of a PCM</emphasis></link>). Two widely used PCMs by many of us are water and wax. Think how water requires significant amount of energy when it changes from solid phase to liquid phase at 0°C (32°F) or how wax extends the burning time of a candle. Moreover, the cycle of the melting and solidification can be repeated many times. </para>
+      <para id="id1169205489185">
+        <figure id="id1169204323227"><media id="id1169204323227_media" alt="Phase Change of a PCM" longdesc="Figure represents the phase change of a PCM when the heat is applied or removed.">
+            <image mime-type="image/png" src="../../media/graphics2-0c90.png" id="id1169204323227__onlineimage" height="440" width="599"/>
+          </media>
+        <caption> <emphasis effect="bold">Phase Change of a PCM</emphasis>. Figure represents the phase change of a PCM when the heat is applied or removed. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/sah" window="new">Said Al-Hallaj</link> &amp; <link url="http://cnx.org/member_profile/rkizilel" window="new">Riza Kizilel</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169208932863">There are large numbers of PCMs that melt and solidify at a wide range of temperatures, making them attractive in a number of applications in the development of the energy storage systems. Materials that have been studied during the last 40 years include <term target-id="id1169201609091">hydrated salts</term>, <term target-id="id1169191738492">paraffin waxes</term>, fatty acids and <term target-id="id1169200442016">eutectics</term> of organic and non-organic compounds (Figure <link target-id="id1169192868441"><emphasis effect="bold">Energy Storage Systems</emphasis></link>). Therefore, the selection of a PCM with a suitable phase transition temperature should be part of the design of a thermal storage system. It should be good at heat transfer and have high latent heat of transition. The melting temperature should lie in the range of the operation, be chemically stable, low in cost, non-corrosive and nontoxic.</para>
+      <para id="id1169192868441">
+        <figure id="id1169196537205"><media id="id1169196537205_media" alt="Energy Storage Systems" longdesc="Figure shows materials commonly studied for use in PCMs due to their ability to melt and solidify at a wide range of temperatures.">
+            <image mime-type="image/png" src="../../media/graphics3-c919.png" id="id1169196537205__onlineimage" height="399" width="599"/>
+          </media>
+        <caption> <emphasis effect="bold">Energy Storage Systems</emphasis>. Figure shows materials commonly studied for use in PCMs due to their ability to melt and solidify at a wide range of temperatures. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/sah" window="new">Said Al-Hallaj</link> &amp; <link url="http://cnx.org/member_profile/rkizilel" window="new">Riza Kizilel</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1169208783717">Even though the list of the PCMs is quite long, only a limited number of the chemicals are possible candidates for energy applications due to the various limitations of the processes. <term target-id="id1169191738492">Paraffins</term> and <term target-id="id1169203305028">hydrated salts</term> are the two most promising PCMs. Generally, paraffins have lower fusion energy than salt hydrates but do not have the reversibility issue, i.e paraffin is only in physical changes and keeps its composition when heat is released or gained whereas hydrated salt is in chemical change when heat is released or gained. Therefore, a major problem with salt hydrates is incongruent melting, which reduces the reversibility of the phase change process. This also results in a reduction of the heat storage capacity of the salt hydrate. On the other hand, paraffins also have a major drawback compared to salt hydrates. The low thermal conductivity creates a major drawback which decreases the rates of heat stored and released during the melting and crystallization processes and hence results in limited applications. The thermal conductivity of paraffin used as PCM is slightly above 0.20 W/mK (compare with ice; k<sub>ice</sub>=∼2 W/mK). Several methods such as <term target-id="id1169202753817">finned tubes</term> with different configurations and <term target-id="idMetalMatrices">metal matrices</term> filled with PCM have been investigated to enhance the heat transfer rate of PCM. Novel composite materials of PCM, which have superior properties, have also been proposed for various applications. For example, when PCM is embedded inside a <term target-id="idGraphiteMatrix">graphite matrix</term>, the heat conductivity can be considerably increased without much reduction in energy storage.</para>
+    </section>
+    <section id="id1169208025523">
+      <title>Applications of PCMs</title>
+      <para id="id1169207355564">The three applications of PCMs listed below (solar energy, buildings, and vehicles) are only a small portion of the many areas where they can be used (catering, telecom shelters, electronics, etc.). The applications of PCMs in these areas have been widely studied in order to minimize the greenhouse effect and to minimize the need for foreign gasoline which costs U.S. economy millions of dollars every year. </para>
+      <para id="id1169190674817">Increasing concerns of the impact of fossil fuels on the environment and their increasing cost has led to studies on thermal energy storage for the space heating and cooling of buildings. Extreme cold or warm weather increases the demand on heating or cooling. If the thermal energy of heat or coolness is stored and then provided during the day or night, part of the peak loads can be shifted to off-peak hours. Therefore, an effective energy management and economic benefit can be achieved. </para>
+      <para id="id1169192835568"><term target-id="id1169204231271">Solar energy</term> is recognized as one of the most promising alternative energy resource options. However, it is intermittent by nature: there is no sun at night. The reliability of solar energy can be increased by storing it when in excess of the load and using the stored energy whenever needed. </para>
+      <para id="id1169201813795">The minimization of heat loss or gain through walls, ceilings, and floors has been studied for a long time and PCM applications have been considered for more than 30 years to minimize these losses/gains, and thus reduce the cost of electricity or natural gas use in buildings. Studies on viability of PCMs in vehicle applications are also growing widely. <term target-id="id1169197250517">Denaturation</term> of food during transport brings a major problem which is being partially solved by refrigerated trucks. However, this causes not only more expensive foods, but also irreversible environmental effects on living organisms. </para>
+      <section id="id1169192033345">
+        <title>Solar Energy Applications</title>
+        <para id="id1169205648215">Solar thermal energy is a technology for harnessing solar energy for thermal energy. The solar energy is absorbed by the earth and is dissipated throughout the ground at different rates that is dependent on the compositions of the ground and amount of water. Ground temperature is stable and solar energy can be transferred between the ground and space heating/cooling places. Water heaters that use solar energy play an important role for this purpose and they started to become popular in the late 1960s (Figure <link target-id="id8855218"><emphasis effect="bold">Solar Heater</emphasis></link>). In order to utilize the energy from the sun at all times, this precious energy should be stored and used when needed. Passive systems using PCMs have been good candidates for thermal energy storage and have been applied since 1980s. At first, the water heaters were supported by filling the bottom of the heaters with PCMs, which was a first step in storing energy in heating systems. However, the quantity of the available energy in the storage system was limited by low thermal conductivity of the PCM. Improvements on thermal storage systems and developments in the incorporation of PCMs that utilize the solar energy have been extensively studied since then.</para>
+        <para id="id8855218">
+          <figure id="id1169206760832"><media id="id1169206760832_media" alt="Solar Heater" longdesc="Figure shows solar heating system with and without PCM.">
+              <image mime-type="image/png" src="../../media/graphics4-6021.png" id="id1169206760832__onlineimage" height="217" width="600"/>
+            </media>
+          <caption><emphasis effect="bold">Solar Heater</emphasis>. Figure shows solar heating system with and without PCM. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/sah" window="new">Said Al-Hallaj</link> &amp; <link url="http://cnx.org/member_profile/rkizilel" window="new">Riza Kizilel</link></emphasis></caption></figure>
+        </para>
+        
+        <para id="id1169202268075">Later studies have mainly concentrated on increasing thermal conductivity using composite materials. Adding PCM modules at the top of the water tank gives the system a higher storage density and compensate for heat loss in the top layer because of the latent heat of PCM. The configuration of the PCM storage unit can result in advantageous control of the water temperature rise and drop during both day and night time. Therefore, thermally stratified water tanks are widely used for short term thermal energy storage. Application of these tanks significantly increases not only the energy density with the number of PCM modules, but also the cooling period and keeps the water temperature higher compared to the ones without PCMs. Besides, solar water heating systems operate within a wide range of temperatures from <term target-id="id1169197284639">ambient temperatures</term> to 80°C (176°F). A PCM has much larger heat storage capacity relative to water over a narrow temperature range, close to its melting temperature. </para>
+        <para id="id1169198236818">A major component of total household energy consumption is cooking. Solar energy offers an economical option for cooking in households, especially in third world countries. A solar cooker is a device which uses the energy of sunlight to heat food or drink to cook or sterilize it (Figure <link target-id="id1169207016681"><emphasis effect="bold">Solar Cooker</emphasis></link>). It uses no fuel, costs nothing to operate, and reduces air pollution. A solar cooker’s reflective surface concentrates the light into a small cooking area and turns the light into heat. It is important to trap the heat in the cooker because heat may be easily lost by convection and radiation. The feasibility of using a phase change material as the storage medium in solar cookers have been examined since 1995. A box-type solar cooker with stearic acid based PCM has been designed and fabricated by <link target-id="id1169194861954">Buddhi and Sahoo (1997)</link>, showing that it is possible to cook food even in the evening with a solar cooker. The rate of heat transfer from the PCM to the cooking pot during the discharging mode of the PCM is quite slow and more time is required for cooking food in the evening. Fins that are welded at the inner wall of the PCM container were used to enhance the rate of heat transfer between the PCM and the inner wall of the PCM container. Since the PCM surrounds the cooking vessel, the rate of heat transfer between the PCM and the food is higher and the cooking time is shorter. It is remarkable that if food is loaded into the solar cooker before 3:30 p.m. during the winter season, it could be cooked. However, the melting temperature of the PCM should be selected carefully. The more the input solar radiation, the larger quantity of heat there is in a PCM. Few examples for PCMs for solar cooker applications are acetamide (melting point of 82 °C), acetanilide (melting point of 118 °C), erythritol (melting point of 118 °C) and magnesium nitrate hexahydrate (melting point of 89–90 °C).</para>
+        <para id="id1169207016681">
+          <figure id="id1169192588136"><media id="id1169192588136_media" alt="Solar Cooker" longdesc="Photograph shows solar heating system.">
+              <image mime-type="image/jpg" src="../../media/graphics5-0524.jpg" id="id1169192588136__onlineimage" height="333" width="444"/>
+            </media>
+          <caption><emphasis effect="bold">Solar Cooker</emphasis>. Photograph shows solar heating system. <emphasis effect="italics">Source: Atlascuisinesolaire </emphasis><link url="http://en.wikipedia.org/wiki/File:ALSOL.jpg" window="new"><emphasis effect="italics">via Wikimedia Commons</emphasis></link>. </caption></figure>
+        </para>
+        
+      </section>
+      <section id="id1169194617316">
+        <title>Building Applications</title>
+        <para id="id1169197175354">PCMs can be used for temperature regulation, heat or cold storage with high storage density, and thermal comfort in buildings that require a narrow range of temperature (Figure <link target-id="id1169193209677"><emphasis effect="bold">Typical Application of PCM in Buildings</emphasis></link>). Therefore, if the solar energy is stored effectively, it can be utilized for night cold. The use of PCMs brings an opportunity to meet the demand for heating. It helps to store the energy which is available during daytime and to keep the temperature of the building in the comfort level.</para>
+        <para id="id1169193209677">
+          <figure id="id1169218598525">
+            <media id="id1169218598525_media" alt="Typical Application of PCM in Buildings" longdesc="Figure illustrates a typical application of PCM in buildings. Heat storage and delivery occur over a fairly narrow temperature range. Wallboards containing PCM have a large heat transfer area that supports large heat transfer between the wall and the space.">
+              <image mime-type="image/png" src="../../media/graphics6-99a6.png" id="id1169218598525__onlineimage" height="316" width="387"/>
+            </media>
+						<caption><emphasis effect="bold">Typical Application of PCM in Buildings</emphasis> Figure illustrates a typical application of PCM in buildings. Heat storage and delivery occur over a fairly narrow temperature range. Wallboards containing PCM have a large heat transfer area that supports large heat transfer between the wall and the space. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/sah" window="new">Said Al-Hallaj</link> &amp; <link url="http://cnx.org/member_profile/rkizilel" window="new">Riza Kizilel</link></emphasis> 
+						</caption>
+          </figure>
+        </para>
+        
+        <para id="id1169197628066">Energy storage in the walls or other components of the building may be enhanced by encapsulating PCM within the surfaces of the building. The latent heat capacity of the PCM is used to capture solar energy or man-made heat or cold directly and decrease the temperature swings in the building. It also maintains the temperature closer to the desired temperature throughout the day. Researchers have proposed macro or micro level encapsulated PCM in concrete, gypsum wallboard, ceiling and floor in order to achieve a reasonably constant temperature range.</para>
+        <para id="id1169194116211">Today, it is possible to improve the thermal comfort and reduce the energy consumption of buildings without substantial increase in the weight of the construction materials by the application of micro and macro encapsulated PCM. The maximum and minimum peak temperatures can be reduced by the use of small quantities of PCM, either mixed with the construction material or attached as a thin layer to the walls and roofs of a building. In addition, the energy consumption can also be reduced by absorbing part of the incident solar energy and delaying/reducing the external heat load.</para>
+        <para id="id1169193212219">The absorption of heat gains and the release of heat at night by a paraffin wax-based PCMs encapsulated within a co-polymer and sandwiched between two metal sheets (PCM board) have been used in some building materials. The PCM boards on a wall reduce the interior wall surface temperature during the charging process, whereas the PCM wall surface temperature is higher than the other walls during the heat releasing process. The heat flux density of a PCM wall in the melting zone is almost twice as large as that of an ordinary wall. Also, the heat-insulation performance of a PCM wall is better than that of an ordinary wall during the charging process, while during the heat discharging process, the PCM wall releases more heat energy.</para>
+        <para id="id1169192071119">Unlike structural insulated panels, which exhibit fairly uniform thermal characteristics, a PCM’s attributes vary depending upon environmental factors. The structural insulated panel works at all times, resisting thermal flow from hot temperatures to colder temperatures. The thermal flux is directly proportional to the temperature difference across the structural insulated panel insulation. The usefulness of PCM is seen when the in-wall temperatures are such that it causes the PCM to change state. It can be inferred that the greater the temperature difference between day and night, the better the PCM works to reduce heat flux. The use of a phase change material structural insulated panel wall would be excellent for geographic areas where there is typically a large temperature swing, warm during the day and cool at night.</para>
+      </section>
+      <section id="id1169208224875">
+        <title>Vehicle Applications</title>
+        <para id="id1169192849391">Studies on viability of PCM in vehicle applications are growing widely. For example, PCMs are studied with regard to refrigerated trucks, which are designed to carry perishable freight at specific temperatures. Refrigerated trucks are regulated by small refrigeration units that are placed outside the vehicle in order to keep the inside of the truck trailer at a constant temperature and relative humidity. They operate by burning gas, hence the cost of shipment is highly affected by the changes of temperature in the trailer. The use of PCM has helped in lowering peak heat transfer rates and total heat flows into a refrigerated trailer. <link target-id="id1169217026821">Ahmed, Meade, and Medina (2010)</link> modified the conventional method of insulation of the refrigerated truck trailer by using paraffin-based PCMs in the standard trailer walls as a heat transfer reduction technology. An average reduction in peak heat transfer rate of 29.1 percent was observed when all walls (south, east, north, west, and top) were considered, whereas the peak heat transfer rate was reduced in the range of 11.3 - 43.8 percent for individual walls. Overall average daily heat flow reductions into the refrigerated compartment of 16.3 percent were observed. These results could potentially translate into energy savings, pollution abatement from diesel-burning refrigeration units, refrigeration equipment size reduction, and extended equipment operational life. </para>
+        <para id="id1169202354279">Vehicles are mainly powered by <term target-id="id1169202696996">gasoline</term> (i.e gas or petrol). <term target-id="id1169192449712">Liquified petroleum gases</term> and <term target-id="id1169201517133">diesel</term> are other types of fluids used in vehicles. Lately, hybrid vehicles became popular among consumers as they significantly reduce the toxic exhaust gases if the vehicles run in electric mode. Li-ion batteries have been used in electronic devices for a long time (cell-phones, laptops, and portable devices). Many scientists, especially in the United States, have been working on the possibility of using Li-ion batteries for transportation applications in order to double the fuel efficiency and reduce emissions of hybrid vehicles. <term target-id="id1169217403505">Li-ion battery</term> modules can be connected in order to meet the <term target-id="id1169207514551">nominal voltage</term> of the vehicle to run the vehicle in the electric mode. However this brings a huge problem which keeps away the uses of Li-ion batteries in many applications: as a result of exothermic electrochemical reactions, Li-ion batteries release energy during discharge. The generated energy should be transferred from the body of the battery to environment. If the rate of the transfer is not sufficient, some of the gelled phase materials turn into <term target-id="id1169193892875">gas phase</term> and increase the internal pressure of the cell. Therefore the energy should be released from the cell as soon as possible or the temperature of the cell should not lead to an increase. <link target-id="id1169191641340">Sveum, Kizilel, Khader, and Al-Hallaj (2007)</link> have shown that Li-ion batteries with thermal management using PCM eliminate the need for additional cooling systems and improve available power (Figure <link target-id="id1169194499204"><emphasis effect="bold">Application with PCM Technology</emphasis></link>). The researchers maintained battery packs at an optimum temperature with proper thermal management and the PCM was capable of removing large quantities of heat due to its high latent heat of fusion. </para>
+        <para id="id1169194499204">
+          <figure id="id1169200977748"><media id="id1169200977748_media" alt="Application with PCM Technology" longdesc="A pack of Li-ion batteries kept at a narrow temperature range with a proper use of passive thermal management system.">
+              <image mime-type="image/png" src="../../media/Object 22.png" id="id1169200977748__onlineimage" height="179" width="600"/>
+            </media>
+          <caption><emphasis effect="bold">Application with PCM Technology</emphasis>. A pack of Li-ion batteries kept at a narrow temperature range with a proper use of passive thermal management system. <emphasis effect="italics">Source: AllCell’s PCM Technology©</emphasis></caption></figure>
+        </para>
+        
+      </section>
+    </section>
+    <section id="id1169219673236">
+      <title>Summary</title>
+      <para id="id1169192954203">There is a great interest in saving energy and in the use of renewable energies. PCMs provide an underused option for developing new energy storage devices in order to minimize greenhouse effects. They operate at constant temperature; as heat is added to the material, the temperature remains stable, but the heat drives the change to a higher energy phase. A PCM stores heat in the form of latent heat of fusion which is about 100 times more than the sensible heat. Hydrated salts, paraffin waxes, fatty acids and eutectics of organic and non-organic compounds are the major types of PCMs that melt at a wide range of temperatures. The specific melting point of the PCM determines the design of thermal storage system. </para>
+      <para id="id1169192841944">In this module, applications of PCM in solar energy, buildings, and vehicles were reviewed. Solar heaters have been popular since 1960s and PCMs have been used to store the precious energy from sun since 1980s. They have been used extensively in solar cookers, especially in the third world countries in order to decrease the thermal related costs. The cookers do not use fuel and hence reduce air pollution.</para>
+      <para id="id1169208655461">PCM can be used for temperature regulation in order to minimize the heat loss or gain through building walls. They have been used to capture solar heat and decrease the temperature fluctuations in buildings. Moreover, since a small amount of PCM is sufficient in order to store solar energy, thermal comfort is achieved without substantial increase in the weight of the construction materials. </para>
+      <para id="id1341160">Application of PCMs in transportation is growing widely. Today, refrigerated trucks are regulated by refrigeration units, but the use of PCMs is a viable option to prevent the denaturation of food during transportation. The transfer rate of heat can be reduced significantly with PCMs. Moreover, PCM makes Li-ion batteries, which have high energy density, viable for high-power applications. The generated energy during discharge or drive mode can be transferred from the body of the battery to environment with the help of PCMs. Battery packs can be maintained at an optimum temperature with proper thermal management and the PCM has been shown to be capable of removing large quantities of heat due to its high latent heat of fusion. </para>
+
+      <para id="id1169194398844">Even though there is a lot of on-going research on effective and efficient applications of PCMs in a variety of areas (e.g. solar cookers, buildings, vehicles), PCMs have yet to become a widely used technology for sustainable energy. The advantages of PCMs are hardly known by many people and, therefore, the applications of PCMs and their benefits should be offered to consumers. The sun is out there, continuously transferring its energy for free, but we need to do more to harness that sustainable energy for our own needs. </para>
+    </section>
+    <section id="id1169197130566">
+      <title>Review Questions</title>
+      <exercise id="id1169204258805">
+				<label>Question</label>
+        <problem id="oo-id1169193839178">
+          <para id="id8151996">Explain briefly how phase change materials work.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169207764481">
+				<label>Question</label>
+        <problem id="oo-id1169203908315">
+          <para id="id1169206198236">What is the main disadvantage of the paraffin wax as a phase change material?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169200782576">
+				<label>Question</label>
+        <problem id="oo-id1169201360512">
+          <para id="id1169193751917">Name three different areas in the sustainable energy field in which PCMs are a key element in balancing heating and cooling.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1169209257894">
+      <title>References</title>
+      <para id="id1169217026821">Ahmed, M., Meade, O., &amp; Medina, M. A. (2010, March). Reducing heat transfer across the insulated walls of refrigerated truck trailers by the application of phase change materials. <emphasis effect="italics">Energy Conversion and Management, 51</emphasis>, 383-392. doi: 10.1016/j.enconman.2009.09.003 </para>
+      <para id="id1169194861954">Buddhi, D. &amp; Sahoo, L. K. (1997, March). Solar cooker with latent heat storage: Design and experimental testing. <emphasis effect="italics">Energy Conversion and Management, 38</emphasis>, 493-498. doi: 10.1016/S0196-8904(96)00066-0 </para>
+      <para id="id1169191641340">Sveum, P., Kizilel, R., Khader, M., &amp; Al-Hallaj, S. (2007, September). IIT Plug-in Conversion Project with the City of Chicago. Paper presented at the Vehicle Power and Propulsion Conference, Arlington, TX. doi: 10.1109/VPPC.2007.4544174 </para>
+      
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1169197284639">
+      <term>ambient temperature</term>
+      <meaning id="oo-id1169203963178">The temperature of the surrounding environment.
+      </meaning>
+    </definition>
+    <definition id="id1169197250517">
+      <term>denaturation</term>
+      <meaning id="oo-id1169194520917">A process in which proteins or nucleic acids lose their tertiary structure and secondary structure by application of heat. 
+      </meaning>
+    </definition>
+    <definition id="id1169201517133">
+      <term>diesel</term>
+      <meaning id="oo-id1169195354115">Any liquid fuel used in diesel engines.
+      </meaning>
+    </definition>
+    <definition id="id1169200442016">
+      <term>eutectics</term>
+      <meaning id="oo-id1169208222124">A combination of two or more compounds of either organic, inorganic or both which may have a different melting point to their individual and separate compounds.
+      </meaning>
+    </definition>
+    <definition id="id1169202753817">
+      <term>finned Tube</term>
+      <meaning id="oo-id1169192684513">Tube with an extending part on a surface to facilitate cooling.
+      </meaning>
+    </definition>
+    <definition id="id1169193892875">
+      <term>gas phase</term>
+      <meaning id="oo-id1169202674094">One of the three classical states of matter.
+      </meaning>
+    </definition>
+    <definition id="id1169202696996">
+      <term>gasoline</term>
+      <meaning id="oo-id1169202040641">A toxic translucent, petroleum-derived liquid that is primarily used as a fuel in internal combustion engines. The term "gasoline" is often shortened in colloquial usage to gas. Under normal ambient conditions its material state is liquid, unlike liquefied petroleum gas or "natural gas."
+      </meaning>
+    </definition>
+    <definition id="idGraphiteMatrix">
+			<term>graphite matrix</term>
+			<meaning id="oo-idGraphiteMatrix">Composite material with graphite being a metal (see metal matrices).
+      </meaning>
+    </definition>
+    <definition id="idHeatofFusion">
+			<term>heat of fusion</term>
+			<meaning id="oo-idHeatofFusion">The amount of heat required to convert a unit mass of a solid at its melting point into a liquid without an increase in temperature.
+      </meaning>
+    </definition>
+    <definition id="id1169203305028">
+      <term>hydrated salt</term>
+      <meaning id="oo-id1169203995596">A solid compound containing water molecules combined in a definite ratio as an integral part of a crystal.
+      </meaning>
+    </definition>
+    <definition id="id1169201609091">
+      <term>latent heat</term>
+      <meaning id="oo-id1169195606742">The heat which flows to or from a material without a change to temperature.
+      </meaning>
+    </definition>
+    <definition id="id1169217403505">
+      <term>Li-ion battery</term>
+      <meaning id="oo-id1169205802894">A type of rechargeable battery in which lithium ions move from the negative electrode to the positive electrode during discharge and from the positive electrode to negative electrode during charge.
+      </meaning>
+    </definition>
+    <definition id="id1169192449712">
+      <term>liquified petroleum gas</term>
+      <meaning id="oo-id1169208294151">A flammable mixture of hydrocarbon gases used as a fuel in heating appliances and vehicles.
+      </meaning>
+    </definition>
+    <definition id="idMetalMatrices">		
+			<term>metal matrices</term>
+			<meaning id="oo-idMetalMatrices">Composite material with at least two constituent parts, one being a metal.
+      </meaning>
+    </definition>
+    <definition id="id1169207514551">
+      <term>nominal voltage</term>
+      <meaning id="oo-id1169197483505">Voltage of a fully charged cell or battery when delivering maximum amount of energy that can be withdrawn from a battery at a specific discharge rate.
+      </meaning>
+    </definition>
+    <definition id="id1169201761337">
+      <term>phase change material</term>
+      <meaning id="oo-id1169206538378">A material that stores heat in the form of latent heat of fusion.
+      </meaning>
+    </definition>
+    <definition id="id1169191738492">
+      <term>paraffin</term>
+      <meaning id="oo-id1169202776608">A white, odorless, tasteless, waxy solid to store heat with a specific heat capacity of 2.14–2.9 J g<sup>−1</sup> K<sup>−1</sup> and a heat of fusion of 200–300 J g<sup>−1</sup>. 
+      </meaning>
+    </definition>
+    <definition id="id1169192403036">
+      <term>sensible heat</term>
+      <meaning id="oo-id1169203032176">The heat energy stored in a substance as a result of an increase in its temperature.
+      </meaning>
+    </definition>
+    <definition id="id1169204231271">
+      <term>solar energy</term>
+      <meaning id="oo-id1169203717829">The sun’s radiation that reaches the earth.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

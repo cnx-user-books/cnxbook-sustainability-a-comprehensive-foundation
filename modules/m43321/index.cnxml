@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Public Health and Sustainability</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43321</md:content-id>
+  <md:title>Public Health and Sustainability</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) definition of public health, 2) public health impacts of non-sustainable development, 3) key public health impacts of climate change.</md:abstract>
+  <md:uuid>6084aef3-6edb-4023-8ac7-1173e5d90b24</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172012047013">
+      <title>Learning Objectives</title>
+      <para id="id1172013272191">After reading this module, students should be able to</para>
+      <list id="id1172017023825" list-type="bulleted">
+        <item>understand what public health is</item>
+        <item>recognize public health impacts of non-sustainable development</item>
+        <item>identify key public health impacts of climate change</item>
+      </list>
+    </section>
+    <section id="id1172002717898">
+      <title>Introduction</title>
+      <para id="id1172011350840">“Much discussion about sustainability treats the economy, livelihoods, environmental conditions, our cities and infrastructure, and social relations as if they were ends in themselves; as if they are the reason we seek sustainability. Yet their prime value is as the foundations upon which our longer-term health and survival depend.” (<link target-id="id1172013798290">McMichael, 2006</link>)</para>
+      <para id="id1172014260607">Ecological sustainability is more than just continuing the resource flows of the natural world to sustain the economic machine, while maintaining diversity of species and ecosystems. It is also about sustaining the vast support systems for health and life which could be considered the real bottom line of sustainability. Before examining the public health effects of non-sustainable development, we should define public health.</para>
+      <list id="id1172014170668" list-type="bulleted">
+        <item>The website for <link url="http://www.uic.edu/sph/" window="new">UIC’s School of Public Health</link> says “we are passionate about improving the health and well-being of the people of Chicago, the state of Illinois, the nation and the world.”</item>
+        <item>The <link url="http://www.idph.state.il.us/about/abouthome.htm" window="new">Illinois Department of Public Health</link> is responsible for protecting the state's 12.4 million residents, as well as countless visitors, through the prevention and control of disease and injury.”</item>
+        <item>The <link url="http://www.health.govt.nz/" window="new">New Zealand Ministry of Health</link> defines it as “the science and art of promoting health, preventing disease and prolonging life through organized efforts of society.”</item>
+        <item>The <link url="http://www.nrdc.org/reference/glossary/p.asp&amp;usg=AFrqEzcXBXgcIzAeeOmfGermViDFW6tePw" window="new">National Resources Defense Council</link> an NGO devoted to environmental action, states that public health is “the health or physical well-being of a whole community.”</item>
+      </list>
+    </section>
+    <section id="id1172012533621">
+      <title>Impacts of Non-Sustainable Development</title>
+      <para id="id1172011902144">We have built our communities in ways that are unsustainable from many aspects. Not only does development create urban sprawl, impact land use, and fuel consumption, we can identify negative health consequences related to these development trends.</para>
+      <section id="id1172014921961">
+        <title>Obesity</title>
+        <para id="id1172013712003">If our communities are not walkable or bikeable, we need to drive to schools, shops, parks, entertainment, play dates, etc. Thus we become more sedentary. A sedentary lifestyle increases the risk of overall mortality (2 to 3-fold), cardiovascular disease (3 to 5-fold), and some types of cancer, including colon and breast cancer. The effect of low physical fitness is comparable to that of hypertension, high cholesterol, diabetes, and even smoking (<link target-id="id1172012784710">Wei et al., 1999</link>; <link target-id="id1172013350236">Blair et al., 1996</link>).</para>
+      </section>
+      <section id="id1172011879236">
+        <title>Economic Segregation</title>
+        <para id="id1172012877885">Walkable and safe communities provide sidewalks, bike paths, proximity, and connections to community services such as grocery stores, schools, health care, parks, and entertainment. Community design that creates a segregated housing environment with only expensive housing and no affordable housing segregates people by socio-economic level (i.e. poor from non-poor) and this generally leads to segregation by race. Lack of physical activity will occur in neighborhoods with no good green and safe recreational sites. If we have poor public transit systems partly due to lack of density (only more expensive, low-density housing) and our love of the automobile, then we have increased emissions that contribute to global warming.</para>
+      </section>
+      <section id="id1172004055752">
+        <title>The Olympics as an Example</title>
+        <para id="id1172004859530">A natural experiment during the 1996 Summer Olympic Games in Atlanta shows the impact of car use on health. During the games, peak morning traffic decreased 23% and peak ozone levels decreased 28%. Asthma-related emergency room visits by children decreased 42% while children’s emergency visits for non-asthma causes did not change during same period (<link target-id="id1171998680205">Friedman, Powell, Hutwagner, Graham, &amp; Teague, 2001</link>). We also saw that with the Beijing Olympics in 2008 where driving days were rationed, more than 300,000 heavy-emitting vehicles (about 10% of total) were barred from the city’s administrative area in order to decrease pollution for athletes and visitors This reduced the number of vehicles by about 1.9 million or 60% of the total fleet during the Olympic Games. Emissions of black carbon, carbon monoxide and ultrafine particles were reduced by 33%, 47%, and 78% respectively compared to the year before the Olympics. Frequency of respiratory illnesses during the 2008 games were found to be significantly less in certain populations compared to previous years and this was hypothesized to be related to the reduction of vehicles on the road (<link target-id="id1172004880154">Wang et al., 2009</link>; <link target-id="id1172015026128">Jentes et al., 2010</link>).</para>
+        <para id="id1172014579334">
+          <figure id="id1172013525503"><media id="id1172013525503_media" alt="graph showing minutes per day Americans walk" longdesc="graph shows that 25%ile walks 10 minutes per day; MEDIAN walks 19 minutes per day; 75%ile walks 31 minutes per day.">
+              <image mime-type="image/png" src="../../media/Object 2.png" id="id1172013525503__onlineimage" height="446" width="363"/>
+            </media>
+          <caption><emphasis effect="bold">Minutes Americans Walk per Day</emphasis> <emphasis effect="italics">Source: </emphasis><link url="http://nhts.ornl.gov/index.shtml" window="new"><emphasis effect="italics">National Household Travel Survey, 2001, USDOT</emphasis></link></caption></figure>
+        </para>
+        
+        <para id="id1172014598608">Figure <link target-id="id1172013525503"><emphasis effect="bold">Minutes Americans Walk per Day</emphasis></link> shows the average time Americans spend walking a day. People who walk to and from public transit get an fair amount of physical activity related to using transit, thus the name given to modes of transit that do not involve driving: active transit. Those people who did not own a car or were not a primary driver had higher walking times (<link target-id="id1172012713679">Besser &amp; Dannenberg, 2005</link>).</para>
+      </section>
+      <section id="id1172011702832">
+        <title>Water Quality</title>
+        <para id="id1172022190578">Increasing numbers of roads and parking lots are needed to support an automobile transportation system, which lead to increased non-point source water pollution and contamination of water supplies (road runoff of oil/gas, metals, nutrients, organic waste, to name a few) with possible impacts on human health. Increased erosion and stream siltation causes environmental damage and may affect water treatment plants and thus affect water quality.</para>
+      </section>
+      <section id="id1171998670567">
+        <title>Social Capital</title>
+        <para id="id1172014868371">On the social sustainability side, we can look at social capital otherwise defined as the “connectedness” of a group built through behaviors such as social networking and civic engagement, along with attitudes such as trust and reciprocity. Greater social capital has been associated with healthier behaviors, better self-rated health, and less negative results such as heart disease. However, social capital has been diminishing over time. Proposed causes include long commute times, observed in sprawling metropolitan areas. Past research suggests that long commute times are associated with less civic participation; Robert Putnam suggests that every ten additional minutes of commuting predicts a 10% decline in social capital (<link target-id="id1172014925131">Besser, Marcus, &amp; Frumkin, 2008</link>). <term target-id="id1172012522021">Urban sprawl</term> is considered the reason for most long commutes.</para>
+        <para id="id1172012135352">As of 2011, according to an <link url="http://articles.chicagotribune.com/2011-01-20/news/ct-met-traffic-congestion-0120-20110119_1_congestion-david-schrank-urban-mobility-report" window="new">article in the Chicago Tribune</link>, Chicago commuting times are some of the worst – with Chicagoans spending 70 hours per year more on the road than they would if there was no congestion – up from 18 hours in 1982. They have an average commute time of 34 minutes each way. These drivers also use 52 more gallons per year per commuter, increasing their costs and pollution.</para>
+        <para id="id1172014218894">Residents of sprawling counties were likely to walk less during leisure time, weigh more, and have greater prevalence of hypertension than residents of compact counties (<link target-id="id1172018117790">Ewing, Schmid, Killingsworth, Zlot, &amp; Raudenbush</link><link target-id="id1172018117790">, 2003</link>).</para>
+        <para id="id1172022118774">While more compact development is found to have a negative impact on weight, we also find that individuals with low BMI are more likely to select locations with dense development. This suggests that efforts to curb sprawl, and thereby make communities more exercise-friendly, may simply attract those individuals who are predisposed to physical activity (<link target-id="id1172014604256">Plantinga &amp; </link><link target-id="id1172014604256">Bernell, 2007</link>).</para>
+      </section>
+    </section>
+    <section id="id1172016418838">
+      <title>Impacts of Climate Change</title>
+      <para id="id1171998528336">Public health studies have been conducted with regard to many of the predicted environmental effects of climate change. Thus, it is somewhat easier to examine the public health implications of this outcome of unsustainable behavior. Figure <link target-id="id1172013430699"><emphasis effect="bold">How Climate Change Affects Population</emphasis></link> describes the pathways by which climate change affects public health. To the left we see the natural and anthropogenic, or human-caused activities that affect climate change, which result in climatic conditions and variability; if we can mitigate those events we can reduce climate change. These activities first result in environmental impacts such as severe weather events, disturbed ecosystems, sea-level rise, and overall environmental degradation. Those impacts can then result in a broad range of health effects that we can adapt to, to a certain extent. These impacts are generally categorized into three areas: heat induced morbidity and mortality, infectious diseases, and impacts due to the effect of extreme weather such as flooding and drought on the social welfare of the population.</para>
+      <para id="id1172012471734">
+        <figure id="id1172013430699"><media id="id1172013430699_media" alt="diagram summarizing the main pathways by which climate change affects population health" longdesc="Greenhouse gas emissions and Natural climate determinants create climate change, which causes environmental effects such as extreme weather events, effects on ecosystems, sea-level rise, and environmental degradation. These environmental effects lead to various health effects, including thermal stress, microbial proliferation, changes in vector-pathogen-host relations, impaired crop, livestock and fisheries yields, and loss of livelihoods.">
+            <image mime-type="image/png" src="../../media/Picture 5-d7a1.png" id="id1172013430699__onlineimage" height="487" width="650"/>
+          </media>
+        <caption> <emphasis effect="bold">How C</emphasis><emphasis effect="bold">limate Change Affects Population </emphasis>Diagram summarizing the main pathways by which climate change affects population health. <emphasis effect="italics">Source:Created by Cindy Klein-Banai, based on </emphasis><link target-id="id1172013840678"><emphasis effect="italics">McMichael et al., 2006</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id6081746">Measurement of health effects from climate change can only be very approximate. One major study, by the World Health Organization (WHO), was a quantitative assessment of some of the possible health impacts that looked at the effects of the climate changes since the mid-1970s and determined that this may have resulted in over 150,000 deaths in 2000. The study concluded that the effects will probably grow in the future (<link target-id="id1172006081325">World Health Organization, 2009</link>).</para>
+      <section id="id1172014016691">
+        <title>Extreme Weather</title>
+        <para id="id1172014162167">Climate change can influence heat-related <term target-id="id1172014219820">morbidity</term> and <term target-id="id1172011913958">mortality</term>, generally a result of the difference between temperature extremes and mean climate in a given area. Higher temperatures in the summer increase mortality. Studies on the effects of heat waves in Europe indicate that half of the excess heat during the European heat wave of 2003 was due to global warming and, by inference, about half of the excess deaths during that heat wave could be attributed to human-generated greenhouse gas emissions (see <link target-id="id1172012095330">Haines, Kovats, Campbell-Lendrum, &amp; Corvalan, 2006</link>; <link target-id="id1172011851796">Hellmann, Lesht, &amp; Nadelhoffer, 2007</link>; <link target-id="id1172013798290">McMichael, 2006</link>). Urban centers are more susceptible due to the urban heat island effect that produces higher temperatures in urban areas as compared to the near-by suburbs and rural areas. Lack of vegetation or evaporation, and large areas of pavement, in cities result in an “Urban Heat Island,” where urban areas are warmer than the neighboring suburban and rural areas (See Figure <link target-id="id1172014384702"><emphasis effect="bold">Sketch of an Urban Heat-Island Profile</emphasis></link>). Adaptation can help reduce mortality through greater prevention awareness and by providing more air-conditioning and cooling centers.</para>
+        <para id="id1172012981667">
+          <figure id="id1172014384702"><media id="id1172014384702_media" alt="sketch of an Urban Heat-Island Profile" longdesc="a line graph shows late afternoon temperatures for Rural at 85 degrees climbing to 87 in Subruban Residential, to 88 in Commercial, and peaking at 92 in Downtown. Temperatures fall as the line measures Urban Residential, Park, Suburban Residential, and Rural Farmland">
+              <image mime-type="image/jpg" src="../../media/graphics1-aec2.jpg" id="id1172014384702__onlineimage" height="346" width="725"/>
+            </media>
+          <caption> <emphasis effect="bold">Sketch of an Urban Heat-Island Profile</emphasis>. <emphasis effect="italics">Source: </emphasis><link url="http://heatisland.lbl.gov/" window="new"><emphasis effect="italics">Heat Island Group</emphasis></link>.</caption></figure>
+        </para>
+        
+        <para id="id1172014789089">The reduction of extreme cold due to global warming, could reduce the number of deaths due to low temperatures. Unlike for heat, those deaths are usually not directly related to the cold temperature itself but rather to influenza. Also, deaths related to cold spells would increase to a lesser extent by (1.6%), while heat waves increase them by 5.7%.</para>
+        <para id="id1172014281004">Since <term target-id="id1171998530370">volatile organic compounds</term> are precursors of ozone, and VOC emissions increase with temperature, this could lead to an increase in ozone concentrations. For fifteen cities in the eastern United States, the average number of days exceeding the health-based eight-hour ozone standard is projected to increase by 60 percent (from twelve to almost twenty days each summer) by the 2050s because of warmer temperatures (<link target-id="id1172013365007">Lashof, &amp; Patz, 2004</link>). Pollen levels may increase with increased CO<sub>2</sub> levels since that promotes growth and reproduction in plants. This will increase the incidence of allergic reactions. Similarly, poison ivy will grow more and be more toxic.</para>
+        <para id="id1172014453861">Infectious diseases are influenced by climate as pathogen survival rates are strongly affected by temperature change. Diseases carried by birds, animals, and insects (vector-born) – such as malaria, dengue fever, and dengue hemorrhagic fever – may be influenced by temperature as mosquitoes are sensitive to climate conditions such as temperature humidity, solar radiation, and rainfall. For example, there has been a strengthening of the relationship between the El Nino global weather cycle and cholera outbreaks in Bangladesh. Increases in malaria in the highlands of eastern Africa may be associated with local warming trends. Temperature also affects the rate of food-born infectious disease. In general, however, it is hard to isolate the effects of climate change that affect the transmission rate and geographic boundaries of infectious disease from other social, economic, behavioral, and environmental factors (see <link target-id="id1172013840678">McMichael et al., 2006</link>). Increased precipitation from extreme rainfall events can cause flooding which, especially in cities with combined sewer and stormwater systems can be contaminated by sewage lines. This can happen when the deep tunnels <!--(see Figure <link target-id="id1172013674593"><emphasis effect="bold">Deep Tunnels</emphasis></link>)--> that carry stormwater in Chicago reach capacity and untreated sewage then must be released into Lake Michigan. E. Coli levels in the lake then increase, forcing beaches to close to prevent the spread of infection.</para>
+        <!--<para id="id1172006603398">
+          <figure id="id1172018388515">
+            <media id="id1172018388515_media" alt="">
+              <image mime-type="image/png" src="Picture 1.png" id="id1172018388515__onlineimage" height="531" width="360"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1172013674593"><emphasis effect="bold">Deep Tunnels</emphasis> Rays of daylight light up the vertical tunnel under Miller Meadow Forest Preserve in Maywood, IL, part of the deep tunnel. <emphasis effect="italics">Source: </emphasis><link url="http://www.chicagotribune.com/health/ct-met-0320-deep-tunnel-problems-20110319,0,1283119.story?page=1"><emphasis effect="italics">Chicago Tribune / May 8, 1990</emphasis></link><emphasis effect="italics">.</emphasis></para>-->
+        <para id="id1172012720824">Diseases are re-emerging and emerging infectious due to intensified food production in “factory” farms. Examples include mad cow disease (1980s in Britain); the encroachment on rain forest by pig farmers exposed pigs and farmers to the “Nipah” virus carried by rainforest bats that were seeking food from orchards around the pig farms – driven by deforestation and the drought of El Nino. This caused infection of pigs which lead to human illness and more than one hundred deaths. Poultry farming (avian influenza viruses) - crowded ‘factory farming’ may increase the likelihood of viral virulence when there is no selective advantage in keeping the host bird alive. Other food related issues are discussed in the next section.</para>
+      </section>
+      <section id="id1172003971724">
+        <title>Food Production</title>
+        <para id="id1172015501149">Climate change can influence regional famines because droughts and other extreme climate conditions have a direct influence on food crops and also by changing the ecology of plant pathogens (<link target-id="id1172015079589">Patz et al., 2005</link>).</para>
+        <para id="id1172022041710">There are likely to be major effects of climate change on agricultural production and fisheries. This can be both positive and negative depending on the direct effects of temperature, precipitation, CO<sub>2</sub>, extreme climate variations, and sea-level rise. Indirect effects would have to do with changes in soil quality, incidence of plant diseases and weed and insect populations. Food spoilage will increase with more heat and humidity. Persistent drought has already reduced food production in Africa. There could be reduction in nutritional quality due to a reduction in the amount of nitrogen crops incorporate when CO<sub>2</sub> levels increase.</para>
+        <para id="id1172015031045">Malnutrition will be increased due to drought, particularly poorer countries. Increasing fuel costs also increase the cost of food, as we are already seeing in 2011. Again, this incremental cost rise affects those who already spend a large portion of their income on food and can contribute to malnutrition. About one-third, or 1.7 billion, of all people live in water-stressed countries and this is anticipated to increase to five billion by 2025. Frequency of diarrhea and other diseases like conjunctivitis that are associated with poor hygiene and a breakdown in sanitation may increase.</para>
+        <para id="id1172014475732">
+          <figure id="id1172006010258"><media id="id1172006010258_media" alt="bar chart of projection for future EHW-like summers in Chicago" longdesc="bar chart indicates that a EHW-like event is extremely likely to occur before the middle of the century, with model simulations indicating at least one summer with mortality estimates over 1000 by 2050">
+              <image mime-type="image/png" src="../../media/emissions.jpg" id="id1172006010258__onlineimage" height="438" width="492"/>
+            </media>
+          <caption> <emphasis effect="bold">Projection for Future EHW-like Summers in Chicago</emphasis>. The average number of summers per decade with mortality rates projected to equal those of the Chicago analog to the European Heat Wave of 2003. Values shown are the average of three climate models for higher (orange) and lower (yellow) emission scenarios for each decade from 1980 to 2090 <emphasis effect="italics">Source: </emphasis><link target-id="id1172011851796"><emphasis effect="italics">Hellmann et al., 2007</emphasis></link>.</caption></figure>
+        </para>
+        
+        <para id="id1172014345904">Various studies suggest that increases in population at risk from malnutrition will increase from 40-300 million people over the current 640 million by 2060 (<link target-id="id1172015903237">Rosenzweig, Parry, Fischer &amp; Frohberg, 1993</link>). A more recent study said that today 34% of the population is at risk and by 2050 this value would grow to 64-72%. Climate change is associated with decreased pH (acidification) of oceans due to higher CO<sub>2</sub> levels. Over the past 200 years ocean pH has been reduced by 0.1 units and the IPCC predicts a drop of 0.14 to 0.35 units by 2100. This may affect shell-forming organisms and the species that depend on them. There could be a reduction in plankton due to the North Atlantic Gulf Stream (<link target-id="id1172014509337">Pauly &amp; Alder, 2005</link>). With already overexploited fish populations, it will be harder for them to recover.</para>
+        <para id="id1172012669228">Natural disasters like floods, droughts, wildfires, tsunamis, and extreme storms have resulted in millions of deaths over the past 25 years and negatively affected the lives of many more. Survivors may experience increased rates of mental health disorders such as <term target-id="id1172014415764">post-traumatic stress disorder</term>. Wildfires reduce air quality, increasing particulate matter that provokes cardiac and respiratory problems. Sea level rise will increase flooding and coastal erosion. Indirect effects of rising sea levels include the infiltration of salt water and could interfere with stormwater drainage and sewage disposal. This could force coastal communities to migrate and create refugees with health burdens such as overcrowding, homelessness, and competition for resources. Air pollution is likely to be worse with climate change. It can also lead to mobilization of dangerous chemicals from storage or remobilize chemicals that are already in the environment.</para>
+        <para id="id1171998704791">Specific regional effects have may be more severe. Vulnerable regions include temperate zones predicted to experience disproportionate warming, areas around the Pacific and Indian Oceans that are currently subject to variability in rainfall, and large cities where they experience the urban heat island effect (<link target-id="id1172015079589">Patz et al., 2005</link>). The Chicago area is one urban area where analysis has been performed to determine the specific health effects that are projected due to climate change (see Figure <link target-id="id1172006010258"><emphasis effect="bold">Projection for Future EHW-like Summers in Chicago</emphasis></link>). Those effects are similar to the ones described above.</para>
+        <para id="id1172022109686">An evaluation of the reductions in adverse health effects that could be achieved by 2020 in four major cities with a total population of 45 million found that GHG mitigation would “reduce particulate matter and ozone ambient concentrations by about 10% and avoid some 64,000 premature deaths, 65,000 person-chronic bronchitis case, and 37 million days of restricted activities (<link target-id="id1172006109182">Cifuentes, Borja-Aburto, Gouveia, Thurston &amp; Davis, 2001</link>). The cities’ ozone levels are estimated to increase under predicted future climatic conditions, and this effect will be more extreme in cities that already suffer from high pollution. The estimates of elevated ozone levels could mean a 0.11% to 0.27% increase in daily total mortality (<link target-id="id1172013683014">Bell et al., 2007</link>). Therefore, reduction of GHG emissions, along with actions to mitigate the effects of climate change are likely to reduce the public health outcomes associated with climate change.</para>
+      </section>
+    </section>
+    <section id="id1172011962693">
+      <title>Conclusions</title>
+      <para id="id1172003888381">The implications of climate change on public health are broad and vast. The interconnectedness of all of earth’s systems and human health is an area that is a challenge to study; the climate change scenarios are variable. Public health is directly tied to the human ecosystem that we create through our unsustainable activities. The deterioration of public health on this planet is perhaps the most important consequence of our own unsustainable choices. Without good public health outcomes, human life on this planet is threatened and ultimately our actions could cause significant changes in human health, well-being and longevity. It is not the earth that is at stake - it is humanity.</para>
+    </section>
+    <section id="id1172014370182">
+      <title>Review Questions</title>
+      <exercise id="id1172012818773">
+				<label>Question</label>
+        <problem id="oo-id1172000611212">
+          <para id="id1172014831353">Think about the major sources of energy: coal, nuclear and petroleum. Name some health effects that are associated with each, as portrayed in recent world events. Find one popular and one scientific source to support this.</para>
+        </problem>
+      </exercise>
+      <exercise id="idEX2">
+				<label>Question</label>
+        <problem id="oo-idEX2">
+      		<para id="id1172003279045">Describe three health impacts of climate change.</para>
+        </problem>
+      </exercise>
+      <exercise id="idEX3">
+				<label>Question</label>
+        <problem id="oo-idEX3">
+      		<para id="id1172012746544">Modern farming practices are meant to increase productivity and feed the world solving the problems of malnutrition and starvation. How would you argue for or against this?</para>
+        </problem>
+      </exercise>
+      <exercise id="idEX4">
+				<label>Question</label>
+        <problem id="oo-idEX4">
+      		<para id="id1172013534548">What are some outcomes that could be measured to determine if a community is healthy?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1172011806035">
+      <title>Resources</title>
+      <para id="id1172012304641">Health Impacts of Climate Change – Society of Occupational and Environmental Health <link url="http://www.youtube.com/watch?v=aLfhwaS677c" window="new">http://www.youtube.com/watch?v=aLfhwaS677c</link></para>
+    </section>
+    <section id="id1172012709506"><title>References</title><para id="id1172013683014">Bell, M. L., Goldberg, R., Hogrefe, C., Kinney, P. L., Knowlton, K., Lynn, B., . . . Patz, J. A. (2007). Climate change, ambient ozone, and health in 50 US cities. <emphasis effect="italics">Climatic Change, 82</emphasis>, 61-76.</para>
+      <para id="id1172012713679">Besser L. M., &amp; Dannenberg A. L. (2005, November). Walking to public transit steps to help meet physical activity recommendations. <emphasis effect="italics">American Journal of Preventive Medicine, 29</emphasis>(4), 273-280.</para>
+      <para id="id1172014925131">Besser, L. M., Marcus, M., &amp; Frumkin, H. (2008, March). Commute time and social capital in the U.S. <emphasis effect="italics">American Journal of Preventive Medicine, 34</emphasis>(3), 207-211.</para>
+      <para id="id1172013350236">Blair S. N., Kampert, J. B., Kohl III, H. W., Barlow, C. E., Macera, C. A., Paffenbarger, Jr, R. S., &amp; Gibbons, L. W. (1996). Influences of cardiorespiratory fitness and other precursors on cardiovascular disease and all-cause mortality in men and women. <emphasis effect="italics">Journal of American Medical Association, 276</emphasis>(3), 205-210.</para>
+      <para id="id1172006109182">Cifuentes, L., Borja-Aburto, V. H., Gouveia, N., Thurston, G., &amp; Davis, D. L. (2001). Hidden health benefits of greenhouse gas mitigation. <emphasis effect="italics">Science, 293</emphasis>(5533), 1257-1259.</para>
+      <para id="id1172018117790">Ewing, R., Schmid, T., Killingsworth, R., Zlot, A., &amp; Raudenbush, S. (2003, September/October). Relationship between urban sprawl and physical activity, obesity, and morbidity. <emphasis effect="italics">American Journal of Health Promotion, 18</emphasis>(1), 49-57.</para>
+      <para id="id1171998680205">Friedman, M. S., Powell, K. E., Hutwagner, L., Graham, L. M., &amp; Teague, W. G. (2001). Impact of changes in transportation and commuting behaviors during the 1996 Summer Olympic Games in Atlanta on air quality and childhood asthma. <emphasis effect="italics">JAMA: The Journal of the American Medical Association, 285</emphasis>(7), 897–905.</para>
+      <para id="id1172012095330">Haines, A., Kovats, R. S., Campbell-Lendrum, D., &amp; Corvalan, C. (2006). Climate change and human health: Impacts, vulnerability and public health. <emphasis effect="italics">Journal of the Royal Institute of Public Health. 120</emphasis>, 585-596.</para>
+      <para id="id1172011851796">Hellmann, J., Lesht, B., &amp; Nadelhoffer, K. (2007). Chapter Four – Health. In <emphasis effect="italics">Climate Change </emphasis><emphasis effect="italics">and Chicago: Projections and Potential Impacts. </emphasis>Retrieved from <link url="http://www.chicagoclimateaction.org/filebin/pdf/report/Chicago_climate_impacts_report_Chapter_Four_Health.pdf" window="new">http://www.chicagoclimateaction.org/filebin/pdf/report/Chicago_climate_impacts_report_Chapter_Four_Health.pdf</link></para>
+      <para id="id1172015026128">Jentes, E. S., Davis, X. M., MacDonald, S., Snyman, P. J., Nelson, H., Quarry, D., . . . &amp; Marano, N. (2010). Health risks and travel preparation among foreign visitors and expatriates during the 2008 Beijing Olympic and Paralympic Games. <emphasis effect="italics">American Journal of Tropical Medical Hygene, 82</emphasis>, 466–472.</para>
+      <para id="id1172013365007">Lashof, D. A., &amp; Patz, J. (2004). Heat advisory: How global warming causes more bad air days. Retrieved from <link url="http://www.nrdc.org/globalwarming/heatadvisory/heatadvisory.pdf" window="new">http://www.nrdc.org/globalwarming/heatadvisory/heatadvisory.pdf</link>.</para>
+      <para id="id1172013798290">McMichael, A. J. (2006) Population health as the ‘bottom-line’ of sustainability: A contemporary challenge for public health researchers. <emphasis effect="italics">European Journal of Public Health, 16</emphasis>(6), 579–582.</para>
+      <para id="id1172013840678">McMichael, A. J., Woodruff, R. E., &amp; Hales, S. (2006). Climate change and human health: Present and future risks. <emphasis effect="italics">Lancet, 367</emphasis>, 859-869.</para>
+      <para id="id1172015079589">Patz, J. A., Campbell-Lendrum, D., Holloway, T., &amp; Foley, J. A. (2005). Impact of regional climate change on human health. <emphasis effect="italics">Nature, 438</emphasis>, 310-317.</para>
+      <para id="id1172014509337">Pauly, D., &amp; Alder, J. (2005). Marine Fisheries Systems. In R. Hassan, R. Scholes, &amp; N. Ash (eds.), <emphasis effect="italics">Ecosystems and Human Well - being: Current State and Trends</emphasis> . (Vol. 1). Washington, D.C., Island Press.</para>
+      <para id="id1172014604256">Plantinga, A. J., &amp; Bernell, S. (2007). The association between urban sprawl and obesity: Is it a two-way street?, <emphasis effect="italics">Journal of Regional Science, 47</emphasis>(5), 857-879.</para>
+      <para id="id1172015903237">Rosenzweig, C., Parry, M. L., Fischer, G., &amp; Frohberg, K. (1993). Climate change and world food supply. Research Report No. 3. Oxford, U.K. : Oxford University, Environmental Change Unit.</para>
+      <para id="id1172004880154">Wang, X., Westerdahl, D., Chen, L., Wu, Y., Hao, J., Pan, X., Guo, X., &amp; Zhang, K. M. (2009). Evaluating the air quality impacts of the 2008 Beijing Olympic Games: On-road emission factors and black carbon profiles. <emphasis effect="italics">Atmospheric Environment, 43</emphasis>, 4535–4543.</para>
+      <para id="id1172012784710">Wei, M., Kampert, J. B. , Barlow, C. E. , Nichaman, M. Z. , Gibbons, L. W., Paffenbarger, Jr., R. S., &amp; Blair, S. N. (1999). Relationship between low cardiorespiratory fitness and mortality in normal-weight, overweight, and obese men. <emphasis effect="italics">Journal of the American Medical Association, 282</emphasis>(16), 1547-1553.</para>
+      <para id="id1172006081325">World Health Organization. (2009). Climate change and human health. Fact sheet, July 2005. Retrieved from <link url="http://www.who.int/globalchange/news/fsclimandhealth/en/index.html" window="new">http://www.who.int/globalchange/news/fsclimandhealth/en/index.html</link>.</para></section>
+  </content>
+  <glossary>
+    <definition id="id1172014219820">
+      <term>morbidity</term>
+      <meaning id="oo-id1172015875130">The relative frequency of occurrence of a disease.
+      </meaning>
+    </definition>
+    <definition id="id1172011913958">
+      <term>mortality</term>
+      <meaning id="oo-id1172017886188">The number of deaths that occur at a specific time, in a specific group, or from a specific cause.
+      </meaning>
+    </definition>
+    <definition id="id1172014415764">
+      <term>post-traumatic stress disorder</term>
+      <meaning id="oo-id6485134">PTSD - a psychological condition affecting people who have suffered severe emotional trauma as a result of an experience such as combat, crime, or natural disaster, and causing sleep disturbances, flashbacks, anxiety, tiredness, and depression.
+      </meaning>
+    </definition>
+    <definition id="id1171998530370">
+      <term>volatile organic compounds</term>
+      <meaning id="oo-id1172014907719">(VOC - an organic compound that evaporates at a relatively low temperature and contributes to air pollution, e.g. ethylene, propylene, benzene, or styrene).
+      </meaning>
+    </definition>
+    <definition id="id1172012522021">
+      <term>urban sprawl</term>
+      <meaning id="oo-id1172015992939">Any environment characterized by (1) a population widely dispersed in low density residential development; (2) rigid separation of homes, shops, and workplaces; (3) a lack of distinct, thriving activity centers, such as strong downtowns or suburban town centers; and (4) a network of roads marked by large block size and poor access from one place to another) has been found to correlate with increased body mass index.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

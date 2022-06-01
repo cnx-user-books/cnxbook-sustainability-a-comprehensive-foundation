@@ -1,0 +1,122 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainable Energy Systems - Chapter Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41724</md:content-id>
+  <md:title>Sustainable Energy Systems - Chapter Introduction</md:title>
+  <md:abstract>In this module, the following topics are presented: 1) an outline of the history of human energy use, 2)  challenges to continued reliance on fossil energy, and 3) motivations and time scale for transitions in energy use.</md:abstract>
+  <md:uuid>513b4eed-d4e7-4d09-88ac-76c5de8e959a</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1169486034922">
+        <title>Learning Objectives</title>
+        <para id="id1169487652868">After reading this module, students should be able to</para>
+        <list id="id1169489100896" list-type="bulleted">
+          <item>outline the history of human energy use</item>
+          <item>understand the challenges to continued reliance on fossil energy</item>
+          <item>understand the motivations and time scale for transitions in energy use</item>
+        </list>
+      </section>
+      <section id="id1169486637953">
+        <title>Introduction and History</title>
+        <para id="id1169488150655">Energy is a pervasive human need, as basic as food or shelter to human existence. World energy use has grown dramatically since the rise of civilization lured humans from their long hunter-gatherer existence to more energy intensive lifestyles in settlements. Energy use has progressed from providing only basic individual needs such as cooking and heating to satisfying our needs for permanent housing, farming and animal husbandry, transportation, and ultimately manufacturing, city-building, entertainment, information processing and communication. Our present lifestyle is enabled by readily available inexpensive fossil energy, concentrated by nature over tens or hundreds of millions of years into convenient, high energy density deposits of <term target-id="id1169487715899">fossil fuels</term> that are easily recovered from mines or wells in the earth's crust.</para></section>
+      <section id="id1169487071146">
+        <title>Sustainability Challenges</title>
+        <para id="id1169488371861">Eighty five percent of world energy is supplied by combustion of fossil fuels. The use of these fuels (coal since the middle ages for heating; and coal, oil and gas since the <term target-id="id1169488999483">Industrial Revolution</term> for mechanical energy) grew naturally from their high energy density, abundance and low cost. For approximately 200 years following the Industrial Revolution, these energy sources fueled enormous advances in quality of life and economic growth. Beginning in the mid-20th Century, however, fundamental challenges began to emerge suggesting that the happy state of fossil energy use could not last forever.</para>
+        <section id="id1169488356634">
+          <title>Environmental Pollution</title>
+          <para id="id7147274">The first sustainability challenge to be addressed was environmental pollution, long noticed in industrial regions but often ignored. Developed countries passed legislation limiting the pollutants that could be emitted, and gradually over a period of more than two decades air and water quality improved until many of the most visible and harmful effects were no longer evident.</para>
+        </section>
+        <section id="id1169485928620">
+          <title>Limited Energy Resources</title>
+          <para id="id1169486606667">The second sustainability issue to be addressed has been limited energy resources. The earth and its fossil resources are finite, a simple fact with the obvious implication that we cannot continue using fossil fuels indefinitely. The question is not when the resources will run out, rather when they will become too expensive or technically challenging to extract. Resources are distributed throughout the earth's crust – some easily accessible, others buried in remote locations or under impenetrable barriers. There are oil and gas deposits in the Arctic, for example, that have not been explored or documented, because until recently they were buried under heavy covers of ice on land and sea. We recover the easy and inexpensive resources first, leaving the difficult ones for future development. The cost-benefit balance is usually framed in terms of <term target-id="id1169487510265">peaking</term> – when will production reach a peak and thereafter decline, failing to satisfy rising demand, and thus create shortages? Peaks in energy production are notoriously hard to predict because rising prices, in response to rising demand and the fear of shortages, provide increasing financial resources to develop more expensive and technically challenging production opportunities.</para>
+          <para id="id1169485465030">Oil is a prime example of peaking. Although the peak in United States oil production was famously predicted by <term target-id="id1169487510265">M. King Hubbert</term> 20 years before it occurred, successful predictions of peaks in world oil production depend on unknown factors and are notoriously difficult (<link target-id="id1169491863704">Owen, Inderwildi, &amp; King, 2010</link>; <link target-id="id1169486621425">Hirsch, Bezdek, &amp;Wendling, 2006</link>). The fundamental challenges are the unknown remaining resources at each level of recovery cost and the unknown technology breakthroughs that may lower the recovery cost. Receding Arctic ice and the growing ability to drill deeper undersea wells promise to bring more oil resources within financial and technical reach, but quantitative estimates of their impact are, at best, tentative.</para>
+          <para id="id1169486705255">
+            <figure id="id1169491643383">
+							<media id="id1169491643383_media" alt="Crude Oil Reserves" longdesc="The global distribution of crude oil resources.">
+                <image mime-type="image/png" src="../../media/graphics1-042e.png" id="id1169491643383__onlineimage" height="294" width="417"/>
+              </media>
+            	<caption>
+								<emphasis effect="bold">Crude Oil Reserves</emphasis> The global distribution of crude oil resources. <sup>1</sup> Includes 172.7 billion barrels of bitumen in oil sands in Alberta, Canada. <sup>2</sup> Excludes countries that were part of the former U.S.S.R. See " Union of Soviet Socialist Republics (U.S.S.R.)" in Glossary. <sup>3</sup> Includes only countries that were part of the former U.S.S.R.<emphasis effect="italics">Source: </emphasis><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">U.S. </emphasis></link><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">Energy Information Administration, Annual Review, 2009, p. 312 (Aug. 2010)</emphasis></link></caption></figure>
+          </para>
+          
+        </section>
+        <section id="id1169489309610">
+          <title>Uneven Geographical Distribution of Energy</title>
+          <para id="id1169489028755">The third sustainability challenge is the uneven geographical distribution of energy resources. Figure <link target-id="id1169491643383"><emphasis effect="bold">Crude Oil Reserves</emphasis></link> shows the distribution of crude oil reserves, with the Middle East having far more oil than any other region and Europe and Asia, two high population and high demand regions, with hardly any by comparison. This geographical imbalance between energy resources and energy use creates uncertainty and instability of supply. Weather events, natural disasters, terrorist activity or geopolitical decisions can all interrupt supply, with little recourse for the affected regions. Even if global reserves were abundant, their uneven geographical distribution creates an energy security issue for much of the world.</para></section>
+        <section id="id1169491837120">
+          <title>CO<sub>2</sub> Emissions and Climate Change</title>
+          <para id="id1169490923852">The final and most recent concern is carbon dioxide emissions and climate change (see Chapter <link document="m41664"><emphasis effect="bold">Climate and Global Change</emphasis></link>). Since the Intergovernmental Panel on Climate Change was established by the United Nations in 1988, awareness of the links among human carbon dioxide emissions, global warming and the potential for climate change has grown. Climate scientists worldwide have documented the evidence of global warming in surface air, land and sea temperatures, the rise of sea level, glacier ice and snow coverage, and ocean heat content (<link target-id="id8950328">Arndt, Baringer, &amp; Johnson, 2010</link>). Figure <link target-id="id1169486977504"><emphasis effect="bold">Temperature, Sea Level, and Snow Cover 1850-2000</emphasis></link> shows three often quoted measures of global warming, the average surface temperature, the rise of sea level and the northern hemisphere snow cover.</para><para id="id1169488987291">
+            <figure id="id1169486977504"><media id="id1169486977504_media" alt="Temperature, Sea Level, and Snow Cover 1850-2000" longdesc="Three graphs show trends in average surface temperature, average sea level and northern hemisphere snow cover from 1850-2000.">
+                <image mime-type="image/png" src="../../media/temp-sealevel-snowcover.png" id="id1169486977504__onlineimage" height="546" width="460"/>
+              </media>
+            <caption><emphasis effect="bold"> Temperature, Sea Level, and Snow Cover 1850-2000</emphasis> Three graphs show trends in average surface temperature, average sea level and northern hemisphere snow cover from 1850-2000. <emphasis effect="italics">Source: </emphasis><link url="http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf" window="new"><emphasis effect="italics">Climate Change 2007: Synthesis Report: </emphasis></link><link url="http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf" window="new"><emphasis effect="italics">Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, figure 1.1, page 31</emphasis></link></caption></figure></para>
+          
+          <para id="id8325867">There can be no doubt of the rising trends, and there are disturbing signs of systematic change in other indicators as well (<link target-id="id8950328">Arndt, et al., 2010</link>). The short-term extension of these trends can be estimated by extrapolation. Prediction beyond thirty or so years requires developing scenarios based on assumptions about the population, social behavior, economy, energy use and technology advances that will take place during this time. Because trends in these quantities are frequently punctuated by unexpected developments such as the recession of 2008 or the Fukushima nuclear disaster of 2011, the pace of carbon emissions, global warming and climate change over a century or more cannot be accurately predicted. To compensate for this uncertainty, predictions are normally based on a range of scenarios with aggressive and conservative assumptions about the degrees of population and economic growth, energy use patterns and technology advances. Although the hundred year predictions of such models differ in magnitude, the common theme is clear: continued reliance on fossil fuel combustion for 85 percent of global energy will accelerate global warming and increase the threat of climate change.</para>
+          <para id="id1169490930073">The present reliance on fossil fuels developed over time scales of decades to centuries. Figure <link target-id="id1169488864668"><emphasis effect="bold">Primary Energy Consumption by Source, 1775-2009</emphasis></link> shows the pattern of fuel use in the United States since 1775. </para><para id="id1169486144898">
+            <figure id="id1169488864668"><media id="id1169488864668_media" alt="Primary Energy Consumption by Source, 1775-2009" longdesc="Graph shows the pattern of fuel use in the United States since 1775.">
+                <image mime-type="image/png" src="../../media/graphics2-faaa.png" id="id1169488864668__onlineimage" height="180" width="643"/>
+              </media>
+            <caption><emphasis effect="bold">Primary Energy Consumption by Source, 1775-2009</emphasis> Graph shows the pattern of fuel use in the United States since 1775. <emphasis effect="italics">Source: </emphasis><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">U.S. </emphasis></link><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">Energy Information Administration, Annual Review, 2009, p. xx (Aug. 2010)</emphasis></link></caption></figure>
+          </para>
+          
+          <para id="id1169486033325">Wood was dominant for a century until the 1880s, when more plentiful, higher energy density and less expensive coal became king. It dominated until the 1950s when oil for transportation became the leading fuel, with natural gas for heating a close second. Coal is now in its second growth phase, spurred by the popularity of electricity as an energy carrier in the second half of the 20<sup>th</sup> Century. These long time scales are built into the energy system. Uses such as oil and its gasoline derivative for personal transportation in cars or the widespread use of electricity take time to establish themselves, and once established provide social and infrastructural inertia against change.</para>
+          <para id="id1169486213636">The historical changes to the energy system have been driven by several factors, including price and supply challenges of wood, the easy availability and drop-in replaceability of coal for wood, the discovery of abundant supplies of oil that enabled widespread use of the <term target-id="id1169486812455">internal combustion engine</term>, and the discovery of abundant natural gas that is cleaner and more transportable in pipelines than coal. These drivers of change are based on economics, convenience or new functionality; the resulting changes in our energy system provided new value to our energy mix.</para>
+          <para id="id1169485953193">The energy motivations we face now are of a different character. Instead of adding value, the motivation is to avert "doomsday" scenarios of diminishing value: increasing environmental degradation, fuel shortages, insecure supplies and climate change. The alternatives to fossil fuel are more expensive and harder to implement, not cheaper and easier than the status quo. The historical motivations for change leading to greater value and functionality are reversed. We now face the prospect that changing the energy system to reduce our dependence on fossil fuels will increase the cost and reduce the convenience of energy.</para>
+        </section>
+      </section>
+      <section id="id1169485909866">
+        <title>Summary</title>
+        <para id="id1169487119126">Continued use of fossil fuels that now supply 85 percent of our energy needs leads to challenges of environmental degradation, diminishing energy resources, insecure energy supply, and accelerated global warming. Changing to alternate sources of energy requires decades, to develop new technologies and, once developed, to replace the existing energy infrastructure. Unlike the historical change to fossil fuel that provided increased supply, convenience and functionality, the transition to alternative energy sources is likely to be more expensive and less convenient. In this chapter you will learn about the environmental challenges of energy use, strategies for mitigating greenhouse gas emissions and climate change, electricity as a clean, efficient and versatile energy carrier, the new challenges that electricity faces in capacity, reliability and communication, the challenge of transitioning from traditional fossil to nuclear and renewable fuels for electricity production. You will also learn about the promise of biofuels from cellulose and algae as alternatives to oil, heating buildings and water with solar thermal and geothermal energy, and the efficiency advantages of combining heat and power in a single generation system. Lastly, you will learn about the benefits, challenges and outlook for electric vehicles, and the sustainable energy practices that will reduce the negative impact of energy production and use on the environment and human health.</para>
+      </section>
+      <section id="id1169485902598">
+        <title>Review Questions</title>
+        <exercise id="id1169486673334">
+					<label>Question</label>
+          <problem id="oo-id1169485947402">
+            <para id="id1169487870884">Fossil fuels have become a mainstay of global energy supply over the last 150 years. Why is the use of fossil fuels so widespread?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169487728450">
+					<label>Question</label>
+          <problem id="oo-id7891657">
+            <para id="id1169490170046">Fossil fuels present four challenges for long-term sustainability. What are they, and how do they compare in the severity of their impact and cost of their mitigation strategies?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169488991326">
+					<label>Question</label>
+          <problem id="oo-id1169489001856">
+            <para id="id1169487161464">The dominant global energy supply has changed from wood to coal to oil since the 1700s. How long did each of these energy transitions take to occur, and how long might a transition to alternate energy supplies require?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1169486299005">
+        <title>References</title>
+        <para id="id8950328">Arndt, D. S., Baringer, M. O., &amp; Johnson, M. R. (eds.). (2010). State of the Climate in 2009. <emphasis effect="italics">Bull. Amer. Meteor. Soc</emphasis>., <emphasis effect="italics">91</emphasis>, S1–S224, <link url="http://www.ncdc.noaa.gov/bams-state-of-the-climate/2009.php" window="new">http://www.ncdc.noaa.gov/bams-state-of-the-climate/2009.php</link></para>
+        <para id="id1169486621425">Hirsch, R.L., Bezdek, R., &amp; Wendling, R. (2006). Peaking of World Oil Production and Its Mitigation. <emphasis effect="italics">AIChE Journal</emphasis>, <emphasis effect="italics">52</emphasis>, 2 – 8. doi: 10.1002/aic.10747</para>
+        <para id="id1169491863704">Owen, N.A., Inderwildi, O.R., &amp; King, D.A. (2010). The status of conventional world oil reserves – Hype or cause for concern? <emphasis effect="italics">Energy Policy,</emphasis><emphasis effect="italics">38</emphasis>, 4743 – 4749. doi: 10.1016/j.enpol.2010.02.026 </para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1169487715899">
+      <term>fossil fuels</term>
+      <meaning id="oo-id8741416">Oil, gas and coal produced by chemical transformation of land plants (coal) and marine animals (oil and gas) trapped in the earth's crust under high pressure and temperature and without access to oxygen. The formation of fossil fuels can take.
+      </meaning>
+    </definition>	
+    <definition id="id1169488999483">
+      <term>industrial revolution</term>
+      <meaning id="oo-id1169486518964">The transition from simple tools and animal power for producing products to complex machinery powered by the combustion of fuels. The Industrial Revolution began in England in the mid-18th Century initially centered around the development of the steam engine powered by coal.
+      </meaning>
+    </definition>
+    <definition id="id1169486812455">
+      <term>internal combustion engine</term>
+      <meaning id="oo-id1169486629097">The combustion of fuel inside or "internal" to the cylinder and moving piston which produces motion; gasoline engines are a common example. In contrast, steam engines are external combustion engines where combustion and steam generation are outside the cylinder containing the moving piston. The internal combustion engine is lighter and more portable than the steam engine, enabling modern transportation in cars, diesel powered trains, ships and airplanes.
+      </meaning>
+    </definition>
+    <definition id="id1169487510265">
+      <term>peak oil / Hubbert's peak</term>
+      <meaning id="oo-id1169489084240">A single oil well follows a pattern of increasing production in initial years as its plentiful resources are tapped to declining production in mature years as its resources are depleted. These two trends are separated by a peak in production of the well. M. King Hubbert extrapolated this pattern from one well to many and in 1956 predicted that the United States’ oil production would peak in the mid-1970s. Although widely criticized at the time, Hubbert's prediction proved true. This success led to widespread predictions for the peak of world oil production. The concept of peak oil is an inevitable consequence of using oil faster than it can be made. However, attempts to predict when the peak will occur are notoriously difficult.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

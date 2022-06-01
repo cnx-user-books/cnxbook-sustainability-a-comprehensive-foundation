@@ -1,0 +1,341 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Systems of Waste Management</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41572</md:content-id>
+  <md:title>Systems of Waste Management</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the environmental regulations governing the management of solid and hazardous wastes, radioactive waste and medical waste, 2) the environmental concerns with the growing quantities and improper management of wastes being generated, and 3) integrated waste management strategies.</md:abstract>
+  <md:uuid>d7524a63-6ab4-4624-bca3-5bd0d38fbd67</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1170458929110">
+        <title>Learning Objectives</title>
+        <para id="id1170459104491">After reading this module, students should be able to</para>
+        <list id="id1170461234098" list-type="bulleted">
+          <item>recognize various environmental regulations governing the management of solid and hazardous wastes, radioactive waste and medical waste</item>
+          <item>understand the environmental concerns with the growing quantities and improper management of wastes being generated</item>
+          <item>recognize <term target-id="id1651342">integrated waste management</term> strategies that consist of prevention, minimization, recycling and reuse, biological treatment, incineration, and landfill disposal</item>
+        </list>
+      </section>
+      <section id="id1170456172630">
+        <title>Introduction</title>
+        <para id="id1170455973714">Waste is an inevitable by-product of human life. Virtually every human activity generates some type of material side effect or by-product. When the materials that constitute these by-products are not useful or have been degraded such that they no longer fulfill their original or other obvious useful purpose, they are classified as a waste material.</para>
+        <para id="id1170463217296">Practically speaking, wastes are generated from a wide range of sources and are usually classified by their respective sources. Common generative activities include those associated with residences, commercial businesses and enterprises, institutions, construction and demolition activities, municipal services, and water/wastewater and air treatment plants, and municipal incinerator facilities. Further, wastes are generated from numerous industrial processes, including industrial construction and demolition, fabrication, manufacturing, refineries, chemical synthesis, and nuclear power/nuclear defense sources (often generating low- to high-level <term target-id="id1170462144864">radioactive wastes</term>).</para>
+        <para id="id1170461672399">Population growth and urbanization (with increased industrial, commercial and institutional establishments) contribute to increased waste production, as do the rapid economic growth and industrialization throughout the developing world. These social and economic changes have led to an ever-expanding consumption of raw materials, processed goods, and services. While these trends have, in many ways, improved the quality of life for hundreds of millions of people, it has not come without drastic costs to the environment. Proper management of a range of wastes has become necessary in order to protect public health and the environment as well as ensure sustained economic growth.</para>
+        <para id="id1170454638026">It is commonly believed that incineration and landfill disposal represent preferred options in dealing with waste products; however, many wastes have the potential to be recycled or re-used for some purpose or in some manner. Some waste materials may be reclaimed or re-generated and used again for their original or similar purpose, or they may be physically or chemically changed and employed for alternative uses. As natural resources continue to be depleted, and as incineration and landfill disposal options become more costly and unsustainable, numerous economic and social incentives are being promoted by government agencies to prevent or reduce waste generation and develop new methods and technologies for <term target-id="id1170467320356">recycling</term> and reusing wastes. Such efforts can have broader implications for energy conservation and the reduction of greenhouse gas emissions that contribute to global climate change, while concurrently fostering sustainable waste management practices.</para>
+        <para id="id1170459348062">This section provides an overview of the existing regulatory framework mandating the management of wastes, environmental concerns associated with waste generation and management, and various alternatives for the proper management of wastes. Recent developments towards the development of sustainable waste management systems are also highlighted. It should be mentioned here that although the content of this section reflects the regulatory framework and practices within the United States, similar developments and actions have occurred in other developed countries and are increasingly being initiated in numerous developing countries.</para>
+      </section>
+      <section id="id8474542">
+        <title>Regulatory Framework</title>
+        <para id="id1170452294911">During the course of the 20<sup>th</sup> century, especially following World War II, the United States experienced unprecedented economic growth. Much of the growth was fueled by rapid and increasingly complex industrialization. With advances in manufacturing and chemical applications also came increases in the volume, and in many cases the <term target-id="id1170464099284">toxicity</term>, of generated wastes. Furthermore, few if any controls or regulations were in place with respect to the handling of toxic materials or the disposal of waste products. Continued industrial activity led to several high-profile examples of detrimental consequences to the environment resulting from these uncontrolled activities. Finally, several forms of intervention, both in the form of government regulation and citizen action, occurred in the early 1970s.</para>
+        <para id="id1170460449376">Ultimately, several regulations were promulgated on the state and federal levels to ensure the safety of public health and the environment (see Module <link document="m41570"><emphasis effect="bold">Government and Laws on the Environment</emphasis></link>). With respect to waste materials, the <link url="http://www.epa.gov/regulations/laws/rcra.html" window="new">Resource Conservation and Recovery Act</link> (RCRA), enacted by the United States Congress, first in 1976 and then amended in 1984, provides a comprehensive framework for the proper management of hazardous and non-hazardous <term target-id="id1170468291268">solid wastes</term> in the United States. RCRA stipulates broad and general legal objectives while mandating the <link url="http://www.epa.gov/regulations/laws/rcra.html" window="new">United States Environmental Protection Agency</link> (USEPA) to develop specific regulations to implement and enforce the law. The RCRA regulations are contained in Title 40 of the Code of Federal Regulations (CFR), Parts 239 to 299. States and local governments can either adopt the federal regulations, or they may develop and enforce more stringent regulations than those specified in RCRA. Similar regulations have been developed or are being developed worldwide to manage wastes in a similar manner in other countries.</para>
+        <para id="id1170451774071">The broad goals of RCRA include: (1) the protection of public health and the environment from the hazards of waste disposal; (2) the conservation of energy and natural resources; (3) the reduction or elimination of waste; and (4) the assurance that wastes are managed in an environmentally-sound manner (e.g. the remediation of waste which may have spilled, leaked, or been improperly disposed). It should be noted here that the RCRA focuses only on active and future facilities and does not address abandoned or historical sites. These types of environmentally impacted sites are managed under a different regulatory framework, known as the <link url="http://www.epa.gov/superfund/policy/cercla.htm" window="new">Comprehensive Environmental Response, Compensation, and Liability Act</link> (CERCLA), or more commonly known as "Superfund."</para>
+        <section id="id2287653">
+          <title>Solid Waste Regulations</title>
+          <para id="id1170460368378">RCRA defines solid waste as any garbage or refuse, sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility and other discarded material, including solid, liquid, semi-solid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operations, and from community activities. In general, solid waste can be categorized as either <emphasis effect="italics">non-hazardous waste</emphasis> or <emphasis effect="italics">hazardous waste</emphasis>.</para>
+          <para id="id1170455965964">Non-hazardous solid waste can be trash or garbage generated from residential households, offices and other sources. Generally, these materials are classified as <term target-id="id1170460831461">municipal solid waste</term> (MSW). Alternatively, non-hazardous materials that result from the production of goods and products by various industries (e.g. coal combustion residues, mining wastes, cement kiln dust), are collectively known as industrial solid waste. The regulations pertaining to non-hazardous solid waste are contained in 40 CFR Parts 239 to 259 (known as <link url="http://en.wikipedia.org/wiki/Resource_Conservation_and_Recovery_Act#Subtitle_D:_Non-hazardous_Solid_Wastes" window="new">RCRA Subtitle D regulations</link>).These regulations prohibit the open dumping of solid waste, mandates the development of comprehensive plans to manage MSW and non-hazardous industrial waste, and establishes criteria for MSW <term target-id="id1170466113460">landfills</term> and other solid waste disposal facilities. Because they are classified as non-hazardous material, many components of MSW and industrial waste have potential for recycling and re-use. Significant efforts are underway by both government agencies and industry to advance these objectives.</para>
+          <para id="id1170455951170">Hazardous waste, generated by many industries and businesses (e.g. dry cleaners and auto repair shops), is constituted of materials that are dangerous or potentially harmful to human health and the environment. The regulatory framework with respect to hazardous waste, specifically hazardous waste identification, classification, generation, management, and disposal, is described in 40 CFR Parts 260 through 279 (collectively known as <link url="http://en.wikipedia.org/wiki/Resource_Conservation_and_Recovery_Act#Subtitle_C:_.22Cradle_to_Grave.22_requirements" window="new">RCRA Subtitle C regulations</link>). These regulations control hazardous waste from the time they are generated until their ultimate disposal (a timeline often referred to as "cradle to grave").</para>
+          <para id="id1170451968095">According to the RCRA Subtitle C regulations, solid waste is defined as hazardous if it appears in one of the four hazardous waste classifications:</para>
+          <list id="id8701396" list-type="bulleted">
+            <item>F-List (non-specific source wastes as specified in 40 CFR 261.31), which includes wastes from common manufacturing and industrial processes, such as solvents used in cleaning and degreasing operations.</item>
+            <item>K-list (source-specific waste as specified in 40 CFR 261.32), which includes certain wastes from specific industries such as petroleum or pesticide manufacturing.</item>
+            <item>P-list and U-list (discarded commercial chemical products as specified in 40 CFR 261.33), which include commercial chemicals products in their unused form.</item>
+          </list>
+          <para id="id1170462447569">Additionally, a waste is classified as hazardous if it exhibits at least one of these four characteristics:</para>
+          <list id="id1170451760481" list-type="bulleted">
+            <item><term target-id="id1170451857148">Ignitability</term> (as defined in 40 CFR 261.21), which refers to creation of fires under certain conditions; including materials that are spontaneously combustible or those that have a flash point less than 140 <sup>0</sup>F.</item>
+            <item><term target-id="id1170468638399">Corrosivity</term> (as defined in 40 CFR 261.22), which refers to capability to corrode metal containers; including materials with a pH less than or equal to 2 or greater than or equal to 12.5.</item>
+            <item><term target-id="id1170461290149">Reactivity</term> (as defined in 40 CFR 261.23), which refers to materials susceptible to unstable conditions such as explosions, toxic fumes, gases, or vapors when heated, compressed, or mixed with water under normal conditions.</item>
+            <item>Toxicity (as defined in 40 CFR 261.24), which refers to substances that can induce harmful or fatal effects when ingested or absorbed, or inhaled.</item>
+          </list>
+        </section>
+        <section id="id1170458982584">
+          <title>Radioactive Waste Regulations</title>
+          <para id="id1170452132128">Although non-hazardous waste (MSW and industrial non-hazardous waste) and hazardous waste are regulated by RCRA, nuclear or radioactive waste is regulated in accordance with the <link url="http://en.wikipedia.org/wiki/Atomic_Energy_Act_of_1954" window="new">Atomic Energy Act of 1954</link> by the <link url="http://www.nrc.gov/" window="new">Nuclear Regulatory Commission (NRC)</link> in the United States.</para>
+          <para id="id1170452238584">Radioactive wastes are characterized according to four categories: (1) <term target-id="id1170456731951">High-level waste</term> (HLW), (2) <term target-id="id1170452235104">Transuranic waste</term> (TRU), (3) <term target-id="id1170451806201">Low-level waste</term> (LLW), and (4) <term target-id="id1170454615217">Mill tailings</term>. Various radioactive wastes decay at different rates, but health and environmental dangers due to radiation may persist for hundreds or thousands of years.</para>
+          <para id="id1170452258233">HLW is typically liquid or solid waste that results from government defense related activities or from nuclear power plants and spent fuel assemblies. These wastes are extremely dangerous due to their heavy concentrations of radionuclides, and humans must not come into contact with them.</para>
+          <para id="id1170460199864">TRU mainly results from the reprocessing of spent nuclear fuels and from the fabrication of nuclear weapons for defense projects. They are characterized by moderately penetrating radiation and a decay time of approximately twenty years until safe radionuclide levels are achieved. Following the passage of a reprocessing ban in 1977, most of this waste generation ended. Even though the ban was lifted in 1981, TRU continues to be rare because reprocessing of nuclear fuel is expensive. Further, because the extracted plutonium may be used to manufacture nuclear weapons, political and social pressures minimize these activities.</para>
+          <para id="id1170454165802">LLW wastes include much of the remainder of radioactive waste materials. They constitute over 80 percent of the volume of all nuclear wastes, but only about two percent of total radioactivity. Sources of LLW include all of the previously cited sources of HLW and TRU, plus wastes generated by hospitals, industrial plants, universities, and commercial laboratories. LLW is much less dangerous than HLW, and NRC regulations allow some very low-level wastes to be released to the environment. LLW may also be stored or buried until the isotopes decay to levels low enough such that it may be disposed of as non-hazardous waste. LLW disposal is managed at the state level, but requirements for operation and disposal are established by the USEPA and NRC. The <link url="http://www.osha.gov/" window="new">Occupational Health and Safety Administration (OSHA)</link> is the agency in charge of setting the standards for workers that are exposed to radioactive materials.</para>
+          <para id="id1170468383525">Mill tailings generally consist of residues from the mining and extraction of uranium from its ore. There are more than 200 million tons of radioactive mill-tailings in the United States, and all of it is stored in sparsely populated areas within the western states, such as Arizona, New Mexico, Utah, and Wyoming. These wastes emit low-level radiation, and much of it is buried to reduce dangerous emissions.</para>
+        </section>
+        <section id="id1170463145747">
+          <title>Medical Waste Regulations</title>
+          <para id="id1170452185221">Another type of waste that is of environmental concern is <term target-id="id1582414">medical waste</term>. Medical waste is regulated by several federal agencies, including the USEPA, OSHA, the <link url="http://www.cdc.gov/" window="new">Center for Disease Control and Prevention (CDC)</link> of the U.S. Department of Health and Human Services, and the <link url="http://www.atsdr.cdc.gov/" window="new">Agency for Toxic Substances and Disease Registry (ATSDR)</link> of the Public Health Service, <link url="http://www.hhs.gov/" window="new">U.S. Department of Health and Human Services</link>. During 1987-88, medical wastes and raw garbage washed up on beaches along the New Jersey Shore of the United States on several occasions (called, "<link url="http://en.wikipedia.org/wiki/Syringe_Tide" window="new">Syringe Tide</link>") which required closure of beaches. The U.S. Congress subsequently enacted the <link url="http://www.epa.gov/osw/nonhaz/industrial/medical/tracking.htm" window="new">Medical Waste Tracking Act (MWTA)</link> to evaluate management issues and potential risks related to medical waste disposal. The seven types of wastes listed under MWTA include: (1) microbiological wastes (cultures and stocks of infectious wastes and associated biological media that can cause disease in humans); (2) human blood and blood products, including serum, plasma, and other blood components; (3) pathological wastes of human origin, including tissues, organs, and other body masses removed during surgeries or autopsies); (4) contaminated animal wastes (i.e. animal carcasses, body masses, and bedding exposed to infectious agents during medical research, pharmaceutical testing, or production of biological media); (5) isolation wastes (wastes associated with animals or humans known to be infected with highly communicable diseases); (6) contaminated sharps (including hypodermic needles, scalpels, and broken glass); and (7) uncontaminated sharps. In addition, the USEPA considered including any other wastes that had been in contact with infectious agents or blood (e.g. sponges, soiled dressings, drapes, surgical gloves, laboratory coats, slides).</para>
+          <para id="id7692469">LLW nuclear wastes are produced in hospitals by pharmaceutical laboratories and in performing nuclear medicine procedures (e.g. medical imaging to detect cancers and heart disease); however, the danger posed by these wastes is relatively low. A variety of hazardous substances have also been identified in medical wastes, including metals such as lead, cadmium, chromium, and mercury; and toxic organics such as dioxins and furans. All medical wastes represent a small fraction of total waste stream, estimated to constitute a maximum of approximately two percent. Medical wastes are commonly disposed of through incineration: as with most wastes, the resulting volume is greatly reduced, and it assures the destruction and sterilization of infectious pathogens. Disadvantages include the potential of air pollution risks from dioxins and furans as well as the necessary disposal of potentially hazardous ash wastes. New options for disposal of medical wastes (including infectious wastes) are still being explored. Some other technologies include irradiation, microwaving, autoclaving, mechanical alternatives, and chemical disinfection, among others.</para>
+        </section>
+      </section>
+      <section id="id1170451941500">
+        <title>Environmental Concerns with Wastes</title>
+        <section id="id1170465646660">
+          <title>Managing Growing Waste Generation</title>
+          <para id="id1170456743893">An enormous quantity of wastes are generated and disposed of annually. Alarmingly, this quantity continues to increase on an annual basis. Industries generate and dispose over 7.6 billion tons of industrial solid wastes each year, and it is estimated that over 40 million tons of this waste is hazardous. Nuclear wastes as well as medical wastes are also increasing in quantity every year.</para>
+          <para id="id1170452304326">Generally speaking, developed nations generate more waste than developing nations due to higher rates of consumption. Not surprisingly, the United States generates more waste per capita than any other country. High waste per capita rates are also very common throughout Europe and developed nations in Asia and Oceania. In the United States, about 243 million tons (243 trillion kg) of MSW is generated per year, which is equal to about 4.3 pounds (1.95 kg) of waste per person per day. Nearly 34 percent of MSW is recovered and recycled or composted, approximately 12 percent is burned a combustion facilities, and the remaining 54 percent is disposed of in landfills. Waste stream percentages also vary widely by region. As an example, San Francisco, California captures and recycles nearly 75 percent of its waste material, whereas Houston, Texas recycles less than three percent.</para>
+          <para id="id7384069">With respect to waste mitigation options, landfilling is quickly evolving into a less desirable or feasible option. Landfill capacity in the United States has been declining primarily due to (a) older existing landfills that are increasingly reaching their authorized capacity, (b) the promulgation of stricter environmental regulations has made the permitting and siting of new landfills increasingly difficult, (c) public opposition (e.g. "Not In My Backyard" or <link url="http://en.wikipedia.org/wiki/NIMBY" window="new">NIMBYism</link>) delays or, in many cases, prevents the approval of new landfills or expansion of existing facilities. Ironically, much of this public opposition arises from misconceptions about landfilling and waste disposal practices that are derived from environmentally detrimental historic activities and practices that are no longer in existence. Regardless of the degree or extent of justification, NIMBYism is a potent opposition phenomenon, whether it is associated with landfills or other land use activities, such as airports, prisons, and wastewater treatment facilities.</para>
+        </section>
+        <section id="id1170455959921">
+          <title>Effects of Improper Waste Disposal and Unauthorized Releases</title>
+          <para id="id3098941">Prior to the passage of environmental regulations, wastes were disposed improperly without due consideration of potential effects on the public health and the environment. This practice has led to numerous contaminated sites where soils and groundwater have been contaminated and pose risk to the public safety. Of more than 36,000 environmentally impacted candidate sites, there are more than 1,400 sites listed under the Superfund program National Priority List (NPL) which require immediate cleanup resulting from acute, imminent threats to environmental and human health. The USEPA identified about 2,500 additional contaminated sites that eventually require remediation. The United States Department of Defense maintains 19,000 sites, many of which have been extensively contaminated from a variety of uses and disposal practices. Further, approximately 400,000 underground storage tanks have been confirmed or are suspected to be leaking, contaminating underlying soils and groundwater. Over $10 billion (more than $25 billion in current dollars) were specifically allocated by CERCLA and subsequent amendments to mitigate impacted sites. However, the USEPA has estimated that the value of environmental remediation exceeds $100 billion. Alarmingly, if past expenditures on NPL sites are extrapolated across remaining and proposed NPL sites, this total may be significantly higher – well into the trillions of dollars.</para>
+          <para id="id1170470254120">It is estimated that more than 4,700 facilities in the United States currently treat, store or dispose of hazardous wastes. Of these, about 3,700 facilities that house approximately 64,000 solid waste management units (SWMUs) may require corrective action. Accidental spillage of hazardous wastes and nuclear materials due to anthropogenic operations or natural disasters has also caused enormous environmental damage as evidenced by the events such as the <link url="http://en.wikipedia.org/wiki/Chernobyl_disaster" window="new">facility failure in Chernobyl, Ukraine</link> (formerly USSR) in 1986, the effects of <link url="http://en.wikipedia.org/wiki/Hurricane_Katrina" window="new">Hurricane Katrina</link> that devastated New Orleans, Louisiana in 2005, and the 2011 <link url="http://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami" window="new">Tōhoku earthquake and tsunami in Fukushima, Japan</link>.</para>
+        </section>
+        <section id="id1170452483212">
+          <title>Adverse Impacts on Public Health</title>
+          <para id="id1170461789801">A wide variety of chemicals are present within waste materials, many of which pose a significant environmental concern. Though the <term target-id="id5992941">leachate</term> generated from the wastes may contain toxic chemicals, the concentrations and variety of toxic chemicals are quite small compared to hazardous waste sites. For example, explosives and radioactive wastes are primarily located at Department of Energy (DOE) sites because many of these facilities have been historically used for weapons research, fabrication, testing, and training. Organic contaminants are largely found at oil refineries, or petroleum storage sites, and inorganic and pesticide contamination usually is the result of a variety of industrial activities as well as agricultural activities. Yet, soil and groundwater contamination are not the only direct adverse effects of improper waste management activities – recent studies have also shown that greenhouse gas emissions from the wastes are significant, exacerbating global climate change.</para>
+          <para id="id1170452109007">A wide range of toxic chemicals, with an equally wide distribution of respective concentrations, is found in waste streams. These compounds may be present in concentrations that alone may pose a threat to human health or may have a synergistic/cumulative effect due to the presence of other compounds. Exposure to hazardous wastes has been linked to many types of cancer, chronic illnesses, and abnormal reproductive outcomes such as birth defects, low birth weights, and spontaneous abortions. Many studies have been performed on major toxic chemicals found at hazardous waste sites incorporating epidemiological or animal tests to determine their toxic effects.</para>
+          <para id="id1170455234528">As an example, the effects of radioactive materials are classified as somatic or genetic. The <term target-id="id1170471626931">somatic effects</term> may be immediate or occur over a long period of time. Immediate effects from large radiation doses often produce nausea and vomiting, and may be followed by severe blood changes, hemorrhage, infection, and death. Delayed effects include leukemia, and many types of cancer including bone, lung, and breast cancer. <term target-id="id1170454242139">Genetic effects</term> have been observed in which gene mutations or chromosome abnormalities result in measurable harmful effects, such as decreases in life expectancy, increased susceptibility to sickness or disease, infertility, or even death during embryonic stages of life. Because of these studies, occupational dosage limits have been recommended by the National Council on Radiation Protection. Similar studies have been completed for a wide range of potentially hazardous materials. These studies have, in turn, been used to determine safe exposure levels for numerous exposure scenarios, including those that consider occupational safety and remediation standards for a variety of land use scenarios, including residential, commercial, and industrial land uses.</para>
+        </section>
+        <section id="id1170454933281">
+          <title>Adverse Impacts on the Environment</title>
+          <para id="id1170456871320">The chemicals found in wastes not only pose a threat to human health, but they also have profound effects on entire eco-systems. Contaminants may change the chemistry of waters and destroy aquatic life and underwater eco-systems that are depended upon by more complex species. Contaminants may also enter the food chain through plants or microbiological organisms, and higher, more evolved organisms bioaccumulate the wastes through subsequent ingestion. As the contaminants move farther up the food chain, the continued <term target-id="id1170459130265">bioaccumulation</term> results in increased contaminant mass and concentration. In many cases, toxic concentrations are reached, resulting in increased mortality of one or more species. As the populations of these species decrease, the natural inter-species balance is affected. With decreased numbers of predators or food sources, other species may be drastically affected, leading to a chain reaction that can affect a wide range of flora and fauna within a specific eco-system. As the eco-system continues to deviate from equilibrium, disastrous consequences may occur. Examples include the near extinction of the bald eagle due to persistent ingestion of DDT-impacted fish, and the depletion of oysters, crabs, and fish in Chesapeake Bay due to excessive quantities of fertilizers, toxic chemicals, farm manure wastes, and power plant emissions.</para>
+        </section>
+      </section>
+      <section id="id7610626">
+        <title>Waste Management Strategies</title>
+        <para id="id7610632">The long-recognized hierarchy of management of wastes, in order of preference consists of prevention, minimization, recycling and <term target-id="id1170466195017">reuse</term>, <term target-id="id1926032">biological treatment</term>, incineration, and landfill disposal (see Figure <link target-id="id1170462266076"><emphasis effect="bold">Hierarchy of Waste Management</emphasis></link>).</para>
+        <para id="id1617307">
+          <figure id="id1170462266076" type="Figure">
+		  			<media id="id1170462266076_media" alt="Hierarchy of Waste Management" longdesc="Figure shows the hierarchy of management of wastes in order or preference, starting with prevention as the most favorable to disposal as the least favorable option.">
+              <image mime-type="image/png" src="../../media/graphics1-6f7c.png" id="id1170462266076__onlineimage" height="250" width="455"/>
+            </media>
+          	<caption><emphasis effect="bold">Hierarchy of Waste Management</emphasis> Figure shows the hierarchy of management of wastes in order or preference, starting with prevention as the most favorable to disposal as the least favorable option. <emphasis effect="italics">Source: Drstuey via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Waste_hierarchy.svg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption>
+		  		</figure>
+        </para>
+        
+        <section id="id1170452038110">
+          <title>Waste Prevention</title>
+          <para id="id1170460642958">The ideal waste management alternative is to prevent waste generation in the first place. Hence, <term target-id="id1170461730034">waste prevention</term> is a basic goal of all the waste management strategies. Numerous technologies can be employed throughout the manufacturing, use, or post-use portions of product life cycles to eliminate waste and, in turn, reduce or <term target-id="id1170460880384">prevent pollution</term>. Some representative strategies include environmentally conscious manufacturing methods that incorporate less hazardous or harmful materials, the use of modern leakage detection systems for material storage, innovative chemical neutralization techniques to reduce reactivity, or water saving technologies that reduce the need for fresh water inputs.</para>
+        </section>
+        <section id="id1170451790381">
+          <title>Waste Minimization</title>
+          <para id="id1170456077747">In many cases, wastes cannot be outright eliminated from a variety of processes. However, numerous strategies can be implemented to reduce or minimize waste generation. <term target-id="id1170454760124">Waste minimization</term>, or source reduction, refers to the collective strategies of design and fabrication of products or services that minimize the amount of generated waste and/or reduce the toxicity of the resultant waste. Often these efforts come about from identified trends or specific products that may be causing problems in the waste stream and the subsequent steps taken to halt these problems. In industry, waste can be reduced by reusing materials, using less hazardous substitute materials, or by modifying components of design and processing. Many benefits can be realized by waste minimization or source reduction, including reduced use of natural resources and the reduction of toxicity of wastes.</para>
+          <para id="id1170459295269">Waste minimization strategies are extremely common in manufacturing applications; the savings of material use preserves resources but also saves significant manufacturing related costs. Advancements in streamlined packaging reduces material use, increased distribution efficiency reduces fuel consumption and resulting air emissions. Further, engineered building materials can often be designed with specific favorable properties that, when accounted for in overall structural design, can greatly reduce the overall mass and weight of material needed for a given structure. This reduces the need for excess material and reduces the waste associated with component fabrication.</para>
+          <para id="id1170461694875">The dry cleaning industry provides an excellent example of product substitution to reduce toxic waste generation. For decades, dry cleaners used tetrachloroethylene, or "perc" as a dry cleaning solvent. Although effective, tetrachloroethylene is a relatively toxic compound. Additionally, it is easily introduced into the environment, where it is highly recalcitrant due to its physical properties. Further, when its degradation occurs, the intermediate daughter products generated are more toxic to human health and the environment.</para>
+          <para id="id1170451808927">Because of its toxicity and impact on the environment, the dry cleaning industry has adopted new practices and increasingly utilizes less toxic replacement products, including petroleum-based compounds. Further, new emerging technologies are incorporating carbon dioxide and other relatively harmless compounds. While these substitute products have in many cases been mandated by government regulation, they have also been adopted in response to consumer demands and other market-based forces.</para>
+        </section>
+        <section id="id7687777">
+          <title>Recycling and Reuse</title>
+          <para id="id7687784">Recycling refers to recovery of useful materials such as glass, paper, plastics, wood, and metals from the waste stream so they may be incorporated into the fabrication of new products. With greater incorporation of recycled materials, the required use of raw materials for identical applications is reduced. Recycling reduces the need of natural resource exploitation for raw materials, but it also allows waste materials to be recovered and utilized as valuable resource materials. Recycling of wastes directly conserves natural resources, reduces energy consumption and emissions generated by extraction of virgin materials and their subsequent manufacture into finished products, reduces overall energy consumption and greenhouse gas emissions that contribute to the global climate change, and reduces the incineration or landfilling of the materials that have been recycled. Moreover, recycling creates several economic benefits, including the potential to create job markets and drive growth.</para>
+          <para id="id7674450">Common recycled materials include paper, plastics, glass, aluminum, steel, and wood. Additionally, many construction materials can be reused, including concrete, asphalt materials, masonry, and reinforcing steel. "Green" plant-based wastes are often recovered and immediately reused for mulch or fertilizer applications. Many industries also recover various by-products and/or refine and "re-generate" solvents for reuse. Examples include copper and nickel recovery from metal finishing processes; the recovery of oils, fats, and plasticizers by solvent extraction from filter media such as activated carbon and clays; and acid recovery by spray roasting, ion exchange, or crystallization. Further, a range of used food-based oils are being recovered and utilized in "biodiesel" applications.</para>
+          <para id="id1170452260751">Numerous examples of successful recycling and reuse efforts are encountered every day. In some cases, the recycled materials are used as input materials and are heavily processed into end products. Common examples include the use of scrap paper for new paper manufacturing, or the processing of old aluminum cans into new aluminum products. In other cases, reclaimed materials undergo little or no processing prior to their re-use. Some common examples include the use of tree waste as wood chips, or the use of brick and other fixtures into new structural construction. In any case, the success of recycling depends on effective collection and processing of recyclables, markets for reuse (e.g. manufacturing and/or applications that utilize recycled materials), and public acceptance and promotion of recycled products and applications utilizing recycled materials.</para>
+        </section>
+        <section id="id1170451791483">
+          <title>Biological Treatment</title>
+          <para id="id1170456749825">Landfill disposal of wastes containing significant organic fractions is increasingly discouraged in many countries, including the United States. Such disposal practices are even prohibited in several European countries. Since landfilling does not provide an attractive management option, other techniques have been identified. One option is to treat waste so that biodegradable materials are degraded and the remaining inorganic waste fraction (known as residuals) can be subsequently disposed or used for a beneficial purpose.</para>
+          <para id="id1170459255371">Biodegradation of wastes can be accomplished by using <term target-id="id1170451805969">aerobic</term> composting, <term target-id="id1170462054227">anaerobic</term><term target-id="id1170452259393">digestion</term>, or <term target-id="id1170452036718">mechanical biological treatment </term>(MBT) methods. If the organic fraction can be separated from inorganic material, aerobic composting or anaerobic digestion can be used to degrade the waste and convert it into usable <term target-id="id1170454977702">compost</term>. For example, organic wastes such as food waste, yard waste, and animal manure that consist of naturally degrading bacteria can be converted under controlled conditions into compost, which can then be utilized as natural fertilizer. Aerobic composting is accomplished by placing selected proportions of organic waste into piles, rows or vessels, either in open conditions or within closed buildings fitted with gas collection and treatment systems. During the process, bulking agents such as wood chips are added to the waste material to enhance the aerobic degradation of organic materials. Finally, the material is allowed to stabilize and mature during a curing process where pathogens are concurrently destroyed. The end-products of the composting process include carbon dioxide, water, and the usable compost material.</para>
+          <para id="id1170454729856">Compost material may be used in a variety of applications. In addition to its use as a soil amendment for plant cultivation, compost can be used remediate soils, groundwater, and stormwater. Composting can be labor-intensive, and the quality of the compost is heavily dependent on proper control of the composting process. Inadequate control of the operating conditions can result in compost that is unsuitable for beneficial applications. Nevertheless, composting is becoming increasingly popular; composting diverted 82 million tons of waste material away the landfill waste stream in 2009, increased from 15 million tons in 1980. This diversion also prevented the release of approximately 178 million metric tons of carbon dioxide in 2009 – an amount equivalent to the yearly carbon dioxide emissions of 33 million automobiles.</para>
+          <para id="id1170455993157">In some cases, aerobic processes are not feasible. As an alternative, anaerobic processes may be utilized. Anaerobic digestion consists of degrading mixed or sorted organic wastes in vessels under anaerobic conditions. The anaerobic degradation process produces a combination of methane and carbon dioxide (biogas) and residuals (biosolids). Biogas can be used for heating and electricity production, while residuals can be used as fertilizers and soil amendments. Anaerobic digestion is a preferred degradation for wet wastes as compared to the preference of composting for dry wastes. The advantage of anaerobic digestion is biogas collection; this collection and subsequent beneficial utilization makes it a preferred alternative to landfill disposal of wastes. Also, waste is degraded faster through anaerobic digestion as compared to landfill disposal.</para>
+          <para id="id1170454729868">Another waste treatment alternative, mechanical biological treatment (MBT), is not common in the United States. However, this alternative is widely used in Europe. During implementation of this method, waste material is subjected to a combination of mechanical and biological operations that reduce volume through the degradation of organic fractions in the waste. Mechanical operations such as sorting, shredding, and crushing prepare the waste for subsequent biological treatment, consisting of either aerobic composting or anaerobic digestion. Following the biological processes, the reduced waste mass may be subjected to incineration.</para>
+        </section>
+        <section id="id1170451889677">
+          <title>Incineration</title>
+          <para id="id1170456770078">Waste degradation not only produces useful solid end-products (such as compost), degradation by-products can also be used as a beneficial energy source. As discussed above, anaerobic digestion of waste can generate biogas, which can be captured and incorporated into electricity generation. Alternatively, waste can be directly incinerated to produce energy. Incineration consists of waste combustion at very high temperatures to produce electrical energy. The byproduct of incineration is ash, which requires proper characterization prior to disposal, or in some cases, beneficial re-use. While public perception of incineration can be negative, this is often based reactions to older, less efficient technologies. New incinerators are cleaner, more flexible and efficient, and are an excellent means to convert <term target-id="id1170465237532">waste to energy</term> while reducing the volume of waste. Incineration can also offset fossil fuel use and reduce greenhouse gas (GHG) emissions (<link target-id="id1170456553947">Bogner et al., 2007</link>). It is widely used in developed countries due to landfill space limitations. It is estimated that about 130 million tons of waste are annually combusted in more than 600 plants in 35 countries. Further, incineration is often used to effectively mitigate hazardous wastes such as chlorinated hydrocarbons, oils, solvents, medical wastes, and pesticides.</para>
+          <para id="id1170459152072">Despite all these advantages, incineration is often viewed negatively because of the resulting air emissions, the creation of daughter chemical compounds, and production of ash, which is commonly toxic. Currently, many 'next generation" systems are being researched and developed, and the USEPA is developing new regulations to carefully monitor incinerator air emissions under the <link url="http://www.epa.gov/air/caa/" window="new">Clean Air Act</link>.</para>
+        </section>
+        <section id="id1170451743514">
+          <title>Landfill Disposal</title>
+          <para id="id1170461687973">Despite advances in reuse and recycling, landfill disposal remains the primary waste disposal method in the United States. As previously mentioned, the rate of MSW generation continues to increase, but overall landfill capacity is decreasing. New regulations concerning proper waste disposal and the use of innovative liner systems to minimize the potential of groundwater contamination from leachate infiltration and migration have resulted in a substantial increase in the costs of landfill disposal. Also, public opposition to landfills continues to grow, partially inspired by memories of historic uncontrolled dumping practices the resulting undesirable side effects of uncontrolled vectors, contaminated groundwater, unmitigated odors, and subsequent diminished property values.</para>
+          <para id="id1170470259698">Landfills can be designed and permitted to accept hazardous wastes in accordance with RCRA Subtitle C regulations, or they may be designed and permitted to accept municipal solid waste in accordance with RCRA Subtitle D regulations. Regardless of their waste designation, landfills are engineered structures consisting of bottom and side liner systems, leachate collection and removal systems, final cover systems, gas collection and removal systems, and groundwater monitoring systems (<link target-id="id1170463006489">Sharma and Reddy, 2004</link>). An extensive permitting process is required for siting, designing and operating landfills. Post-closure monitoring of landfills is also typically required for at least 30 years. Because of their design, wastes within landfills are degraded anaerobically. During degradation, biogas is produced and collected. The collection systems prevent uncontrolled subsurface gas migration and reduce the potential for an explosive condition. The captured gas is often used in cogeneration facilities for heating or electricity generation. Further, upon closure, many landfills undergo "land recycling" and redeveloped as golf courses, recreational parks, and other beneficial uses.</para>
+          <para id="id1170452151602">Wastes commonly exist in a dry condition within landfills, and as a result, the rate of waste degradation is commonly very slow. These slow degradation rates are coupled with slow rates of degradation-induced settlement, which can in turn complicate or reduce the potential for beneficial land re-use at the surface. Recently, the concept of bioreactor landfills has emerged, which involves recirculation of leachate and/or injection of selected liquids to increase the moisture in the waste, which in turn induces rapid degradation. The increased rates of degradation increase the rate of biogas production, which increases the potential of beneficial energy production from biogas capture and utilization.</para>
+        </section>
+      </section>
+      <section id="id1170466646375">
+        <title>Summary</title>
+        <para id="id1170467226049">Many wastes, such as high-level radioactive wastes, will remain dangerous for thousands of years, and even MSW can produce dangerous leachate that could devastate an entire eco-system if allowed infiltrate into and migrate within groundwater. In order to protect human health and the environment, environmental professionals must deal with problems associated with increased generation of waste materials. The solution must focus on both reducing the sources of wastes as well as the safe disposal of wastes. It is, therefore, extremely important to know the sources, classifications, chemical compositions, and physical characteristics of wastes, and to understand the strategies for managing them.</para>
+        <para id="id7580058">Waste management practices vary not only from country to country, but they also vary based on the type and composition of waste. Regardless of the geographical setting of the type of waste that needs to be managed, the governing principle in the development of any waste management plan is resource conservation. Natural resource and energy conservation is achieved by managing materials more efficiently. Reduction, reuse, and recycling are primary strategies for effective reduction of waste quantities. Further, proper waste management decisions have increasing importance, as the consequences of these decisions have broader implications with respect to greenhouse gas emissions and global climate change. As a result, several public and private partnership programs are under development with the goal of waste reduction through the adoption of new and innovative waste management technologies. Because waste is an inevitable by-product of civilization, the successful implementation of these initiatives will have a direct effect on the enhanced quality of life for societies worldwide.</para>
+      </section>
+      <section id="id1170463206902">
+        <title>Review Questions</title>
+        <exercise id="id1170467897361">
+					<label>Question</label>
+          <problem id="oo-id1170461619130">
+            <para id="id1170459155681">How is hazardous waste defined according to the Resource Conservation and Recovery Act (RCRA)? In your opinion, is this definition appropriate? Explain.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170452237714">
+					<label>Question</label>
+          <problem id="oo-id1170467063581">
+            <para id="id1170456723882">Explain specific characteristics of radioactive and medical wastes that make their management more problematic than MSW.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170453039432">
+					<label>Question</label>
+          <problem id="oo-id1170466960813">
+            <para id="id1170459488227">Compare and contrast environmental concerns with wastes in a rural versus urban setting.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170451770823">
+					<label>Question</label>
+          <problem id="oo-id1170466616192">
+            <para id="id1170469968065">What are the pros and cons of various waste management strategies? Do you agree or disagree with the general waste management hierarchy?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170463970002">
+					<label>Question</label>
+          <problem id="oo-id1170469117222">
+            <para id="id1170466230351">Explain the advantages and disadvantages of biological treatment and incineration of wastes.</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1170459096518">
+        <title>References</title>
+        <para id="id1170456553947">Bogner, J., Ahmed, M.A., Diaz, C. Faaij, A., Gao, Q., Hashimoto,S., et al. (2007). Waste Management, In B. Metz, O.R. Davidson, P.R. Bosch, R. Dave, L.A. Meyer (Eds.), <emphasis effect="italics">Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</emphasis> (pp. 585-618). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Retrieved August 19, 2010 from <link url="http://www.ipcc.ch/pdf/assessment-report/ar4/wg3/ar4-wg3-chapter10.pdf" window="new">http://www.ipcc.ch/pdf/assessment-report/ar4/wg3/ar4-wg3-chapter10.pdf</link></para>
+        <para id="id1170463006489">Sharma, H.D. &amp; Reddy, K.R. (2004). <emphasis effect="italics">Geoenvironmental Engineering: Site Remediation, Waste Containment, and Emerging Waste Management Technologies</emphasis>. Hoboken, NJ: John Wiley.</para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1170451805969">
+      <term>aerobic</term>
+      <meaning id="oo-id1170465379093">Living systems or processes that require, or are not destroyed by, the presence of oxygen.
+      </meaning>
+    </definition>
+    <definition id="id1170462054227">
+      <term>anaerobic</term>
+      <meaning id="oo-id5659028">A living system or process that occurs in, or is not destroyed by, the absence of oxygen.
+      </meaning>
+    </definition>
+    <definition id="id1170459130265">
+      <term>bioaccumulation</term>
+      <meaning id="oo-id1170467014077">The increase in concentration of a substance in an organism over time.
+      </meaning>
+    </definition>
+    <definition id="id1926032">
+      <term>biological treatment</term>
+      <meaning id="oo-id1170454728375">A treatment technology that uses bacteria to consume organic fraction of municipal solid waste/wastewater.
+      </meaning>
+    </definition>
+    <definition id="id1170454977702">
+      <term>compost</term>
+      <meaning id="oo-id1170466023634">The stable, decomposed organic material resulting from the composting process.
+      </meaning>
+    </definition>
+    <definition id="id1170468638399">
+      <term>corrosivity</term>
+      <meaning id="oo-id1170466841896">The ability to corrode metal. Corrosive wastes are wastes that are acidic and capable of corroding metal such as tanks, containers, drums, and barrels.
+      </meaning>
+    </definition>
+    <definition id="id1170452259393">
+      <term>digestion</term>
+      <meaning id="oo-id1170467020694">The biochemical decomposition of organic matter of MSW, resulting in its partial gasification, liquefaction, and mineralization.
+      </meaning>
+    </definition>
+    <definition id="id1170454242139">
+      <term>genetic effects</term>
+      <meaning id="oo-id8474168">Effects from some agent, like radiation that are seen in the offspring of the individual who received the agent. The agent must be encountered pre-conception.
+      </meaning>
+    </definition>
+    <definition id="id1170456731951">
+      <term>high level radioactive waste (HLW)</term>
+      <meaning id="oo-id7053390">The radioactive waste material that results from the reprocessing of spent nuclear fuel, including liquid waste produced directly from reprocessing and any solid waste derived from the liquid that contains a combination of transuranic and fission product nuclides in quantities that require permanent isolation.
+      </meaning>
+    </definition>
+    <definition id="id1170451857148">
+      <term>ignitability</term>
+      <meaning id="oo-id1170466881450">Ability to create fire under certain conditions. Ignitable wastes can create fires under these certain conditions.
+      </meaning>
+    </definition>
+    <definition id="id1170459759074">
+      <term>incineration</term>
+      <meaning id="oo-id7330075">A thermal process of combusting MSW.
+      </meaning>
+    </definition>
+    <definition id="id1651342">
+      <term>integrated waste management</term>
+      <meaning id="oo-id1170469217847">A practice of using several alternative waste management techniques to manage and dispose of MSW.
+      </meaning>
+    </definition>
+    <definition id="id1170466113460">
+      <term>landfills</term>
+      <meaning id="oo-id1170461738832">Designed, controlled and managed disposal sites for MSW spread in layers, compacted to the smallest practical volume, and covered by material applied at the end of each operating day.
+      </meaning>
+    </definition>
+    <definition id="id5992941">
+      <term>leachate</term>
+      <meaning id="oo-id1170465369073">Wastewater that collects contaminants as it trickles through MSW disposed in a landfill.
+      </meaning>
+    </definition>
+    <definition id="id1170451806201">
+      <term>low-level radioactive waste (LLW)</term>
+      <meaning id="oo-id1170462659852">Radioactive waste material that is not high-level radioactive waste, spent nuclear fuel, or byproduct material (see HLW).
+      </meaning>
+    </definition>
+    <definition id="id1170452036718">
+      <term>mechanical biological treatment (MBT)</term>
+      <meaning id="oo-id1170462215450">The process that combines sorting with a form of biological treatment such as composting or anaerobic digestion.
+      </meaning>
+    </definition>
+    <definition id="id1582414">
+      <term>medical waste</term>
+      <meaning id="oo-id1170462383165">Any municipal solid waste generated in the diagnosis, treatment, or immunisation of human beings or animals.
+      </meaning>
+    </definition>
+    <definition id="id1170454615217">
+      <term>mill tailings</term>
+      <meaning id="oo-id1170467193576">Waste material from a conventional uranium recovery facility.
+      </meaning>
+    </definition>
+    <definition id="id1170460831461">
+      <term>municipal solid waste (MSW)</term>
+      <meaning id="oo-id1170454698783">Includes non-hazardous waste generated in households, commercial and business establishments, institutions, and non-hazardous industrial process wastes, agricultural wastes and sewage sludge. Specific definition is given in regulations. 
+      </meaning>
+    </definition>
+    <definition id="id1170460880384">
+      <term>pollution prevention</term>
+      <meaning id="oo-id1170467680772">The active process of identifying areas, processes, and activities which generate excessive waste for the purpose of substitution, alteration, or elimination of the process to prevent waste generation in the first place.
+      </meaning>
+    </definition>
+    <definition id="id1170462144864">
+      <term>radioactive waste</term>
+      <meaning id="oo-id1170466948513">Any waste that emits energy as rays, waves, or streams of energetic particles.
+      </meaning>
+    </definition>
+    <definition id="id1170461290149">
+      <term>reactivity</term>
+      <meaning id="oo-id1170463640416">Materials susceptible to unstable conditions. Reactive wastes are unstable under normal conditions and can create explosions and or toxic fumes, gases, and vapors when mixed with water.
+      </meaning>
+    </definition>
+    <definition id="id1170467320356">
+      <term>recycling</term>
+      <meaning id="oo-id1170466858169">Separation physical/mechanical process by which secondary raw materials (such as paper, metals, glass, and plastics.) are obtained from MSW.
+      </meaning>
+    </definition>
+    <definition id="id1170466195017">
+      <term>reuse</term>
+      <meaning id="oo-id1170466101310">Using a component of MSW in its original form more than once.
+      </meaning>
+    </definition>
+    <definition id="id1170468291268">
+      <term>solid waste</term>
+      <meaning id="oo-id1170466819156">According to the Resource Conservation and Recovery Act (RCRA), solid waste is: garbage; refuse; sludge from a waste treatment plant, water supply treatment plant, or air pollution control facility; and other discarded materials, including solid, liquid, or contained gaseous material resulting from industrial, commercial, mining, and agricultural operations, and from community activities.
+      </meaning>
+    </definition>
+    <definition id="id1170471626931">
+      <term>somatic effects</term>
+      <meaning id="oo-id1170466832174">Effects from some agent, like radiation that are seen in the individual who receives the agent.
+      </meaning>
+    </definition>
+    <definition id="id1170464099284">
+      <term>toxicity</term>
+      <meaning id="oo-id1170464966659">The degree to which a chemical substance (or physical agent) elicits a deleterious or adverse effect upon the biological system of an organism exposed to the substance over a designated time period.
+      </meaning>
+    </definition>
+    <definition id="id1170452235104">
+      <term>transuranic radioactive waste (TRU)</term>
+      <meaning id="oo-id1170469223925">TRU waste contains more than 100 nanocuries of alpha-emitting transuranic isotopes, with half-lives greater than twenty years, per gram of waste.
+      </meaning>
+    </definition>
+    <definition id="id1170465237532">
+      <term>waste to energy</term>
+      <meaning id="oo-id1170464988144">Combustion of MSW to generate electrical energy or heat
+      </meaning>
+    </definition>
+    <definition id="id1170454760124">
+      <term>waste minimization</term>
+      <meaning id="oo-id1170462718408">Measures or techniques that reduce the amount of wastes generated during industrial production processes; the term is also applied to recycling and other efforts to reduce the amount of waste going into the waste management system.
+      </meaning>
+    </definition>
+    <definition id="id1170461730034">
+      <term>waste prevention</term>
+      <meaning id="oo-id1170466987597">The design, manufacture, purchase or use of materials or products to reduce their amount or toxicity before they enter the municipal solid waste stream. Because it is intended to reduce pollution and conserve resources, waste prevention should not increase the net amount or toxicity of wastes generated throughout the life of a product.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

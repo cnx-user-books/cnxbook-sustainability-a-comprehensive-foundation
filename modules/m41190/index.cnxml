@@ -1,0 +1,252 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The IPAT Equation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41190</md:content-id>
+  <md:title>The IPAT Equation</md:title>
+  <md:abstract/>
+  <md:uuid>d96e73ed-543b-4fdc-945b-c7f133795428</md:uuid>
+</metadata>
+
+<content>
+      <para id="id1166697892033">As attractive as the concept of sustainability may be as a means of framing our thoughts and goals, its definition is rather broad and difficult to work with when confronted with choices among specific courses of action. The Chapter <link document="m38623"><emphasis effect="bold">Problem-Solving, Metrics, and Tools for Sustainability</emphasis></link> is devoted to various ways of measuring progress toward achieving sustainable goals, but here we introduce one general way to begin to apply sustainability concepts: the IPAT equation.</para>
+      <para id="id1166710187252">As is the case for any equation, IPAT expresses a balance among interacting factors. It can be stated as</para>
+      <equation id="id1166702489550">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>I</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>P</m:mi>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mi>A</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mi>T</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{I=P times A times T} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1166697878344">where <emphasis effect="italics">I</emphasis> represents the impacts of a given course of action on the environment, <emphasis effect="italics">P</emphasis> is the relevant human population for the problem at hand, <emphasis effect="italics">A</emphasis> is the level of consumption per person, and <emphasis effect="italics">T</emphasis> is impact per unit of consumption. Impact per unit of consumption is a general term for technology, interpreted in its broadest sense as any human-created invention, system, or organization that serves to either worsen or uncouple consumption from impact. The equation is not meant to be mathematically rigorous; rather it provides a way of organizing information for a “first-order” analysis.</para>
+      <para id="id1166697993512">Suppose we wish to project future needs for maintaining global environmental quality at present day levels for the mid-twenty-first century. For this we need to have some projection of human population (<emphasis effect="italics">P</emphasis>) and an idea of rates of growth in consumption (<emphasis effect="italics">A</emphasis>).</para>
+      <figure id="id1166698835905" type="Figure"><media id="id1166698835905_media" alt="graph showing world population growth">
+          <image mime-type="image/png" src="../../media/graphics1-ffcf.png" id="id1166698835905__onlineimage" height="298" width="412"/>
+        </media>
+        
+			<caption><emphasis effect="Bold">World Population Growth</emphasis> <emphasis effect="italics">Source: <link url="http://www.census.gov/population/international/data/idb/worldpopgraph.php" window="new">U.S. Census Bureau, International Data Base, December 2010 Update</link></emphasis>
+        </caption></figure>
+      <para id="id1166697682089">Figure <link target-id="id1166698835905"><emphasis effect="Bold">World Population Growth</emphasis></link> suggests that global population in 2050 will grow from the current 6.8 billion to about 9.2 billion, an increase of 35%. Global GDP (Gross Domestic Product, one measure of consumption) varies from year to year but, using Figure <link target-id="id1166698930615"><emphasis effect="Bold">Worldwide Growth of Gross Domestic Product</emphasis></link> as a guide, an annual growth rate of about 3.5% seems historically accurate (growth at 3.5%, when compounded for forty years, means that the global economy will be four times as large at mid-century as today).</para>
+      <para id="id1166715922140">
+        <figure id="id1166698930615" type="Figure"><media id="id1166698930615_media" alt="graph showing the worldwide growth of gross domestic product">
+            <image mime-type="image/png" src="../../media/graphics2-0819.png" id="id1166698930615__onlineimage" height="297" width="649"/>
+          </media>
+          
+        
+				<caption><emphasis effect="Bold">Worldwide Growth of Gross Domestic Product</emphasis> <emphasis effect="italics">Source: CIA World Factbook, Graph from <link url="http://www.indexmundi.com/g/g.aspx?c=xx&amp;v=66" window="new">IndexMundi</link></emphasis>
+          </caption></figure>
+      </para>
+      <para id="id1166708254241">Thus if we wish to maintain environmental impacts (I) at their current levels (i.e. I<sub>2050</sub> = I<sub>2010</sub>), then</para>
+      <equation id="id4391928">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>P</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>2010</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msub>
+                          <m:mi>A</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>2010</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:msub>
+                        <m:mi>T</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>2010</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>P</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>2050</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msub>
+                          <m:mi>A</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>2050</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:msub>
+                        <m:mi>T</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mtext>2050</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{"2010"} }  times A rSub { size 8{"2010"} }  times T rSub { size 8{"2010"} } =P rSub { size 8{"2050"} }  times A rSub { size 8{"2050"} }  times T rSub { size 8{"2050"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1166699890035">or </para>
+      <equation id="id1166702113327">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>T</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>2050</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>T</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>2010</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfenced open="[" close="]">
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>P</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>2010</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>P</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>2050</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mfrac>
+                          </m:mfenced>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfenced open="[" close="]">
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mi>A</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>2010</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msub>
+                                <m:mi>A</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mtext>2050</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mfrac>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mfenced open="[" close="]">
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mtext>35</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfenced open="[" close="]">
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>4</m:mn>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfenced open="[" close="]">
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {T rSub { size 8{"2050"} } }  over  {T rSub { size 8{"2010"} } } } = left [ {  {P rSub { size 8{"2010"} } }  over  {P rSub { size 8{"2050"} } } }  right ] times  left [ {  {A rSub { size 8{"2010"} } }  over  {A rSub { size 8{"2050"} } } }  right ]= left [ {  {1}  over  {1 "." "35"} }  right ] times  left [ {  {1}  over  {4} }  right ]= left [ {  {1}  over  {5 "." 4} }  right ]} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1166701772635">This means that just to maintain current environmental quality in the face of growing population and levels of affluence, our technological decoupling will need to reduce impacts by about a factor of five. So, for instance, many recently adopted “climate action plans” for local regions and municipalities, such as the <link url="http://www.chicagoclimateaction.org/pages/introduction/10.php" window="new">Chicago Climate Action Plan</link>, typically call for a reduction in greenhouse gas emissions (admittedly just one impact measure) of eighty percent by mid-century. The means to achieve such reductions, or even whether or not they are necessary, are matters of intense debate; where one group sees expensive remedies with little demonstrable return, another sees opportunities for investment in new technologies, businesses, and employment sectors, with collateral improvements in global and national well-being.</para>
+  </content>
+</document>

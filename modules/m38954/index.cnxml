@@ -1,0 +1,187 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Environmental Valuation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38954</md:content-id>
+  <md:title>Environmental Valuation</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) estimates of the values of environmental goods in dollar terms, and 2) the strengths and weaknesses of valuation methods in all three parts of the environmental valuation toolkit.</md:abstract>
+  <md:uuid>851c81a3-fa0c-4601-ace2-edb6eb2de903</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171226975892">
+      <title>Learning Objectives</title>
+      <para id="id1171227303629">After reading this module, students should be able to</para><list id="id4940866" list-type="enumerated" number-style="arabic">
+        <item>understand why it might be useful to develop estimates of the values of environmental goods in dollar terms.</item>
+        <item>know the difference between the two economic measures of value, willingness to pay and willingness to accept.</item>
+        <item>be familiar with valuation methods in all three parts of the environmental valuation toolkit: direct, revealed preference, and stated preference methods.</item>
+        <item>understand the strengths and weaknesses of those valuation methods.</item>
+      </list>
+    </section>
+    <section id="id1171226623615">
+      <title>Use Values</title>
+      <para id="id1171222014147">Externality, public good, and common-pool resource problems yield suboptimal levels of environmental quality and excessive rates of resource exploitation. Many factors complicate the process of deciding what to do about these problems. One is that environmental goods are not traded in any marketplace, and hence analysts struggle to identify quantitative measures of their values to society.</para>
+      <para id="id1171217407068">Environmental <term target-id="id1171244899105">valuation</term> is controversial. Some environmentalists object to efforts to place dollar values on elements of the environment that might be viewed as priceless. Such values are important, however, for making sure that society does not fail to take the value of nature into account when making policy and investment choices. All U.S. government regulations, for example, are subjected to benefit-cost analyses to make sure that government actions don’t inadvertently make society worse off (see Module <link document="m38611" window="new"><emphasis effect="bold">Evaluating Projects and Policies</emphasis></link>). If we do not have dollar values for the environmental benefits of things like clean water and air, then estimates of the benefits of pollution control will be consistently lower than the true social benefits, and government policy will chronically underinvest in efforts to control pollution.</para>
+      
+      <para id="id1171236308748">Environmental and natural resource economists have worked for decades to develop valuation methods that can be used to generate reasonable estimates of the dollar values of environmental amenities. Thousands of journal articles have been published in this effort to refine valuation methodology. In the early years of valuation studies, most of the work was focused on generating estimates of the social values of water and air quality. Over time, economists broadened their focus to study how to value a broader range of amenities such as wetland habitat and endangered species.</para>
+      <para id="id1171230490741">The United Nations launched an international effort in 2000 called the Millennium Ecosystem Assessment which was to evaluate the current state of earth’s ecosystems (and the services that flow from nature to humans) and identify strategies for conservation and sustainable use. <link url="http://www.maweb.org/en/index.aspx" window="new">Reports from this effort</link>) have helped scientists and policy makers develop a new framework for thinking about how nature has value to humans by providing a wide range of <term target-id="id1171240403146">ecosystem services</term>. Since then, a surge of multidisciplinary research has emerged to quantify the physical services provided by the environment and estimate the values to humanity of those services. Economists recognize two broad categories of environmental values: use and non-use. <term target-id="id1171248850331">Use values</term> flow from services that affect people directly, such as food production, flood regulation, recreation opportunities, and potable water provision. <term target-id="id1171250234378">Non-use values</term> are less tangible: the desire for endangered tigers to continue to exist even on the part of people who will never see them in the wild; concern about bequeathing future generations a planet with healthy fish populations; a sense that people have an ethical responsibility to be good stewards of the earth. Economic valuation methods exist to capture all of these environmental values.</para>
+      
+      <para id="id1171231999266">
+        <figure id="id1171233113889" type="Figure">					
+					<media id="id1171233113889_media" alt="a photograph of a man fishing" longdesc="a photograph of a man fishing on the banks of a beautiful small lake.">
+            <image mime-type="image/jpg" src="../../media/graphics1-f2bc.jpg" id="id1171233113889__onlineimage" height="432" width="645"/>
+          </media>
+        	<caption><emphasis effect="bold">Use Value: Recreational Angler</emphasis> A fisherman takes advantage of the use value of the natural environment of Four Springs Lake, Tasmania. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:Four_Springs_Lake_and_fisherman.JPG" window="new">Photo by Peripitus</link></emphasis></caption></figure>
+      </para>
+      <para id="id1171227148066">
+        <figure id="id1171220850533" type="Figure"><media id="id1171220850533_media" alt="photograph of a tiger" longdesc="a photograph of a tiger's head.">
+            <image mime-type="image/jpg" src="../../media/graphics2-dee7.jpg" id="id1171220850533__onlineimage" height="480" width="360"/>
+          </media>
+        	<caption><emphasis effect="bold">Non-use Value: Sumatran Tiger</emphasis> Although wild tigers do not directly impact people living in the United States, many Americans wish for the species to continue existing in their natural environment. This is an example of a non-use value. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:Sumatran-tiger-new.jpg" window="new">Photo by Nevit Dilman</link></emphasis></caption></figure></para>
+    </section>
+    <section id="id1171238893151">
+      <title>Willingness to Pay/Accept</title>      
+      <para id="id1171233131864">Economists use measures of value that are anthropocentric, or human centered. A rigorous body of theory about consumer choice lies beneath those measures. Mathematical complexity can make that theory seem like unreliable trickery, but in truth, consumer theory rests on only a very small number of fundamental assumptions: </para>
+      <list id="id1171234858072" list-type="bulleted">
+        <item>People have preferences over things.</item>
+        <item>People are able to rank any two bundles of goods to identify which one they prefer.</item>
+        <item>People are rational in that they will choose the bundle they prefer (over bundles they do not prefer) if they can afford it.</item>
+      </list>
+      <para id="id1171228001483">Those uncontroversial axioms are actually enough to derive all the results economists use when working with valuation methodology. However, the derivations are easier and sometimes more intuitive with a little more structure added to our hypothetical consumer choice problem:</para>
+      <list id="id1171220013712" list-type="bulleted">
+        <item>People face budget constraints (total expenditures can’t exceed their income).</item>
+        <item>People make choices to make themselves as well off as possible (“maximize their utility”) within the rationing forced by their budget constraints.</item>
+      </list>
+      <para id="id1171240406516">This framework yields two ways to think about the values of changes to the quality or quantity of environmental goods. Consider first a situation where we are trying to determine the value of a project that yields an environmental improvement—say, for example, water in the Chicago River will be cleaner. The social benefit of that project turns out to be what people are willing to pay for it. The second measure of value is appropriate if we want to measure the value of environmental goods that will be lost or degraded by a deleterious change—say, for example, climate change leading to the extinction of polar bears. In that context, the value of the change is given by the amount of money you would have to pay people in order to make them willing to accept it.</para>
+      <para id="id1171242092812">“<term target-id="id1171222306364">Willingness to pay</term>” (WTP) is a budget-constrained measure of a change in welfare; a person cannot be willing to pay more money for a change than they have income. In contrast, “<term target-id="id1171232463504">willingness to accept</term>” (WTA) is not a budget constrained measure of value—you might have to increase a person’s income many times over in order to fully compensate them for the loss of an environmental amenity they hold dear—and can theoretically approach infinity. Empirical studies tend to find that WTA value estimates are larger than equivalent estimates of WTP.</para>
+      <para id="id4369463">Analysts usually choose whether to use WTA or WTP approaches as a function of the context of the analysis. The “right” measure to use may depend on whether you want value estimates to inform a policy that would improve conditions relative to the current legal status quo, or to understand the consequences of a change that would cause deterioration of some environmental good citizens currently enjoy. Another factor in choosing a valuation method is that WTP is budget constrained while WTA is not. WTP estimates of value tend to be lower in places where people have lower incomes. That variation captures a realistic pattern in the size of willingness to pay for environmental improvements. However, equity problems clearly plague a study that concludes, for example, that improvements in air quality are more valuable to society if they happen in rich areas rather than poor.</para>
+      <para id="id1171230635981">All valuation methodologies—WTP and WTA—are designed to estimate values of fairly small changes in the environment, and those values are often setting-specific. Careful analysts can do <term target-id="id7771945">benefit transfer</term> studies in which they use the results of one valuation study to inform value estimates in a different place. However, such applications must be carried out carefully. The value of a unit change in a measure of environmental integrity is not an immutable constant, and the values of very large changes in either quantity or quality of an environmental amenity usually cannot be estimated. A cautionary example is an influential but widely criticized paper published in <emphasis effect="italics">Nature</emphasis> by Robert Costanza and colleagues that carried out sweeping benefit transfer estimates of the total social values of a number of Earth’s biomes (open oceans, forests, wetlands, etc.). The resulting estimates were too large to be correct estimates of WTP because they exceeded the value of the whole world’s GDP, and too small to be correct estimates of WTA because life on earth would cease to exist if oceans disappeared, so WTA for that change should be infinity (<link target-id="id1171221854338">Costanza et al., 1997</link>).</para>
+      
+    </section>
+    <section id="id1171234785334">
+			<title>An Economist’s Environmental Valuation Toolkit: Direct, Revealed Preference, and Stated Preference Methods</title>
+				<para id="id1171225271329">Early work on environmental valuation estimated the benefits of improved environmental quality using <term target-id="id1171222713778">direct methods</term> that exploit easily obtained information about the monetary damage costs of pollution. These methods are still sometimes used (most often by people who are not environmental economists) because of their simple intuitive appeal. An analyst can measure costs associated with pollution; the benefits of environmental cleanup are then the reductions in those costs. Following are some examples:</para>
+				<list id="id1171236304584" list-type="bulleted">
+					<item><emphasis effect="italics">Production damage measures</emphasis>: Pollution has a deleterious effect on many production processes. For example, air pollution lowers corn yields, thus increasing the cost of producing a bushel of corn. An analyst could try to measure the benefits of eliminating air pollution by calculating the increase in net social benefits that would flow from the corn market as a result of higher yields.</item>
+				</list>
+				<list id="id1171225560078" list-type="bulleted">
+					<item><emphasis effect="italics">Avoided cost measures</emphasis>: Environmental degradation often forces people to spend money on efforts to mitigate the harm caused by that degradation. One benefit of reversing the degradation is not having to spend that money on mitigation—the <term target-id="id1171228270965">avoided cost</term>. For example, hydrological disruption from impervious surfaces in urban areas forces cities to spend money on expensive storm sewer infrastructure to try to reduce floods. A benefit of installing rain gardens and green roofs to manage stormwater might be avoided storm sewer infrastructure costs.</item>
+				</list>
+				<list id="id1171237413435" list-type="bulleted">
+					<item><emphasis effect="italics">Health cost measures</emphasis>: Pollution has adverse effects on human health. For example, toxic chemicals can cause cancer, and ground level ozone causes asthma. Some measures of the damages caused by pollution simply count the financial costs of such illnesses, including the costs of cancer treatment and lost wages from adults missing work during asthma attacks.</item>
+				</list>
+				<para id="id1171223382168">These measures seem appealing, but are in fact deeply problematic. One of the most serious problems with direct measures is that they often yield woefully incomplete estimates of the benefits of environmental cleanup. Consider the example of cancer above. Suppose a woman gets cancer from drinking contaminated well water. By the time her illness is diagnosed, the cancer is so advanced that doctors can do little to treat her, and she dies a few months later. The medical expenditures associated with this illness are not very large; she and her family would surely have been willing to pay much more money to have eliminated the toxins so she did not ever get sick. The direct health cost measure of the benefits of cleaning up the contaminated water is a serious underestimate of the true benefit to society of that environmental improvement.</para>
+				<para id="id1171246235419">A second set of valuation tools called <term target-id="id1171236898761">revealed preference</term> methods work to estimate WTP for environmental amenities and quality by exploiting data on actual behaviors and market choices that are related to the environmental good in question. People reveal their WTP for environmental goods with their actions. Three examples of such methods are below.</para>
+				<list id="id1171235309196" list-type="bulleted">
+					<item><emphasis effect="italics">Hedonic price analysis</emphasis>: We often cannot observe individuals taking direct action to change the quality of the environment to which they are exposed in a given location because they simply cannot effect such change; no one person, for example, can reduce the concentration of fine particles in the air near his house. We do, however, observe market data about the choices people make about where to live. If two houses are otherwise identical but one house is situated in a place with much cleaner air than the other, the benefit of breathing cleaner air will get capitalized in the value of that house. All else equal, neighborhoods with better environments will have more expensive homes. Analysts can gather data on housing prices and house characteristics (both environmental and nonenvironmental) and use a statistical analysis to estimate marginal WTP for elements of environmental quality that vary among the houses in the data set. The <term target-id="id1171226826505">hedonic price analysis</term> approach has been used to value amenities such as air quality, hazardous waste site cleanup, and open space.</item>
+				</list>
+				<list id="id1171217124463" list-type="bulleted">
+					<item><emphasis effect="italics">Hedonic wage analysis</emphasis>: Some forms of pollution cause people to face higher risk of death in any given year. Thus, one important goal of valuation is to estimate a dollar value of reduced mortality resulting from pollution cleanup. Except in the movies, we rarely observe people choosing how much money they are willing to pay to save a specific person from certain death. However, all of us make choices every day that affect our risk of death. One important choice is which job to accept. Elementary school teachers face little job-related mortality risk. In contrast, coal miners, offshore oil rig workers, and deep sea fishermen accept high rates of accidental death when they take their jobs. By analyzing data on wage rates and worker death rates in a variety of different industries, we can estimate WTP to reduce the risk of death. Using such <term target-id="id1171221385025">hedonic wage analysis</term>, economists have developed measures of the <term target-id="id5569455">value of a statistical life</term> (VSL), which can be applied to physical estimates of reductions in pollution-related deaths to find the benefits of reduced mortality.</item>
+				</list>
+				
+				<list id="id1171239321016" list-type="bulleted">
+					<item><emphasis effect="italics">Travel cost analysis</emphasis>: Many natural amenities, such as forests, lakes, and parks are enjoyed by the public free of charge. While there is no formal market for “hours of quality outdoor recreation,” people do incur costs associated with such recreation—gas purchased to drive to the site, hotel expenses for overnight trips, and the opportunity cost of the time spent on the trip. If environmental quality is valued, people will be willing to pay higher travel costs to visit recreation sites with higher levels of environmental quality (e.g., cleaner water in the lake, more fish to catch, a better view from a mountain with low air pollution). In <term target-id="id1171217374651">travel cost analysis</term>, researchers gather data on the environmental features of a set of recreation sites and the choices people make about visiting those sites—which they choose to visit, and how often—and apply statistical analysis to those data to estimate WTP for improved quality of natural amenities.</item>
+				</list>
+				<para id="id1171221698614">One of the greatest strengths of revealed preference valuation methods is that they use information about real behavior rather than hypothetical choices. These approaches also yield estimates of WTP that are often more complete than the results of direct market measure studies.</para>
+				<para id="id1171247353957">Revealed preference studies do, however, have weaknesses and limitations. First, they only give good estimates of WTP for environmental goods if people have full and accurate information about environmental quality and associated risks. For example, hedonic estimates of WTP to avoid living with polluted air will be biased downward if people in a city do not know how air pollution varies among neighborhoods. Second, some revealed preference approaches are only valid if the relevant markets (labor markets for a wage study, housing markets for a hedonic price study) are not plagued by market power and transaction costs that prevent efficient equilibria from being reached. For example, if workers find it too daunting and costly to move from one region to another, then coal miners may fail to earn the wage premium that would be associated with such a risky job in the absence of relocation hurdles. Third, revealed preference approaches cannot be used to estimate values for levels of environmental quality that are not observed in real-world data. If all the lakes in a region are terribly polluted, we cannot use a travel cost study of lake site choice to identify WTP for very clean lakes. Fourth, revealed preference methods can capture only use values, not non-use values.</para>
+				<para id="id1171226043319">The limitations of revealed preference valuation tools motivated environmental and natural resource economists to develop valuation methods that do not require analysts to be able to observe real-world behavior related to the amenity being valued. These <term target-id="id1171227126401">stated preference</term> methods are now highly refined, but the essential idea is simple. These studies design a survey that presents people with information about hypothetical scenarios involving an environmental good, gather data on their responses to questions about how much they would pay for something or whether they would choose one scenario over another, and then analyze the data to estimate WTP for the good or WTA compensation for elimination or degradation of the good.</para>
+				<list id="id1171226486053" list-type="bulleted">
+					<item><emphasis effect="italics">Contingent valuation</emphasis>: The methodology called contingent valuation (or CV) gained prominent attention when it was used by economists to estimate the damage done to society by the oil spilled by Exxon’s <emphasis effect="italics">Valdez</emphasis> oil tanker in Prince William Sound in 1989 (<link target-id="id1171242568952">Carson et al., 2003</link>). A CV survey gives a clear description of a single environmental amenity to be valued, such as a wetland restoration, whale populations, or improved water quality in a local lake. The description includes details about how the amenity would be created, and how the survey respondent would pay any money they claim to be willing to pay in support of the amenity. Respondents are then asked a question to elicit their WTP. This value elicitation question can be open ended (“How much would you be willing to pay in taxes to increase whale populations?) or closed ended (“Would you be willing to pay $30 to increase whale populations?). The resulting data set is analyzed to find the average WTP of people in the sample population.</item>
+				</list>
+				<list id="id1171247768072" list-type="bulleted">
+					<item><emphasis effect="italics">Conjoint analysis</emphasis>: Conjoint analysis is also referred to as choice experiment survey analysis. It was developed first by analysts in business marketing and psychology, and only later adopted by economists for environmental valuation. The main difference between conjoint analysis and CV is that CV elicits WTP for an environmental amenity with a single fixed bundle of features, or attributes. Conjoint analysis estimates separate values for each of a set of attributes of a composite environmental amenity. For example, grasslands can vary in bird species diversity, wildflower coverage, and distance from human population centers. A conjoint analysis of grassland ecosystems would construct a set of hypothetical grasslands with varied combinations of attributes (including the cost to the respondent of a chosen grassland). The survey would present respondents with several choice questions; in each choice, the respondent would be asked to pick which of several hypothetical grasslands they would prefer. The resulting data would be analyzed to find how each attribute affects the likelihood that one grassland is preferred over another. This would yield estimates of marginal values for each attribute; those values could then be used to find WTP for composite grasslands with many different combinations of features.</item>
+				</list>
+				<para id="id1171236852482">Both CV and conjoint analysis methods can be designed to estimate WTP for improvement or WTA degradation depending on which context is most appropriate for the problem at hand. These stated preference methods have two main strengths. First, they can capture non-use values. Second, their hypothetical nature allows analysts to estimate WTP for improvements out of the range of current experience (or WTA for degradation we have fortunately not yet experienced).</para>
+				<para id="id1171235170623">However, stated preferences approaches do have weaknesses and limitations. For example, many economists are uncomfortable using value estimates derived from hypothetical choices, worrying whether consumers would make the same choices regarding payment for public environmental goods if the payments were real. Scholars also worry about whether people give responses to stated preference surveys that are deliberately skewed from their true WTP. Understatements of value could arise to protest a government policy (“Why should I have to pay to clean up the environment when someone else made it dirty in the first place?”) or out of a desire to free ride. Finally, the hypothetical nature of stated preference surveys can mean that some respondents are not familiar with the thing being valued, and thus may have trouble giving meaningful responses to the questions. Stated preference surveys must be designed to give respondents enough information without biasing their responses.</para>
+			</section>
+			<section id="id1171225840584">
+				<title>References</title>
+				<para id="id1171242568952">Carson, R. T., Mitchell, R. C., Hanemann, M., Kopp, R. J., Presser, S., and Ruud, P. A. (2003). Contingent valuation and lost passive use: Damages from the Exxon Valdez oil spill. <emphasis effect="italics">Environmental and Resource Economics, 25</emphasis>(3), 257-286. DOI: 10.1023/A:1024486702104.</para>
+				<para id="id1171221854338">Costanza, R., d'Arge, R., de Groot, R., Farber, S., Grasso, M., Hannon, B., Limburg, K., Naeem, S., O'Neill, R. V., Paruelo, J., Raskin, R. G., Sutton, P., &amp; van den Bel, M. (1997). The value of the world's ecosystem services and natural capital. <emphasis effect="italics">Nature</emphasis>, 387, 253–260. doi:10.1038/387253a0</para>
+			</section>
+			<section id="id1171241056382">
+				<title>Review Questions</title>
+					<exercise id="exercise6.3.1">
+						<label>Question</label>
+						<problem id="question6.3.1">
+							<para id="id1171236361337">Why might it be useful to estimate dollar values for features of the environment?</para>
+						</problem>
+					</exercise>
+					<exercise id="exercise6.3.2">
+						<label>Question</label>
+						<problem id="question6.3.2">
+							<para id="id1171247208172">What are the three types of valuation tools? List at least one strength and one weakness of each.</para>
+						</problem>
+					</exercise>
+			</section>
+  </content>
+  <glossary>
+      <definition id="id1171228270965">
+				<term>avoided cost</term>
+      	<meaning id="id1171245103546">A type of direct method that equates the value of an environmental improvement with a cost that can then be avoided.</meaning>
+			</definition>
+      <definition id="id7771945">
+				<term>benefit transfer</term>
+      	<meaning id="id1171237105814">A method for estimating the value of a natural amenity by applying estimates from a complex study of a slightly different (but similar) amenity to the case at hand.</meaning>
+			</definition>
+      <definition id="id1171219429187">
+				<term>conjoint analysis</term>
+      	<meaning id="id1171231861128">A stated preference valuation tool that allows an analyst to estimate the marginal values of multiple attributes of an environmental good.</meaning>
+			</definition>
+      <definition id="id1171227437354">
+				<term>contingent valuation</term>
+      	<meaning id="id8002604">A stated preference valuation tool that describes a single environmental good and elicits survey responses from which the analyst can estimate people’s value for that good.</meaning>
+			</definition>		
+      <definition id="id1171222713778">
+				<term>direct methods</term>
+      	<meaning id="id1171235254390">Valuation tools that use data on actual market transactions to estimate the value of a change in the environment.</meaning>
+			</definition>
+      <definition id="id1171240403146">
+				<term>ecosystem services</term>
+      	<meaning id="id1171241281753">Resources and processes through which the environment gives benefits to humanity.</meaning>
+			</definition>	
+      <definition id="id1171226826505">
+				<term>hedonic price analysis</term>
+      	<meaning id="id1171232043770">A revealed preference tool that uses data on house prices and characteristics to estimate the value of features of the environment that vary among houses.</meaning>
+			</definition>
+      <definition id="id1171221385025">
+				<term>hedonic wage analysis</term>
+      	<meaning id="id8549968">A revealed preference tool that uses data on wages and risk of death by job type estimate willingness to pay to reduce the risk of death.</meaning>
+			</definition>
+      <definition id="id1171250234378">
+				<term>non-use values</term>
+      	<meaning id="id1171240372435">Values people have for nature that do not stem from direct interaction.</meaning>
+			</definition>			
+      <definition id="id1171236898761">
+				<term>revealed preference</term>
+      	<meaning id="id1171220177896">Valuation tools that use behaviors such as job choice, housing choice, and recreational site choice to reveal information about the values people have for features of the environment.</meaning>
+			</definition>
+      <definition id="id1171227126401">
+				<term>stated preference</term>
+      	<meaning id="id1171224095533">Valuation tools that use survey responses to hypothetical questions rather than data on actual choices.</meaning>
+			</definition>			
+      <definition id="id1171217374651">
+				<term>travel cost analysis</term>
+      	<meaning id="id1171236874939">A revealed preference tool that estimates the values of natural resource amenities by analyzing data on recreational site characteristics and people’s visitation patterns and travel costs.</meaning>
+			</definition>
+      <definition id="id1171248850331">
+				<term>use values</term>
+      	<meaning id="id1171226902276">Benefits associated with direct interaction with nature and the environment.</meaning>
+			</definition>
+			<definition id="id1171244899105">
+				<term>valuation</term>
+      	<meaning id="id1171250680409">The process of estimating a dollar value for an amenity or a disamentity.</meaning>
+			</definition>
+			<definition id="id5569455">
+				<term>value of a statistical life</term>
+      	<meaning id="id1171216920292">A statistical concept that can be used as the value of reducing the number of deaths in a population by one.</meaning>
+			</definition>
+      <definition id="id1171232463504">
+				<term>willingness to accept</term>
+      	<meaning id="id1171231963167">The amount of money you would have to pay someone to compensate them for a deleterious change.</meaning>
+			</definition>
+      <definition id="id1171222306364">
+				<term>willingness to pay</term>
+      	<meaning id="id1171225090119">The amount of money someone is willing to pay for something good.</meaning>
+			</definition>			
+	</glossary>
+</document>

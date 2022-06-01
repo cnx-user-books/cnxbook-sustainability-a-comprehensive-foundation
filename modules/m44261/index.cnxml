@@ -1,0 +1,400 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainability and Buildings</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44261</md:content-id>
+  <md:title>Sustainability and Buildings</md:title>
+  <md:abstract>In this module, various ways buildings affect the environment and the characteristics of sustainable buildings are discussed.</md:abstract>
+  <md:uuid>142ae050-c7a3-4536-bb29-a5f6dddc1ae3</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-id1166168812486">
+      <title>Learning Objectives</title>
+      <para id="import-auto-id1166171937999">After reading this module, students should be able to</para>
+      <list id="import-auto-id1166159531896" list-type="bulleted">
+        <item>understand the various ways buildings affect the environment</item>
+        <item>describe the characteristics of sustainable buildings</item>
+      </list>
+    </section>
+    <section id="import-auto-id1166171070800">
+      <title>Introduction</title>
+      <para id="import-auto-id1166162475209">Buildings present a challenge and an opportunity for sustainable development. According to the most recent available Annual Energy Outlook from the U.S. Environmental Information Administration, buildings account for about 39% of the carbon dioxide emissions, 40% of primary energy use, and 72% of the electricity consumption in the U.S. Additional information from the U.S. Geological Survey indicates that 14% of the potable water consumption occurs in buildings.</para>
+      <para id="import-auto-id1166169592854">Globally, buildings are the largest contributors to carbon dioxide emissions, above transportation and then industry. The construction of buildings requires many materials that are mined, grown, or produced and then transported to the building site. Buildings require infrastructure including roads, utility lines, water and sewer systems. People need to be able to get to and from buildings to work, live, or take advantage of the services provided within them. They need to provide a safe and comfortable environment for the people that inhabit them.</para>
+      <table id="import-auto-id1166178065399" summary="List of impacts of the built environment">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <thead>
+            <row>
+              <entry>
+                <para id="import-auto-id1166174949083">
+                  <emphasis effect="bold">Aspects of Built Environment</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166169451530">
+                  <emphasis effect="bold">Consumption</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166156118268">
+                  <emphasis effect="bold">Environmental Effects</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166162719223">
+                  <emphasis effect="bold">Ultimate Effects</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Siting</entry>
+              <entry>Energy</entry>
+              <entry>Waste</entry>
+              <entry>Harm to human health</entry>
+            </row>
+            <row>
+              <entry>Design</entry>
+              <entry>Water</entry>
+              <entry>Air pollution</entry>
+              <entry>Environmental degradation</entry>
+            </row>
+            <row>
+              <entry>Construction</entry>
+              <entry>Materials</entry>
+              <entry>GHG emissions</entry>
+              <entry>Loss of resources</entry>
+            </row>
+            <row>
+              <entry>Operation</entry>
+              <entry>Natural resources</entry>
+              <entry>Water pollution</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Maintenance</entry>
+              <entry/>
+              <entry>Indoor pollution</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Renovation</entry>
+              <entry/>
+              <entry>Heat islands</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Deconstruction</entry>
+              <entry/>
+              <entry>Stormwater runoff</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Noise</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup><caption><emphasis effect="bold">Impacts of the Built Environment </emphasis>
+        <emphasis effect="italics">Source: U.S. Environmental Protection Agency </emphasis>
+        <link url="http://www.epa.gov/greenbuilding/pubs/about.htm" window="new">
+          <emphasis effect="italics">http://www.epa.gov/greenbuilding/pubs/about.htm</emphasis>
+        </link>
+      </caption>
+</table><para id="import-auto-id1166174882247">It is possible to design and construct fully functional buildings that have far fewer negative environmental impacts than current norms allow. Beyond benefitting the environment, green buildings provide economic benefits including reduced operating costs, expanded markets for green products and services, improved building occupant productivity, and optimized life-cycle performance. Green buildings also offer social benefits that range from protecting occupant comfort and health, to better aesthetic qualities, less strain on local infrastructure, and overall improvement in quality of life.</para>
+      <para id="import-auto-id1166173794772">In 1994, a group of experts was brought together by the National Renewable Energy Laboratory (NREL) to develop a pathway and specific principles for sustainable development. According to these principles, building should be:</para>
+      <list id="import-auto-id1166167304798" list-type="bulleted">
+        <item><emphasis effect="bold">Ecologically Responsive</emphasis>: The design of human habitat shall recognize that all resources are limited, and will respond to the patterns of natural ecology. Land plans and building designs will include only those with the least disruptive impact upon the natural ecology of the earth. Density must be most intense near neighborhood centers where facilities are most accessible.</item>
+        <item><emphasis effect="bold">Healthy, Sensible Buildings: </emphasis>The design of human habitat must create a living environment that will be healthy for all its occupants. Buildings should be of appropriate human scale in a non-sterile, aesthetically pleasing environment. Building design must respond to toxicity of materials, care with EMF, lighting efficiency and quality, comfort requirements and resource efficiency. Buildings should be organic, integrate art, natural materials, sunlight, green plants, energy efficiency, low noise levels and water. They should not cost more than current conventional buildings.</item>
+        <item><emphasis effect="bold">Socially Just: </emphasis>Habitats shall be equally accessible across economic classes.</item>
+        <item><emphasis effect="bold">Culturally Creative: </emphasis>Habitats will allow ethnic groups to maintain individual cultural identities and neighborhoods while integrating into the larger community. All population groups shall have access to art, theater and music.</item>
+        <item><emphasis effect="bold">Beautiful: </emphasis>Beauty in a habitat environment is necessary for the soul development of human beings. It is yeast for the ferment of individual creativity. Intimacy with the beauty and numinous mystery of nature must be available to enliven our sense of the sacred.</item>
+        <item><emphasis effect="bold">Physically and Economically Accessible: </emphasis>All sites within the habitat shall be accessible and rich in resources to those living within walkable (or wheelchair-able) distance.</item>
+        <item><emphasis effect="bold">Evolutionary: </emphasis>Habitats' design shall include continuous re-evaluation of premises and values, shall be demographically responsive and flexible to change over time to support future user needs. Initial designs should reflect our society's heterogeneity and have a feedback system.</item>
+      </list>
+      <para id="import-auto-id1166169376513">What is meant by a sustainable or green building? The U.S. EPA defines green building as “the practice of creating structures and using processes that are environmentally responsible and resource-efficient throughout a building's life-cycle from siting to design, construction, operation, maintenance, renovation and deconstruction. This practice expands and complements the classical building design concerns of economy, utility, durability, and comfort.” (<link target-id="import-auto-id1166171773075"><emphasis effect="underline">U.S. Environmental Protection Agency, 2010</emphasis></link>)</para>
+      <para id="import-auto-id1166164969823">The benefits of sustainable buildings have already been documented. These buildings can reduce energy use by 24-50%, carbon dioxide emissions by 33-39%, water use by 40%, and solid waste by 70% (<link target-id="import-auto-id1166167419046"><emphasis effect="underline">Turner &amp; Frankel, 2008</emphasis></link>; <link target-id="import-auto-id1166178783598"><emphasis effect="underline">Kats, Alevantis, Berman, Mills, &amp; Perlman, 2003</emphasis></link>; <link target-id="import-auto-id1166166815527"><emphasis effect="underline">Fowler &amp; Rauch, 2008</emphasis></link>). Green building occupants are healthier and more productive than their counterparts in other buildings, and this is important because in the U.S, people spend an average of 90% or more of their time indoors (<link target-id="import-auto-id1166177975646"><emphasis effect="underline">U.S. Environmental Protection Agency, 1987</emphasis></link>). Green buildings tend to have improved indoor air quality and lighting.</para>
+      <para id="import-auto-id7865004">There are also numerous perceived business benefits to green buildings, including decreased operating costs and increased building value, return on investment, occupancy ratio, and rent ratio.</para>
+    </section>
+    <section id="import-auto-id1166177335488">
+      <title>Materials and Methods of Construction</title>
+      <para id="import-auto-id1166175860880">It is frequently stated that the most sustainable building is the one that is not built. This does not mean that we should not have buildings, but rather that we should make the most of our existing buildings. Those buildings already have the infrastructure and have utilized many materials for their construction.</para>
+      <para id="import-auto-id1166171189309">A great deal of energy goes into making building materials. By volume, the major materials used within the U.S. construction industry are crushed rock, gravel, sand, cement, cement concrete, asphalt concrete, timber products, clay brick, concrete block, drywall, roofing materials, steel, aluminum, copper and other metals, plastics, paper, paints, glues, and other chemical products. The building industry has been the largest consumer of materials in the US for nearly 100 years (<link target-id="import-auto-id1166155883816"><emphasis effect="underline">Horvath, 2004</emphasis></link>).</para>
+      <para id="import-auto-id1166167640172">The manufacturing of cement, for instance, is an enormous producer of greenhouse gas emissions. Cement is made of about 85% lime by mass, which is mixed with other ingredients such as shale, clay, and slate. It is formed into an inorganic adhesive by heating the ingredients to a temperature of 1450 °C (2640 °F), and then grinding the product into a powder. Cement comprises about 15% of concrete, which is made by mixing cement with sand, small rocks, and water. Because it requires so much energy, the manufacture of cement is estimated to account for as much as 5% of global anthropogenic greenhouse gas emissions (<link target-id="import-auto-id1704919"><emphasis effect="underline">Humphreys &amp; Mahasenan, 2002</emphasis></link>).</para>
+      <para id="import-auto-id1166170939363">Construction of buildings is also related to deforestation. Our consumption of wood to build buildings and furniture over the centuries has resulted in the clearing of many old-world forests and tropical forests. Trees are harvested not only for fuel but also for construction material and to clear land for construction.</para>
+      <para id="import-auto-id1166160830527">The demolition of old buildings to make way for new and construction projects themselves generate huge amounts of waste. Careful <term target-id="id1166180593042">deconstruction</term> of buildings allows for reuse of materials in future construction projects or for recycling of materials into new building (and other) products. Deconstruction creates economic advantages by lower building removal costs due to value of materials and avoided disposal costs, reduces impact to site on soil and vegetation, conserves landfill space, and creates jobs due to the labor-intensity of the process.</para>
+      <para id="import-auto-id1166161761122">A <link target-id="import-auto-id2451071"><emphasis effect="underline">1998 EPA study</emphasis></link> of building-related construction and demolition (C&amp;D) debris generation in the U.S. found that an estimated 136 million tons of building-related C&amp;D debris were generated in 1996, the equivalent to 2.8 pounds per person per day. 43% of the waste (58 million tons per year) was generated from residential sources and 57% (78 million tons per year) was from nonresidential sources. Building demolitions accounted for 48% of the waste stream, or 65 million tons per year; renovations accounted for 44%, or 60 million tons per year; and 8 percent, or 11 million tons per year, was generated at construction sites.</para>
+      <para id="import-auto-id1166167513092">Even when deconstruction is not possible, the waste can be recycled by sorting the materials after they are collected and taken to a waste transfer station. Since new construction and renovation requires the input of many materials, this is an opportunity to utilize products that enhance the sustainability of the building. These products may be made of recycled content, sustainably grown and harvested wood and pulp materials, products that have <term target-id="def-id1166160284741">low emissions</term>, and products that are sourced locally. These products enhance the sustainability of the building by supporting local economies and reducing the fuel needed to transport them long distances.</para>
+    </section>
+    <section id="import-auto-id1166163065637">
+      <title>Energy-saving Building Features</title>
+      <para id="import-auto-id1166169614488">Energy efficient measures have been around a long time and are known to reduce the use of energy in residential and commercial properties. Improvements have been made in all of these areas and are great opportunities for further innovation. Green buildings incorporate these features to reduce the demand for heating and cooling.</para>
+    </section>
+    <section id="building-features-section">
+			<section id="import-auto-id1166163298268">
+				<title>Insulation</title>
+				<para id="import-auto-id1166168466757">The building should be well insulated and sealed so that the conditioned air doesn’t escape to the outside. Insulation can be installed in floors, walls, attics and/or roofs. It helps to have more even temperature distribution and increased comfort as well.</para>
+			</section>
+			<section id="import-auto-id1166159671491">
+				<title>High-performance Windows</title>
+				<para id="import-auto-id1166169810778">Several factors are important to the performance of a window (see Figure <link target-id="import-auto-id1166175790373"><emphasis effect="bold">A High-performance Window</emphasis></link>):</para>
+				<list id="import-auto-id1166160800248" list-type="bulleted">
+					<item>Thermal windows are at least double-paned and vacuum-filled with inert gas. This gas provides insulation </item>
+					<item>Improved framing materials, weather stripping and warm edge spacers reduce heat gain and loss</item>
+					<item>Low-E coating block solar heat gain in the summer and reflect radiant heat indoors during the winter</item>
+				</list>
+			</section>
+			<section id="import-auto-id1166166926208">
+				<title>Sealing of Holes and Cracks</title>
+				<para id="import-auto-id1166178193796">Sealing holes and cracks in a building’s <term target-id="def-id1166156161930">envelope</term> as well as the heating and cooling duct systems can reduce drafts, moisture, dust, pollen, and noise. In addition, it improves comfort and indoor air quality at the same time it saves energy and reduces utility and maintenance costs.</para>
+				<figure id="import-auto-id1166175790373"><media id="import-auto-id1166162377525" alt="">
+						<image mime-type="image/png" src="../../media/graphics1-6e77.png" height="595" width="568"/>
+					</media>
+				<caption><emphasis effect="bold">A High-performance Window </emphasis>
+					<emphasis effect="italics">Source: </emphasis>
+					<link url="http://www.energystar.gov/ia/new_homes/features/Windows_062906.pdf" window="new">
+						<emphasis effect="italics">http://www.energystar.gov/ia/new_homes/features/Windows_062906.pdf</emphasis>
+					</link></caption></figure></section>
+			<section id="import-auto-id1166177757982">
+				<title>Heating Ventilation and Air-conditioning (HVAC)</title>
+				<para id="import-auto-id1166164096977">A large part of the energy consumption and thus environmental impact of a building is the building heating, ventilation and air-conditioning (HVAC) systems that are used to provide comfortable temperature, humidity and air supply levels. Buildings must be designed to meet local energy code requirements, but these are often not as aggressive targets as they could be to demand more energy efficiency. In the U.S. ENERGY Star provides guidance and benchmarking to help set more aggressive goals.</para>
+				<para id="import-auto-id8955162">There are many ways HVAC systems can be designed to be more efficient. Variable air volume (VAV) systems increase air flow to meet the increase or decrease in heat gains or losses within the area served. Having fans power down when not needed saves energy, as does reducing the amount of air that needs to be conditioned and also reduces the need for reheat systems. These systems are used to warm up an area if the cooled air supply is making an area too cold. VAV systems can generally handle this by reducing air supply. All of this does need to be balanced by making sure there is enough fresh air supply to meet the needs of the number of occupants in a building. Otherwise, it will feel stuffy due to lack of air flow and oxygen.</para>
+				<para id="import-auto-id1166169527694">Also using automated controls, whether it is a programmable thermostat in your home or a building automation system (BAS) that uses computers to control HVAC settings based on schedules and occupancy, can significantly reduce energy consumption.</para>
+				<para id="import-auto-id1166163528850">The equipment itself can be made more energy efficient. For instance new home furnaces range in efficiency from 68-97%. Ideally, the most energy efficient furnace would be installed in a new home (<link target-id="import-auto-id1166167639950"><emphasis effect="underline">U.S. Department of Energy, 2011</emphasis></link>).</para>
+			</section>
+			<section id="import-auto-id1166169426728">
+				<title>Passive Solar Design</title>
+				<para id="import-auto-id1166162301530">This type of architectural design does not require mechanical heating and cooling of a building. Instead it uses heating and cooling strategies that have been used historically such as natural ventilation, solar heat gain, solar shading and efficient insulation. Figure <link target-id="import-auto-id1166167631754"><emphasis effect="bold">Passive Solar Design</emphasis></link> shows some of these elements. In the winter solar radiation is trapped by the greenhouse effect of south facing windows (north in the southern hemisphere) exposed to full sun. Heat is trapped, absorbed and stored by materials with high <term target-id="def-id1166167361077">thermal mass</term> (usually bricks or concrete) inside the house. It is released at night when needed to warm up the building as it loses heat to the cooler outdoors. Shading provided by trees or shades keeps the sun out in the hot months.</para>
+				<figure id="import-auto-id1166167631754"><media id="import-auto-id1166170902987" alt="">
+						<image mime-type="image/png" src="../../media/graphics2-acfc.png" height="395" width="624"/>
+					</media>
+				<caption><emphasis effect="bold">Passive Solar Design </emphasis>
+					<emphasis effect="italics">Source: </emphasis>
+					<link url="http://www.yourhome.gov.au/technical/fs45.html#what" window="new">
+						<emphasis effect="italics">http://www.yourhome.gov.au/technical/fs45.html#what</emphasis>
+					</link></caption></figure></section>
+			<section id="import-auto-id1166169266685">
+				<title>Lighting</title>
+				<para id="import-auto-id1166165151011">Well-designed lighting can minimize the use of energy. This includes enhancing day lighting (natural light), through windows, skylights, etc. Using energy efficient lighting such as compact fluorescent light bulbs and LEDs (light-emitting diodes) can save energy as well. Using occupancy sensors also means that lights will only be on when someone is in a room. See Module <link document="m41741"><emphasis effect="underline">Sustainable Energy Practices: Climate Action Planning</emphasis></link> for more energy-saving technologies that can be incorporated into buildings.</para>
+			</section>
+			<section id="import-auto-id1166167640208">
+				<title>Water</title>
+				<para id="import-auto-id1166167220046">Water usage can be minimized by using low-flow fixtures in restrooms, bathrooms, and kitchens. Dual-flush toilets allow for the user to have the option of select less water (e.g. for liquid waste) and more water (e.g. for solid waste) when flushing (See Figure <link target-id="import-auto-id1166176265992"><emphasis effect="bold">Dual Flush Toilet</emphasis></link>). These have long been in use in Europe, the Middle East and other places where water conservation is paramount. Fresh water consumption can be reduced further through the use of <term target-id="def-id1166173449888">greywater</term> systems. These systems recycle water generated from activities such as hand washing, laundry, bathing, and dishwashing for irrigation of grounds and even for flushing toilets.</para>
+				<figure id="import-auto-id1166176265992"><media id="import-auto-id1166162940697" alt="">
+						<image mime-type="image/png" src="../../media/Picture 2-81ce.png" height="600" width="450"/>
+					</media>
+				<caption><emphasis effect="bold">Dual-flush Toilet</emphasis> This toilet has two flush controls on the water tank. Pushing only the circular button releases half as much (0.8 gallons, 3 liters) water as pushing the outer button. <emphasis effect="italics">Source: By Eugenio Hansen, OFS (Own work) [<link url="http://creativecommons.org/licenses/by-sa/3.0" window="new">CC-BY-SA-3.0</link>],<link url="http://commons.wikimedia.org/wiki/File%3AToilet_double_flush_01.jpg" window="new">via Wikimedia Commons</link></emphasis></caption></figure></section>
+			<section id="import-auto-id1166171670920">
+				<title>Integrated Design</title>
+				<para id="import-auto-id1166172448888">Integrated design is a design process for a building that looks at the whole building, rather than its individual parts, for opportunities to reduce environmental impact. Incremental measures would include those approaches described above. To accomplish integrated design of a building, all parties involved in the design--architects, engineers, the client and other stakeholders--must work together. This collaborative approach results in a more harmonious coordination of the different components of a building such as the site, structure, systems, and ultimate use.</para>
+			</section>
+		</section>
+    <section id="import-auto-id1166165594286">
+      <title>Standards of Certification</title>
+      <para id="import-auto-id1166162807814">Most countries establish certain standards to assure consistency, quality and safety in the design and construction of buildings. Green building standards provide guidelines to architects, engineers, building operators and owners that enhance building sustainability. Various green building standards have originated in different countries around the world, with differing goals, review processes and rating. In this section we will discuss a few examples.</para>
+      <para id="import-auto-id1166161753274">A good certification system should be developed with expert feedback. In addition, it should be transparent, measurable, relevant and comparable.</para>
+      <list id="import-auto-id1166168810012" list-type="bulleted">
+        <item>Expert-based: Was input acquired from experts and professionals in the fields of design, construction, building operation and sustainability?</item>
+        <item>Transparent: Is information readily available to the public about how buildings are rated?</item>
+        <item>Measurable: Does the rating system use measurable characteristics to demonstrate the extent of sustainable design incorporated into the building? Does the system use life-cycle analysis to evaluate?</item>
+        <item>Relevance: Does the rating system provide a “whole building evaluation” rather than an evaluation of an individual design feature?</item>
+        <item>Comparable: Is the rating system able to compare building types, location, years, or different sustainable design features? </item>
+      </list>
+      <table id="import-auto-id1166170357468" summary="The first column lists the various systems. The second column lists the year the systems were established.  The third column lists the country of orgin of the systems. The fourth column indicates whether the system is transparent.  The fifth column indicates whether the system is expert-based.  The sixth column indicates whether the system is measurable.  The seventh column indicates whether the system is relevant.  The eith column indicates whether the system is comparable."><tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <thead>
+            <row>
+              <entry>
+                <para id="import-auto-id2053261">
+                  <emphasis effect="bold">System</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166169406282">
+                  <emphasis effect="bold">Year  established</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166176058651">
+                  <emphasis effect="bold">Country of origin</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166172972190">
+                  <emphasis effect="bold">Trans- parent</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166171088374">
+                  <emphasis effect="bold">Expert-based</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166162997743">
+                  <emphasis effect="bold">Measurable/ Uses LCA</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166174671859">
+                  <emphasis effect="bold">Relevance</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para id="import-auto-id1166173731930">
+                  <emphasis effect="bold">Comparable</emphasis>
+                </para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <link url="http://www.breeam.org/page.jsp?id=66" window="new">
+                  <emphasis effect="bold">BREEAM</emphasis>
+                </link>
+              </entry>
+              <entry>1990</entry>
+              <entry>UK</entry>
+              <entry>√*</entry>
+              <entry>-</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://www.greenglobes.com/about.asp" window="new">
+                  <emphasis effect="bold">Green Globes</emphasis>
+                </link>
+              </entry>
+              <entry>1996</entry>
+              <entry>Canada</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+              <entry>√/√</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://www.usgbc.org/" window="new">
+                  <emphasis effect="bold">LEED</emphasis>
+                </link>
+              </entry>
+              <entry>2000</entry>
+              <entry>US</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+              <entry>√/√ V 3.0</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://www.ibec.or.jp/CASBEE/english/overviewE.htm" window="new">
+                  <emphasis effect="bold">CASBEE</emphasis>
+                </link>
+              </entry>
+              <entry>2001</entry>
+              <entry>Japan</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+              <entry>√/√</entry>
+              <entry>√</entry>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://www.energystar.gov/index.cfm?c=cbd_guidebook.cbd_guidebook" window="new">
+                  <emphasis effect="bold">ENERGY STAR</emphasis>
+                </link>
+              </entry>
+              <entry>1999</entry>
+              <entry>US</entry>
+              <entry>√</entry>
+              <entry>√<sup>#</sup></entry>
+              <entry>√</entry>
+              <entry>Only energy</entry>
+              <entry>√</entry>
+            </row>
+						<row>
+        			<entry namest="c1" nameend="c8">
+      					<para id="import-auto-id1166159340958">*Only assessment prediction check lists available publicly</para>
+      					<para id="import-auto-id1166170340244"><sup>#</sup>Benchmarking tool developed by US EPA</para>
+			        </entry>
+     				 </row>
+          </tbody>
+        </tgroup>
+      <caption><emphasis effect="bold">Comparison of Certification Systems </emphasis>
+        <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/cindykb" window="new">Klein-Banai, C.</link></emphasis>
+      </caption></table></section>
+    <section id="import-auto-id1166163027938">
+      <title>Conclusion</title>
+      <para id="import-auto-id1166164424189">The built environment is the largest manifestation of human life on the planet. Buildings have been essential for the survival of the human race, protecting us from the elements and forces of nature. However, they also consume a lot of material, energy and water, and they occupy land that might otherwise be undeveloped or used for agriculture. There are many ways to reduce that impact by building to a higher standard of conservation and reuse. There are a number of systems that can help architects, engineers, and planners to achieve those standards, and they should be selected with a full awareness of their limitations.</para>
+    </section>
+    <section id="import-auto-id1166172986857">
+      <title>References</title>
+      <para id="import-auto-id1166166815527">Fowler, K.M. &amp; Rauch, E.M. (2008). <emphasis effect="italics">Assessing green building performance. A post occupancy evaluation of 12 GSA buildings</emphasis>. (U.S. General Services Administration). PNNL-17393 Pacific Northwest National Laboratory Richland, Washington. Retrieved from <link url="http://www.gsa.gov/graphics/pbs/GSA_Assessing_Green_Full_Report.pdf" window="new"><emphasis effect="underline">http://www.gsa.gov/graphics/pbs/GSA_Assessing_Green_Full_Report.pdf</emphasis></link></para>
+      <para id="import-auto-id1166155883816">Horvath, A. (2004). Construction materials and the environment. <emphasis effect="italics">Annual Review of Energy and the Environment, 29</emphasis> , 181-204.</para>
+      <para id="import-auto-id1704919">Humphreys, K. &amp; Mahasenan, M. (2002). Toward a Sustainable Cement Industry. Substudy 8, Climate Change. World Business Council for Sustainable Development. Retrieved from <link url="http://www.wbcsd.org/web/publications/batelle-full.pdf" window="new"><emphasis effect="underline">http://www.wbcsd.org/web/publications/batelle-full.pdf</emphasis></link></para>
+      <para id="import-auto-id1166178783598">Kats, G., Alevantis, L., Berman, A., Mills, E. &amp; Perlman, J. (2003). The costs and financial benefits of green building: A report to California’s sustainable building task force. Retrieved from <link url="http://www.usgbc.org/Docs/News/News477.pdf" window="new"><emphasis effect="underline">http://www.usgbc.org/Docs/News/News477.pdf</emphasis></link></para>
+      <para id="import-auto-id1166167419046">Turner, C. &amp; Frankel, M. (2008). <emphasis effect="italics">Energy performance of LEED for New Construction Buildings, Final Report</emphasis>.  Retrieved from <link url="http://newbuildings.org/sites/default/files/Energy_Performance_of_LEED-NC_Buildings-Final_3-4-08b.pdf" window="new"><emphasis effect="underline">http://newbuildings.org/sites/default/files/Energy_Performance_of_LEED-NC_Buildings-Final_3-4-08b.pdf</emphasis></link></para>
+      <para id="import-auto-id1166167639950">U.S. Department of Energy. (2011). <emphasis effect="italics">Energy savers: Furnaces and boilers</emphasis>. Retrieved from <link url="http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12530" window="new"><emphasis effect="underline">http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12530</emphasis></link></para>
+      <para id="import-auto-id1166177975646">U.S. Environmental Protection Agency. (1987). <emphasis effect="italics">The total exposure assessment methodology (TEAM) study</emphasis> (EPA 600/S6-87/002). Retrieved from <link url="http://exposurescience.org/pub/reports/TEAM_Study_book_1987.pdf" window="new"><emphasis effect="underline">http://exposurescience.org/pub/reports/TEAM_Study_book_1987.pdf</emphasis></link></para>
+      <para id="import-auto-id2451071">U.S. Environmental Protection Agency. (1998). <emphasis effect="italics">Characterization of building-related construction and demolition debris in the United States</emphasis>. (Report No. EPA530-R-98-010). Retrieved from <link url="http://www.epa.gov/wastes/hazard/generation/sqg/cd-rpt.pdf" window="new"><emphasis effect="underline">http://www.epa.gov/wastes/hazard/generation/sqg/cd-rpt.pdf</emphasis></link></para>
+      <para id="import-auto-id1166171773075">U.S. Environmental Protection Agency. (2010). Green Building Basic Information. Retrieved from <link url="http://www.epa.gov/greenbuilding/pubs/about.htm" window="new"><emphasis effect="underline">http://www.epa.gov/greenbuilding/pubs/about.htm</emphasis></link>.</para>
+    </section>
+    <section id="import-auto-id1166167179059"><title>Review Questions</title><exercise id="rq-id9010696">
+<label>Question</label>
+      	<problem id="p-id9010696">	
+					<para id="import-auto-id9010696">What are the positive and negative impacts that buildings have on the environment and society?</para>
+				</problem>
+			</exercise>
+			<exercise id="rq-id1166168194098">
+<label>Question</label>
+      	<problem id="p-id1166168194098">	
+      		<para id="import-auto-id1166168194098">How can those impacts be reduced?</para>
+				</problem>
+			</exercise>
+			<exercise id="rq-id1166169711327">
+<label>Question</label>
+      	<problem id="p-id1166169711327">	
+      		<para id="import-auto-id1166169711327">What would be the advantages and disadvantages of demolishing an old building and replacing it with a new, highly “sustainable” building vs. renovating an old building to new standards?</para>
+				</problem>
+			</exercise>
+		</section></content>
+	<glossary>
+      <definition id="id1166180593042">
+				<term>deconstruction</term>
+      	<meaning id="id1166166774056">The selective dismantling or removal of materials from buildings prior to or instead of conventional demolition.</meaning>
+			</definition>
+			<definition id="def-id1166156161930">
+      	<term>envelope</term>
+      	<meaning id="mean-id1166156161930">The physical barrier between the interior and exterior of a building including the walls, roof, foundation, and windows.</meaning>
+			</definition>
+			<definition id="def-id1166173449888">
+      	<term>greywater</term>
+      	<meaning id="mean-id1166173449888">The water generated from activities such as handwashing, laundry, bathing, and dishwashing that can be recycled on-site to be used for irrigation of grounds and even for flushing toilets.</meaning>
+			</definition>
+      <definition id="def-id1166160284741">
+				<term>low-emissions</term>
+      	<meaning id="mean-id1166160284741">Materials that have little to no volatile organic compounds and other toxic chemicals that are released into the environment after installation.</meaning>
+			</definition>
+      <definition id="def-id1166167361077">
+				<term>thermal mass</term>
+     	 	<meaning id="mean-id1166167361077">The ability of a material to absorb heat energy. High density materials like concrete, bricks and tiles need a lot of heat to change their temperature and thus have a high thermal mass. Lightweight materials such as wood have a low thermal mass.</meaning>
+			</definition>
+		</glossary>
+</document>

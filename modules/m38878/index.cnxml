@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Case Study: Marine Fisheries</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38878</md:content-id>
+  <md:title>Case Study: Marine Fisheries</md:title>
+  <md:abstract>In this module,the state of marine fisheries and Individual tradable quotas (ITQ) are described.</md:abstract>
+  <md:uuid>d344156a-d4dc-45a2-9761-966a4e19242e</md:uuid>
+</metadata>
+
+<content>
+      <para id="id1166311079494">Fisheries are classic common-pool resources. The details of the legal institutions that govern access to fisheries vary around the globe. However, the physical nature of marine fisheries makes them prone to overexploitation. Anyone with a boat and some gear can enter the ocean. One boat’s catch reduces the fish available to all the other boats and reduces the stock available to reproduce and sustain the stock available in the following year. Economic theory predicts that the market failure associated with open access to a fishery will yield socially excessive levels of entry into the fishery (too many boats) and annual catch (too many fish caught) and inefficiently low stocks of fish (<link target-id="id1166310331527">Beddington, Agnew, &amp; Clark, 2007</link>). </para>
+      <para id="id1166319522498">
+        <figure id="id1166307892671" type="Figure">
+					<media id="id1166307892671_media" alt="chart showing list of overfished stocks as of June 30, 2011">
+            <image mime-type="image/jpg" src="../../media/graphics1-6e49.jpg" id="id1166307892671__onlineimage" height="488" width="650"/>
+          </media>          
+        	<caption><emphasis effect="italics">Source: <link url="http://www.nmfs.noaa.gov/sfa/statusoffisheries/2011/second/MapOverfishedStocksCY_Q2_2011.pdf" window="new">National Oceanic and Atmospheric Administration</link></emphasis></caption>
+				</figure>
+      </para>
+      <para id="id1166317198077">Unfortunately, the state of fisheries around the globe seems to indicate that the predictions of that theory are being borne out. Bluefin tuna are in danger of extinction. Stocks of fish in once-abundant fisheries such as North Atlantic cod and Mediterranean swordfish have been depleted to commercial (and sometimes biological) exhaustion (<link target-id="id1166319248889">Montaigne, 2007</link>). Scientists have documented widespread collapse of fish stocks and associated loss of marine biodiversity from overfishing; this devastates the ability of coastal and open-ocean ecosystems to provide a wide range of ecosystem services such as food provisioning, water filtration, and detoxification (<link target-id="id1166307552401">Worm et al., 2006</link>). Scholars have documented isolated cases such as the “lobster gangs” of coastal Maine where communal informal management prevented overexploitation of the resource (<link target-id="id1166328802339">Acheson, 1988</link>), but such cases are the exception rather than the rule.</para>
+      <para id="id1166326906708">Early efforts to control overfishing used several kinds of regulations on quotas, fishing effort, and gear. For example, fishing boats are forbidden in some places from using conventional longlines because that gear yields high levels of bycatch and kills endangered leatherback turtles. Some forms of fishery management limit the number of fish that can be caught in an entire fishery. Under a total allowable catch (TAC) system, fishers can fish when and how they want, but once the quota for the fishery has been met, fishing must stop until the next season. Unfortunately, TAC policies do not solve the underlying problem that fishermen compete for the fish, and often yield perverse incentives and undesirable outcomes such as overcapitalization of the industry (<link target-id="id1166310331527">Beddington, Agnew, &amp; Clark, 2007</link>) and races between fishing boat crews to catch fish before the quota is reached. In the well-known case of the Alaskan halibut fishery, the race became so extreme that the fishing season was reduced to a single 24-hour mad dash; given that fish are perishable, this temporal clumping of the catch is not a desirable outcome.</para>
+      <para id="id4177178">
+        <figure id="id4736338" type="Figure"><media id="id4736338_media" alt="a photograph of fishing boats" longdesc="Photograph of many fishing boats docked in a marina in Cordova, southern Alaska, with a slow covered mountain in the background">
+            <image mime-type="image/jpg" src="../../media/graphics2-933e.jpg" id="id4736338__onlineimage" height="530" width="360"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Marine Fisheries: Fishing Boats</emphasis> Alaskan waters have been fished by people for thousands of years, but they are under pressure from modern fishing technologies and large-scale extraction. <emphasis effect="italics">Source: <link url="http://www.photolib.noaa.gov/htmls/line0488.htm" window="new">National Oceanic and Atmospheric Administration</link></emphasis></caption></figure></para>
+      <para id="id1166305457096">Resource economists developed the idea of a tradable permit scheme to help manage fisheries. Individual tradable quota (ITQ) schemes are cap-and-trade policies for fish, where total catch is limited but fishers in the fishery are given permits that guarantee them a right to a share of that catch. Players in the fishery can sell their quota shares to each other (helping the catch to flow voluntarily to the most efficient boats in the industry) and there is no incentive for captains to buy excessively large boats or fish too rapidly to beat the other boats to the catch. ITQ policies have rationalized the Alaskan halibut fishery completely: the fish stock is thriving, overcapitalization is gone, and the fish catch is spread out over time (<link target-id="id1166327353109">Levy, 2010</link>). ITQs have also been implemented in the fisheries of New Zealand, yielding large improvements in the biological status of the stocks (<link target-id="id1166300667113">Annala, 1996</link>). There is some general evidence that ITQ systems have been relatively successful in improving fishery outcomes (<link target-id="id1166314454478">Costello, Gaines, &amp; Lynham et al. 2008</link>), though other research implies that evidence of the superiority of the ITQ approach is more mixed (<link target-id="id1166310331527">Beddington 2007</link>) Scholars and fishery managers continue to work to identify the details of ITQ management that make such systems work most effectively, and to identify what needs to be done to promote more widespread adoption of good fishery management policy worldwide.</para>
+      <section id="id1166317447957">
+        <title>References</title>
+        <para id="id1166328802339">Acheson, J. M. (1988). The Lobster Gangs of Maine. Lebanon, NH: University of New England Press.</para>
+        <para id="id1166300667113">Annala, J. H. (1996). New Zealand’s ITQ system: have the first eight years been a success or a failure? Reviews in Fish Biology and Fisheries. 6(1), 43–62. doi: 10.1007/BF00058519</para>
+        
+        <para id="id1166310331527">Beddington, J. R., Agnew, D.J., &amp; Clark, C. W. (2007). Current problems in the management of marine fisheries. Science, 316(5832), 1713-1716. doi:10.1126/science.1137362</para>
+        
+        <para id="id1166314454478">Costello, C., Gaines, S. D., &amp; Lynham, J. (2008). Can catch shares prevent fisheries collapse? Science, 321(5896), 1678 – 1681. doi10.1126/science.1159478</para>
+        <para id="id1166327353109">Levy, S. (2010). Catch shares management. BioScience, 60(10), 780–785. doi:10.1525/bio.2010.60.10.3</para>
+        
+        <para id="id1166319248889">Montaigne, F. (2007, April). Still waters, the global fish crisis. National Geographic Magazine. Retrieved from <link url="http://ngm.nationalgeographic.com/print/2007/04/global-fisheries-crisis/montaigne-text" window="new">http://ngm.nationalgeographic.com/print/2007/04/global-fisheries-crisis/montaigne-text</link>.</para>
+        <para id="id1166307552401">Worm, B., Barbier, E. B., Beaumont, N., Duffy, J. E., Folke, C., Halpern, B. S., Hackson, J. B. C., Lotze, H. K., Micheli, F., Palumbi, S. R., Sala, E., Selkoe, K. A., Stachowicz, J. J., &amp; Watson, R. (2006). Impacts of biodiversity loss on ocean ecosystem services. Science, 314(5800), 787 – 790. doi:10.1126/science.1132294</para>
+      </section>
+  </content>
+</document>

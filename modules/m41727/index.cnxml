@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Fossil Fuels (Coal and Gas)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41727</md:content-id>
+  <md:title>Fossil Fuels (Coal and Gas)</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) contributions of coal and gas to electricity generation and to carbon emissions, 2) the link between electricity generation and carbon emissions, 3) the challenges of sequestering carbon in geologic formations – chemical transformation, migration, and longevity</md:abstract>
+  <md:uuid>0ca35e31-d861-41fa-a48b-f675ab477b70</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8064103">
+      <title>Learning Objectives</title>
+      <para id="id8822032">After reading this module, students should be able to</para>
+      <list id="id1166442519807" list-type="bulleted">
+        <item>outline the relative contributions of coal and gas to electricity generation and to carbon emissions</item>
+        <item>understand the link between electricity generation and carbon emissions</item>
+        <item>understand the challenges of sequestering carbon in geologic formations – chemical transformation, migration, and longevity</item>
+      </list>
+    </section>
+    <section id="id8849437">
+      <title>Introduction</title>
+      <para id="id8515201">At present the fossil fuels used for electricity generation are predominantly coal (45 percent) and gas (23 percent); petroleum accounts for approximately 1 percent (see Figure <link target-id="id7419126"><emphasis effect="bold">Electricity Generation by Source</emphasis></link>). Coal electricity traces its origins to the early 20th Century, when it was the natural fuel for steam engines given its abundance, high energy density and low cost. Gas is a later addition to the fossil electricity mix, arriving in significant quantities after World War II and with its greatest growth since 1990 as shown in Figure <link target-id="id8078054"><emphasis effect="bold">Growth of Fuels Used to Produce Electricity in the United States</emphasis></link> (<link target-id="id4397001">EIA Annual Energy Review, 2009</link>). Of the two fuels, coal emits almost twice the carbon dioxide as gas for the same heat output, making it significantly greater contributor to global warming and climate change.</para>
+      
+      <para id="id6639823">
+        <figure id="id7419126"><media id="id7419126_media" alt="Electricity Generation by Source" longdesc="Chart shows U.S. electricity generation by source">
+            <image mime-type="image/png" src="../../media/graphics1-e41b.png" id="id7419126__onlineimage" height="547" width="552"/>
+          </media>
+        <caption><emphasis effect="bold">Electricity Generation by Source</emphasis> Chart shows U.S. electricity generation by source. <emphasis effect="italics">Source: </emphasis><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">U.S. </emphasis></link><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">Energy Information Administration, Annual Review, 2009, p. 228 (Aug. 2010)</emphasis></link></caption></figure>
+      </para>
+      
+      
+      
+      
+      <para id="id6279543">
+        <figure id="id8078054"><media id="id8078054_media" alt="Growth of Fuels Used to Produce Electricity in the United States" longdesc="Graph shows the growth of fuels used to produce electricity in the United States from 1950 to 2009.">
+            <image mime-type="image/png" src="../../media/graphics2-6dda.png" id="id8078054__onlineimage" height="299" width="493"/>
+          </media>
+        <caption><emphasis effect="bold">Growth of Fuels Used to Produce Electricity in the United States</emphasis> Graph shows the growth of fuels used to produce electricity in the United States from 1950 to 2009. <emphasis effect="italics">Source: </emphasis><link url="http://205.254.135.24/totalenergy/data/annual/pdf/aer.pdf" window="new"><emphasis effect="italics">U.S. Energy Information Administration, Annual Energy Review 2009, p. 238 (Aug. 2010)</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id2311065">
+      <title>The Future of Gas and Coal</title>
+      <para id="id8088867">The future development of coal and gas depend on the degree of public and regulatory concern for carbon emissions, and the relative price and supply of the two fuels. Supplies of coal are abundant in the United States, and the transportation chain from mines to power plants is well established by long experience. The primary unknown factor is the degree of public and regulatory pressure that will be placed on carbon emissions. Strong regulatory pressure on carbon emissions would favor retirement of coal and addition of gas power plants. This trend is reinforced by the recent dramatic expansion of shale gas reserves in the United States due to technology advances in horizontal drilling and hydraulic fracturing ("fracking") of shale gas fields. Shale gas production has increased 48 percent annually in the years 2006 – 2010, with more increases expected (<link target-id="id7518581">EIA Annual Energy Outlook, 2011</link>). Greater United States production of shale gas will gradually reduce imports and could eventually make the United States a net exporter of natural gas.</para>
+      <para id="id8596625">The technique of hydraulic fracturing of shale uses high-pressure fluids to fracture the normally hard shale deposits and release gas and oil trapped inside the rock. To promote the flow of gas out of the rock, small particles of solids are included in the fracturing liquids to lodge in the shale cracks and keep them open after the liquids are depressurized. Although hydraulic fracturing has been used since the 1940s, is technologically feasible, economic, and proven to enhance gas an oil recovery, it faces considerable environmental challenges. In aquifers overlying the Marcellus and Utica shale formations of northeastern Pennsylvania and upstate New York, methane contamination of drinking water associated with shale gas extraction has been reported (<link target-id="id8661155">Osborn, </link><link target-id="id8661155">Vengosh, Warner, &amp; Jackson, 2011</link>). The public reaction to these reports has been strong and negative, prompting calls for greater transparency, scientific investigation and regulatory control to clearly establish the safety, sustainability and public confidence in the technique. See Module <link document="m41725"><emphasis effect="bold">Environmental Challenges in Energy, Carbon Dioxide, Air and Water</emphasis></link> for more on the process of hydraulic fracturing and its associated risks.</para>
+      
+      <para id="id8516424">
+        <figure id="id8143311"><media id="id8143311_media" alt="Global Carbon Cycle, 1990s" longdesc="The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr–1: pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red.">
+            <image mime-type="image/png" src="../../media/global-carbon-cycle.png" id="id8143311__onlineimage" height="334" width="552"/>
+          </media>
+        <caption><emphasis effect="bold">Global Carbon Cycle, 1990s</emphasis> The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr–1: pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red. <emphasis effect="italics">Source: </emphasis><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch7s7-3.html" window="new"><emphasis effect="italics">Climate Change 2007: The Physical Science Basis: </emphasis></link><link url="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch7s7-3.html" window="new"><emphasis effect="italics">Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, figure 7.3</emphasis></link></caption></figure></para>
+      
+      
+      <para id="id6662443">Beyond a trend from coal to gas for electricity generation, there is a need to deal with the carbon emissions from the fossil production of electricity. Figure <link target-id="id8143311"><emphasis effect="bold">Global Carbon Cycle, 1990s</emphasis></link> shows the size of these emissions compared to natural fluxes between ocean and atmosphere and from vegetation and land use. The anthropogenic fluxes are small by comparison, yet have a large effect on the concentration of carbon dioxide in the atmosphere. The reason is the step-wise dynamics of the carbon cycle. The ultimate storage repository for carbon emissions is the deep ocean, with abundant capacity to absorb the relatively small flux from fossil fuel combustion. Transfer to the deep ocean, however, occurs in three steps: first to the atmosphere, then to the shallow ocean, and finally to the deep ocean. The bottleneck is the slow transfer of carbon dioxide from the shallow ocean to the deep ocean, governed by the <term target-id="id3681932">great ocean conveyor belt</term> or <term target-id="id3681932">thermohaline circulation</term> illustrated in Figure <link target-id="id1166442514664"><emphasis effect="bold">Great Ocean Conveyor Belt</emphasis></link>. The great ocean conveyor belt takes 400 – 1000 years to complete one cycle. While carbon dioxide waits to be transported to the deep ocean, it saturates the shallow ocean and "backs up" in the atmosphere causing global warming and threatening climate change. If carbon emissions are to be captured and stored (or "sequestered") they must be trapped for thousands of years while the atmosphere adjusts to past and future carbon emissions (<link target-id="id7294897">Lenton, 2006</link>).</para>
+      <para id="id7932349">
+        <figure id="id1166442514664"><media id="id1166442514664_media" alt="Great Ocean Conveyor Belt" longdesc="The great ocean conveyor belt (or thermohaline current) sends warm surface currents from the Pacific to Atlantic oceans and cold deep currents in the opposite direction. The conveyor belt is responsible for transporting dissolved carbon dioxide from the relatively small reservoir of the shallow ocean to much larger reservoir of the deep ocean. It takes 400 - 1000 years to complete one cycle.">
+            <image mime-type="image/jpg" src="../../media/graphics4-bab6.jpg" id="id1166442514664__onlineimage" height="382" width="599"/>
+          </media>
+        <caption><emphasis effect="bold">Great Ocean Conveyor Belt</emphasis> The great ocean conveyor belt (or thermohaline current) sends warm surface currents from the Pacific to Atlantic oceans and cold deep currents in the opposite direction. The conveyor belt is responsible for transporting dissolved carbon dioxide from the relatively small reservoir of the shallow ocean to much larger reservoir of the deep ocean. It takes 400 - 1000 years to complete one cycle. <emphasis effect="italics">Source: </emphasis><link url="http://www.anl.gov/Media_Center/Frontiers/2003/d8ee.html" window="new"><emphasis effect="italics">Argonne National Laboratory</emphasis></link></caption></figure>
+      </para>
+      
+      
+      <para id="id6784848"><term target-id="id7286922">Sequestration of carbon dioxide</term> in underground geologic formations is one process that, in principle, has the capacity to handle fossil fuel carbon emissions (<link target-id="id5819131">Olajire, 2010</link>); chemical reaction of carbon dioxide to a stable solid form is another (<link target-id="id6748642">Stephens &amp; Keith, 2008</link>). For sequestration, there are fundamental challenges that must be understood and resolved before the process can be implemented on a wide scale.</para>
+      <para id="id7243490">The chemical reactions and migration routes through the porous rocks in which carbon dioxide is stored underground are largely unknown. Depending on the rock environment, stable solid compounds could form that would effectively remove the sequestered carbon dioxide from the environment. Alternatively, it could remain as carbon dioxide or transform to a mobile species and migrate long distances, finally finding an escape route to the atmosphere where it could resume its contribution to greenhouse warming or cause new environmental damage. The requirement on long term sequestration is severe: a leak rate of 1 percent means that all the carbon dioxide sequestered in the first year escapes in a century, a blink of the eye on the timescale of climate change.</para>
+    </section>
+    <section id="id8657003">
+      <title>Summary</title>
+      <para id="id3904443">Coal (45 percent) and gas (23 percent) are the two primary fossil fuels for electricity production in the United States. Coal combustion produces nearly twice the carbon emissions of gas combustion. Increasing public opinion and regulatory pressure to lower carbon emissions are shifting electricity generation toward gas and away from coal. The domestic supply of gas is increasing rapidly due to shale gas released by hydraulic fracturing, a technology with significant potential for harmful environmental impact. Reducing the greenhouse gas impact of electricity production requires capturing and sequestering the carbon dioxide emitted from power plants. Storing carbon dioxide in underground geologic formations faces challenges of chemical transformation, migration, and longevity.</para>
+    </section>
+    <section id="id7918307">
+      <title>Review Questions</title>
+      <exercise id="id1773910">
+				<label>Question</label>
+        <problem id="oo-id1166442628096">
+          <para id="id8701080">The United States’ electricity supply is provided primarily by coal, natural gas, nuclear, and hydropower. How safe are these fuel supplies from interruption by international disasters, weather events or geopolitical tension?</para>
+        </problem>
+      </exercise>
+      <exercise id="id7264454">
+				<label>Question</label>
+        <problem id="oo-id1166442628104">
+          <para id="id7542954">Natural gas reserves from shale are increasing rapidly due to increased use of hydrofracturing technology ("fracking"). The increased domestic resource of shale gas has the potential to provide greater energy security at the expense of greater environmental impact. What are the long-term costs, benefits, and outlook for tapping into domestic shale gas reserves?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8186468">
+				<label>Question</label>
+        <problem id="oo-id1166442628113">
+          <para id="id4735959">Anthropogenic carbon emissions are small compared to natural exchange between ocean and atmosphere and fluxes from vegetation and land use. Why do anthropogenic emissions have such a large effect on the concentration of carbon dioxide in the atmosphere?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8322740">
+				<label>Question</label>
+        <problem id="oo-id1166442628121">
+          <para id="id7916033">One proposal for mitigating carbon emissions is capturing and storing them in underground geologic formations (sequestration). What scientific, technological and policy challenges must be overcome before sequestration can be deployed widely?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id8680940">
+      <title>References</title>
+      <para id="id7294897">Lenton, T.M. (2006). Climate change to the end of the millennium. <emphasis effect="italics">Climatic Change</emphasis>, 76, 7-29. doi: 10.1007/s10584-005-9022-1</para>
+      <para id="id5819131">Olajire, A. (2010). CO2 capture and separation technologies for end-of-pipe applications: A review, <emphasis effect="italics">Energy</emphasis> 35, pp. 2610-2628. doi: 10.1016/j.energy.2010.02.030 </para>
+      <para id="id8661155">Osborn, S.G., Vengosh, A., Warner, N.R., &amp; Jackson, R.B. (2011). Methane contamination of drinking water accompanying gas-well drilling and hydraulic fracturing. <emphasis effect="italics">PNAS</emphasis>, 108, pp. 8172-1876. doi: 10.1073/pnas.1100682108</para>
+      <para id="id6748642">Stephens, J.C. &amp; Keith, D.W. (2008). Assessing geochemical carbon management. <emphasis effect="italics">Climatic Change</emphasis>, 90, 217-242. doi: 10.1007/s10584-008-9440-y</para>
+      <para id="id4397001">U.S. Energy Information Administration. (2010). <emphasis effect="italics">Annual Energy Review 2009</emphasis>. Retrieved August 12, 2011 from <link url="http://www.eia.gov/totalenergy/data/annual/pdf/aer.pdf" window="new">http://www.eia.gov/totalenergy/data/annual/pdf/aer.pdf</link></para>
+      <para id="id7518581">U.S. Energy Information Administration. (2011). <emphasis effect="italics">Annual Energy Outlook 2011</emphasis>. Retrieved September 2, 2011 from <link url="http://www.eia.gov/forecasts/aeo/pdf/0383(2011).pdf" window="new">http://www.eia.gov/forecasts/aeo/pdf/0383(2011).pdf</link></para>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id7286922">
+      <term>carbon sequestration</term>
+      <meaning id="oo-id6797982">The storage of carbon dioxide underground in geologic formations consisting of depleted oil and gas wells, unmineable coal beds, and deep saline aquifers. 
+      </meaning>
+    </definition>
+    <definition id="id3681932">
+      <term>great ocean conveyor belt (or Termohaline Current)</term>
+      <meaning id="oo-id8908074">The current spanning the Pacific, Antarctic, Indian and Atlantic Oceans that carries warm surface water to the cold deep ocean and takes 400-1000 years to complete one cycle. 
+      </meaning>
+    </definition>
+  </glossary>
+</document>

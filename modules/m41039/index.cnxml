@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainability Studies: A Systems Literacy Approach</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41039</md:content-id>
+  <md:title>Sustainability Studies: A Systems Literacy Approach</md:title>
+  <md:abstract>In this module, you will learn how systems literacy is tailored specifically to the understanding and remedy of environmental problems, and the ways in which it differs from traditional disciplinary approaches to academic learning.</md:abstract>
+  <md:uuid>b0975e73-fd5a-495f-90fa-d8e5ab7744c1</md:uuid>
+</metadata>
+
+<content>      
+      <section id="id1165387983198">
+        <title>Learning Objectives</title>
+        <para id="id1165393910055">After reading this module, students should be able to</para>
+        <list id="id1165393300846" list-type="bulleted"><item>define systems literacy, how it is tailored specifically to the understanding and remedy of environmental problems, and the ways in which it differs from traditional disciplinary approaches to academic learning</item>
+          <item>define bio-complexity as a scientific principle, and its importance as a concept and method for students in the environmental humanities and social sciences</item>
+          <item>identify a potential research project that would embrace applications of one or more of the following sustainability key terms: resilience and vulnerability, product loops and lifecycles, and carbon neutrality</item>
+        </list>
+      </section>
+      <section id="id3193249">
+        <title>Introduction</title>
+        <para id="id1165386387721">Transition to a sustainable resource economy is a dauntingly large and complex project, and will increasingly drive research and policy agendas across academia, government, and industry through the twenty-first century. To theorize sustainability, in an academic setting, is not to diminish or marginalize it. On the contrary, the stakes for sustainability education could not be higher. The relative success or failure of sustainability education in the coming decades, and its influence on government and industry practices worldwide, will be felt in the daily lives of billions of people both living and not yet born.</para>
+        <para id="id1165393387130">The core of sustainability studies, in the academic sense, is <term target-id="id1165394393714">systems literacy</term>—a simple definition, but with complex implications. Multiple indicators tell us that the global resource boom is now reaching a breaking point. The simple ethos of economic growth—“more is better”—is not sustainable in a world of complex food, water and energy systems suffering decline. The grand challenge of sustainability is to integrate our decision-making and consumption patterns—along with the need for economic viability— within a sustainable worldview. This will not happen by dumb luck. It will require, first and foremost, proper education. In the nineteenth and twentieth centuries, universal literacy—reading and writing—was the catch-cry of education reformers. In the twenty-first century, a new global literacy campaign is needed, this time systems literacy, to promote a basic understanding of the complex interdependency of human and natural systems.</para>
+        <para id="id1165394205987">Here I will lay out the historical basis for this definition of sustainability in terms of systems literacy, and offer specific examples of how to approach issues of sustainability from a systems-based viewpoint. Systems literacy, as a fundamental goal of higher education, represents the natural evolution of <term target-id="id1165402314958">interdisciplinarity</term>, which encourages students to explore connections between traditionally isolated disciplines and has been a reformist educational priority for several decades in the United States. Systems literacy is an evolved form of cross-disciplinary practice, calling for intellectual competence (not necessarily command) in a variety of fields in order to better address specific real-world environmental problems.</para>
+        <para id="id1165389039947">For instance, a student’s research into deforestation of the Amazon under a sustainability studies paradigm would require investigation in a variety of fields not normally brought together under the traditional disciplinary regime. These fields might include plant biology, hydrology, and climatology, alongside economics, sociology, and the history and literature of post-colonial Brazil. Systems literacy, in a nutshell, combines the study of social history and cultural discourses with a technical understanding of ecosystem processes. Only this combination offers a comprehensive view of real-world environmental challenges as they are unfolding in the twenty-first century.</para>
+        <para id="id1165397095827">From the viewpoint of systems literacy sustainability studies works on two planes at once. Students of sustainability both acknowledge the absolute interdependence of human and natural systems—indeed that human beings and all their works are nothing if not natural—while at the same time recognizing that to solve our environmental problems we must often speak of the natural world and human societies as if they were separate entities governed by different rules. For instance, it is very useful to examine aspects of our human system as <term target-id="id1165384180139">diachronic</term>—as progressively evolving over historical time—while viewing natural systems more according to <term target-id="id1165384180139">synchronic</term> patterns of repetition and equilibrium. The diachronic features of human social evolution since 1500 would include the history of trade and finance, colonization and frontier development, and technology and urbanization, while examples of nature’s synchronicity would be exemplified in the migratory patterns of birds, plant and animal reproduction, or the microbial ecology of a lake or river. A diachronic view looks at the changes in a system over time, while the synchronic view examines the interrelated parts of the system at any given moment, assuming a stable state.</para>
+        <para id="id1165384679738">While the distinction between diachronic and synchronic systems is in some sense artificial, it does highlight the structural inevitability of dysfunction when the two interlocked systems operate on different timelines and principles. The early twentieth century appetite for rubber to service the emerging automobile industry, for instance, marks an important chapter in the “heroic” history of human technology, while signifying a very different transition in the history of forest ecosystems in Asia and Latin America. Human history since the agricultural transition 10,000 years ago, and on a much more dramatic scale in the last two hundred years, is full of such examples of new human technologies creating sudden, overwhelming demand for a natural resource previously ignored, and reshaping entire ecosystems over large areas in order to extract, transport and industrialize the newly commodified material.</para>
+      </section>
+      <section id="id1165387512436">
+        <title>Biocomplexity</title>
+        <para id="id1165392914227">For students in the humanities and social sciences, sustainability studies requires adoption of a new conceptual vocabulary drawn from the ecological sciences. Among the most important of these concepts is <emphasis effect="italics">complexity</emphasis>. <term target-id="id1165396115139">Biocomplexity</term>—the chaotically variable interaction of organic elements on multiple scales—is the defining characteristic of all ecosystems, inclusive of humans. Biocomplexity science seeks to understand this nonlinear functioning of elements across multiple scales of time and space, from the molecular to the intercontinental, from the microsecond to millennia and deep time. Such an approach hasn’t been possible until very recently. For example, only since the development of (affordable) genomic sequencing in the last decade have biologists begun to investigate how environments regulate gene functions, and how changes in biophysical conditions place pressure on species selection and drive evolution.</para>
+        <para id="id1165400778346">
+          <figure id="id1165402948993" type="Figure"><media id="id1165402948993_media" alt="Image of Biocomplexity Spiral" longdesc="an image illustrating the concept of biocomplexity, showing how elements (the cosmos, planetary, ecosystem, earth, population, habitat, organism, organ, tissue, cellular, molecular, and atomic) interact in a non-linear way, depicted by a spiral metaphor">
+              <image mime-type="image/jpg" src="../../media/Biocomplexity_spiral.jpg" id="id1165402948993__onlineimage" height="375" width="500"/>
+            </media>
+            
+          <caption><emphasis effect="Bold">The Biocomplexity Spiral</emphasis> The biocomplexity spiral illustrates the concept of biocomplexity, the chaotically variable interaction of organic elements on multiple scales.  <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:Biocomplexity_spiral.jpg">U.S. National Science Foundation</link></emphasis>
+            </caption></figure>
+        </para>
+        <para id="id1165392656570">How is the concept of complexity important to sustainability studies? To offer one example, a biocomplexity paradigm offers the opportunity to better understand and defend <emphasis effect="italics">biodiversity</emphasis>, a core environmental concern. Even with the rapid increase in knowledge in the biophysical sciences in recent decades, vast gaps exist in our understanding of natural processes and human impacts upon them. Surprisingly little is known, for example, about the susceptibilities of species populations to environmental change or, conversely, how preserving biodiversity might enhance the resilience of an ecosystem. In contrast to the largely reductionist practices of twentieth-century science, which have obscured these interrelationships, the new biocomplexity science begins with presumptions of ignorance, and from there goes on to map complexity, measure environmental impacts, quantify risk and resilience, and offer quantitative arguments for the importance of biodiversity. Such arguments, as a scientific supplement to more conventional, emotive appeals for the protection of wildlife, might then form the basis for progressive sustainability policy.</para>
+        <para id="id1165384878862">But such data-gathering projects are also breathtaking in the demands they place on analysis. The information accumulated is constant and overwhelming in volume, and the methods by which to process and operationalize the data toward sustainable practices have either not yet been devised or are imperfectly integrated within academic research structures and the policy-making engines of government and industry. To elaborate those methods requires a humanistic as well as scientific vision, a need to understand complex interactions from the molecular to the institutional and societal level.</para>
+        <para id="id1165390453945">A practical example of biocomplexity as the frame for studies in environmental sustainability are the subtle linkages between the hypoxic “dead zone” in the Gulf of Mexico and farming practices in the Mississippi River watershed. To understand the impact of hydro-engineered irrigation, nitrogen fertilizer, drainage, and deforestation in the Midwest on the fisheries of the Gulf is a classic biocomplexity problem, requiring data merging between a host of scientific specialists, from hydrologists to chemists, botanists, geologists, zoologists and engineers. Even at the conclusion of such a study, however, the human dimension remains to be explored, specifically, how industry, policy, culture and the law have interacted, on decadal time-scales, to degrade the tightly coupled riverine-ocean system of the Mississippi Gulf. A quantitative approach only goes so far. At a key moment in the process, fact accumulation must give way to the work of narrative, to the humanistic description of desires, histories, and discourses as they have governed, in this instance, land and water use in the Mississippi Gulf region.</para>
+        <para id="id1165389702921">To complexity should be added the terms <term target-id="id1165399260211">resilience</term> and <term target-id="id1165399260211">vulnerability</term>, as core concepts of sustainability studies. The resilience of a system—let’s take for example, the wildlife of the Arctic Circle—refers to the self-renewing stability of that system, its ability to rebound from shocks and threats within the range of natural variability. The vulnerability of Artic wildlife, conversely, refers to the point at which resilience is eroded to breaking point. Warming temperatures in the Arctic, many times the global average, now threaten the habitats of polar bear and walruses, and are altering the breeding and migratory habits of almost all northern wildlife populations. The human communities of the Arctic are likewise experiencing the threshold of their resilience through rising sea levels and coastal erosion. Entire villages face evacuation and the traumatic prospect of life as environmental refugees.</para>
+        <para id="id1165402957675">As mentioned earlier, we have grown accustomed to speaking of “nature” or “the environment” as if they were somehow separate from us, something that might dictate our choice of holiday destination or wall calendar, but nothing else. A useful counter-metaphor for sustainability studies, to offset this habitual view, is to think of human and natural systems in <emphasis effect="italics">metabolic</emphasis> terms. Like the human body, a modern city, for example, is an energy-dependent system involving inputs and outputs. Every day, millions of tons of natural resources (raw materials, consumer goods, food, water, energy) are pumped into the world’s cities, which turn them out in the form of waste (landfill, effluent, carbon emissions, etc.).</para>
+        <para id="id4953450">Unlike the human body, however, the <term target-id="id1165392850952">metabolism</term> of modern cities is not a closed and self-sustaining system. Cities are consuming resources at a rate that would require a planet one and a half times the size of Earth to sustain, and are ejecting wastes into the land, water, and air that are further degrading the planet’s ability to renew its vital reserves. Here, another body metaphor—the environmental “<term target-id="id1165392850952">footprint</term>”—has become a popular means for imagining sufficiency and excess in our consumption of resources. The footprint metaphor is useful because it provides us an image measurement of both our own consumption volume and the environmental impact of the goods and services we use. By making sure to consume less, and to utilize only those goods and services with a responsibly low footprint, we in turn reduce our own footprint on the planet. In important ways, the problem of unsustainability is a problem of waste. From a purely instrumentalist or consumerist viewpoint, waste is incidental or irrelevant to the value of a product. A metabolic view of systems, by contrast, promotes sustainability concepts such as <term target-id="id1165395008503">closed loops</term> and <term target-id="id1165390040197">carbon neutrality</term> for the things we manufacture and consume, whereby there are no toxic remainders through the entire <term target-id="id1165395211626">lifecycle</term> of a product. In this sense, systems literacy is as much a habit or style of observing the everyday world as it is an academic principle for the classroom. Because in the end, the fate of the world’s ecosystems will depend not on what we learn in the classroom but on the extent to which we integrate that learning in our lives beyond it: in our professional practice and careers, and the lifestyle and consumer choices we make over the coming years and decades. If systems literacy translates into a worldview and way of life, then sustainability is possible.</para>
+      </section>
+      <section id="id1165392526652">
+        <title>Review Questions</title>
+        <exercise id="id1165384780679">
+			<label>Question</label>
+          <problem id="oo-id1165402964705">
+            <para id="id1165385017470">What are <emphasis effect="italics">synchronic</emphasis><emphasis effect="italics"/>and <emphasis effect="italics">diachronic</emphasis> views of time, and how does the distinction help us to understand the relation between human and natural systems, and to potentially rewrite history from an environmental point of view?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165389995964">
+		<label>Question</label>
+          <problem id="oo-id1165401118807">
+            <para id="id1165392660046">How is a <emphasis effect="italics">bio-complex</emphasis> view of the relations between human and natural systems central to sustainability, in both theory and practice?</para>
+          </problem>
+        </exercise>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1165396115139">
+      <term>biocomplexity</term>
+      <meaning id="oo-id1165393631070">A defining characteristic of living things and their relationships to each other. The biocomplexity concept emphasizes the multiple dependent connections within ecosystems, and between ecosystems and human societies.
+      </meaning>
+    </definition>
+    <definition id="id1165390040197">
+      <term>carbon neutrality</term>
+      <meaning id="oo-id1165394606881">To be carbon neutral, the carbon emissions of a consumable product or human activity must either not involve the consumption of carbon-based energy (a difficult thing to achieve under our present regime), or offset that consumption through the drawdown of an equivalent amount of atmospheric carbon during its lifecycle. 
+      </meaning>
+    </definition>
+    <definition id="id1165395008503">
+      <term>closed loops</term>
+      <meaning id="oo-id1165402021605">The sustainable reform of industrial production and waste management emphasizes the recycling of materials back into the environment or into the industrial cycle, that is, to eliminate the concept of waste entirely.
+      </meaning>
+    </definition>
+    <definition id="id1165384180139">
+      <term>diachronic/synchronic</term>
+      <meaning id="oo-id1165390598509">A diachronic view of a system examines it evolution over time, while a synchronic view is concerned with its characteristics at a single point in time.
+      </meaning>
+    </definition>
+    <definition id="id1165402314958">
+      <term>interdisciplinarity</term>
+      <meaning id="oo-id1165396155863">A trend in higher education research and teaching of the last thirty years that emphasizes the bridging of traditional disciplines, and that is an essential framework for sustainability studies.
+      </meaning>
+    </definition>
+    <definition id="id1165395211626">
+      <term>lifecycle</term>
+      <meaning id="oo-id1165384898829">In terms of sustainability, the entire lifecycle of a product must be measured for its environmental impact, not simply its point of production, consumption, or disposal. A key aspect of general sustainability education is the understanding of where goods originate, the industrial processes required for their manufacture and transport, and their fate after use.
+      </meaning>
+    </definition>
+    <definition id="id1165392850952">
+      <term>metabolism and footprint</term>
+      <meaning id="oo-id1165400207538">Two metaphors, related to the human body, for conceptualizing the relationship between consumption and waste at the social level. Metabolism emphasizes a system of inputs and outputs dependent upon “energy” and measured according to the “health” of the whole, while footprint is a popular metric for quantifying the environmental impacts of goods, services, and lifestyles.
+      </meaning>
+    </definition>
+    <definition id="id1165399260211">
+      <term>resilience and vulnerability</term>
+      <meaning id="oo-id1165392595886">Important terms of measurement for the impact of environmental change, particularly on human communities. The goal of sustainability analysis and policy, at all levels, is to enhance the resilience of communities to change, in other words, to mitigate their vulnerability.
+      </meaning>
+    </definition>
+    <definition id="id1165394393714">
+      <term>systems literacy</term>
+      <meaning id="oo-id1165401786672">An educational philosophy that emphasizes a student’s competence in a wide variety of disciplines, so that he or she might better understand the operations of those complex systems, both human and natural, that underpin sustainability.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

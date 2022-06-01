@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Environmental and Resource Economics - Chapter Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38598</md:content-id>
+  <md:title>Environmental and Resource Economics - Chapter Introduction</md:title>
+  <md:abstract>This chapter gives an overview of a few of the key ideas and economic theories that help us understand where environmental problems come from and what makes something a problem that actually needs to be fixed.</md:abstract>
+  <md:uuid>bdffc399-34c9-4aa3-af7a-d9b81513b517</md:uuid>
+</metadata>
+
+<content>  
+      <figure id="id1171715394276" type="Figure"><media id="id1171715394276_media" alt="image of a balance" longdesc="image of a balance with environmental impacts on one tray and economic impacts on the other">
+          <image mime-type="image/png" src="../../media/graphics1-0191.png" id="id1171715394276__onlineimage" height="172" width="260"/>
+        </media>
+        
+      <caption><emphasis effect="italics">Source: <link url="http://www.need.org/" window="new">The NEED Project</link></emphasis>
+        </caption></figure>
+
+    <section id="id1171716394505">
+      <title>Introduction</title>
+      <para id="id1171735515330">The field of environmental and natural resource economics sounds to many like an oxymoron. Most people think economists study money, finance, and business—so what does that have to do with the environment? Economics is really broadly defined as the study of the allocation of scarce resources. In other words, economics is a social science that helps people understand how to make hard choices when there are unavoidable tradeoffs. For example, a company can make and sell more cars, which brings in revenue, but doing so also increases production costs. Or a student can choose to have a part-time job to reduce the size of the loan she needs to pay for college, but that reduces the time she has for studying and makes it harder for her to get good grades. Some economists do study business, helping companies and industries design production, marketing, and investment strategies that maximize their profits. Other economists work to understand and inform the choices individuals make about their investments in education and how to divide their time between work, leisure, and family in order to make themselves and their families better off. Environmental and natural resource economists study the tradeoffs associated with one of the most important scarce resources we have—nature.</para>
+      <para id="id1171720257361">Economists contribute to the study of environmental problems with two kinds of work. First, they do <term target-id="id1171728648805">normative</term> studies of how people should manage resources and invest in environmental quality to make themselves and/or society as well off as possible. Second, they do <term target-id="id1171718878797">positive analyses</term> of how human agents—individuals, firms, and so forth—actually do behave. Normative studies give recommendations and guidance for people and policy makers to follow. Positive studies of human behavior help us to understand what causes environmental problems and which policies are most likely to work well to alleviate them.</para>
+      <para id="id1171719210837">This chapter gives an overview of a few of the key ideas that have been developed in this field. First, we will learn the economic theories that help us understand where environmental problems come from and what makes something a problem that actually needs to be fixed. This section of the chapter will introduce the concepts of externalities, public goods, and open access resources, and explain how in situations with those features we often end up with too much pollution and excessive rates of natural resource exploitation. Second, we will learn the tools economists have developed to quantify the value of environmental amenities. It is very difficult to identify a monetary value for things like clean air and wildlife, which are not traded in a marketplace, but such value estimates are often helpful inputs for public discussions about environmental policies and investments. Third, we will discuss a set of approaches economists use to evaluate environmental policies and projects. We want to design policies that are “good,” but what exactly does that mean? Finally, we will learn about the different policy tools that can be used to solve problems of excess environmental degradation and resource exploitation, including a set of incentive policies that were designed by economists to work <emphasis effect="italics">with</emphasis> rather than against the way that people really behave, and we will discuss the strengths and weaknesses of those different tools.</para>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1171728648805">
+      <term>normative analysis</term>
+      <meaning id="oo-id1171731664970">A study of how things should be.
+      </meaning>
+    </definition>
+    <definition id="id1171718878797">
+      <term>positive analysis</term>
+      <meaning id="oo-id1171725717663">A study of how things are.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

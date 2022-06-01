@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Case Study: The Love Canal Disaster</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41444</md:content-id>
+  <md:title>Case Study: The Love Canal Disaster</md:title>
+  <md:abstract>In this module,  The Love Canal Disaster is described.</md:abstract>
+  <md:uuid>bf13127c-d9fb-4fb7-a055-89e4a49bafe2</md:uuid>
+</metadata>
+
+<content>
+      <para id="id1166529954915">One of the most famous and important examples of groundwater pollution in the U.S. is the Love Canal tragedy in Niagara Falls, New York. It is important because the pollution disaster at Love Canal, along with similar pollution calamities at that time (Times Beach, Missouri and Valley of Drums, Kentucky), helped to create <term target-id="id1166544326161">Superfund</term>, a federal program instituted in 1980 and designed to identify and clean up the worst of the hazardous chemical waste sites in the U.S.</para>
+      <para id="id1166530743395">Love Canal is a neighborhood in Niagara Falls named after a large ditch (approximately 15 m wide, 3–12 m deep, and 1600 m long) that was dug in the 1890s for hydroelectric power. The ditch was abandoned before it actually generated any power and went mostly unused for decades, except for swimming by local residents. In the 1920s Niagara Falls began dumping urban waste into Love Canal, and in the 1940s the U.S. Army dumped waste from World War II there, including waste from the frantic effort to build a nuclear bomb. Hooker Chemical purchased the land in 1942 and lined it with clay. Then, the company put into Love Canal an estimated 21,000 tons of hazardous chemical waste, including the carcinogens benzene, dioxin, and PCBs in large metal barrels and covered them with more clay. In 1953, Hooker sold the land to the Niagara Falls school board for $1, and included a clause in the sales contract that both described the land use (filled with chemical waste) and absolved them from any future damage claims from the buried waste. The school board promptly built a public school on the site and sold the surrounding land for a housing project that built 200 or so homes along the canal banks and another 1,000 in the neighborhood (see Figure <link target-id="id1166530997778"><emphasis effect="bold">Love Canal</emphasis></link>). During construction, the canal’s clay cap and walls were breached, damaging some of the metal barrels.</para>
+
+        <figure id="id1166530997778"><media id="id1166551449780_media" alt="photograph of love canal">
+            <image mime-type="image/jpg" src="../../media/graphics1-3b79.jpg" id="id1166551449780__onlineimage" print-width="4in" height="600" width="408"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Love Canal</emphasis>
+            <emphasis effect="italics"> Source: <link url="http://www.epa.gov/region2/superfund/npl/lovecanal/images.html" window="new">US Environmental Protection Agency</link></emphasis>
+          </caption></figure><para id="id1166530452576">Eventually, the chemical waste seeped into people's basements, and the metal barrels worked their way to the surface. Trees and gardens began to die; bicycle tires and the rubber soles of children's shoes disintegrated in noxious puddles. From the 1950s to the late 1970s, residents repeatedly complained of strange odors and substances that surfaced in their yards. City officials investigated the area, but did not act to solve the problem. Local residents allegedly experienced major health problems including high rates of miscarriages, birth defects, and chromosome damage, but studies by the New York State Health Department disputed that. Finally, in 1978 President Carter declared a state of emergency at Love Canal, making it the first human-caused environmental problem to be designated that way. The Love Canal incident became a symbol of improperly stored chemical waste. Clean up of Love Canal, which was funded by Superfund and completely finished in 2004, involved removing contaminated soil, installing drainage pipes to capture contaminated groundwater for treatment, and covering it with clay and plastic. In 1995, Occidental Chemical (the modern name for Hooker Chemical) paid $102 million to Superfund for cleanup and $27 million to Federal Emergency Management Association for the relocation of more than 1,000 families. New York State paid $98 million to EPA and the US government paid $8 million for pollution by the Army. The total clean up cost was estimated to be $275 million. The only good thing about the Love Canal tragedy is that it helped to create Superfund, which has analyzed tens of thousands of hazardous waste sites in the U.S. and cleaned up hundreds of the worst ones. Nevertheless, over 1,000 major hazardous waste sites with a significant risk to human health or the environment are still in the process of being cleaned.</para>
+  </content>
+  <glossary>
+    <definition id="id1166544326161">
+      <term>superfund</term>
+      <meaning id="oo-id1166530744898">A federal program created in 1980 and designed to identify and clean up the worst of the hazardous chemical waste sites in the U.S.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

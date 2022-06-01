@@ -1,0 +1,342 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Life Cycle Assessment</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38643</md:content-id>
+  <md:title>Life Cycle Assessment</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) problem solving in a systematic and holistic manner, 2) the basic elements of life cycle analysis, and 3) the available tools for conducting life cycle analysis.</md:abstract>
+  <md:uuid>567d3343-7698-48c4-a7f0-5b413d82034b</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1168004885165">
+        <title>Learning Objectives</title>
+        <para id="id1167991485394">After reading this module, students should be able to</para><list id="id3625626" list-type="bulleted"><item>learn to view problem solving in a systematic and holistic manner</item>
+<item>understand the basic elements of industrial ecology and life cycle analysis</item>
+<item>become aware of available tools for conducting life cycle analysis</item>
+        </list>
+      </section>
+      <section id="id1167989769970">
+        <title>Problem Solving for Sustainability</title>
+        <para id="id7698257">It should be clear by now that making decisions and solving problems in support of greater sustainability of human-created systems and their impact on the natural environment is a complex undertaking. Often in modern life our decisions and designs are driven by a single goal or objective (e.g. greater monetary profitability, use of less energy, design for shorter travel times, generation of less waste, or reduction of risk), but in most cases solving problems sustainably requires a more holistic approach in which the functioning of many parts of the system must be assessed simultaneously, and multiple objectives must be integrated when possible. Furthermore, as noted in the <link url="http://en.wikipedia.org/wiki/Brundtland_Commission#Brundtland_Report" window="new">Brundtland Report</link> (or see Chapter <link document="m41187"><emphasis effect="bold">Introduction to Sustainability: Humanity and the Environment</emphasis></link>), often our decisions require the recognition of tradeoffs – there are many kinds of impacts on the environment and most decisions that we make create more than one impact at the same time. Of course choices must be made, but it is better if they are made with fuller knowledge of the array of impacts that will occur. The history of environmental degradation is littered with decisions and solutions that resulted in unintended consequences.</para>
+        <para id="id1167999923030">An illustrative example of the role of sustainability in solving problems is the issue of biofuels – turning plant matter into usable energy (mostly liquid hydrocarbon-based fuels). When viewed from afar and with a single goal, “energy independence,” using our considerable agricultural resources to turn solar energy, via photosynthesis, into usable fuels so that we can reduce our dependence on imported petroleum appears to be quite attractive. The United States is the largest producer of grain and forest products in the world. It has pioneered new technologies to maintain and even increase agricultural productivity, and it has vast processing capabilities to create artificial fertilizer and to convert biomass into agricultural products (see Module <link document="m41731"><emphasis effect="bold">Renewable Energy: Solar, Wind, Hydro and Biomass</emphasis></link>). And, after all, such a venture is both “domestic” and “natural” – attributes that incline many, initially at least, to be favorably disposed. However upon closer examination this direction is not quite as unequivocally positive as we might have thought. Yes it is possible to convert grain into ethanol and plant oils into diesel fuel, but the great majority of these resources have historically been used to feed Americans and the animals that they consume (and not just Americans; the United States is the world’s largest exporter of agricultural products). As demand has increased, the prices for many agricultural products have risen, meaning that some fraction of the world’s poor can no longer afford as much food. More marginal lands (which are better used for other crops, grazing, or other uses) have been brought under cultivation for fermentable grains, and there have been parallel “indirect” consequences globally – as the world price of agricultural commodities has risen, other countries have begun diverting land from existing uses to crops as well. Furthermore, agricultural runoff from artificial fertilizers has contributed to over 400 regional episodes of <term document="m41441" target-id="id1172493435664">hypoxia</term> in estuaries around the world, including the U.S. Gulf Coast and Chesapeake Bay.</para>
+        <para id="id1167987387193">In response to such problems, U.S. Congress passed the <link url="http://www.govtrack.us/congress/bill.xpd?bill=h110-6" window="new">Energy Independence and Security Act</link> in 2007, which limits the amount of grain that can be converted into biofuels in favor of using agriculturally-derived cellulose, the chief constituent of the cell walls of plants. This has given rise to a large scientific and technological research and development program to devise economical ways to process cellulosic materials into ethanol, and parallel efforts to investigate new cellulosic cropping systems that include, for example, <link url="http://www.nsf.gov/news/news_summ.jsp?cntn_id=108206" window="new">native grasses</link>. Thus, the seemingly simple decision to grow our biofuels industry in response to a political objective has had unintended political, financial, dietary, social, land use, environmental quality, and technological consequences.</para>
+        <para id="id1167991959163">With hindsight, the multiple impacts of biofuels have become clear, and there is always the hope that we can learn from examples like this. But we might also ask if there is a way to foresee all or at least some of these impacts in advance, and adjust our designs, processes, and policies to take them into account and make more informed decisions, not just for biofuels but also for complex societal problems of a similar nature. This approach is the realm of the field of <term target-id="defIndustrialEcology">industrial ecology</term>, and the basis for the tool of <term target-id="id1168002034039">life cycle assessment (LCA)</term>, a methodology that has been designed to perform holistic analyses of complex systems.</para>
+      </section>
+      <section id="eip-998"><title>Industrial Ecology</title><para id="eip-995">Many systems designed by humans focus on maximizing profitability for the firm, business or corporation. In most cases this means increasing production to meet demand for the products or services being delivered. An unfortunate byproduct of this is the creation of large amounts of waste, many of which have significant impacts if they enter the environment. Figure <link target-id="fig9-2-1"><emphasis effect="bold">Human-Designed Industry</emphasis></link> is a general-purpose diagram of a typical manufacturing process, showing the inputs of materials and energy, the manufacturing of products, and the generation of wastes (the contents of the “manufacturing box” are generic and not meant to depict any particular industry—it could be a mine, a factory, a power plant, a city, or even a university). What many find surprising is the large disparity between the amounts of waste produced and the quantity of product delivered. Table <link target-id="tab9-2-1"><emphasis effect="bold">Waste-to-Product Ratios for Selected Industries</emphasis></link> provides such information, in the form of waste-to-product ratios, for a few common industries.</para>
+	            <figure id="fig9-2-1" type="Figure"><media id="med9-2-1" alt="Human-Designed Industry" longdesc="Generic representations of a human-designed industry.">
+              <image mime-type="image/png" src="../../media/figure9-2-1.png" id="img9-2-1" height="352" width="633"/>
+            </media>
+            
+          <caption><emphasis effect="bold">Human-Designed Industry</emphasis> Generic representation of a human-designed industry.<emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/theist" window="new">Theis, T.</link></emphasis></caption></figure>
+	  <para id="eip-610">That industrial systems designed to maximize production and/or profits while ignoring wastes should be so materially inefficient is not surprising. As noted in the Module <link document="m42116"><emphasis effect="bold">Sustainability and Public Policy</emphasis></link>, the impacts of wastes on human health and the environment have historically been ignored, or steeply underpriced, so that little incentive has existed to limit waste production. More recently laws have been enacted that attempt to force those responsible for waste emissions into a more appropriate accounting (see Chapters <link document="m41724"><emphasis effect="bold">Environmental and Resource Economics</emphasis></link> and <link document="m41573"><emphasis effect="bold">Modern Environmental Management</emphasis></link> for a fuller treatment of the laws, regulations, and practices used to incorporate society’s costs into the production chain). Once realistic costs are assigned to the waste sector, manufacturers are quick to innovate and investigate ways to eliminate them.</para>	  
+
+	  <table id="tab9-2-1" summary="Table shows the waste to product ratios for six commons industries.">
+<tgroup cols="2"><thead>
+  <row>
+    <entry>Industrial Sector</entry>
+    <entry>Waste-to-Product Ratio</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+    <entry>Automobiles</entry>
+    <entry>2/1 (up to 10/1 if consumer use is included)</entry>
+  </row>
+  <row>
+    <entry>Paper</entry>
+    <entry>10/1</entry>
+  </row>
+  <row>
+    <entry>Basic Metals (e.g. Steel and Aluminum)</entry>
+    <entry>30-50/1</entry>
+  </row>
+  <row>
+    <entry>Chemicals</entry>
+    <entry>0.1-100/1</entry>
+  </row>
+  <row>
+    <entry>Nanostructured materials (e.g. computer chips)</entry>
+    <entry>700-1700/1</entry>
+  </row>
+  <row>
+    <entry>Modern Agriculture</entry>
+    <entry>~4/1</entry>
+  </row>
+</tbody>
+
+</tgroup><caption><emphasis effect="bold">Waste-to-Product Ratios for Selected Industries:</emphasis> Table shows the waste to product ratios for six common industries. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/theist" window="new">Theis, T.</link></emphasis></caption>
+</table><para id="eip-314">In 1989, Robert Frosch &amp; Nicholas Gallopoulos, who worked in the General Motors Research Laboratory, published an important analysis of this problem in Scientific American (<link target-id="refFroschGallopoulos1989">Frosch and Gallopoulos, 1989</link>). Their paper was entitled <link url="http://en.wikipedia.org/wiki/Industrial_ecology#History" window="new">“Strategies for Manufacturing”</link>; in it they posed a critical question: Why is it that human-designed manufacturing systems are so wasteful, but systems in nature produce little, if any, waste? Although there had been many studies on ways to minimize or prevent wastes, this was the first to seek a systemic understanding of what was fundamentally different about human systems in distinction to natural systems. The paper is widely credited with spawning the new field of Industrial Ecology, an applied science that studies material and energy flows through industrial systems. <link url="http://en.wikipedia.org/wiki/Industrial_ecology" window="new">Industrial Ecology</link> is concerned with such things as closing material loops (recycling and reuse), process and energy efficiency, organizational behavior, system costs, and social impacts of goods and services. A principle tool of Industrial Ecology is life cycle assessment.</para></section><section id="id7712052">
+        <title>Life Cycle Assessment Basics</title>
+        <para id="id1168007771754"><link url="http://www.epa.gov/nrmrl/std/sab/lca/" window="new">LCA</link> is a systems methodology for compiling and evaluating information on materials and energy as they flow through a product or service manufacturing chain. It grew out of the needs of industry, in the early 1960s, to understand manufacturing systems, supply chains, and market behavior, and make choices among competing designs, processes, and products. It was also applied to the evaluation of the generation and emission of wastes from manufacturing activities. During the 1970s and 1980s general interest in LCA for environmental evaluation declined as the nation focused on the control of toxic substances and remediation of hazardous waste sites (see Chapters <link document="m42118"><emphasis effect="bold">The Evolution of Environmental Policy in the United States</emphasis></link> and <link document="m41573"><emphasis effect="bold">Modern Environmental Management</emphasis></link>), but increasing concern about global impacts, particularly those associated with greenhouse gas emissions, saw renewed interest in the development of the LCA methodology and more widespread applications.</para>
+        <para id="id1167987071705">LCA is a good way to understand the totality of the environmental impacts and benefits of a product or service. The method enables researchers and practitioners to see where along the product chain material and energy are most intensively consumed and waste produced. It allows for comparisons with conventional products that may be displaced in commerce by new products, and helps to identify economic and environmental tradeoffs.</para>
+        <para id="id1168009386600">LCA can facilitate communication of risks and benefits to stakeholders and consumers (e.g. the <link url="http://www.epa.gov/climatechange/emissions/ind_calculator.html" window="new">“carbon footprint”</link> of individual activities and life styles). Perhaps most importantly of all, LCA can help to prevent unintended consequences, such as creating solutions to problems that result in the transferal of environmental burdens from one area to another, or from one type of impact to another.</para>
+        <para id="id1168014884462">A complete LCA assessment defines a system as consisting of four general stages of the product or service chain, each of which can be further broken down into substages:</para>
+        <list id="id1168003331818" list-type="bulleted">
+          <item>Acquisition of materials (through resource extraction or recycled sources)</item>
+          <item>Manufacturing, refining, and fabrication</item>
+          <item>Use by consumers</item>
+          <item>End-of-life disposition (incineration, landfilling, composting, recycling/reuse)</item>
+        </list>
+        <para id="id1168014036323">Each of these involves the transport of materials within or between stages, and transportation has its own set of impacts.</para>
+        <para id="id2979861">In most cases, the impacts contributed from each stage of the LCA are uneven, i.e. one or two of the stages may dominate the assessment. For example, in the manufacture of aluminum products it is acquisition of materials (mining), purification of the ore, and chemical reduction of the aluminum into metal that create environmental impacts. Subsequent usage of aluminum products by consumers contributes very few impacts, although the facilitation of recycling of aluminum is an important step in avoiding the consumption of primary materials and energy. In contrast, for internal combustion-powered automobiles, usage by consumers creates 70-80% of the life cycle impacts. Thus, it is not always necessary that the LCA include all stages of analysis; in many cases it is only a portion of the product/service chain that is of interest, and often there is not enough information to include all stages anyway. For this reason there are certain characteristic terminologies for various “scopes” of LCAs that have emerged:</para>
+        <list id="id1168004954028" list-type="bulleted">
+          <item><emphasis effect="italics">Cradle-to-grave</emphasis>: includes the entire material/energy cycle of the product/material, but excludes recycling/reuse.</item>
+          <item><emphasis effect="italics">Cradle-to-cradle</emphasis>: includes the entire material cycle, including recycling/reuse.</item>
+          <item><emphasis effect="italics">Cradle-to-gate</emphasis>: includes material acquisition, manufacturing/refining/fabrication (factory gate), but excludes product uses and end-of-life.</item>
+          <item><emphasis effect="italics">Gate-to-gate</emphasis>: a partial LCA looking at a single added process or material in the product chain.</item>
+          <item><emphasis effect="italics">Well-to-wheel</emphasis>: a special type of LCA involving the application of fuel cycles to transportation vehicles.</item>
+          <item><emphasis effect="italics">Embodied energy</emphasis>: A cradle-to-gate analysis of the life cycle energy of a product, inclusive of the latent energy in the materials, the energy used during material acquisition, and the energy used in manufacturing intermediate and final products. Embodied energy is sometimes referred to as “emergy”, or the cumulative energy demand (CED) of a product or service.</item>
+        </list>
+      </section>
+      <section id="id1167985451992">
+        <title>LCA Methodology </title>
+        <para id="id1168014917992">Over time the methodology for conducting Life Cycle Analyses (LCAs) has been refined and standardized; it is generally described as taking place in four steps: scoping, inventory, impact assessment, and interpretation. The first three of these are consecutive, while the interpretation step is an ongoing process that takes place throughout the methodology. Figure <link target-id="id1168003417579"><emphasis effect="bold">General Framework for Life Cycle Assessment</emphasis></link> illustrates these in a general way. </para>
+        <para id="id1167988722648">
+          <figure id="id1168003417579" type="Figure">
+            <media id="id1168003417579_media" alt="General Framework for Life Cycle Assessment" longdesc="Image illustrates the four steps of life cycle assessment (scoping, inventory, impact, interpretation) and their relationship to one another">
+              <image mime-type="image/png" src="../../media/P 1.png" id="id1168003417579__onlineimage" height="325" width="285"/>
+            </media>
+            <caption><emphasis effect="bold">General Framework for Life Cycle Assessment</emphasis> The four steps of life cycle assessment and their relationship to one another. <emphasis effect="italics">Source: <link url="http://en.wikipedia.org/wiki/File:PhasesOfLifeCycleAnalysis.png" window="new">Mr3641 via Wikipedia</link></emphasis></caption>
+          </figure>
+        </para>
+        <section id="id1168006170743">
+          <title>Scoping</title>
+          <para id="id1167996401407"><term target-id="id1168006904479">Scoping</term> is arguably the most important step for conducting an LCA. It is here that the rationale for carrying out the assessment is made explicit, where the boundaries of the system are defined, where the data quantity, quality, and sources are specified, and where any assumptions that underlie the LCA are stated. This is critically important both for the quality of the resultant analysis, and for comparison among LCAs for competing or alternative products.</para>
+        </section>
+        <section id="id1167985109059"><title>Inventory Analysis</title><para id="id1167988391013">The inventory analysis step involves the collection of information on the use of energy and various materials used to make a product or service at each part of the manufacturing process. If it is true that scoping is the most important step in an LCA then the inventory is probably the most tedious since it involves locating, acquiring, and evaluating the quality of data and specifying the sources of uncertainties that may have arisen. For products that have been produced for a long time and for which manufacturing processes are well known, such as making steel, concrete, paper, most plastics, and many machines, data are readily available. But for newer products that are either under development or under patent protection, data are often considered proprietary and are generally not shared in open sources. Uncertainty can arise because of missing or poorly documented data, errors in measurement, or natural variations caused by external factors (e.g., weather patterns can cause considerable variation in the outputs of agricultural systems or the ways that consumers use products and services can cause variability in the emission of pollutants and the disposition of the product at end of life). Often the manufacturing chain of a process involves many steps resulting in a detailed inventory analysis. Figure <link target-id="id1167988055181"><emphasis effect="bold">Detailed System Flow Diagram for Bar Soap</emphasis></link>, for example, shows the manufacturing flow for a bar of soap (this diagram is for making bar soap using saponification—the hydrolysis of triglycerides using animal fats and lye). The inventory requires material and energy inputs and outputs for each of these steps, although it may turn out that some steps contribute little to the ultimate impact analysis. For example, the inventory associated with capital equipment for a manufacturing process, i.e. machines that are replaced at lengthy intervals such that their impacts in the short term are minimal, are often omitted from the analysis.</para>
+          <para id="id1167989399903">There are two additional aspects of LCA that should also be addressed during inventory analysis: the <term target-id="id1167984824461">functional unit</term> of comparison, and the <term target-id="id1168003073426">allocation</term> of inventory quantities among co-products or services. The functional unit is the basis for comparing two or more products, processes, or services that assure equality of the function delivered. This may seem like a straightforward task. For example, for the soap produced by the process of Figure <link target-id="id1167988055181"><emphasis effect="bold">Detailed System Flow Diagram for Bar Soap</emphasis></link>, one might choose “one bar of soap” as a functional unit of comparison. But then how would a LCA comparison be made with, say, liquid hand soap or a body wash product (which combines the functionality of soap and shampoo)? Perhaps “number of washings” would be a better choice, or maybe concentration of surfactant made available per average use (in the latter case an “average dose” would need to be defined). Furthermore, soaps have other additives and attributes such as scents, lotions, colors, and even the functionality of the shape – factors that may not affect cleaning effectiveness but certainly do have an impact on consumer preferences, and hence quantity sold. Since it is quite likely that essentially all soaps purchased by consumers will eventually be washed down the drain, such marketability factors may indeed have an environmental impact.</para>
+          <para id="id1168003357950">Inventory data are virtually always sought for a total supply-manufacturing-consumer-use chain rather than individual products, thus when that same chain produces multiple products it is necessary to allocate the materials, energy, and wastes among them. Again, referring to Figure <link target-id="id1167988055181"><emphasis effect="bold">Detailed System Flow Diagram for Bar Soap</emphasis></link>, there are potentially several co-products produced: tallow and other animal products, forest products, cardboard and paper, and salable scrap. There are generally three ways to allocate materials and energy among co-products: mass, volume, and economic value. Mass and volume allocations are the most straightforward, but may not capture market forces that are important in bringing materials into the environment. Allocation via economic valuation usually reflects the value of the energy and any “value added” to the raw materials, but may miss the impacts of the materials themselves. In addition, market values may fluctuate over time. In the final analysis the important aspect of any allocation procedure is that it be fully documented.</para>
+          <figure id="id1167988055181" type="Figure">
+            <media id="id1167988055181_media" alt="Detailed System Flow Diagram for Bar Soap" longdesc="A diagram showing the manufacturing flow for a bar of soap.">
+              <image mime-type="image/png" src="../../media/graphics1-c638.png" id="id1167988055181__onlineimage" height="574" width="496"/>
+            </media>
+            <caption><emphasis effect="bold">Detailed System Flow Diagram for Bar Soap</emphasis> The manufacturing flow for a bar of soap (this diagram is for making bar soap using saponification—the hydrolysis of triglycerides using animal fats and lye). <emphasis effect="italics">Source: <link target-id="id1168003001821">(U.S. Environmental Protection Agency, 2006)</link></emphasis></caption>
+          </figure>
+        </section>
+        <section id="id1167998946805">
+          <title>Impact Assessment</title>
+          <para id="id1167984984890">The <term target-id="id1168002034039">life cycle impact assessment (LCIA)</term> takes the inventory data on material resources used, energy consumed, and wastes emitted by the system and estimates potential impacts on the environment. At first glance, given that an inventory may include thousands of substances, it may seem that the number of potential impacts is bewilderingly large, but the problem is made more tractable through the application of a system of impact classifications within which various inventory quantities can be grouped as having similar consequences on human health or the environment. Sometimes inventoried quantities in a common impact category originate in different parts of the life cycle and often possess very different chemical/biological/physical characteristics. The LCIA groups emissions based on their common impacts rather than on their chemical or physical properties, choosing a reference material for which health impacts are well known, as a basic unit of comparison. A key aspect is the conversion of impacts of various substances into the reference unit. This is done using characterization factors, some of which are well-known, such as <link url="http://en.wikipedia.org/wiki/Global-warming_potential" window="new">global warming potential</link> and <link url="http://en.wikipedia.org/wiki/Ozone_depletion_potential" window="new">ozone depletion potential</link>, and <link url="http://en.wikipedia.org/wiki/Median_lethal_dose" window="new">LC<sub>50</sub></link> (the concentration of a substance at which fifty percent of an exposed population is killed), and others are still under development. Table <link target-id="id1168008441292"><emphasis effect="bold">Common Impact Categories and Their References</emphasis></link> presents several impact categories that are frequently used in the LCIA along with their references. The categories listed in Table <link target-id="id1168008441292"><emphasis effect="bold">Common Impact Categories and Their References</emphasis></link> are not exhaustive – new types of impact categories, such as land use and social impacts – and continue to be developed.</para>          
+          <table id="id1168008441292" summary="Table presents several impact categories that are frequently used in the LCIA along with their references.">
+		  
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+			  <thead>
+                <row>
+                  <entry>Human Health (cancer)</entry>
+                  <entry>Kg Benzene eq/unit</entry>
+                </row>
+			  </thead>
+              <tbody>
+                <row>
+                  <entry>Human Health (non-cancer)</entry>
+                  <entry>LC<sub>50</sub> eq from exposure modeling</entry>
+                </row>
+                <row>
+                  <entry>Global Climate Change</entry>
+                  <entry>Kg CO<sub>2</sub> eq/unit</entry>
+                </row>
+                <row>
+                  <entry>Eutrophication</entry>
+                  <entry>Kg Nitrogen eq/unit</entry>
+                </row>
+                <row>
+                  <entry>EcotoxicityAquatic, Terrestrial Toxicity</entry>
+                  <entry>Kg 2,4 D eq/unitLC<sub>50 </sub>eq from exposure modeling</entry>
+                </row>
+                <row>
+                  <entry>Acidification</entry>
+                  <entry>Kg H<sup>+</sup>/unit</entry>
+                </row>
+                <row>
+                  <entry>Smog Formation</entry>
+                  <entry>Kg Ethane eq/unit</entry>
+                </row>
+                <row>
+                  <entry>Stratospheric Ozone Depletion</entry>
+                  <entry>Kg CFC-11 eq/unit</entry>
+                </row>
+              </tbody>         
+
+</tgroup><caption><emphasis effect="bold">Common Impact Categories and Their References:</emphasis> Several impact categories that are frequently used in the LCIA along with their references. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/theist" window="new">T. Theis</link> adapted from <link target-id="id1168003001821">(U.S. Environmental Protection Agency, 2006)</link></emphasis></caption>
+</table>         
+          <para id="id1167991190996">An example will help to illustrate the type of information that results from <term target-id="id1167996037599">life cycle inventory </term>and impact assessments. In this case, a system that produces a biologically-derived plastic, polylactide, is examined. <link url="http://en.wikipedia.org/wiki/Polylactic_acid" window="new">(PLA)</link>. PLA has been proposed as a more sustainable alternative to plastics produced from petroleum because it is made from plant materials, in this case corn, yet has properties that are similar to plastics made from petroleum. Figure <link target-id="id1167996530977"><emphasis effect="bold">Processing Diagram for Making Polylactide</emphasis></link> shows a schematic of the system, which is a cradle-to-gate assessment. As with any plastic, PLA can be turned into a variety of final products and each will have different cradle-to-grave LCA characteristics. The production of PLA involves growing corn, harvesting and processing the grain, and polymerizing the lactic acid molecules produced from fermentation. At each step a variety of chemicals and energy are used or produced. It is these production materials that contribute to the impact analysis. Inventory quantities were allocated among major bio-products on a mass basis.</para>
+          <figure id="id1167996530977" type="Figure">
+            <media id="id1167996530977_media" alt="Processing Diagram for Making Polylactide (PLA)" longdesc="Diagram shows the process for making polylactide (PLA).">
+              <image mime-type="image/png" src="../../media/Processing Diagram for Making Polylactide.png" id="id1167996530977__onlineimage" height="250" width="615"/>
+            </media>
+            <caption><emphasis effect="bold">Processing Diagram for Making Polylactide (PLA)</emphasis> The production of PLA involves growing corn, harvesting and processing the grain, and polymerizing the lactic acid molecules produced from fermentation. At each step a variety of chemicals and energy are used or produced. It is these production materials that contribute to the impact analysis. <emphasis effect="italics">Source: <link target-id="id1168016841261">Landis, A.E. (2007)</link></emphasis></caption>
+          </figure>
+          <para id="id1167991131945">Among the inventory data acquired in this case is life cycle fossil fuel used by the system, mostly to power farming equipment (“Agriculture”), wet-mill corn (“CWM”), heat fermentation vats (“Ferment”), and Polymerization (“Polym”). The transport of intermediate products from sources to the processing center is also included. Figure <link target-id="id1167993439598"><emphasis effect="bold">Fossil Fuel Use to Make PLA vs. Petroleum-Based Plastics</emphasis></link> shows the fossil fuel used to make PLA compared with fossil fuel used for making several petroleum-based plastics. Figure <link target-id="id1167995287003"><emphasis effect="bold">Global Warming Potential Impact Analysis</emphasis></link> shows the global warming potential impact analysis. As might have been expected, the fossil fuels used to make PLA are slightly less than for the petroleum-derived plastics on an </para>
+          <para id="id1167989809374">
+            <figure id="id1167993439598" type="Figure">
+              <media id="id1167993439598_media" alt="Fossil Fuel Used to Make PLA vs. Petroleum-Based Products" longdesc="Image shows that the amount of fossil fuels used when making PLA is slightly less in comparison to making several petroleum-based products.">
+                <image mime-type="image/png" src="../../media/Fossil Fuel Use to Make PLA.png" id="id1167993439598__onlineimage" height="291" width="650"/>
+              </media>
+              <caption><emphasis effect="bold">Fossil Fuel Use to Make PLA vs. Petroleum-Based Plastics</emphasis> The amount of fossil fuels used when making PLA is slightly less in comparison to making several petroleum-based products. (note: PS-GPPS – General Purpose Polystyrene; HDPE – High Density Polyethylene; PET – Polyethylene Terephthalate; LDPE – Low Density Polyethylene; PP – Polypropylene). <emphasis effect="italics">Source: Landis, A.E. using data from: PLA-L, PLA-L2, <link target-id="id1168016841261">(Landis, A.E., 2007)</link>; PLA-V, <link target-id="id1168011695246">(Vink, et al., 2003)</link>; PLA-B, <link target-id="id1168007827035">(Bohlmann, 2004)</link>; PLA-P, <link target-id="id1168005217521">(Patel, et al., 2006)</link>.</emphasis></caption>
+            </figure>
+          </para>
+          <figure id="id1167995287003" type="Figure">
+            <media id="id1167995287003_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics4-c55e.png" id="id1167995287003__onlineimage" height="256" width="473"/>
+            </media>
+            <caption><emphasis effect="bold">Global Warming Potential Impact Analysis</emphasis> Global warming impact for PLA compared with several other petroleum- derived plastics. <emphasis effect="italics">Source: <link target-id="id1168016841261">Landis, A.E. (2007)</link></emphasis></caption>
+          </figure>
+          <para id="id5218964">equal mass basis (the functional unit is one kilogram of plastic). The PLA inventory also shows the sources of fossil fuel used for each step along the manufacturing chain, with the fermentation step being the most intense user. What may not be obvious is that the total greenhouse gases (GHG) emitted from the process, on an equivalent carbon dioxide (CO<sub>2</sub>) basis, are generally higher for the biopolymer in comparison with the petroleum polymers in spite of the lower fossil fuel usage. When the data are examined closely this is due to the agricultural step, which consumes generates relatively little fossil fuel, but is responsible for a disproportionate amount of emissions of GHGs, mostly in the form of nitrous oxide, a powerful greenhouse gas (310 times the global warming potential of CO<sub>2</sub>) that is a by-product of fertilizer application to fields. This example also illustrates counter-intuitive results that LCAs often generate, a principal reason why it is important to conduct them.</para>
+        </section>
+      </section>
+      <section id="id1167995224132">
+        <title>Interpretation of LCA</title>
+        <para id="id1168009019730">The interpretation step of LCA occurs throughout the analysis. As noted above, issues related to the rationale for conducting the LCA, defining the system and setting its boundaries, identifying data needs, sources, and quality, and choosing functional units, allocation procedures, and appropriate impact categories must all be addressed as the LCA unfolds. There are essentially two formal reasons for conducting an LCA: (a) identification of “hot spots” where material and/or energy use and waste emissions, both quantity and type, are greatest so that efforts can be focused on improving the product chain; and (b) comparison of results between and among other LCAs in order to gain insight into the preferable product, service, process, or pathway. In both cases, there are cautions that apply to the interpretation of results.</para>
+        <section id="id2121983">
+          <title>Assumptions</title>
+          <para id="id1168016405112">Typically a variety of assumption must be made in order to carry out the LCA. Sometimes these are minor, for example, exclusion of elements of the study that clearly have no appreciable impact on the results, and sometimes more critical, for example choosing one set of system boundaries over another. These must be explicitly stated, and final results should be interpreted in light of assumptions made</para>
+        </section>
+        <section id="id1168000789953">
+          <title>Data Quality, Uncertainty, and Sensitivity</title>
+          <para id="id1168001100750">In the course of conducting an LCA it is usually the case that a variety of data sources will be used. In some cases these may be from the full-scale operation of a process, in others the source is from a small scale or even laboratory scale, in still other cases it may be necessary to simulate information from literature sources. Such heterogeneity inevitably leads to uncertainty in the final results; there are several statistical methods that can be applied to take these into account. An important aspect of the completed LCA is the degree of sensitivity the results display when key variables are perturbed. Highly sensitive steps in the chain have a greater need to narrow uncertainties before drawing conclusions with confidence.</para>
+        </section>
+        <section id="id1167991400241">
+          <title>Incommensurability</title>
+          <para id="id1168000791573">Sometimes LCA impact categories, such as those shown in Table <link target-id="id1168008441292"><emphasis effect="bold">Common Impact Categories and Their References</emphasis></link>, overlap in the sense that the same pollutant may contribute to more than one category. For instance, if a given assessment comes up with high scores for both aquatic toxicity and human toxicity from, say, pesticide use then one might be justified in using both of these categories to draw conclusions and make choices based on LCA results. However, more typically elevated scores are found for categories that are not directly comparable. For instance, the extraction, refining, and use of petroleum generate a high score for global warming (due to GHG release), while the product chain for the biofuel ethanol has a high score for eutrophication (due to nitrogen release during the farming stage). Which problem is worse – climate change or coastal hypoxia? Society may well choose a course of action that favors one direction over another, but in this case the main value of the LCA is to identify the tradeoffs and inform us of the consequences, not tell us which course is “correct.”</para>
+        </section>
+        <section id="id1167985720065">
+          <title>Risk Evaluation and Regulation</title>
+          <para id="id3114824">One of the inherent limits to LCA is its use for assessing risk. Risk assessment and management, as described in the Modules <link document="m42118"><emphasis effect="bold">The Evolution of Environmental Policy in the United States</emphasis></link> and <link document="m41573"><emphasis effect="bold">Modern Environmental Management</emphasis></link>, is a formal process that quantifies risks for a known population in a specific location exposed to a specific chemical for a defined period of time. It generates risk values in terms of the probability of a known consequence due to a sequence of events that are directly comparable, and upon which decisions on water, land, and air quality standards and their violation can be and are made. LCA is a method for evaluating the impacts of wastes on human health and the environment from the point of view of the product/service chain rather than a particular population. It can be used to identify the sources of contamination and general impacts on the environment – a sort of “where to look” guide for regulation, but its direct use in the environmental regulatory process has been, to date, rather limited. One application for LCA that has been suggested for regulatory use is for assessing the impacts of biofuel mandates on land use practices, in the United States and other regions, however no regulatory standards for land use have yet been proposed.</para>
+        </section>
+      </section>
+      <section id="id1167994962259">
+        <title>Tools for Conducting LCA</title>
+        <para id="id1167990517000">Fortunately a number of databases and tools, in the form of computer software, are available to assist in carrying out LCAs. This is an active area of development; in this section a few of the more well-known and widely used tools are described.</para>
+        <section id="eip-765"><title>The Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation Model (GREET)</title><para id="eip-578"><link url="http://greet.es.anl.gov/" window="new">GREET</link> is a spreadsheet-based database developed by Argonne National Laboratory that links energy use to emissions on a life cycle basis. Early versions were limited to greenhouse gases, but as the model has been refined many other types of contaminants have been added. Although it has been widely used for comparing transportation and fuel options (hence its title), GREET has been used for many other applications that have a significant energy component, including agriculture, material and product development, and strategies for recycling.</para></section>
+        
+        
+        <section id="eip-688"><title>SimaPro</title><para id="eip-523"><link url="http://www.pre.nl/content/simapro-lca-software" window="new">SimaPro</link><emphasis effect="italics"/> was developed by PRé Consultants in the Netherlands. It is a process-based tool for analyzing products and systems for their energy usage and environmental impacts over their life cycle. It contains a number of databases for simulating processes, performing inventories, assembling products and systems, analyzing results, and assessing life cycle impacts, and features modules for performing uncertainty and sensitivity analyses.</para></section>
+        
+        <section id="eip-44"><title>Tool for the Reduction and Assessment of Chemical and Other Environmental Impacts (TRACI)</title><para id="eip-824"><link url="http://www.epa.gov/nrmrl/std/sab/traci/" window="new">TRACI</link> is a tool for performing life cycle impact analyses developed by the U.S. Environmental Protection Agency. It uses inventory data as input information to perform a “mid-point” impact analysis using categories such as those shown in Table <link target-id="id1168008441292"><emphasis effect="bold">Common Impact Categories and Their References</emphasis></link>. A mid-point analysis assesses impact based upon results at a common point in the risk chain, for example, global warming potential, because subsequent end-point impact assessments require several assumptions and value choices that often differ from case to case. The values for the various impact categories given in Table <link target-id="id1168008441292"><emphasis effect="bold">Common Impact Categories and Their References</emphasis></link> are mid-point references.
+</para></section>
+        
+        <section id="eip-626"><title>Economic Input Output Life Cycle Assessment (EIO-LCA)</title><para id="eip-425"><term target-id="id1168005697150">EIO-LCA</term> (<link url="http://www.eiolca.net/" window="new">http://www.eiolca.net/</link>) takes a different approach to the development of a life cycle assessment. In comparison with the somewhat complicated “bottom-up” approach described above, EIO-LCA uses a more aggregated, matrix-based approach in which the economy is composed of several hundred “sectors,” each linked to the other through a series of factors. EIO was first developed in the 1950s by Wassily Leontief (1905-1999) who was awarded a Nobel Prize in economics for his work. EIO has proven to be a very useful tool for national and regional economic planning. The developers of EIO-LCA then linked the main economic model to a series of environmental impacts. EIO-LCA uses economic measures to perturb the system; for example, if a factory seeks to increase its output by ten percent, then the aggregated inputs across the economy will have to increase by ten percent. Of course some of the inputs from some sectors will increase very little if at all, while others will bear the major brunt of the increase in output by increasing input. In EIO-LCA, part of the new outputs will be increased contaminant loads to the environment.
+</para><para id="eip-475">EIO-LCA has several advantages in comparison with the “bottom-up” approach. There is no need to be concerned with defining system boundaries, i.e. the “boundary” is the entire economy of the United States (or a sub-region), which includes all material and energy inputs and outputs. The data used in EIO-LCA are, for the most part, already collected by the federal government thereby obviating the tedium of the inventory stage. Finally, software models are readily available to carry out the analysis. While a “bottom-up” LCA may take months or even years to complete, EIO-LCA typically takes a few hours.</para><para id="eip-738">Of course, at this level of aggregation much information is lost, especially on how the system actually functions. For example, the “energy” sector of the economy includes electricity generated, but doesn’t distinguish among nuclear, fossil, or renewable sources. And if one is concerned with the functional reasons for a particular result, EIO-LCA will be of limited use. Often the “bottom-up” and EIO-LCA approaches are combined (a “hybrid” approach).</para></section>
+        
+        
+      </section>
+      <section id="id1972015">
+        <title>Conclusions</title>
+        <para id="id1167994634200">The life cycle approach is a useful way to come to an understanding of the material and energy needed to make a product or deliver a service, see where wastes are generated, and estimate the subsequent impacts that these wastes may have on the environment. It is a good way to improve a product chain, articulate tradeoffs, and make comparisons among alternative processes and products. In these contexts LCA facilitates decision making by managers, designers, and other stakeholders. Most importantly, LCA is a way of framing policy options in a comprehensive and systematic way.</para>
+      </section>
+      <section id="id1167988831601">
+        <title>Review Questions</title>
+        <exercise id="eip-604"><label>Question</label>
+<problem id="eip-526">
+  <para id="eip-378">
+    Using the information in Table <link target-id="tab9-2-1"><emphasis effect="bold">Waste-to-Product Ratios for Selected Industries</emphasis></link>, fill in numerical values, per unit of product, for the diagram in Figure <link target-id="fig9-2-1"><emphasis effect="bold">Human-Designed Industry</emphasis></link>. One diagram for each industrial sector.
+  </para>
+</problem>
+
+
+</exercise><exercise id="id1167989956775">
+		  <label>Question</label>
+          <problem id="oo-id1168005372534">
+            <para id="id1167987445713">What are some of the reasons to use Life Cycle Assessments?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167987757779">
+		  <label>Question</label>
+          <problem id="oo-id1167987778126">
+            <para id="id1167992006535">What are the basic stages of a product or service chain that serve as the basis for a life cycle assessment?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168007907932">
+		  <label>Question</label>
+          <problem id="oo-id1167987521610">
+            <para id="id1167988694347">What are the steps involved in performing a life cycle assessment?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168008105952">
+		  <label>Question</label>
+          <problem id="oo-id1167994554755">
+            <para id="id1168021308664">Name several characteristic scopes of life cycle assessments.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167990145614">
+		  <label>Question</label>
+          <problem id="oo-id1167984826092">
+            <para id="id1168009034052">What is “embodied energy”?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167985730499">
+		  <label>Question</label>
+          <problem id="oo-id1168002069505">
+            <para id="id1168007262373">Name several impact assessment categories and the reference units typically used to express them.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168001715410">
+		  <label>Question</label>
+          <problem id="oo-id1167989461891">
+            <para id="id1168003914151">Name several life cycle impact analysis tools and their major characteristics.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168001301491">
+		  <label>Question</label>
+          <problem id="oo-id1167983808248">
+            <para id="id1168001130355">What are some of the limitations of life cycle assessments?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168000789378">
+		  <label>Question</label>
+          <problem id="oo-id1168004931246">
+            <para id="id1168005533400">Locate and read a completed Life Cycle Assessment online. Consider whether widespread adoption by society would result in measureable lowering of environmental impacts? If so what kind? What might the obstacles be? Are there any tradeoffs associated with adoption, i.e. some impacts may be reduced, but others might get worse?)</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1168008000022">
+	  <title>References</title>
+	  	<para id="id1168007827035">Bohlmann, G. M. (2004). Biodegradable packaging life cycle assessment. <emphasis effect="italics">Environmental Progress,</emphasis> 23(4), 49-78. doi: 10.1002/ep.10053</para>
+		<para id="refFroschGallopoulos1989">Frosch, R. &amp; Gallopoulos, N. (1989). Strategies for Manufacturing. <emphasis effect="italics">Scientific American</emphasis>, 261(3), 144-152.</para> 
+        <para id="id1168016841261">Landis, A. E. (2007). <emphasis effect="italics">Environmental and Economic Impacts of Biobased Production</emphasis>. Unpublished doctoral dissertation, University of Illinois at Chicago.</para>
+        <para id="id1168005217521">Patel, M., Crank, M., Dornburg, V., Hermann, B., Roes, L., Huesling, B., et al. (2006, September). <emphasis effect="italics">Medium and long term opportunities and risks of the biotechnological production of bulk chemicals from renewable resources – The potential of white biotechnology: The BREW Project</emphasis>. Utrecht University, Netherlands: European  Commission’s GROWTH Programme (DG Research). </para>
+        <para id="id1168003001821">U.S. Environmental Protection Agency. (2006). <emphasis effect="italics">Life cycle assessment: Principles and practice</emphasis>. (EPA Publication No. EPA/600/R-06/060). Systems Analysis Branch, National Risk Management Research Laboratory. Cincinnati, Ohio. <link url="http://www.epa.gov/nrmrl/lcaccess/pdfs/600r06060.pdf" window="new">http://www.epa.gov/nrmrl/lcaccess/pdfs/600r06060.pdf</link>. </para>
+        <para id="id1168011695246">Vink, E. T. H., Rábagno, K.R., Glassner, D.A., &amp; Gruber, P.R. (2003). Applications of life cycle assessment to NatureWorks polylactide (PLA) production. <emphasis effect="italics">Polymer Degradation and Stability </emphasis>80(3), 403-419. doi: 10.1016/S0141-3910(02)00372-5</para></section>
+  </content>
+  <glossary>
+    <definition id="id1168003073426">
+      <term>allocation</term>
+      <meaning id="oo-id1168023481755">For a chain which produces multiple products or services, the partitioning of inventory quantities among these co-products or co-services.
+      </meaning>
+    </definition>
+    <definition id="id1168005697150">
+      <term>economic input output life cycle assessment (EIO-LCA)</term>
+      <meaning id="oo-id1167994249591">An aggregated approach to LCA in which the environmental impacts of a product or service are determined through an analysis of the complete economy.
+      </meaning>
+    </definition>
+    <definition id="id1167984824461">
+      <term>functional unit</term>
+      <meaning id="oo-id1167989893849">The basis for comparing two or more products, processes, or services that assures equality of the function delivered.
+      </meaning>
+    </definition>
+	<definition id="defIndustrialEcology">
+	  <term>industrial ecology</term>
+      <meaning id="fs-id1165930815504">An applied science that is concerned with material and energy flows through industrial systems.</meaning> 
+    </definition>
+    <definition id="id1168002034039">
+      <term>life cycle assessment (LCA)</term>
+      <meaning id="oo-id7028696">A method for quantifying the materials and energy needed to make or deliver a product or service that assesses the wastes produced and potential environmental impacts across all or a part of the product chain.
+      </meaning>
+    </definition>
+    <definition id="id1168004978228">
+      <term>life cycle impact assessment (LCIA)</term>
+      <meaning id="oo-id1168003823611">The stage of an LCA in which the environmental impacts associated with the manufacture and delivery use and disposal of a product are calculated.
+      </meaning>
+    </definition>
+    <definition id="id1167996037599">
+      <term>life cycle inventory (LCI)</term>
+      <meaning id="oo-id7048955">The stage of an LCA in which information on the use of energy and various materials used to make a product or service at each part of the manufacturing process is collected.
+      </meaning>
+    </definition>
+    <definition id="id1168006904479">
+      <term>scoping</term>
+      <meaning id="oo-id1168018553234">The stage of a LCA in which the rationale for carrying out the assessment is made explicit, where the boundaries of the system are defined, where the data quantity, quality, and sources are specified, and where any assumptions that underlie the LCA are stated.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

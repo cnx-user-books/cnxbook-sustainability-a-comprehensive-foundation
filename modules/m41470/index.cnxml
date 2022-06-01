@@ -1,0 +1,631 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Mineral Resources: Formation, Mining, Environmental Impact</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41470</md:content-id>
+  <md:title>Mineral Resources: Formation, Mining, Environmental Impact</md:title>
+  <md:abstract>In this module, the following topics will be covered: 1) the importance of minerals to society; 2) the factors that control availability of mineral resources, 3) the future world mineral supply and demand; 4) the environmental impact of mining and processing of minerals; 5) solutions to the crisis involving mineral supply</md:abstract>
+  <md:uuid>485fa646-141a-49a6-83cc-e447bff1d98d</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1168485634727">
+        <title>Learning Objectives</title>
+        <para id="id2371598">After reading this module, students should be able to</para>
+        <list id="id1168464906354" list-type="bulleted">
+          <item>know the importance of minerals to society</item>
+          <item>know factors that control availability of mineral resources</item>
+          <item>know why future world mineral supply and demand is an important issue</item>
+          <item>understand the environmental impact of mining and processing of minerals</item>
+          <item>understand how we can work toward solving the crisis involving mineral supply</item>
+        </list>
+      </section>
+      <section id="id1168477643598">
+        <title>Importance of Minerals</title>
+        <para id="id1168474785467"><term target-id="id1168470219052">Mineral resources</term> are essential to our modern industrial society and they are used everywhere. For example, at breakfast you drink some juice in a glass (made from melted quartz sand), eat from a ceramic plate (created from clay minerals heated at high temperatures), sprinkle salt (halite) on your eggs, use steel utensils (from iron ore and other minerals), read a magazine (coated with up to 50% kaolinite clay to give the glossy look), and answer your cellphone (containing over 40 different minerals including copper, silver, gold, and platinum). We need minerals to make cars, computers, appliances, concrete roads, houses, tractors, fertilizer, electrical transmission lines, and jewelry. Without mineral resources, industry would collapse and living standards would plummet. In 2010, the average person in the U.S. consumed more than16,000 pounds of mineral resources<footnote id="id1168475689098">Americans also consumed more than 21,000 pounds of energy resources from the Earth including coal, oil, natural gas, and uranium.</footnote> (see Table <link target-id="id6716868"><emphasis effect="bold">Per Capita Consumption of Minerals</emphasis></link>). With an average life expectancy of 78 years, that translates to about1.3 million pounds of mineral resources over such a person’s lifetime. Here are a few statistics that help to explain these large values of mineral use: an average American house contains about 250,000 pounds of minerals (see Figure <link target-id="id1168489865980"><emphasis effect="bold">Mineral Use in the Kitchen</emphasis></link> for examples of mineral use in the kitchen), one mile of Interstate highway uses 170 million pounds of earth materials, and the U.S. has nearly 4 million miles of roads. All of these mineral resources are nonrenewable, because nature usually takes hundreds of thousands to millions of years to produce mineral deposits. Early hominids used rocks as simple tools as early as 2.6 million years ago. At least 500,000 years ago prehistoric people used flint (fine-grained quartz) for knives and arrowheads. Other important early uses of minerals include mineral pigments such as manganese oxides and iron oxides for art, salt for food preservation, stone for pyramids, and metals such as bronze (typically tin and copper), which is stronger than pure copper and iron for steel, which is stronger than bronze.</para>
+        <para id="id1168472009776">
+          <figure id="id1168489865980" type="Figure">
+						<media id="id1168489865980_media" alt="illustration of mineral uses in the kitchen">
+              <image mime-type="image/png" src="../../media/graphics1-0185.png" id="id1168489865980__onlineimage" height="313" width="625"/>
+            </media>
+          <caption><emphasis effect="bold">Mineral Use in the Kitchen</emphasis>
+          <emphasis effect="italics">Source: <link url="http://minerals.usgs.gov/granted.html" window="new">U.S. Geological Survey</link></emphasis></caption></figure>
+        </para>
+        
+        <table id="id6716868" summary="first column lists minerals; second column lists pounds per person in 2010; third column lists pounds per person in lifetime; the footer sums the totals in the second and third columns">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+									<emphasis effect="bold">Mineral</emphasis>
+								</entry>
+                <entry>
+                  <emphasis effect="bold">Per Capita Consumption of Minerals – 2010 (Pounds per Person)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Per Capita Consumption of Minerals - Lifetime (Pounds Per Person)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Bauxite (Aluminum) </entry>
+                <entry>65</entry>
+                <entry>5,090</entry>
+              </row>
+              <row>
+                <entry>Cement </entry>
+                <entry>496</entry>
+                <entry>38,837</entry>
+              </row>
+              <row>
+                <entry>Clays </entry>
+                <entry>164</entry>
+                <entry>12,841</entry>
+              </row>
+              <row>
+                <entry>Copper </entry>
+                <entry>12</entry>
+                <entry>939.6</entry>
+              </row>
+              <row>
+                <entry>Iron Ore </entry>
+                <entry>357</entry>
+                <entry>27,953</entry>
+              </row>
+              <row>
+                <entry>Lead </entry>
+                <entry>11</entry>
+                <entry>861</entry>
+              </row>
+              <row>
+                <entry>Manganese </entry>
+                <entry>5</entry>
+                <entry>392</entry>
+              </row>
+              <row>
+                <entry>Phosphate Rock </entry>
+                <entry>217</entry>
+                <entry>16,991</entry>
+              </row>
+              <row>
+                <entry>Potash </entry>
+                <entry>37</entry>
+                <entry>2,897</entry>
+              </row>
+              <row>
+                <entry>Salt </entry>
+                <entry>421</entry>
+                <entry>32,964</entry>
+              </row>
+              <row>
+                <entry>Sand, Gravel, Stone </entry>
+                <entry>14,108</entry>
+                <entry>1,104,656</entry>
+              </row>
+              <row>
+                <entry>Soda Ash </entry>
+                <entry>36</entry>
+                <entry>2,819</entry>
+              </row>
+              <row>
+                <entry>Sulfur </entry>
+                <entry>86</entry>
+                <entry>6,734</entry>
+              </row>
+              <row>
+                <entry>Zinc </entry>
+                <entry>6</entry>
+                <entry>470</entry>
+              </row>
+              <row>
+                <entry>Other Metals </entry>
+                <entry>24</entry>
+                <entry>1,879</entry>
+              </row>
+              <row>
+                <entry>Other Nonmetals </entry>
+                <entry>332</entry>
+                <entry>25,996</entry>
+              </row>
+              <row>
+                <entry><emphasis effect="bold">Total</emphasis> </entry>
+                <entry><emphasis effect="bold">16,377</emphasis></entry>
+                <entry><emphasis effect="bold">1,282,319</emphasis></entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Per capita consumption of nonenergy related minerals and metals in the U.S. for 2010 and for a lifetime of 78.3 years assuming 2010 mineral consumption rates <emphasis effect="italics">Sources: US Geological Survey, National Mining Association, and U.S. Census Bureau </emphasis></caption>
+</table>
+        
+      </section>
+      <section id="id2484833">
+        <title>Mineral Resource Principles</title>
+        <para id="id1168476438069">A geologist defines a <term target-id="id1168481130929">mineral</term> as a naturally occurring inorganic solid with a defined chemical composition and crystal structure (regular arrangement of atoms). Minerals are the ingredients of <term target-id="id1168489538650">rock</term>, which is a solid coherent (i.e., will not fall apart) piece of planet Earth. There are three classes of rock, igneous, sedimentary, and metamorphic. <term target-id="id1168470721942">Igneous rocks</term> form by cooling and solidification of hot molten rock called lava or magma. Lava solidifies at the surface after it is ejected by a volcano, and magma cools underground. <term target-id="id1168479297266">Sedimentary rocks</term> form by hardening of layers of sediment (loose grains such as sand or mud) deposited at Earth's surface or by mineral precipitation, i.e., formation of minerals in water from dissolved mineral matter. <term target-id="id6996901">Metamorphic rocks</term> form when the shape or type of minerals in a preexisting rock changes due to intense heat and pressure deep within the Earth. <term target-id="id1168483933549">Ore</term> is rock with an enrichment of minerals that can be mined for profit. Sometimes <term target-id="id1168483083788">ore deposits</term> (locations with abundant ore) can be beautiful, such as the giant gypsum crystals at the amazing Cave of the Crystals in Mexico (see Figure <link target-id="id1168482870640"><emphasis effect="bold">Giant Gypsum Crystals</emphasis></link>). The <term target-id="id1168473549436">enrichment factor</term>, which is the ratio of the metal concentration needed for an economic ore deposit over the average abundance of that metal in Earth’s crust, is listed for several important metals in the Table <link target-id="id1168471898367"><emphasis effect="bold">Enrichment Factor</emphasis></link>. Mining of some metals, such as aluminum and iron, is profitable at relatively small concentration factors, whereas for others, such as lead and mercury, it is profitable only at very large concentration factors. The metal concentration in ore (column 3 in Table <link target-id="id1168471898367"><emphasis effect="bold">Enrichment Factor</emphasis></link>) can also be expressed in terms of the proportion of metal and waste rock produced after processing one metric ton (1,000 kg) of ore. Iron is at one extreme, with up to 690 kg of Fe metal and only 310 kg of waste rock produced from pure iron ore, and gold is at the other extreme with only one gram (.03 troy oz) of Au metal and 999.999 kg of waste rock produced from gold ore.</para>
+        <para id="id1168471730422">
+          <figure id="id1168482870640" type="Figure">
+						<media id="id1168482870640_media" alt="photograph of Giant Gypsum Crystals">
+              <image mime-type="image/png" src="../../media/graphics2-1751.png" id="id1168482870640__onlineimage" height="637" width="480"/>
+            </media>
+
+<caption><emphasis effect="bold">Giant Gypsum Crystals</emphasis> Giant gypsum crystals in the Cave of Crystals in Naica, Mexico. There are crystals up to 11 m long in this cave, which is located about 1 km underground. <emphasis effect="italics">Source: National Geographic via <link url="http://en.wikipedia.org/wiki/File:Caveofcrystals.jpg" window="new">Wikipedia</link></emphasis></caption></figure>
+        </para>
+        
+        <table id="id1168471898367" summary="first column lists metals; second column lists Average Concentration in Crust (%); third column lists Concentration Needed for Economic Mine (%); fourth column lists Approximate Enrichment Factor.">
+					<title>Enrichment Factor</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Metal</emphasis></entry>
+                <entry><emphasis effect="bold">Average Concentration in Crust (%)</emphasis></entry>
+                <entry><emphasis effect="bold">Concentration Needed for Economic Mine (%)</emphasis></entry>
+                <entry><emphasis effect="bold">Approximate Enrichment Factor</emphasis></entry>
+              </row>
+              <row>
+                <entry>Aluminum</entry>
+                <entry>8</entry>
+                <entry>35</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Iron</entry>
+                <entry>5</entry>
+                <entry>20 - 69</entry>
+                <entry>4 - 14</entry>
+              </row>
+              <row>
+                <entry>Copper</entry>
+                <entry>0.005</entry>
+                <entry>0.4 - 0.8</entry>
+                <entry>80 - 160</entry>
+              </row>
+              <row>
+                <entry>Gold</entry>
+                <entry>0.0000004</entry>
+                <entry>0.0001<footnote id="id1168482978810">Economic concentration value for gold comes from Craig, Vaughan, Skinner (2011).</footnote></entry>
+                <entry>250</entry>
+              </row>
+              <row>
+                <entry>Lead</entry>
+                <entry>0.0015</entry>
+                <entry>4</entry>
+                <entry>2,500</entry>
+              </row>
+              <row>
+                <entry>Mercury</entry>
+                <entry>0.00001</entry>
+                <entry>0.1</entry>
+                <entry>10,500</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Approximate enrichment factors of selected metals needed before profitable mining is possible. <emphasis effect="italics">Source: US Geological Survey Professional Paper 820, 1973</emphasis> </caption>
+</table>
+        
+      </section>
+      <section id="id1168475669404">
+        <title>Formation of Ore Deposits</title>
+        <para id="id1168462082902">Ore deposits form when minerals are concentrated—sometimes by a factor of many thousands—in rock, usually by one of six major processes. These include the following: (a) <term target-id="id1168490681870">igneous crystallization</term>, where molten rock cools to form igneous rock. This process forms building stone such as granite, a variety of gemstones, sulfur ore, and metallic ores, which involve dense chromium or platinum minerals that sink to the bottom of liquid magma. Diamonds form in rare Mg-rich igneous rock called kimberlite that originates as molten rock at 150–200 km depth (where the diamonds form) and later moves very quickly to the surface, where it erupts explosively. The cooled magma forms a narrow, carrot-shaped feature called a pipe. Diamond mines in kimberlite pipes can be relatively narrow but deep (see Figure <link target-id="id1168469513918"><emphasis effect="bold">A Diamond Mine</emphasis></link>). (b) <term target-id="id8611231">Hydrothermal</term> is the most common ore-forming process. It involves hot, salty water that dissolves metallic elements from a large area and then precipitates ore minerals in a smaller area, commonly along rock fractures and faults. Molten rock commonly provides the heat and the water is from groundwater, the ocean, or the magma itself. The ore minerals usually contain sulfide (S<sup>2-</sup>) bonded to metals such as copper, lead, zinc, mercury, and silver. Actively forming hydrothermal ore deposits occur at undersea mountain ranges, called oceanic ridges, where new ocean crust is produced. Here, mineral-rich waters up to 350°C sometimes discharge from cracks in the crust and precipitate a variety of metallic sulfide minerals that make the water appear black; they are called <term target-id="id1168474263454">black smokers</term> (see Figure <link target-id="id1168492078864"><emphasis effect="bold">Black Smokers</emphasis></link>). (c) <term target-id="idMetamorphism">Metamorphism</term> occurs deep in the earth under very high temperature and pressure and produces several building stones, including marble and slate, as well as some nonmetallic ore, including asbestos, talc, and graphite. (d) <term target-id="idSedimentaryProcesses">Sedimentary processes</term> occur in rivers that concentrate sand and gravel (used in construction), as well as dense gold particles and diamonds that weathered away from bedrock. These gold and diamond ore bodies are called <term target-id="id1168487890756">placer deposits</term>. Other sedimentary ore deposits include the deep ocean floor, which contains manganese and cobalt ore deposits and evaporated lakes or seawater, which produce halite and a variety of other salts. (e) <term target-id="idBiologicalProcesses">Biological processes</term> involve the action of living organisms and are responsible for the formation of pearls in oysters, as well as phosphorous ore in the feces of birds and the bones and teeth of fish. (f) <term target-id="id1168484151205">Weathering</term> in tropical rain forest environments involves soil water that concentrates insoluble elements such as aluminum (bauxite) by dissolving away the soluble elements.</para>
+        <para id="id1168469449600">
+          <figure id="id1168469513918">
+						<media id="id1168469513918_media" alt="photograph of A Diamond Mine">
+              <image mime-type="image/jpg" src="../../media/graphics3-d76b.jpg" id="id1168469513918__onlineimage" height="478" width="637"/>
+            </media>
+          <caption><emphasis effect="bold">A Diamond Mine</emphasis> Udachnaya Pipe, an open-pit diamond mine in Russia, is more than 600 meters (1,970 ft) deep, making it the third deepest open-pit mine in the world. <emphasis effect="italics">Source: Stapanov Alexander via <link url="http://commons.wikimedia.org/wiki/File:Udachnaya_pipe.JPG" window="new">Wikimedia Commons</link></emphasis></caption></figure>
+        </para>
+        
+        <para id="id1168491912286">
+          <figure id="id1168492078864">
+						<media id="id1168492078864_media" alt="photograph of a Black Smoker">
+              <image mime-type="image/jpg" src="../../media/BlackSmoker.jpg" id="id1168492078864__onlineimage"/>
+            </media>
+          <caption><emphasis effect="bold">Black Smoker </emphasis>A billowing discharge of superheated mineral-rich water at an oceanic ridge, in the Atlantic Ocean. Black “smoke” is actually from metallic sulfide minerals that form modern ore deposits. <emphasis effect="italics">Source: P. Rona of U.S. National Oceanic and Atmospheric Administration via <link url="http://commons.wikimedia.org/wiki/File:Blacksmoker_in_Atlantic_Ocean.jpg" window="new">Wikimedia Commons</link></emphasis></caption></figure>
+        </para>
+        
+      </section>
+      <section id="id1168483981219">
+        <title>Mining and Processing Ore</title>
+        <para id="id1168474397066">There are two kinds of mineral mines, <term target-id="id1168477465248">surface mines</term> and <term target-id="id2863602">underground mines</term>. The kind of mine used depends on the quality of the ore, i.e., concentration of mineral and its distance from the surface. Surface mines include <term target-id="id1168487325725">open-pit mines</term>, which commonly involve large holes that extract relatively low-grade metallic ore (see Figure <link target-id="id1168489798197"><emphasis effect="bold">Open Pit Mine</emphasis></link>), <term target-id="id1168482826892">strip mines</term>, which extract horizontal layers of ore or rock, and <term target-id="id1168487890756">placer mines</term>, where gold or diamonds are extracted from river and beach sediment by scooping up (dredging) the sediment and then separating the ore by density. Large, open-pit mines can create huge piles of rock (called overburden) that was removed to expose the ore as well as huge piles of ore for processing. Underground mines, which are used when relatively high-grade ore is too deep for surface mining, involve a network of tunnels to access and extract the ore. Processing metallic ore (e.g., gold, silver, iron, copper, zinc, nickel, and lead) can involve numerous steps including crushing, grinding with water, physically separating the ore minerals from non-ore minerals often by density, and chemically separating the metal from the ore minerals using methods such as <term target-id="id1168481717182">smelting</term> (heating the ore minerals with different chemicals to extract the metal) and <term target-id="id1168480203329">leaching</term> (using chemicals to dissolve the metal from a large volume of crushed rock). The fine-grained waste produced from processing ore is called <term target-id="id1168476117095">tailings</term>. <term target-id="id1168492183740">Slag</term> is the glassy unwanted by-product of smelting ore. Many of the nonmetallic minerals and rocks do not require chemical separation techniques.</para>
+        <para id="id1168473845715">
+          <figure id="id1168489798197">
+						<media id="id1168489798197_media" alt="photograph of an Open Pit Mine">
+              <image mime-type="image/jpg" src="../../media/graphics5-2d24.jpg" id="id1168489798197__onlineimage" height="487" width="649"/>
+            </media>
+          <caption><emphasis effect="bold">Open Pit Mine</emphasis> Bingham Canyon copper mine in Utah, USA. At 4 km wide and 1.2 km deep, it is the world’s deepest open-pit mine. It began operations in 1906. <emphasis effect="italics">Source: Tim Jarrett via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Bingham_Canyon_April_2005.jpg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+        </para>
+        
+      </section>
+      <section id="id1168462064220">
+        <title>Mineral Resources and Sustainability Issues</title>
+        <para id="id1168482806963">Our heavy dependence on mineral resources presents humanity with some difficult challenges related to sustainability, including how to cope with finite supplies and how to mitigate the enormous environmental impacts of mining and processing ore. As global population growth continues—and perhaps more importantly, as standards of living rise around the world—demand for products made from minerals will increase. In particular, the economies of China, India, Brazil, and a few other countries are growing very quickly, and their demand for critical mineral resources also is accelerating. That means we are depleting our known mineral deposits at an increasing rate, requiring that new deposits be found and put into production. Figure <link target-id="id1168476098387"><emphasis effect="bold">Demand for Nonfuel Minerals Materials</emphasis></link> shows the large increase in US mineral consumption between 1900 and 2006. Considering that mineral resources are nonrenewable, it is reasonable to ask how long they will last. The Table <link target-id="id7325099"><emphasis effect="bold">Strategic Minerals</emphasis></link> gives a greatly approximated answer to that question for a variety of important and <term target-id="id1168482075210">strategic minerals</term> based on the current production and the estimated <term target-id="id3192673">mineral reserves</term>. Based on this simplified analysis, the estimated life of these important mineral reserves varies from more than 800 to 20 years. It is important to realize that we will not completely run out of any of these minerals but rather the economically viable mineral deposits will be used up. Additional complications arise if only a few countries produce the mineral and they decide not to export it. This situation is looming for rare earth elements, which currently are produced mainly by China, which is threatening to limit exports of these strategic minerals.</para>
+        <para id="id1168489526180">
+          <figure id="id1168476098387">
+						<media id="id1168476098387_media" alt="graph of Demand for Nonfuel Minerals Materials">
+              <image mime-type="image/jpg" src="../../media/graphics6-8624.jpg" id="id1168476098387__onlineimage" height="357" width="522"/>
+            </media>
+          <caption><emphasis effect="bold">Demand for Nonfuel Minerals Materials</emphasis> US mineral consumption from 1900 - 2006, excluding energy-related minerals <emphasis effect="italics">Source: </emphasis><link url="http://minerals.usgs.gov/granted.html" window="new"><emphasis effect="italics">U.S. Geological Survey</emphasis></link></caption></figure>
+        </para>
+        
+        <table id="id7325099" summary="first column lists minerals; second column lists Uses; third column lists 2010 Production (thousands of metric tons); fourth column lists 2010 Reserves (thousands of metric tons). Fifth column lists Estimated Life of Reserves (years)">
+					<title>Strategic Minerals</title>
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Mineral</emphasis></entry>
+                <entry><emphasis effect="bold">Uses</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">2010 Production</emphasis>
+                  <emphasis effect="bold">(thousands of metric tons)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">2010 Reserves</emphasis>
+                  <emphasis effect="bold">(thousands of metric tons)</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Estimated Life of Reserves</emphasis><emphasis effect="bold"> (years)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Rare earths</entry>
+                <entry>catalysts, alloys, electronics, phosphors, magnets</entry>
+                <entry>130</entry>
+                <entry>110,000</entry>
+                <entry>846</entry>
+              </row>
+              <row>
+                <entry>Lithium</entry>
+                <entry>ceramics, glass, lithium-ion batteries in electronics and electric cars</entry>
+                <entry>25.3</entry>
+                <entry>13,000</entry>
+                <entry>514</entry>
+              </row>
+              <row>
+                <entry>Phosphate rock</entry>
+                <entry>fertilizer, animal feed supplement</entry>
+                <entry>176,000</entry>
+                <entry>65,000,000</entry>
+                <entry>369</entry>
+              </row>
+              <row>
+                <entry>Platinum Group </entry>
+                <entry>catalysts, electronics, glass, jewelry</entry>
+                <entry>0.4</entry>
+                <entry>66</entry>
+                <entry>178</entry>
+              </row>
+              <row>
+                <entry>Aluminum ore</entry>
+                <entry>Al cans, airplanes, building, electrical</entry>
+                <entry>211,000</entry>
+                <entry>28,000,000</entry>
+                <entry>133</entry>
+              </row>
+              <row>
+                <entry>Titanium minerals</entry>
+                <entry>white pigment, metal in airplanes and human joint replacements</entry>
+                <entry>6,300</entry>
+                <entry>690,000</entry>
+                <entry>110</entry>
+              </row>
+              <row>
+                <entry>Cobalt</entry>
+                <entry>airplane engines, metals, chemicals</entry>
+                <entry>88</entry>
+                <entry>7,300</entry>
+                <entry>83</entry>
+              </row>
+              <row>
+                <entry>Iron ore</entry>
+                <entry>main ingredient in steel</entry>
+                <entry>2,400,000</entry>
+                <entry>180,000,000</entry>
+                <entry>75</entry>
+              </row>
+              <row>
+                <entry>Nickel</entry>
+                <entry>important alloy in steel, electroplating</entry>
+                <entry>1,550</entry>
+                <entry>76,000</entry>
+                <entry>49</entry>
+              </row>
+              <row>
+                <entry>Manganese</entry>
+                <entry>important alloy in steel</entry>
+                <entry>13,000</entry>
+                <entry>630,000</entry>
+                <entry>48</entry>
+              </row>
+              <row>
+                <entry>Copper</entry>
+                <entry>electrical wire, electronics, pipes, ingredient in brass</entry>
+                <entry>16,200</entry>
+                <entry>630,000</entry>
+                <entry>39</entry>
+              </row>
+              <row>
+                <entry>Silver</entry>
+                <entry>industry, coins, jewelry, photography</entry>
+                <entry>22.2</entry>
+                <entry>510</entry>
+                <entry>23</entry>
+              </row>
+              <row>
+                <entry>Zinc</entry>
+                <entry>galvanized steel, alloys, brass</entry>
+                <entry>12,000</entry>
+                <entry>250,000</entry>
+                <entry>21</entry>
+              </row>
+              <row>
+                <entry>Lead</entry>
+                <entry>batteries</entry>
+                <entry>4,100</entry>
+                <entry>80,000</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Tin</entry>
+                <entry>electrical, cans, construction, </entry>
+                <entry>261</entry>
+                <entry>5,200</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Gold</entry>
+                <entry>jewelry, arts, electronics, dental</entry>
+                <entry>2.5</entry>
+                <entry>51</entry>
+                <entry>20</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Uses, world production in 2010, and estimated projected lifetime of reserves (ore that is profitable to mine under current conditions) for selected minerals <emphasis effect="italics">Source: US Geological Survey Mineral Commodity Summaries, 2011</emphasis></caption>
+</table>
+        
+        <para id="id1168477777010">A more complex analysis of future depletions of our mineral supplies predicts that 20 out of 23 minerals studied will likely experience a permanent shortfall in global supply by 2030 where global production is less than global demand (<link target-id="id1168492798844">Clugston, 2010</link>). Specifically this study concludes the following: for cadmium, gold, mercury, tellurium, and tungsten—they have already passed their global production peak, their future production only will decline, and it is nearly certain that there will be a permanent global supply shortfall by 2030; for cobalt, lead, molybdenum, platinum group metals, phosphate rock, silver, titanium, and zinc—they are likely at or near their global production peak and there is a very high probability that there will be a permanent global supply shortfall by 2030; for chromium, copper, indium, iron ore, lithium, magnesium compounds, nickel, and phosphate rock—they are expected to reach their global production peak between 2010 and 2030 and there is a high probability that there will be a permanent global supply shortfall by 2030; and for bauxite, rare earth minerals, and tin—they are not expected to reach their global production peak before 2030 and there is a low probability that there will be a permanent global supply shortfall by 2030. It is important to note that these kinds of predictions of future mineral shortages are difficult and controversial. Other scientists disagree with Clugston’s predictions of mineral shortages in the near future. Predictions similar to Clugston were made in the 1970s and they were wrong. It is difficult to know exactly the future demand for minerals and the size of future mineral reserves. The remaining life for specific minerals will decrease if future demand increases. On the other hand, mineral reserves can increase if new mineral deposits are found (increasing the known amount of ore) or if currently unprofitable mineral deposits become profitable ones due to either a mineral price increase or technological improvements that make mining or processing cheaper. <term target-id="id1168470219052">Mineral resources</term>, a much larger category than mineral reserves, are the total amount of a mineral that is not necessarily profitable to mine today but that has some sort of economic potential.</para>
+        <para id="id2249468">Mining and processing ore can have considerable impact on the environment. Surface mines can create enormous pits (see Figure <link target-id="id1168489798197"><emphasis effect="bold">Open Pit Mine</emphasis></link>) in the ground as well as large piles of overburden and tailings that need to be <term target-id="id1168479491460">reclaimed</term>, i.e., restored to a useful landscape. Since 1977 surface mines in U.S. are required to be reclaimed, and commonly reclamation is relatively well done in this country. Unfortunately, surface mine reclamation is not done everywhere, especially in underdeveloped countries, due to lack of regulations or lax enforcement of regulations. Unreclaimed surface mines and active surface mines can be major sources of water and sediment pollution. Metallic ore minerals (e.g., copper, lead, zinc, mercury, and silver) commonly include abundant sulfide, and many metallic ore deposits contain abundant pyrite (iron sulfide). The sulfide in these minerals oxidizes quickly when exposed to air at the surface producing sulfuric acid, called <term target-id="id2214195">acid mine drainage</term>. As a result streams, ponds, and soil water contaminated with this drainage can be highly acidic, reaching pH values of zero or less (see Figure Acid Mine Drainage)! The acidic water can leach heavy metals such as nickel, copper, lead, arsenic, aluminum, and manganese from mine tailings and slag. The acidic contaminated water can be highly toxic to the ecosystem. Plants usually will not regrow in such acidic soil water, and therefore soil erosion rates skyrocket due to the persistence of bare, unvegetated surfaces. With a smaller amount of tailings and no overburden, underground mines usually are much easier to reclaim, and they produce much less acid mine drainage. The major environmental problem with underground mining is the hazardous working environment for miners primarily caused by cave-ins and lung disease due to prolonged inhalation of dust particles. Underground cave-ins also can damage the surface from subsidence. Smelting can be a major source of air pollution, especially SO<sub>2</sub> gas. The case history below examines the environmental impact of mining and processing gold ore.</para>
+        <para id="id1168484648959">
+          <figure id="id1168489642667">
+						<media id="id1168489642667_media" alt="photograph of Acid Mine Drainage">
+              <image mime-type="image/jpg" src="../../media/graphics7-0e6b.jpg" id="id1168489642667__onlineimage" height="488" width="650"/>
+            </media>
+          <caption><emphasis effect="bold">Acid Mine Drainage</emphasis> The water in Rio Tinto River, Spain is highly acidic (pH = ~2) and the orange color is from iron in the water. A location along this river has been mined beginning some 5,000 years ago primarily for copper and more recently for silver and gold. <emphasis effect="italics">Source: Sean Mack of NASA via </emphasis><link url="http://commons.wikimedia.org/wiki/File:Rio_tinto_river_CarolStoker_NASA_Ames_Research_Center.jpg" window="new"><emphasis effect="italics">Wikimedia Commons</emphasis></link></caption></figure>
+        </para>     
+      </section>
+      <section id="id1168485083534">
+        <title>Sustainable Solutions to the Mineral Crisis?</title>
+        <para id="id1168465291590">Providing sustainable solutions to the problem of a dwindling supply of a nonrenewable resource such as minerals seems contradictory. Nevertheless, it is extremely important to consider strategies that move towards sustainability even if true sustainability is not possible for most minerals. The general approach towards mineral sustainability should include <term target-id="id1168478243835">mineral conservation</term> at the top of the list. We also need to <emphasis effect="italics">maximize exploration for new mineral resources </emphasis>while at the same time we <emphasis effect="italics">minimize the environmental impact of mineral mining and processing</emphasis>. </para>
+        <para id="id1168480719659">Conservation of mineral resources includes improved efficiency, substitution, and the 3 Rs of sustainability, reduce, reuse, and recycle. Improved efficiency applies to all features of mineral use including mining, processing, and creation of mineral products. Substituting a rare nonrenewable resource with either a more abundant nonrenewable resource or a renewable resource can help. Examples include substituting glass fiber optic cables for copper in telephone wires and wood for aluminum in construction. Reducing global demand for mineral resources will be a challenge, considering projections of continuing population growth and the rapid economic growth of very large countries such as China, India, and Brazil. Historically economic growth is intimately tied to increased mineral consumption, and therefore it will be difficult for those rapidly developing countries to decrease their future demand for minerals. In theory, it should be easier for countries with a high mineral consumption rate such as the U.S. to reduce their demand for minerals but it will take a significant change in mindset to accomplish that. Technology can help some with some avenues to reducing mineral consumption. For example, digital cameras have virtually eliminated the photographic demand for silver, which is used for film development. Using stronger and more durable alloys of steel can translate to fewer construction materials needed. Examples of natural resource reuse include everything at an antique store and yard sale. Recycling can extend the lifetime of mineral reserves, especially metals. Recycling is easiest for pure metals such as copper pipes and aluminum cans, but much harder for alloys (mixtures of metals) and complex manufactured goods, such as computers. Many nonmetals cannot be recycled; examples include road salt and fertilizer. Recycling is easier for a wealthy country because there are more financial resources to use for recycling and more goods to recycle. Additional significant benefits of mineral resource conservation are less pollution and environmental degradation from new mineral mining and processing as well as reductions in energy use and waste production.</para>
+        <para id="id1168466091884">Because demand for new minerals will likely increase in the future, we must continue to search for new minerals, even though we probably have already found many of the “easy” targets, i.e., high-grade ore deposits close to the surface and in convenient locations. To find more difficult ore targets, we will need to apply many technologies including geophysical methods (seismic, gravity, magnetic, and electrical measurements, as well as remote sensing, which uses satellite-based measurements of electromagnetic radiation from Earth’s surface), geochemical methods (looking for chemical enrichments in soil, water, air, and plants), and geological information including knowledge of plate tectonics theory. We also may need to consider exploring and mining unconventional areas such as continental margins (submerged edges of continents), the ocean floor (where there are large deposits of manganese ore and other metals in rocks called manganese nodules), and oceanic ridges (undersea mountains that have copper, zinc, and lead ore bodies).</para>
+        <para id="id1168477714571">Finally, we need to explore for, mine, and process new minerals while minimizing pollution and other environmental impacts. Regulations and good engineering practices are necessary to ensure adequate mine reclamation and pollution reduction, including acid mine drainage. The emerging field of biotechnology may provide some sustainable solutions to metal extraction. Specific methods include <term target-id="id1168489611347">biooxidation</term> (microbial enrichment of metals in a solid phase), <term target-id="id1168470822502">bioleaching</term> (microbial dissolution of metals), <term target-id="id1168475991312">biosorption</term> (attachment of metals to cells), and <term target-id="id2793434">genetic engineering of microbes</term> (creating microorganisms specialized in extracting metal from ore).</para>
+      </section>
+      <section id="id1168470720187">
+        <title>Review Questions</title>
+        <exercise id="id1168471661478">
+					<label>Question</label>
+          <problem id="oo-id1168475598600">
+            <para id="id1168481187738">Name some important ways mineral resources are used. Why are they important to society?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168474396303">
+					<label>Question</label>
+          <problem id="oo-id1168489609665">
+            <para id="id1168493680558">What are the major environmental issues associated with mineral resources?</para>
+          </problem>
+        </exercise>
+        <exercise id="id8898231">
+					<label>Question</label>
+          <problem id="oo-id1168483042292">
+            <para id="id8935983">What should society learn from the case history of gold?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168473150824">
+					<label>Question</label>
+          <problem id="oo-id1168473039707">
+            <para id="id1168482552302">Why is society facing a crisis involving mineral supply and how might we work to solve it?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1168490948120">
+        <title>References</title>
+        <para id="id1168492798844">Clugston, C. (2010) Increasing Global Nonrenewable Natural Resource Scarcity - An Analysis, The Oil Drum. Retrieved from <link url="http://www.theoildrum.com/node/6345" window="new">http://www.theoildrum.com/node/6345</link></para>
+        <para id="id1168470127854">Craig J, Vaughan D, and Skinner B (2011) Earth Resources and the Environment (4th ed.). Pearson Prentice Hall, p. 92</para>
+    </section>
+  </content>
+  <glossary>
+        <definition id="id2214195">
+          <term>acid mine drainage</term>
+          <meaning id="oo-id3570777">Surface water or groundwater that is highly acidic due to oxidation of sulfide minerals at a mineral mine.
+      </meaning>
+        </definition>
+        <definition id="id1168470822502">
+          <term>bioleaching of minerals</term>
+          <meaning id="oo-id1168491930541">Microbial dissolution of metals.
+      </meaning>
+        </definition>
+        <definition id="idBiologicalProcesses">				
+          <term>biological processes</term>
+          <meaning id="oo-idBiologicalProcesses">Processes of ore formation that involve the action of living organisms. Examples include the formation of pearls in oysters, as well as phosphorous ore in the feces of birds and the bones and teeth of fish.</meaning>
+        </definition>	
+        <definition id="id1168489611347">							
+          <term>biooxidation of minerals</term>
+          <meaning id="oo-id1168481702625">Microbial enrichment of metals in a solid phase.
+      </meaning>
+        </definition>
+        <definition id="id1168475991312">
+          <term>biosorption of minerals</term>
+          <meaning id="oo-id1168492175947">Attachment of metals to cells.
+      </meaning>
+        </definition>
+        <definition id="id1168474263454">
+          <term>black smoker</term>
+          <meaning id="oo-id1168488662476">Discharge of mineral-rich waters up to 350°C from cracks in oceanic crust; these waters precipitate a variety of metallic sulfide ore minerals that make the water appear black.
+      </meaning>
+        </definition>
+        <definition id="id1168473549436">
+          <term>enrichment factor</term>
+          <meaning id="oo-id1168480473845">Ratio of the metal concentration needed for an economic ore deposit over the average abundance of that metal in Earth’s crust.
+      </meaning>
+        </definition>
+        <definition id="id2793434">
+          <term>genetic engineering of microbes (mineral application)</term>
+          <meaning id="oo-id1168487157115">Creating microorganisms specialized in extracting metal from ore.
+      </meaning>
+        </definition>
+        <definition id="id8611231">
+          <term>hydrothermal</term>
+          <meaning id="oo-id1168475985055">Ore forming process involving hot salty water that dissolves metallic elements from a large area and then precipitates ore minerals in a smaller area, commonly along rock fractures and faults.
+      </meaning>
+        </definition>
+        <definition id="id1168490681870">
+          <term>igneous crystallization</term>
+          <meaning id="oo-id1168484446099">Ore forming process where molten rock cools to form igneous rock.
+      </meaning>
+        </definition>
+        <definition id="id1168470721942">
+          <term>igneous rock</term>
+          <meaning id="oo-id1168474446393">Forms by cooling and solidification of hot molten rock.
+      </meaning>
+        </definition>
+        <definition id="id1168480203329">
+          <term>leaching</term>
+          <meaning id="oo-id1168484084263">Using chemicals to dissolve metal from a large volume of crushed rock.
+      </meaning>
+        </definition>
+        <definition id="id6996901">
+          <term>metamorphic rock</term>
+          <meaning id="oo-id1168473469610">Forms when a preexisting rock changes the shape or type of minerals due to intense heat and pressure deep within the Earth.
+      </meaning>
+        </definition>
+        <definition id="idMetamorphism">				
+          <term>metamorphism</term>
+          <meaning id="oo-idMetamorphism">Process of ore formation that occurs deep in the earth under very high temperature and pressure and produces several building stones, including marble and slate, as well as some nonmetallic ore, including asbestos, talc, and graphite.</meaning>
+				</definition>				
+        <definition id="id1168481130929">
+          <term>mineral</term>
+          <meaning id="oo-id1168481923450">Naturally occurring inorganic solid with a defined chemical composition and crystal structure.
+      </meaning>
+        </definition>
+        <definition id="id1168478243835">
+          <term>mineral conservation</term>
+          <meaning id="oo-id1168483148911">Method of extending the mineral supply that includes improved efficiency, substitution, reduce, reuse, and recycle.
+      </meaning>
+        </definition>
+        <definition id="id1168490606144">
+          <term>mineral recycling</term>
+          <meaning id="oo-id1168487640548">Method of extending the mineral supply that involves processing used Minerals into new products to prevent waste of potentially useful materials.
+      </meaning>
+        </definition>
+        <definition id="id3192673">
+          <term>mineral reserves</term>
+          <meaning id="oo-id1168489746993">The known amount of ore in the world.
+      </meaning>
+        </definition>
+        <definition id="id1168470219052">
+          <term>mineral resources</term>
+          <meaning id="oo-id1168462029730">Total amount of a mineral used by society that is not necessarily profitable to Mine today but has some sort of economic potential.
+      </meaning>
+        </definition>
+        <definition id="id1168488079592">
+          <term>mineral reuse</term>
+          <meaning id="oo-id1168479811810">Method of extending the mineral supply that involves using a mineral multiple times.
+      </meaning>
+        </definition>
+        <definition id="id1168492456123">
+          <term>mineral substitution</term>
+          <meaning id="oo-id1168477426396">Method of extending the mineral supply; involves substituting a rare nonrenewable resource with either a more abundant nonrenewable resource or a renewable resource.
+      </meaning>
+        </definition>
+        <definition id="id1168487325725">
+          <term>open-pit mine</term>
+          <meaning id="oo-id1168485048108">Type of surface mineral mine which commonly involve large holes that extract relatively low-grade metallic ore.
+      </meaning>
+        </definition>
+        <definition id="id1168483933549">
+          <term>ore</term>
+          <meaning id="oo-id1770188">Rock with an enrichment of minerals that can be mined for profit.
+      </meaning>
+        </definition>
+        <definition id="id1168483083788">
+          <term>ore deposit</term>
+          <meaning id="oo-id1168482748536">Location with abundant ore.
+      </meaning>
+        </definition>
+        <definition id="id5167145">
+          <term>placer deposit</term>
+          <meaning id="oo-id1168473757550">Ore forming process where dense gold particles and diamonds are concentrated by flowing water in rivers and at beaches.
+      </meaning>
+        </definition>
+        <definition id="id1168487890756">
+          <term>placer mine</term>
+          <meaning id="oo-id2896996">Type of surface mineral mine which extracts gold or diamonds from river and beach. sediment by scooping up the sediment and then separating the ore by density.
+      </meaning>
+        </definition>
+        <definition id="id1168479491460">
+          <term>reclaimed mine</term>
+          <meaning id="oo-id1168466449954">Mineral mine restored to a useful landscape.
+      </meaning>
+        </definition>
+        <definition id="id1168489538650">
+          <term>rock</term>
+          <meaning id="oo-id1168466347373">A solid coherent piece of planet Earth.
+      </meaning>
+</definition>
+        <definition id="idSedimentaryProcesses">				
+          <term>sedimentary processes</term>
+          <meaning id="oo-idSedimentaryProcesses">Processes of ore formation that occur in rivers and concentrate sand and gravel (used in construction), as well as dense gold particles and diamonds that weathered away from bedrock.</meaning>
+</definition>				
+        <definition id="id1168479297266">
+          <term>sedimentary rock</term>
+          <meaning id="oo-id1168490056944">Forms by hardening of layers of sediment (loose grains such as sand or mud) deposited at Earth's surface or by mineral precipitation, i.e., formation of minerals in water from dissolved mineral matter.
+      </meaning>
+        </definition>
+        <definition id="id1168492183740">
+          <term>slag</term>
+          <meaning id="oo-id1168480542238">Glassy unwanted by-product of smelting ore.
+      </meaning>
+        </definition>
+        <definition id="id1168481717182">
+          <term>smelting</term>
+          <meaning id="oo-id1168490397836">Heating ore minerals with different chemicals to extract the metal.
+      </meaning>
+        </definition>
+        <definition id="id1168482075210">
+          <term>strategic mineral</term>
+          <meaning id="oo-id1168489663159">Mineral considered essential to a country for some military, industrial, or commercial purpose but the country must import the mineral to meet its needs.
+      </meaning>
+        </definition>
+        <definition id="id1168482826892">
+          <term>strip mine</term>
+          <meaning id="oo-id1168485413516">Type of surface mineral mine which extracts horizontal layers of ore or rock.
+      </meaning>
+        </definition>
+        <definition id="id1168477465248">
+          <term>surface mine</term>
+          <meaning id="oo-id1168469329266">Mineral mine that occurs at Earth’s surface.
+      </meaning>
+        </definition>
+        <definition id="id1168476117095">
+          <term>tailings</term>
+          <meaning id="oo-id1168462088907">Fine-grained waste produced from processing ore.
+      </meaning>
+        </definition>
+        <definition id="id2863602">
+          <term>underground mine</term>
+          <meaning id="oo-id1168474955593">Mineral mine that involves a network of tunnels to access and extract the ore.
+      </meaning>
+        </definition>
+        <definition id="id1168484151205">
+          <term>weathering</term>
+          <meaning id="oo-id1168483224842">Ore forming process where soil water in a tropical rain forest environment concentrates insoluble elements such as aluminum (bauxite) by dissolving away the soluble elements.
+      </meaning>
+        </definition>
+  </glossary>
+</document>

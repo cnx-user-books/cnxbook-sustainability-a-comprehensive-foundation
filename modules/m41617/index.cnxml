@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Biosphere – Chapter Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41617</md:content-id>
+  <md:title>Biosphere – Chapter Introduction</md:title>
+  <md:abstract>In this module, the Chapter Biosphere is introduced.</md:abstract>
+  <md:uuid>f7552f11-76b7-412b-b9f4-04afeca1542f</md:uuid>
+</metadata>
+
+<content>
+      <section id="id7141996">
+        <title>Introduction</title>
+        <para id="id1170282040580">Humanity and the natural world are inextricably linked. A growing appreciation for the importance of this fact led to the formation and publication of the Millennium Ecosystem Assessment by the United Nations in 2005. It defines key concepts necessary for understanding how sustainable development can be achieved. In the terms of the Assessment, an <term target-id="id1170286889911">ecosystem</term> is a dynamic complex of plant, animal, and microorganism communities and the nonliving environment interacting as a functional unit, while <term target-id="id1170283755854">ecosystem services</term> are “the benefits people obtain from ecosystems.” Ecosystem services are critical to human well-being and sufficiently diverse and numerous to justify classification into four major categories (see Figure <link target-id="id7447988"><emphasis effect="bold">Ecosystem Services</emphasis></link>). <term target-id="id1170282548729">Provisioning ecosystem services</term> are actively harvested by us from the natural world to meet our resource needs, e.g. food, water, timber, and fiber. <term target-id="id8091606">Regulating ecosystem services</term> are processes in the Earth system that control key physical and biological elements of our environment, e.g. climate regulation, flood regulation, disease regulation, water purification. <term target-id="id1170282358965">Cultural ecosystem services</term> reflect the aesthetic and spiritual values we place on nature, as well as the educational and recreational activities dependent on ecosystems. Finally, <term target-id="id7768108">supporting ecosystem services</term> are the biogeochemical cycles, as well as biological and physical processes that drive ecosystem function, e.g. soil formation, nutrient cycling, and photosynthesis. </para>
+        <para id="id7447988">
+          <figure id="id1170282081251"><media id="id1170282081251_media" alt="Ecosystem Services" longdesc="Figure shows the linkages between ecosystem services and human well-being.">
+              <image mime-type="image/jpg" src="../../media/Picture 1-b6e7.jpg" id="id1170282081251__onlineimage" height="385" width="525"/>
+            </media>
+          <caption><emphasis effect="bold">Ecosystem Services.</emphasis> Figure shows the linkages between ecosystem services and human well-being. <emphasis effect="italics">Source: Millennium Ecosystem Assessment, 2005. </emphasis><link url="http://www.maweb.org/en/Synthesis.aspx" window="new">Ecosystems and Human Well-being: Synthesis</link><emphasis effect="italics">. Island Press, Washington, DC. </emphasis></caption></figure>
+        </para>
+        
+        <para id="id1170283789978">We benefit from the services associated with both pristine, natural ecosystems, such as tropical rain forests or arctic tundra, and highly managed ecosystems, such as crop fields or urban landscapes. In all cases, ecosystems contribute to human well-being by influencing the attainability of basic material needs (e.g. food and shelter), health (e.g. clean air and water), good social relations and security (i.e. sufficient resources to avoid conflict, tolerate natural and man-made disasters, provide for children, and maintain social cohesion), as well as freedom of choice and action (an inherent component of the other elements of well-being is the right to live as one chooses). Linkages between some ecosystem services and human well-being vary in strength depending on socio-economic status (see Figure <link target-id="id7447988"><emphasis effect="bold">Ecosystem Services</emphasis></link>). For example, many people in developed countries can always afford to buy imported food without dependence on the yields of locally grown crops, thereby avoiding shortages when yields are low because of bad weather. However, in other cases our ability to control the impact of losing an ecosystem service on human well-being is limited. For example, despite major engineering efforts flooding still causes considerable human and economic damage in developed countries.</para>
+        <para id="id1170286401431">The challenge of sustainable development stems from the need to benefit from and manage ecosystem services without causing damage to the ecosystems and Earth system that will reduce their value in the longer term. People have long recognized that some ways of using natural resources are unsustainable, especially where ecosystems are rapidly exploited to the maximum extent possible and further access to the ecosystem services can be achieved only by moving on to previously unexploited areas, as in the case of slash and burn agriculture. Only more recently have we come to appreciate that human activity is altering global-scale phenomena, such as climate regulation, and this understanding raises a host of difficult questions. That is because the benefit of an ecosystem service may be realized by people in one locale, while the costs (in the form of negative environmental consequences) are imposed on people who live elsewhere, and who may be less equipped to withstand them. </para>
+        <para id="id1170285899196">The following sections discuss: (1) the natural biogeochemical cycling of carbon, water and nitrogen, the ecosystem services we derive from these biogeochemical cycles and human activities that are disturbing them; (2) species extinctions and ecosystem changes being caused by human activity; and (3) soil, how it is formed, its value to society, and practices that diminish or degrade it.</para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1170282358965">
+      <term>Cultural Ecosystem Services</term>
+      <meaning id="oo-id1170285602406">The aesthetic and spiritual values we place on nature as well as the educational and recreational activities dependent on ecosystems.
+      </meaning>
+    </definition>
+    <definition id="id1170286889911">
+      <term>Ecosystem</term>
+      <meaning id="oo-id1170285881538">A dynamic complex of plant, animal, and microorganism communities and the nonliving environment interacting as a functional unit.
+      </meaning>
+    </definition>
+    <definition id="id1170283755854">
+      <term>Ecosystem Services</term>
+      <meaning id="oo-id8199155">The benefits people obtain from ecosystems.
+      </meaning>
+    </definition>
+    <definition id="id1170282548729">
+      <term>Provisioning Ecosystem Services</term>
+      <meaning id="oo-id1170287288808">Aspects of the natural world used by us to meet our resource needs, e.g. food, water, timber, and fiber.
+      </meaning>
+    </definition>
+    <definition id="id8091606">
+      <term>Regulating Ecosystem Services</term>
+      <meaning id="oo-id3010464">Processes in the Earth system that control key physical and biological elements of our environment, e.g. climate regulation, flood regulation, disease regulation, water purification.
+      </meaning>
+    </definition>
+    <definition id="id7768108">
+      <term>Supporting Ecosystem Services</term>
+      <meaning id="oo-id1170288235303">The biogeochemical cycles, as well as biological and physical processes that drive ecosystem function, e.g. soil formation, nutrient cycling, and photosynthesis. 
+      </meaning>
+    </definition>
+  </glossary>
+</document>

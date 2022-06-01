@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Tragedy of the Commons</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38612</md:content-id>
+  <md:title>Tragedy of the Commons</md:title>
+  <md:abstract>In this module, the way economists think about whether an outcome is good is explored and some of the features of natural resources and environmental quality that often trigger problematic human behaviors related to the environment are described.</md:abstract>
+  <md:uuid>29f498d7-3186-4391-b30a-af3a85ef9941</md:uuid>
+</metadata>
+
+<content>    
+    <section id="id1164549752943">
+      <title>Learning Objectives</title>
+      <para id="id1164561252829">After reading this module, students should be able to</para>
+      <list id="id1164565063629" list-type="bulleted">
+        <item>know how economists define environmental outcomes that make society as well off as possible.</item>
+        <item>understand what externalities are, and how they can lead to outcomes with too much pollution and resource exploitation.</item>
+        <item>be able to define public goods and common-property resources, and understand how those things are prone to under-provision and over-exploitation, respectively.</item>
+      </list>
+    </section>
+    <section id="id1164549889220">
+      <title>Introduction</title>
+      <para id="id1164550116502">To identify and solve environmental problems, we need to understand what situations are actually problems (somehow formally defined) and what circumstances and behaviors cause them. We might think that it is easy to recognize a problem—pollution is bad, saving natural resources is good. However, critical thinking often reveals snap judgments to be overly simplistic. Some examples help to illustrate this point.</para>
+      <list id="id8356275" list-type="bulleted">
+        <item><emphasis effect="italics">Running out!</emphasis> Oil is a depletable resource, and many people worry that rapid extraction and use of oil might cause us to run out. But would it really be a bad thing to use up all the oil as long as we developed alternative energy technologies to which we could turn when the oil was gone? Is there any intrinsic value to keeping a stock of oil unused in the ground? Running out of oil someday may not be a problem. However, subsidies for oil extraction might cause us to run out more quickly than is socially optimal. Other inefficiencies arise if multiple companies own wells that tap the same pool of oil, and each ends up racing to extract the oil before the others can take it away—that kind of race can increase total pumping costs and reduce the total amount of oil that can be gleaned from the pool.</item>
+      </list>
+      <list id="id1164550159585" list-type="bulleted">
+        <item><emphasis effect="italics">Biological pollution! </emphasis>Horror stories abound in the news about the havoc raised by some nonnative animal and plant species in the United States. Zebra mussels clog boats and industrial pipes, yellow star thistle is toxic to horses and reduces native biodiversity in the American West, and the emerald ash borer kills ash trees as it marches across the landscape. From the current tone of much media and scientific discourse about nonnative species, one could conclude that all nonnative species are problems. But does that mean we should forbid farmers in the U.S from growing watermelons, which come from Africa? Or should we ship all the ring-necked pheasants back to Eurasia whence they originally came, and tell North Dakota to choose a new state bird? The costs and benefits of nonnative species vary greatly – one policy approach is not likely to apply well to them all.</item>
+      </list>
+      <para id="id1164561326582">This section first explains the way economists think about whether an outcome is good. Then it describes some of the features of natural resources and environmental quality that often trigger problematic human behaviors related to the environment.</para>
+    </section>
+    <section id="id1164548007747">
+      <title>Efficiency and Deadweight Loss</title>
+      <para id="id1164559706752">Ask anyone who lived during the centrally-planned, nonmarket economy years of the Soviet Union—markets are very good at many things. When a product becomes scarcer or more costly to produce we would like to send signals to consumers that would cause them to buy less of that thing. If an input is more valuable when used to produce one good than another, we would like to send signals to firms to make sure that input is put to its best use. If conditions are right, market prices do these useful things and more. Markets distribute inputs efficiently through the production side of the economy: they ensure that plant managers don’t need to hoard inputs and then drive around bartering with each other for the things they need to make their products, and they arrange for efficient quantities of goods to be produced. Markets also distribute outputs among consumers without surpluses, shortages, or large numbers of bathing suits being foisted upon consumers in Siberia.</para>
+      <para id="id1164551060795">Economists mean something very specific when they use the word <term target-id="id1164556511669">efficient</term>. In general, an allocation is efficient if it maximizes social well-being, or welfare. Traditional economics defines <term target-id="id1164570823165">welfare</term> as total <term target-id="id1164558575621">net benefits</term>—the difference between the total benefits all people in society get from market goods and services and the total costs of producing those things. Environmental economists enhance the definition of welfare. The values of environmental goods like wildlife count on the “benefit” side of net benefits and damages to environmental quality from production and consumptive processes count as costs.</para>
+      <para id="id1164549632621">Under ideal circumstances, market outcomes are efficient. In perfect markets for regular goods, goods are produced at the point where the cost to society of producing the last unit, the <term target-id="id1164549723596">marginal cost</term>, is just equal to the amount a consumer is willing to pay for that last unit, the <term target-id="id1164548577234">marginal benefit</term>, which means that the net benefits in the market are maximized. Regular goods are supplied by industry such that supply is equivalent to the marginal production costs to the firms, and they are demanded by consumers in such a way that we can read the marginal benefit to consumers off the demand curve; when the market equilibrates at a price that causes quantity demanded to equal quantity supplied at that price (Q<sub>market</sub> in Figure <link target-id="id1164560001781"><emphasis effect="bold">Market Equilibrium</emphasis></link>), it is also true that marginal benefit equals marginal cost.</para>
+      <para id="id3096744">
+        <figure id="id1164560001781" type="Figure"><media id="id1164560001781_media" alt="a graph demonstrating market equilibrium" longdesc="Graph title = Market Equilibrium; x-axis=quantity of good; y-axis=price; a line with a slope of approximately -1  shows a negative linear relationship between price and quantity – this is demand.  A second line with a slope of approximately 1 shows a positive linear relationship between price and quantity – this is supply.  The intersection of these two lines indicates price">
+            <image mime-type="image/jpg" src="../../media/graphics1-b110.jpg" id="id1164560001781__onlineimage" height="488" width="650"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Market Equilibrium</emphasis> A private market equilibrates at a price such that the quantity supplied equals the quantity demanded, and thus private marginal cost equals private marginal benefit. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/amyando" window="new">Amy Ando</link></emphasis></caption></figure>
+      </para>
+      <para id="id1164554227554">Even depletable resources such as oil would be used efficiently by a well-functioning market. It is socially efficient to use a depletable resource over time such that the price rises at the same rate as the rate of interest. Increasing scarcity pushes the price up, which stimulates efforts to use less of the resource and to invest in research to make “backstop” alternatives more cost-effective. Eventually, the cost of the resource rises to the point where the backstop technology is competitive, and the market switches from the depletable resource to the backstop. We see this with copper; high prices of depletable copper trigger substitution to other materials, like fiber optics for telephone cables and plastics for pipes. We would surely see the same thing happen with fossil fuels; if prices are allowed to rise with scarcity, firms have more incentives to engage in research that lowers the cost of backstop technologies like solar and wind power, and we will eventually just switch.</para>
+      <para id="id1164569940702">Unfortunately, many conditions can lead to <term target-id="id1164549756481">market failure</term> such that the market outcome does not maximize social welfare. The extent to which net benefits fall short of their potential is called <term target-id="id1164550146593">deadweight loss</term>. Deadweight loss can exist when not enough of a good is produced, or too much of a good is produced, or production is not done in the most <term target-id="id1164560015279">cost-effective</term> (least expensive) way possible, where costs include environmental damages. Some types of market failures (and thus deadweight loss) are extremely common in environmental settings.</para>
+    </section>
+    <section id="id1164562575780">
+      <title>Externalities</title>
+      <para id="id1164557457622">In a market economy, people and companies make choices to balance the costs and benefits that accrue to them. That behavior can sometimes yield outcomes that maximize total social welfare even if individual agents are only seeking to maximize their own personal well-being, because self-interested trades lead the market to settle where aggregate marginal benefits equal aggregate marginal costs and thus total net benefits are maximized.</para>
+      <para id="id1164549950026">However, people and companies do not always bear the full costs and benefits associated with the actions they take. When this is true economists say there are externalities, and individual actions do not typically yield efficient outcomes.</para>
+      
+      <para id="id1164550661945">A <term target-id="id1164556852305">negative externality</term> is a cost associated with an action that is not borne by the person who chooses to take that action. For example, if a student cheats on an exam, that student might get a higher grade. However, if the class is graded on a curve, all the other students will get lower grades. And if the professor learns that cheating happened, she might take steps to prevent cheating on the next exam that make the testing environment more unpleasant for all the students (no calculators allowed, no bathroom breaks, id checks, etc.). Negative externalities are rampant in environmental settings:</para>
+      <list id="id4568840" list-type="bulleted">
+        <item>Companies that spill oil into the ocean do not bear the full costs of the resulting harm to the marine environment, which include everything from degraded commercial fisheries to reduced endangered sea turtle populations).</item>
+        <item>Commuters generate emissions of air pollution, which lowers the ambient quality of the air in areas they pass through and causes health problems for other people.</item>
+        <item>Developers who build houses in bucolic exurban settings cause habitat fragmentation and biodiversity loss, inflicting a cost on the public at large.</item>
+      </list>
+      <para id="id1164565302696">
+        <figure id="id1164560532372" type="Figure"><media id="id1164560532372_media" alt="A NASA photograph of the atmosphere" longdesc="Water bodies (Lake Ontario, Lake Erie, the Finger Lakes, the St. Lawrence and Niagara Rivers) are highlighted by sunglint (sun reflecting off the water surface), making for a dramatic and unusual regional view. The photograph was taken looking toward the southwest from southern Canada, and captures a regional smog layer extending across central New York, western Lake Erie and Ohio, and further west. The layer of atmospheric pollution layer is capped by an atmospheric inversion, which is marked by the layer of clouds at the top of the photograph.">
+            <image mime-type="image/jpg" src="../../media/graphics2-94db.jpg" id="id1164560532372__onlineimage" height="649" width="649"/>
+          </media>
+        <caption><emphasis effect="bold">Negative Externality: Smog</emphasis> A NASA photograph of the atmosphere over upstate New York, with Lake Eire (top) and Lake Ontario (bottom) featured.  Both natural, white clouds and man-made smog (grey clouds below) are visible. The smog is an example of a negative externality, as the cost of the pollution is borne by everyone in the region, not just by the producers. <emphasis effect="italics">Source: <link url="http://earth.jsc.nasa.gov/sseop/EFS/printinfo.pl?PHOTO=STS092-713-32" window="new">Image Science and Analysis Laboratory, NASA-Johnson Space Center</link></emphasis></caption></figure>
+      </para>
+      
+      
+      <para id="id1164553401246">In situations where an action or good has a negative externality, the private marginal cost that shapes the behavior of an agent is lower than the marginal cost to society as a whole, which includes the private marginal cost and the external environmental marginal cost. The efficient outcome would be where the social marginal cost equals the social marginal benefit (labeled Q<sub>efficient</sub> in Figure <link target-id="id1164552298886"><emphasis effect="bold">Inefficiency from Negative Externality</emphasis></link>). Unfortunately, the free-market outcome (labeled Q<sub>market</sub><sub/> in Figure <link target-id="id1164552298886"><emphasis effect="bold">Inefficiency from Negative Externality</emphasis></link>) will tend to have more of the good or activity than is socially optimal because the agents are not paying attention to all the costs. Too much oil will be shipped, and with insufficient care; people will drive too many miles on their daily commutes; developers will build too many new homes in sensitive habitats. Thus, there is deadweight loss (the shaded triangle in the figure); the marginal social cost associated with units in excess of the social optimum is greater than the marginal benefit society gets from those units. Public policy that reduces the amount of the harmful good or activity could make society as a whole better off.</para>
+      <para id="id1164565864330">
+        <figure id="id1164552298886" type="Figure"><media id="id1164552298886_media" alt="a graph of Inefficiency from Negative Externality " longdesc="Graph title = Inefficiency from Negative Externality; x-axis=quantity of good; y-axis=price; a line with a slope of approximately -1  shows a negative linear relationship between price and quantity – this is PrivateMarginal Benefit.  A second line with a slope of approximately 1, starting at a value greater than zero, shows a positive linear relationship between price and quantity – this is social marginal cost.  A third line with a slope of approximately 1, starting at zero, shows a positive linear relationship between price and quantity – this is private marginal cost.     The intersection of marginal benefit and social marginal cost is efficient outcome.  The intersection of marginal benefit cost and private marginal cost is the free-market outcome">
+            <image mime-type="image/jpg" src="../../media/graphics3-6555.jpg" id="id1164552298886__onlineimage" height="470" width="552"/>
+          </media>
+        <caption><emphasis effect="bold">Inefficiency from Negative Externality</emphasis> When there is a negative externality, the market equilibrates where the total social marginal cost exceeds the marginal benefit of the last unit of a good and society is not as well off as it could be if less were produced. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/amyando" window="new">Amy Ando</link></emphasis></caption></figure>
+      </para>
+      
+      <para id="id1164561395436">Conversely, a <term target-id="id1164549910252">positive externality</term> is a benefit associated with an action that is not borne by the person who chooses to take that action. Students who get flu shots in October, for example, gain a private benefit because they are less likely to get the flu during the winter months. However, their classmates, roommates, and relatives also gain some benefit from that action because inoculated students are less likely to pass the flu along to them. Positive externalities exist in the world of actions and products that affect the environment:</para>
+      <list id="id1164569927394" list-type="bulleted">
+        <item>A homeowner who installs a rain barrel to collect unchlorinated rainwater for her garden also improves stream habitat in her watershed by reducing stormwater runoff. </item>
+        <item>A delivery company that re-optimizes its routing system to cut fuel costs also improves local air quality by cutting its vehicle air pollution emissions.</item>
+        <item>A farmer who plants winter cover crops to increase the productivity of his soil will also improve water quality in local streams by reducing erosion.</item>
+      </list>
+      <para id="id1164547914291">In situations where an action or good has a positive externality, the private marginal benefit that shapes the behavior of an agent is lower than the marginal benefit to society as a whole, which includes the private marginal benefit and the external environmental marginal benefit. The efficient outcome would be where the social marginal cost equals the social marginal benefit (labeled Q<sub>efficient</sub> in Figure <link target-id="id1164560306306"><emphasis effect="bold">Positive Externality</emphasis></link>). In the presence of a positive externality, the free-market outcome will tend to promote less of the good or activity than is socially optimal because the agents do not reap all the benefits. Too few rain barrels will be installed; not enough delivery routes will be re-optimized; too few acres of agricultural fields will have cover crops in the winter months. Again there is deadweight loss (the shaded triangle in the figure), but this time because the marginal social benefit associated with some of the units not produced would have been greater than the marginal costs of producing them. Just because an externality is positive rather than negative doesn’t mean there isn’t a problem; public policy could still make society as a whole better off.</para>
+      <para id="id1164550761412">
+        <figure id="id1164560306306" type="Figure"><media id="id1164560306306_media" alt="a graph of Positive Externality" longdesc="Graph title = Positive Externality; x-axis=quantity of good; y-axis=price; a line with a slope of approximately -1 shows a negative linear relationship between price and quantity – this is Private Marginal Benefit. a second line with a slope of approximately -1 starting at a higher point along the y-axis shows a negative linear relationship between price and quantity – this is Social Marginal Benefit. A third line with a slope of approximately 1, starting at a value of zero, shows a positive linear relationship between price and quantity – this is private marginal cost. The intersection of social marginal benefit and private marginal cost is efficient outcome.  The intersection of private marginal benefit and private marginal cost is the free-market outcome">
+            <image mime-type="image/jpg" src="../../media/graphics4-006f.jpg" id="id1164560306306__onlineimage" height="510" width="650"/>
+          </media>
+        <caption><emphasis effect="bold">Positive Externality</emphasis> When there is a a positive externality, the market equilibrates where the total social marginal benefit exceeds the marginal cost of the last unit of a good and society is not as well off as it could be if more were produced. <emphasis effect="italics">Source: <link url="http://cnx.org/member_profile/amyando" window="new">Amy Ando</link></emphasis></caption></figure>
+      </para>
+      
+      
+    </section>
+    <section id="id1164560399257">
+      <title>Public Goods and Common-pool Resources</title>
+      <para id="id1164549653869">Market outcomes are almost never efficient in two broad kinds of cases: public goods and common-pool resources. The market failures in these settings are related to the problems we saw with negative and positive externalities.</para>
+      <para id="id1164546417022">A pure <term target-id="id1164563165545">public good</term> is defined as being nonexclusive and nonrival in consumption. If something is nonexclusive, people cannot be prevented from enjoying its benefits. A private house is exclusive because doors, windows, and an alarm system can be used to keep nonowners out. A lighthouse, on the other hand, is non-exclusive because ships at sea cannot be prevented from seeing its light. A good that is nonrival in consumption has a marginal benefit that does not decline with the number of people who consume it. A hot dog is completely rival in consumption: if I eat it, you cannot. On the other hand, the beauty of a fireworks display is completely unaffected by the number of people who look at it. Some elements of the environment are pure public goods:</para>
+      <list id="id1164549029522" list-type="bulleted"><item>Clean air in a city provides health benefits to everyone, and people cannot be prevented from breathing</item>
+<item>The stratospheric ozone layer protects everyone on earth from solar UV radiation</item></list>
+      
+      <para id="id1164550491687">The efficient amount of a public good is still where social marginal benefit equals the marginal cost of provision. However, the social marginal benefit of one unit of a public good is often very large because many people in society can benefit from that unit simultaneously. One lighthouse prevents all the ships in an area from running aground in a storm. In contrast, the social marginal benefit of a hot dog is just the marginal benefit gained by the one person who gets to eat it.</para>
+      <para id="id1164558728780">Society could figure out the efficient amount of a public good to provide—say, how much to spend on cleaner cars that reduce air pollution in a city. Unfortunately, private individuals acting on their own are unlikely to provide the efficient amount of the public good because of the <term target-id="id1164559672041">free rider</term> problem. If my neighbors reduce pollution by buying clean electric cars or commuting via train, I can benefit from that cleaner air; thus, I might try to avoid doing anything costly myself in hopes that everyone else will clean the air for me. Evidence suggests that people do not behave entirely like free riders – they contribute voluntarily to environmental groups and public radio stations. However, the levels of public-good provision generated by a free market are lower than would be efficient. The ozone layer is too thin; the air is too dirty. Public goods have big multilateral positive externality problems.</para>
+      <para id="id1164561446086">In contrast, a <term target-id="id1164561399721">common-pool resource</term> (also sometimes called an open-access resource) suffers from big multilateral negative externality problems. This situation is sometimes called the “tragedy of the commons.” Like public goods, common-pool resources are nonexcludable. However, they are highly rival in use. Many natural resources have common-pool features:</para>
+      <list id="id1164553467553" list-type="bulleted">
+        <item>Water in a river can be removed by anyone near it for irrigation, drinking, or industrial use; the more water one set of users removes, the less water there is available for others.</item>
+        <item>Swordfish in the ocean can be caught by anyone with the right boat and gear, and the more fish are caught by one fleet of boats, the fewer remain for other fishers to catch.</item>
+        <item>Old growth timber in a developing country can be cut down by many people, and slow regrowth means that the more timber one person cuts the less there is available for others.</item>
+      </list>
+      <para id="id1164549900252">One person’s use of a common-pool resource has negative effects on all the other users. Thus, these resources are prone to overexploitation. One person in Indonesia might want to try to harvest tropical hardwood timber slowly and sustainably, but the trees they forebear from cutting today might be cut down by someone else tomorrow. The difficulty of managing common-pool resources is evident around the world in rapid rates of tropical deforestation, dangerous overharvesting of fisheries (see <link document="m38878" window="new">Case study: Marine Fisheries</link>), and battles fought over mighty rivers that have been reduced to dirty trickles.</para>
+      <para id="id1164558730218">The tragedy of the commons occurs most often when the value of the resource is great, the number of users is large, and the users do not have social ties to one another, but common-pool resources are not always abused. Elinor Ostrom’s Nobel prize-winning body of work, for example, has studied cases of common-pool resources that were not over-exploited because of informal social institutions.</para>
+    </section>
+    <section id="id1164551725703">
+      <title>Review Questions</title>
+      <exercise id="id1164549983409">
+	  <label>Question</label>
+        <problem id="oo-id1164550105308">
+          <para id="id1164548546157">What does it mean for an outcome to be efficient?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164561225558">
+	  <label>Question</label>
+        <problem id="oo-id1164550173621">
+          <para id="id1164560003811">How do externalities cause market outcomes not to be efficient?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164553387388">
+	  <label>Question</label>
+        <problem id="oo-id1164558683794">
+          <para id="id1164560254254">How are the free rider problem and the common pool resource problem related to basic problems of externalities?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1164561399721">
+      <term>common pool resource</term>
+      <meaning id="oo-id1164562707806">A resource that is open to all users, but which is highly rival in use.
+      </meaning>
+    </definition>
+	<definition id="id1164560015279">
+      <term>cost-effective</term>
+      <meaning id="oo-id1164562997619">As inexpensive as possible; cost minimizing.
+      </meaning>
+    </definition>
+    <definition id="id1164550146593">
+      <term>deadweight loss</term>
+      <meaning id="oo-id1164563653018">The extent to which net benefits are lower than they could be.
+      </meaning>
+    </definition>
+    <definition id="id1164556511669">
+      <term>efficient</term>
+      <meaning id="oo-id1164559030436">Having the feature that net benefits are maximized.
+      </meaning>
+    </definition>
+    <definition id="id1164559672041">
+      <term>free rider</term>
+      <meaning id="oo-id7975522">A person who does not contribute to a public good in hopes that they can benefit from provision by other people.
+      </meaning>
+    </definition>
+    <definition id="id1164548577234">
+      <term>marginal benefit</term>
+      <meaning id="oo-id1164560121191">The additional benefit of doing one more unit of something.
+      </meaning>
+    </definition>
+    <definition id="id1164549723596">
+      <term>marginal cost</term>
+      <meaning id="oo-id1164566985318">The additional cost of doing one more unit of something.
+      </meaning>
+    </definition>
+    <definition id="id1164549756481">
+      <term>market failure</term>
+      <meaning id="oo-id1164548412737">A condition that causes a market not to yield the efficient outcome.
+      </meaning>
+    </definition>
+	<definition id="id1164556852305">
+      <term>negative externality</term>
+      <meaning id="oo-id1164552864034">A cost that is borne by someone who did not agree to the activity that caused the cost.
+      </meaning>
+    </definition>
+    <definition id="id1164558575621">
+      <term>net benefits</term>
+      <meaning id="oo-id4538349">The difference between total benefits and total costs.
+      </meaning>
+    </definition>  
+    <definition id="id1164560304856">
+      <term>normative analysis</term>
+      <meaning id="oo-id1164572334763">A study of how things should be.
+      </meaning>
+    </definition>
+	<definition id="id1164553984576">
+      <term>positive analysis</term>
+      <meaning id="oo-id1164550083966">A study of how things are.
+      </meaning>
+    </definition>
+    <definition id="id1164549910252">
+      <term>positive externality</term>
+      <meaning id="oo-id1164567651274">A benefit that accrues to someone who did not agree to the activity that caused the benefit.
+      </meaning>
+    </definition>
+    <definition id="id1164563165545">
+      <term>public good</term>
+      <meaning id="oo-id1164566131488">A good with two features: (i) it has a benefit that does not diminish with the number of people enjoying it, and (ii) no one can be excluded from consuming it.
+      </meaning>
+    </definition>
+    <definition id="id1164570823165">
+      <term>welfare</term>
+      <meaning id="oo-id1164575237132">Broadly defined, welfare is well-being.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

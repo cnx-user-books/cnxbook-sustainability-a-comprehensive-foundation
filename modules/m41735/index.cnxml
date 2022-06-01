@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Fossil Fuel (Oil)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41735</md:content-id>
+  <md:title>Fossil Fuel (Oil)</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the global dependence of transportation on oil, 2) the threat to energy security posed by concentration of oil in a few countries, 3) the challenge of capturing carbon emissions from transportation and the value of replacing oil with an alternate, such as biofuel or electricity.</md:abstract>
+  <md:uuid>d993962d-a479-4f4a-b8ae-25f2e13ec5de</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170978349782">
+      <title>Learning Objectives</title>
+      <para id="id7055468">After reading this module, the student should be able to</para>
+      <list id="id7517663" list-type="bulleted">
+        <item>outline the global dependence of transportation on oil</item>
+        <item>understand the threat to energy security posed by concentration of oil in a few countries</item>
+        <item>understand the challenge of capturing carbon emissions from transportation and the value of replacing oil with an alternate, such as biofuel or electricity</item>
+      </list>
+    </section>
+    <section id="id1170973980655">
+      <title>Introduction</title>
+      <para id="id6114318">Liquid petroleum fuels and electricity are the two dominant <term target-id="id1185538">energy carriers</term> in the United States, oil accounting for 37 percent of primary energy and electricity for 38 percent. These two energy carriers account for a similar fraction of carbon emissions, 36 percent and 38 percent, respectively. Two thirds of oil consumption is devoted to transportation, providing fuel for cars, trucks, trains and airplanes. For the United States and most developed societies, transportation is woven into the fabric of our lives, a necessity as central to daily operations as food or shelter. The concentration of oil reserves in a few regions or the world (Figure <link document="m41724" target-id="id1169491643383"><emphasis effect="bold">Crude Oil Reserves</emphasis></link>) makes much of the world dependent on imported energy for transportation.</para>
+      <para id="id4764880">The rise in the price of oil in the last decade makes dependence on imported energy for transportation an economic as well as an energy issue. The United States, for example, now spends upwards of $350 billion annually on imported oil, a drain of economic resources that could be used to stimulate growth, create jobs, build infrastructure and promote social advances at home.</para>
+      <para id="id1170969907827">From a sustainability perspective, oil presents several challenges. First is the length of time over which the world's finite oil reserves can continue to supply rising demand. Second is the impact on global warming and climate change that carbon emissions from oil combustion will have, and third is the challenge of finding a sustainable replacement for oil for transportation. The first challenge, how much oil is left and when its production will peak, was discussed in Module <link document="m41724"><emphasis effect="bold">Sustainable Energy Systems - Chapter Introduction</emphasis></link>. The bottom line is that, as Yogi Berra famously said, making predictions is difficult, especially about the future. Although we know the general course of initial rise and ultimate fall that global oil production must take, we do not know with confidence the time scale over which it will play out.</para><para id="id1170975998450">The uncertainty of the timing of the peak in global oil production encourages us to find other issues and motivations for dealing with an inevitably unsustainable supply. A prime motivation is energy security, the threat that oil supplies could be interrupted by any of several events including weather, natural disaster, terrorism and geopolitics. Much of the world feels these threats are good reasons for concerted effort to find replacements for oil as our primary transportation fuel. A second motivation is the environmental damage and accumulation of greenhouse gases in the atmosphere due to transportation emissions. Unlike electricity generation, transportation emissions arise from millions of tiny sources, e.g. the tailpipes of cars and trucks and the exhaust of trains and airplanes. The challenge of capturing and sequestering carbon dioxide from these distributed and moving sources is dramatically greater than from the large fixed sources of power plants. A more achievable objective may be replacing oil as a transportation fuel with biofuel that recycles naturally each year from tailpipes of cars to biofuel crops that do not compete with food crops. Other options include replacing liquid fuels with electricity produced domestically, or increasing the efficiency of vehicles by reducing their weight, regeneratively capturing braking energy, and improving engine efficiency. Each of these options has promise and each must overcome challenges.</para>
+      <para id="id1170970612682">Changes in the energy system are inevitably slow, because of the time needed to develop new technologies and the operational inertia of phasing out the infrastructure of an existing technology to make room for a successor. The transportation system exhibits this operational inertia, governed by the turnover time for the fleet of vehicles, about 15 years. Although that time scale is long compared to economic cycles, the profit horizon of corporations and the political horizon of elected officials, it is important to begin now to identify and develop sustainable alternatives to oil as a transportation fuel. The timescale from innovation of new approaches and materials to market deployment is typically 20 years or more, well matched to the operational inertia of the transportation system. The challenge is to initiate innovative research and development for alternative transportation systems and sustain it continuously until the alternatives are established.</para>
+    </section>
+    <section id="id1170974170911">
+      <title>Summary</title>
+      <para id="id1170978392891">Oil for transportation and electricity generation are the two biggest users of primary energy and producers of carbon emissions in the United States. Transportation is almost completely dependent on oil and internal combustion engines for its energy. The concentration of oil in a few regions of the world creates a transportation energy security issue. Unlike electricity generation emissions, carbon emissions from transportation are difficult to capture because their sources, the tailpipes of vehicles, are many and moving. The challenges of oil energy security and capturing the carbon emissions of vehicles motivate the search for an oil replacement, such as biofuels, electricity or greater energy efficiency of vehicles.</para>
+    </section>
+    <section id="id8367171">
+      <title>Review Questions</title>
+      <exercise id="id1170974335813">
+				<label>Question</label>
+        <problem id="oo-id1170968536496">
+          <para id="id1170975745300">The almost exclusive dependence of the transportation system on liquid fuels makes oil an essential commodity for the orderly operation of many societies. What are some alternatives to oil as a transportation fuel?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170979668617">
+				<label>Question</label>
+        <problem id="oo-id1170968645790">
+          <para id="id1170975094832">There are many reasons to reduce consumption of oil, including an ultimately finite supply, the high cost and lost economic stimulus of payments to foreign producers, the threat of interruption of supply due to weather, natural disaster, terrorism or geopolitical decisions, and the threat of climate change due to greenhouse gas emissions. Which of these reasons are the most important? Will their relative importance change with time?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170979690714">
+				<label>Question</label>
+        <problem id="oo-id1170968828499">
+          <para id="id1170977569563">The transportation system changes slowly, governed by the lifetime of the fleet of vehicles. Compare the time required for change in the transportation system with the timescale of economic cycles, the profit horizon of business, the political horizon of elected officials and the time required to develop new transportation technologies such as electric cars or biofuels. What challenges do these time scales present for changing the transportation system?</para>
+        </problem>
+      </exercise>
+	</section>
+	<section id="id1170979615473">
+		<title>References</title>
+		<para id="id1170973013868">Trench, C.J. (n.d.). <emphasis effect="italics">Oil Market Basics</emphasis>. U.S.<emphasis effect="italics"/>Energy Information Administration. Retrieved September 12, 2011 from <link url="http://205.254.135.24/pub/oil_gas/petroleum/analysis_publications/oil_market_basics/default.htm" window="new">http://205.254.135.24/pub/oil_gas/petroleum/analysis_publications/oil_market_basics/default.htm</link></para>
+	</section>
+
+  </content>
+  <glossary>
+    <definition id="id1185538">
+      <term>energy carrier</term>
+      <meaning id="oo-id1170968683970">A medium, such as electricity, gasoline or hydrogen, that can move energy from one place to another, usually from the point of production (e.g. an electrical generator or petroleum refinery) to the point of use (e.g. an electric light or motor or a gasoline engine). 
+      </meaning>
+    </definition>
+  </glossary>
+</document>

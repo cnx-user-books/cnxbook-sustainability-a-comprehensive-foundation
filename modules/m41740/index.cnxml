@@ -1,0 +1,243 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Combined Heat and Power</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41740</md:content-id>
+  <md:title>Combined Heat and Power</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) combined heat and power (CHP) as an alternative energy source, 2) CHP component characteristics and operational benefits, 3) the characteristics of good CHP applications.</md:abstract>
+  <md:uuid>556ce975-f8fa-419a-afe7-f729e2a20790</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170749230523">
+      <title>Learning Objectives</title>
+      <para id="id1170748066166">After reading this module, students should be able to</para>
+      <list id="id1170749437109" list-type="bulleted">
+        <item>define combined heat and power (CHP) as an alternative energy source</item>
+        <item>provide CHP component characteristics and operational benefits</item>
+        <item>outline the characteristics of good CHP applications</item>
+      </list>
+    </section>
+    <section id="id1170749577700">
+      <title>Introduction</title>
+      <para id="id4956142">Electricity in the United States is generated, for the most part, from central station power plants at a conversion efficiency of roughly 30 to 35 percent. Meaning, for every 100 units of fuel energy into a simple cycle central station electric power plant, we get only 30 to 35 units of electricity. The remainder of the energy in the fuel is lost to the atmosphere in the form of heat.</para>
+      <para id="id1170751007042">The thermal requirements of our buildings and facilities are generally provided on-site through the use of a boiler or furnace. The efficiencies of this equipment have improved over the years and now it is common to have boilers and furnaces in commercial and industrial facilities with efficiencies of 80 percent and higher. Meaning, for every 100 units of fuel energy into the boiler/furnace, we get about 80 units of useful thermal energy.</para>
+      <para id="id1170746360660">Commercial and industrial facilities that utilize the conventional energy system found in the United States (electricity supplied from the electric grid and thermal energy produced on-site through the use of a boiler/furnace) will often times experience overall fuel efficiencies of between 40 to 55 percent (actual efficiency depends on the facilities heat to power ratio).</para>
+      <para id="id1170751008666"><term target-id="id1170745070090">Combined Heat and Power </term>(CHP) is a form of distributed generation. It is an integrated system located at or near the building/facility that generates utility grade electricity which satisfies at least a portion of the electrical load of the facility, and captures and recycles the waste heat from the electric generating equipment to provide useful thermal energy to the facility.</para>
+      <para id="id1170749169005"><term target-id="id5802645">Conventional CHP </term>(also referred to as topping cycle CHP) utilizes a single dedicated fuel source to sequentially produce useful electric and thermal power. <emphasis effect="bold">Figure</emphasis> <link target-id="id8371343">Conventional (Topping Cycle) CHP</link> provides a diagram of a typical topping cycle CHP system. A variety of fossil fuels, renewable fuels, and waste products are utilized as input fuel to power a <term target-id="id1170743092528">prime mover</term> that generates mechanical shaft power (exception is fuel cells). Prime movers might include <term target-id="id1170745078790">reciprocating engines</term>, <term target-id="id1170742711780">gas turbines</term>, <term target-id="id1170742708378">steam turbines</term> or <term target-id="id5803457">fuel cells</term>. The mechanical shaft power is converted into utility grade electricity through a highly efficient generator. Since the CHP system is located at or near the building/facility, the heat lost through the prime mover can be recycled through a heat exchanger and provide heating, cooling (<term target-id="id1170745067306">absorption chillers</term>), and/or <term target-id="id1170747262087">dehumidification</term> (<term target-id="id1170747262087">desiccants</term>) to meet the thermal load of the building. These systems can reach fuel use efficiencies of as high as 75 to 85 percent (versus the conventional energy system at approximately 40 to 55 percent).</para>
+      <para id="id8371343">
+        <figure id="id7558293"><media id="id7558293_media" alt="Conventional (Topping Cycle) CHP" longdesc="Diagram illustrates a typical topping cycle of CHP systems.">
+            <image mime-type="image/png" src="../../media/graphics1-52aa.png" id="id7558293__onlineimage" height="282" width="525"/>
+          </media>
+        <caption><emphasis effect="bold">Conventional (Topping Cycle) CHP</emphasis> Diagram illustrates a typical topping cycle of CHP systems. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cuttica"><emphasis effect="italics">John Cuttica</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1170751342302">In our example of 100 units of fuel into the CHP system, only 30 to 35 units of electricity are generated, but another 40 to 50 units of the fuels energy can be recovered and utilized to produce thermal power. What this tells us is that for conventional CHP systems to reach the high efficiency level, there must be a use for the recovered thermal energy. Thus a key factor for conventional CHP systems is the coincidence of electric and thermal loads in the building. This is shown in <emphasis effect="bold">Figure</emphasis> <link target-id="id7567653">Importance of Waste Heat Recovery</link>. The “Y” axis represents the cost of generating electricity with a CHP system utilizing a 32 percent efficient reciprocating engine. The “X” axis represents the cost of natural gas utilized to operate the CHP system and also the value of the natural gas being displaced if the recycled heat from the engine can be utilized. The lines in the chart show various levels of recoverable heat available from the engine. If no heat is recovered (no use for the thermal energy), the cost of generating electricity with the CHP system is $0.08/kWhr. When the full amount of heat from the engine is recovered (full use of the thermal energy), the cost of generating electricity with the CHP system then drops to $0.03/kWhr.</para>
+      <para id="id7567653">
+        <figure id="id1170746976940"><media id="id1170746976940_media" alt="Importance of Waste Heat Recovery" longdesc="Graph shows the importance of waste heat recovery in CHP systems.">
+            <image mime-type="image/png" src="../../media/graphics2-3d80.png" id="id1170746976940__onlineimage" height="331" width="525"/>
+          </media>
+        <caption><emphasis effect="bold">Importance of Waste Heat Recovery</emphasis> Graph shows the importance of waste heat recovery in CHP systems. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cuttica"><emphasis effect="italics">John Cuttica</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1170751417782">Since the high efficiency of a CHP system is dependent on the effective use of the recoverable heat, CHP systems are often times sized to meet the thermal load of the application and the amount of electricity produced is the by-product. The electricity is used to off set the electricity otherwise purchased from the local electric utility. When the CHP system does not produce enough electricity to satisfy the load, the utility supplies the difference from the grid. When the CHP system (sized from the thermal requirements) produces more electricity than the load requires, the excess electricity can be sold to the local utility (normally at the <term target-id="id1170745067248">avoided cost of power</term> to the utility).</para>
+      <para id="id1170751363430">There are three general modes of operation for CHP on-site generators relative to the electric utility grid:</para>
+      <list id="id1170746979840" list-type="bulleted">
+        <item>Stand Alone (totally isolated from the grid)</item>
+        <item>Isolated from the grid with utility back-up (when needed)</item>
+        <item>Parallel operation with the grid</item>
+      </list>
+      <para id="id7521152">The preferred mode of operation is parallel with the grid. Both the on-site CHP system and the utility grid power the facility simultaneously. With a proper sizing and configuration of the CHP system, the parallel mode of operation provides the most flexibility. Should the grid go down, the CHP system can keep operating (e.g. during the <link url="http://en.wikipedia.org/wiki/Northeast_Blackout_of_2003" window="new">2003 Northeast Blackout</link> and the <link url="http://en.wikipedia.org/wiki/Hurricane_Katrina_effects_by_region" window="new">2005 Hurricane Katrina</link>), and should the CHP system go down, the utility grid can supply power to the load. Overall reliability of power to the load is increased.</para>
+      <para id="id1170746947980">The basic components of a conventional (topping cycle) CHP system are:</para>
+      <list id="id1170745518685" list-type="bulleted">
+        <item>Prime Mover that generates mechanical shaft energy<list id="id6662894" list-type="bulleted"><item>Reciprocating engine</item><item>Turbines (gas, micro, steam)</item><item>Fuel Cell (fuel cells ustilize an electrochemical process rather than a mechanical shaft process)</item></list></item>
+        <item>Generator converts the mechanical shaft energy into electrical energy<list id="id8298197" list-type="bulleted"><item><term target-id="id1170743027218">Synchronous generator</term> (provides most flexibility and independence from the grid)</item><item><term target-id="id1170743051668">Induction generator</term> (grid goes down – the CHP system stops operating)</item><item><term target-id="id1170742020471">Inverter</term> (used mainly on fuel cells – converts DC power to utility grade AC power) </item></list></item>
+        <item>Waste Heat Recovery is one or more heat exchangers that capture and recycle the heat from the prime mover</item>
+        <item>Thermal Utilization equipment converts the recycled heat into useful heating, cooling (absorption chillers) and/or dehumidification (deisiccant dehumidifiers)</item>
+        <item>Operating Control Systems insure the CHP components function properly together</item>
+      </list>
+    </section>
+    <section id="id1170749180926">
+      <title>Reducing CO2 Emissions</title>
+      <para id="id1170748054871">In 2007, <link url="http://www.mckinsey.com/" window="new">McKinsey &amp; Company</link> published a <link url="http://www.mckinsey.com/en/Client_Service/Sustainability/Latest_thinking/Reducing_US_greenhouse_gas_emissions.aspx" window="new">study</link> on reducing United States greenhouse gas emissions. The report analyzed the cost and potential impact of over 250 technology options regarding contribution to reducing CO<sub>2</sub> emissions. Two conclusions stated in the report were:</para>
+      <list id="id1170748366791" list-type="bulleted">
+        <item>Abatement opportunities are highly fragmented and spread across the economy.</item>
+        <item>Almost 40 percent of abatement could be achieved at negative marginal costs.</item>
+      </list>
+      <para id="id8371285">Figure <link target-id="id1170746976650">Cost of CO</link><link target-id="id1170744537052"><sub>2</sub></link><link target-id="id1170746976650"> Reduction Technologies</link> emphasizes both of these points. It is interesting to point out that CHP (both industrial and commercial applications), when sized and installed appropriately, delivers CO<sub>2</sub> reductions at a negative marginal cost. All the technologies that show a negative marginal cost on the chart generate positive economic returns over the technology’s life cycle. The figure also shows that in terms of cost effectiveness of the wide range of abatement technologies, energy efficiency measures are by far more effective than renewable, nuclear and clean coal generating technologies. CHP technologies stand out as having negative marginal costs and overall positive cost effectiveness comparable to most of the energy efficiency measures.</para>
+      <para id="id1170741286345">
+        <figure id="id1170746976650"><media id="id1170746976650_media" alt="Cost of CO2 Reduction Technologies" longdesc="Figure shows the cost of CO2 reduction technologies.">
+            <image mime-type="image/png" src="../../media/graphics3-a0e5.png" id="id1170746976650__onlineimage" height="338" width="649"/>
+          </media>
+        <caption><emphasis effect="bold">Cost of CO</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold"> Reduction Technologies</emphasis> Figure shows the cost of CO<sub>2</sub> reduction technologies. <emphasis effect="italics">Source: </emphasis><link target-id="id1170747272179"><emphasis effect="italics">Oak Ridge National Laboratory (2008)</emphasis></link><emphasis effect="italics">, p. 13, and </emphasis><link url="http://www.mckinsey.com/en/Client_Service/Sustainability/Latest_thinking/Reducing_US_greenhouse_gas_emissions.aspx" window="new"><emphasis effect="italics">McKinsey &amp; Company, “</emphasis></link><link url="http://www.mckinsey.com/en/Client_Service/Sustainability/Latest_thinking/Reducing_US_greenhouse_gas_emissions.aspx" window="new"><emphasis effect="italics">Reducing U.S. Greenhouse Gas Emissions: How Much at What Cost?,” December, 2007</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id1170747054197">
+      <title>CHP Applications</title>
+      <para id="id1170744396774">Today there are more than 3,500 CHP installations in the United States, totaling more than 85,000 MW of electric generation. That represents approximately 9 percent of the total electric generation capacity in the United States. The 85,000 MW of installed CHP reduces energy consumption by 1.9 Quads (10<sup>15</sup> Btus) annually and eliminates approximately 248 million metric tons (MMT) of CO<sub>2</sub> annually.</para>
+      <para id="id7733464">CHP systems are generally more attractive for applications that have one or more of the following characteristics:</para>
+      <list id="id7560931" list-type="bulleted">
+        <item>Good coincidence between electric and thermal loads</item>
+        <item>Maximum cost differential between electricity cost from the local utility and the cost of the fuel utilized in the CHP system (referred to as spark spread)</item>
+        <item>Long operating hours (normally more than 3,000 hours annually)</item>
+        <item>Need for good power quality and reliability</item>
+      </list>
+      <para id="id1170747844354">The following are just a few of the type applications where CHP makes sense: </para>
+      <list id="id1170742274262" list-type="bulleted">
+        <item>Hospitals</item>
+        <item>Colleges and Universities</item>
+        <item>High Schools</item>
+        <item>Fitness Centers</item>
+        <item>Office Buildings</item>
+        <item>Hotels</item>
+        <item>Data Centers</item>
+        <item>Prisons</item>
+        <item>Pulp and Paper Mills</item>
+        <item>Chemical Manufacturing Plants</item>
+        <item>Metal Fabrication Facilities</item>
+        <item>Glass Manufacturers</item>
+        <item>Ethanol Plants</item>
+        <item>Food Processing Plants</item>
+        <item>Waste Water Treatment Facilities</item>
+        <item>Livestock Farms</item>
+      </list>
+    </section>
+    <section id="id7996071">
+      <title>CHP Benefits</title>
+      <para id="id7471952">CHP is not the only solution to our energy problems. In fact, CHP is not the most cost effective solution in all applications or in all areas of the country. There are many variables that determine the viability of CHP installations. However, when the technical and financial requirements of the application are met, a well designed, installed and operated CHP system provides benefits for the facility owner (end user), the electric utility, and society in general. The high efficiency attained by the CHP system provides the end user with lower overall energy costs, improved electric reliability, improved electric power quality, and improved energy security. In areas where the electric utility distribution grid is in need of expansion and/or upgrades, CHP systems can provide the electric utility with a means of deferring costly modifications to the grid. Although the electricity generated on-site by the end user displaces the electricity purchased from the local electric utility and is seen as lost revenue by many utilities, energy efficiency and lower utility costs are in the best interest of the utility customer and should be considered as a reasonable customer option by forward-looking customer oriented utilities. Finally, society in general benefits from the high efficiencies realized by CHP systems. The high efficiencies translate to less air pollutants (lower greenhouse gas and NOx emissions) than produced from central station electric power plants.</para>
+    </section>
+    <section id="id1170745334443">
+      <title>Waste Heat to Power</title>
+      <para id="id1170743765327">There is a second type of CHP system, referred to as <term target-id="id1170742709160">Waste Heat to Power</term> (Bottoming Cycle CHP). Unlike conventional CHP where a dedicated fuel is combusted in a prime mover, Waste Heat to Power CHP systems captures the heat otherwise wasted in an industrial or commercial process. The waste heat, rather than the process fuel, becomes the fuel source for the waste heat to power system. It is used to generate steam or hot water, which in turn is utilized to drive a steam turbine or (for lower temperatures) an <term target-id="idOrganicRankineCycle">organic rankine cycle</term> heat engine. In this case, the waste heat from the industrial/commercial process is converted to electric power. <emphasis effect="bold">Figure</emphasis> <link target-id="id1170742453651">Waste Heat to Power (Bottoming Cycle) CHP</link> provides a diagram of a Waste Heat to Power CHP system.</para>
+      <para id="id1170751397456">
+        <figure id="id1170742453651"><media id="id1170742453651_media" alt="Waste Heat to Power (Bottoming Cycle) CHP" longdesc="Diagram illustrates a waste heat to power (bottoming cycle) CHP system.">
+            <image mime-type="image/png" src="../../media/Picture 1-9a4d.png" id="id1170742453651__onlineimage" height="272" width="595"/>
+          </media>
+        <caption><emphasis effect="bold">Waste Heat to Power (Bottoming Cycle) CHP</emphasis> Diagram illustrates a waste heat to power (bottoming cycle) CHP system. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cuttica"><emphasis effect="italics">John Cuttica</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id8573442">
+      <title>Summary</title>
+      <para id="id1170745341639">Combined Heat and Power (CHP) represents a proven and effective near-term alternative energy option that can enhance energy efficiency, ensure environmental quality, and promote economic growth. The concept of generating electricity on-site allows one to capture and recycle the waste heat from the prime mover providing fuel use efficiencies as high as 75 to 85 percent. Like other forms of alternative energy, CHP should be considered and included in any portfolio of energy options.</para>
+    </section>
+    <section id="id1170743815726">
+      <title>Review Questions</title>
+      <exercise id="id1170743813116">
+				<label>Question</label>
+        <problem id="oo-id1170742760706">
+          <para id="id1170743818046">What drives the system efficiency in a conventional CHP system?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170743817582">
+				<label>Question</label>
+        <problem id="oo-id1170742761715">
+          <para id="id1170747312040">To ensure high system efficiency, how would you size a conventional CHP system?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170751309151">
+				<label>Question</label>
+        <problem id="oo-id1170742762411">
+          <para id="id1170745345710">What is the preferred method of operating a CHP system that provides the most flexibility with the utility grid?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170743814044">
+				<label>Question</label>
+        <problem id="oo-id1170742763571">
+          <para id="id7907122">Why are CHP systems considered one of the most cost-effective CO<sub>2</sub> abatement practices?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170744536008">
+				<label>Question</label>
+        <problem id="oo-id1170742765833">
+          <para id="id8541616">Name at least three application characteristics that make CHP an attractive choice.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1170743823092">
+      <title>Resources</title>
+      <para id="id1170744539198">For more information on Combined Heat and Power and Waste Heat to Power, see <link url="http://www.midwestcleanenergy.org/" window="new">www.midwestcleanenergy.org</link></para>
+    </section>
+    <section id="id8235463">
+      <title>References</title>
+      <para id="id1170747272179">Oak Ridge National Laboratory. (2008). <emphasis effect="italics">Combined Heat and Power, Effective Energy Solutions for a Sustainable Future</emphasis>. Retrieved September 26, 2011 from <link url="http://www1.eere.energy.gov/industry/distributedenergy/pdfs/chp_report_12-08.pdf" window="new">http://www1.eere.energy.gov/industry/distributedenergy/pdfs/chp_report_12-08.pdf</link></para>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1170745067306">
+      <term>Absorption Chiller</term>
+      <meaning id="oo-id1170745620433">Utilizes heat instead of mechanical energy to provide cooling. A thermal compressor (fueled by the waste heat from the CHP system) is used in place of an electrically powered mechanical compressor in the refrigeration process.
+      </meaning>
+    </definition>
+    <definition id="id1170745067248">
+      <term>Avoided Cost of Power</term>
+      <meaning id="oo-id6131904">The marginal cost for a utility to produce one more unit of power.
+      </meaning>
+    </definition>
+    <definition id="id1170745070090">
+      <term>Combined Heat and Power (CHP)</term>
+      <meaning id="oo-id1170745625338">An integrated system, located at or near the building or facility, that generates utility grade electricity which satisfies at least a portion of the electrical load of the facility and captures/ recycles the waste heat from the electric generating equipment to provide useful thermal energy to the facility. 
+      </meaning>
+    </definition>
+    <definition id="id5802645">
+      <term>Conventional CHP (Topping Cycle CHP)</term>
+      <meaning id="oo-id1170743320282">Utilizes a single dedicated fuel source to sequentially produce useful electric and thermal power.
+      </meaning>
+    </definition>
+    <definition id="id1170747262087">
+      <term>Desiccant Dehumidification</term>
+      <meaning id="oo-id1170751598441">Process that removes moisture (latent load) from a building air stream by passing the air over a desiccant wheel (normally a silica gel). The recovered heat from a CHP system is utilized to regenerate the desiccant by driving the moisture off the desiccant wheel to the outside.
+      </meaning>
+    </definition>
+    <definition id="id5803457">
+      <term>Fuel Cell</term>
+      <meaning id="oo-id1170743328274">An exothermic electrochemical reaction that combines hydrogen and oxygen ions through an electrolyte material to generate electricity (DC) and heat.
+      </meaning>
+    </definition>
+    <definition id="id1170742711780">
+      <term>Gas Turbine</term>
+      <meaning id="oo-id4755704">An internal-combustion engine consisting essentially of an air compressor, combustion chamber, and turbine wheel that is turned by the expanding products of combustion.
+      </meaning>
+    </definition>
+    <definition id="id1170743051668">
+      <term>Induction Generator</term>
+      <meaning id="oo-id3175284">Converts the mechanical shaft power from the CHP prime mover to utility grade Alternating Current Power. An induction generator can only operate when connected to an external reactive power source (normally provided by the utility grid). 
+      </meaning>
+    </definition>
+    <definition id="id1170742020471">
+      <term>Inverter</term>
+      <meaning id="oo-id1170746137787">Converts Direct Current electric power into utility grade Alternating Current electric power. Normally used with fuel cell systems.
+      </meaning>
+    </definition>
+    <definition id="idOrganicRankineCycle">		
+      <term>Organic Rankine Cycle (ORC)</term>
+      <meaning id="oo-idOrganicRankineCycle">Uses an organic, high molecular mass fluid with a liquid-vapor phase change or boiling point occurring at a lower temperature than the water-steam phase change. The fluid allows rankine cycle heat recovery from lower temperature sources where the heat is converted into useful work, which can then be converted into electricity.
+      </meaning>
+    </definition>
+    <definition id="id1170743092528">
+      <term>Prime Mover</term>
+      <meaning id="oo-id1170747640080">The term utilized to denote the CHP system equipment that converts input fuel into mechanical shaft power (reciprocating engine, gas turbine, steam turbine, micro-turbine). 
+      </meaning>
+    </definition>
+    <definition id="id1170745078790">
+      <term>Reciprocating Engine</term>
+      <meaning id="oo-id1170743346971">A heat engine that uses one or more reciprocating pistons to convert pressure into mechanical rotating shaft power.
+      </meaning>
+    </definition>
+    <definition id="id1170742708378">
+      <term>Steam Turbine</term>
+      <meaning id="oo-id6141126">Utilizes the Rankine Cycle to extract heat from steam and transform the heat into mechanical shaft power by expanding the steam from high pressure to low pressure through the turbine blades. 
+      </meaning>
+    </definition>
+    <definition id="id1170743027218">
+      <term>Synchronous Generator</term>
+      <meaning id="oo-id1170746148556">Converts the mechanical shaft power from the CHP prime mover to utility grade Alternating Current Power. A synchronous generator is self-exciting (contains its own source of reactive power) and can operate independent of, or isolated from, the utility grid.
+      </meaning>
+    </definition>
+    <definition id="id1170742709160">
+      <term>Waste Heat to Power (Bottoming Cycle CHP)</term>
+      <meaning id="oo-id1170746144819">Captures the waste heat generated by an industrial or commercial process, utilizing the waste heat as the free fuel source for generating electricity. 
+      </meaning>
+    </definition>
+  </glossary>
+</document>

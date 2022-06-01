@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Geothermal Heating and Cooling</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41737</md:content-id>
+  <md:title>Geothermal Heating and Cooling</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the basic thermodynamic principles of a heat, 2) geothermal heating and cooling, 3) different types of geothermal systems and the principles that govern their design.</md:abstract>
+  <md:uuid>44aa3c09-19d2-409c-b0ce-d9b907ff241a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172519468670">
+      <title>Learning Objectives</title>
+      <para id="id1172515599342">After reading this module, students should be able to</para>
+      <list id="id1172517612001" list-type="bulleted">
+        <item>understand the basic thermodynamic principles of a heat</item>
+        <item>learn what makes geothermal heating and cooling more efficient than conventional systems</item>
+        <item>compare different types of geothermal systems and the principles that govern their design</item>
+      </list>
+    </section>
+    <section id="id1172520767710">
+      <title>Introduction</title>
+      <para id="id1172521336241">With limited supplies of fossil fuels in the coming decades and increasing awareness of environmental concerns related to combustions of fossil fuels, alternate energy sources such as geothermal are becoming increasingly attractive. <term target-id="id1172521177570">Geothermal energy</term> is energy that comes from the earth. In this section we describe the basic principles of geothermal energy systems and the energy savings that can result from their use.</para>
+    </section>
+    <section id="id1172515591236">
+      <title>The Heat Pump</title>
+      <para id="id1172517457736">The key to understanding a geothermal energy system is the heat pump. Normally heat goes from a hot area to a cold area, but a heat pump is a device that enables heat to be transferred from a lower temperature to a higher temperature with minimal consumption of energy (see Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>). A home refrigerator is an example of a simple heat pump. A refrigerator removes heat from the inside of a refrigerator at approximately 3°C, 38°F (See <emphasis effect="italics">Heat In</emphasis> in the Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>) and then discards it to the kitchen (at approximately 27°C, 80°F (See <emphasis effect="italics">Heat Out</emphasis> in Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>). It is <emphasis effect="italics">pumping</emphasis> heat from the inside of the refrigerator to the outside using a compressor, hence the name <term target-id="id1172517667516">heat pump</term>.</para>
+      <para id="id1172516480177">The fact the most fluids boil at different temperatures when pressure is changed<footnote id="id1172514931304">This is the same reason why water boils at lower temperatures at higher elevations where pressure is lower, for example in Boulder, Colorado.</footnote> is crucial to the operation of the heat pump. Boiling removes heat from the environment, just like boiling water takes heat from the stove. In a heat pump, boiling takes place at a lower pressure and, consequently, at a lower temperature. Let’s assume 40°F, or 4°C, so that it can effectively remove heat from the soil or the pond water (the heat source) in the geothermal unit at 50°F, or 10°C. The steam produced from the boiling can then be compressed (see <emphasis effect="italics">Compressor</emphasis> in Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>) to higher pressure so that it will condense (the opposite of boiling) at a much higher temperature. When a geothermal unit is incorporated into a building, it is the building that removes the heat, subsequently warming it up (See <emphasis effect="italics">Heat Out</emphasis> in Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>). The condensed steam in a geothermal heat pump will thus provide heat at a much higher temperature to the area being heated than the original heat source. Finally a throttle, similar to a water faucet at home, is used to lower the pressure (See <emphasis effect="italics">Expansion Valve</emphasis> in Figure <link target-id="id1172519568399"><emphasis effect="bold">A Simple Heat Pump</emphasis></link>) to complete the closed system cycle, which is then repeated. By switching the direction of the heat pump, the geothermal system can be used for cooling as well.</para>
+      <para id="id1172519518732">
+        <figure id="id1172519568399"><media id="id1172519568399_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-0fef.png" id="id1172519568399__onlineimage" height="501" width="600"/>
+          </media>
+        <caption><emphasis effect="bold">A Simple Heat Pump</emphasis> A typical vapor compression heat pump for cooling used with a Geothermal System<emphasis effect="italics">. Source: </emphasis><link url="http://cnx.org/member_profile/murad"><emphasis effect="italics">Sohail Murad</emphasis></link><emphasis effect="italics"> adapted from </emphasis><link url="http://en.wikipedia.org/wiki/File:Heatpump.svg" window="new"><emphasis effect="italics">Ilmari Karonen</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id1172520933944">
+      <title>Geothermal Heating and Cooling</title>
+      <para id="id1172514202482">Geothermal systems are suited to locations with somewhat extreme temperature ranges. Areas with moderate temperature ranges (e.g. some areas of California) can use ordinary heat pumps with similar energy savings by adding or removing heat to/from the outside air directly. Areas that experience somewhat extreme temperatures (e.g. the Midwest and East Coast) are ideal target locations for geothermal systems. For regions with moderate climates, such as many parts of the South or the West Coast, conventional heat pumps, that exchange energy generally with the outside air, can still be used with similar energy savings. Geothermal heat pumps (GHPs) use the almost constant temperatures (7°C to 8°C, or 45°F to 48°F) of soil beneath the frost line as an energy source to provide efficient heating and cooling all year long. The installation cost of GHPs is higher than conventional systems due to additional drilling and excavation expenses, but the added cost is quickly offset by GHPs’ higher efficiency. It is possible to gain up to 50 percent savings over conventional heating and cooling systems (see Figure <link target-id="id1172520875515"><emphasis effect="bold">Estimated Cooling Costs Comparison</emphasis></link>), which allows the additional capital costs from installation to be recovered, on average, in less than 5 years. GHP’s have an average lifespan of over 30 years, leaving 25 years or more of heating/cooling savings for those willing to make the investment. In addition, GHPs are space efficient and, because they contain fewer moving components, they also have lower maintenance costs.</para>
+      <para id="id1172520859038">
+        <figure id="id1172520875515"><media id="id1172520875515_media" alt="Estimated Cooling Costs Comparison" longdesc="Estimated cooling costs of geothermal systems compared with conventional systems">
+            <image mime-type="image/png" src="../../media/graphics2-83ce.png" id="id1172520875515__onlineimage" height="322" width="584"/>
+          </media>
+        <caption><emphasis effect="bold">Estimated Cooling Costs Comparison</emphasis> Estimated cooling costs of geothermal systems compared with conventional systems. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/murad"><emphasis effect="italics">Sohail Murad</emphasis></link></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id1172526475806">
+      <title>Types of Geothermal Systems</title>
+      <para id="id1172514913268">There are two major types of geothermal systems: <emphasis effect="italics">in ground</emphasis> and <emphasis effect="italics">pond</emphasis> systems<emphasis effect="italics">. In ground geothermal systems</emphasis> can be vertical and horizontal as shown in Figure <link target-id="id1172521742456"><emphasis effect="bold">In Ground Geothermal Systems</emphasis></link>. The excavation cost of vertical systems is generally higher and they require more land area for installation, which is generally not an option in urban locations. Other than excavation costs, vertical and horizontal GHPs have similar efficiencies since the ground temperature below the frost line is essentially constant.</para>
+      <para id="id1172520775202">
+        <figure id="id1172521742456" orient="horizontal">
+					<subfigure id="subid1172521742456_1">
+          <media id="id1172521742456_media" alt="diagram of a horizontal closed loop system" longdesc="diagram of a horizontal closed loop system">
+            <image mime-type="image/png" src="../../media/graphics3-1d2b.png" id="id1172521742456__onlineimage" height="273" width="287"/>
+          </media>
+					</subfigure>
+					<subfigure id="subid1172521742456_2">
+						<media id="id1172520542644_media" alt="daigram of a vertical closed loop system" longdesc="diagram of a horizontal closed loop system">
+							<image mime-type="image/png" src="../../media/graphics4-18fb.png" id="id1172520542644__onlineimage" height="292" width="287"/>
+						</media>					
+					</subfigure>
+					<caption><emphasis effect="bold">In Ground Geothermal Systems</emphasis> Examples of horizontal and vertical ground systems. <emphasis effect="italics">Source: </emphasis><link url="http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12650" window="new"><emphasis effect="italics">U.S. Department of Energy, Energy Efficiency and Renewable Energy</emphasis></link></caption>
+        </figure>
+      </para>
+      <para id="id1172518694827"><emphasis effect="italics">Pond geothermal systems</emphasis> are generally preferable if there is water available in the vicinity at almost constant temperature year round. These systems are especially suited to industrial units (e.g. oil refineries) with water treatment facilities to treat processed water before it is discharged. The temperature of treated water from these facilities is essentially constant throughout the year and is an ideal location for a pond system. Pond geothermal systems are constructed with either open loops or closed loops (see Figure <link target-id="id1172521472933"><emphasis effect="bold">Pond Geothermal Systems</emphasis></link>). Open loop systems actually remove water from the pond, while the close loop systems only remove energy in the form of heat from the pond water. Of course, in open pond system this water is again returned to the pond, albeit at a lower temperature when used for heating.</para>
+      <figure id="id1172521472933" orient="horizontal">
+				<subfigure id="subid1172521472933_1">
+        	<media id="id1172521472933_media" alt="Diagram of a Closed Pond Geothermal System">
+          	<image mime-type="image/png" src="../../media/graphics5-179c.png" id="id1172521472933__onlineimage" height="292" width="287"/>
+        	</media>
+				</subfigure>
+				<subfigure id="subid1172521472933_2">
+          <media id="id1172516066019_media" alt="Diagram of an Open Pond Geothermal System">
+            <image mime-type="image/png" src="../../media/graphics6-83f5.png" id="id1172516066019__onlineimage" height="291" width="287"/>
+          </media>
+				</subfigure>
+				<caption><emphasis effect="bold">Pond Geothermal Systems</emphasis> Examples of closed and open loop pond systems. <emphasis effect="italics">Source: </emphasis><link url="http://www.energysavers.gov/your_home/space_heating_cooling/index.cfm/mytopic=12650" window="new"><emphasis effect="italics">U.S. Department of Energy, Energy Efficiency and Renewable Energy</emphasis></link></caption>
+      </figure>
+    </section>
+    <section id="id1172515029021">
+      <title>Economics of Geothermal Systems</title>
+      <para id="id1172513905507">As stated earlier, depending upon the type of system, the capital and installation cost of a geothermal system is about twice the cost of a traditional <term target-id="id1172514907156">heating, ventilation, air conditioning (HVAC)</term> system. However, both the operating and maintenance costs are much lower and switching from heating to cooling is effortless. A typical return of investment (ROI) plot for a ground geothermal system for a multi-unit building is favorable (see Figure <link target-id="id1172515028436"><emphasis effect="bold">Return of Investment in Geothermal System</emphasis></link>). A geothermal system that had an additional $500,000 in capital costs but lower operating and maintenance costs allowed the added cost to be recouped in 5 to 8 years. Since the average lifespan of a geothermal system is at least 30 years, the savings over the lifetime of the system can be substantial. The efficiency of ground geothermal systems is fairly constant since there are no large variations in ground temperature. The efficiency for pond systems would, in general, be much higher than those shown in Figure <link target-id="id1172515028436"><emphasis effect="bold">Return of Investment in Geothermal System</emphasis></link> if, during the winter months, the pond water temperature is higher than typical ground temperatures below the frost line (7<sup>°</sup>C - 8<sup>°</sup>C, or 44<sup>°</sup>F - 48<sup>°</sup>F) because the efficiency of heat pumps increases with higher heat source temperature. Another reason for higher efficiency of pond systems is the much higher heat transfer rate between a fluid and the outer surface of the geothermal pipes, especially if the water is flowing.</para>
+      <para id="id1172521763639">
+        <figure id="id1172515028436"><media id="id1172515028436_media" alt="Return of Investment in Geothermal System" longdesc="Image shows the return of additional capital investment in a typical geothermal system.">
+            <image mime-type="image/png" src="../../media/graphics7-c6a0.png" id="id1172515028436__onlineimage" height="397" width="601"/>
+          </media>
+        <caption><emphasis effect="bold">Return of Investment in Geothermal System</emphasis> Return of additional capital investment in a typical geothermal system. <emphasis effect="italics">Source: Murad, S., &amp; Al-Hallaj, S. from Feasibility Study For a Hybrid Fuel Cell/Geothermal System, Final Report, HNTB Corporation, August 2009.</emphasis></caption></figure>
+      </para>
+      
+    </section>
+    <section id="id1172519464203">
+      <title>Increasing Efficiency of Geothermal Systems</title>
+      <para id="id1172521285776">Several strategies are available to increase the efficiency of geothermal systems. One of the most promising possibilities is to use it in conjunction with <term target-id="id1172523372207">phase change materials (PCM)</term> (see also Module <link document="m41734"><emphasis effect="bold">Applications of Phase Change Materials for Sustainable Energy</emphasis></link>), particularly to handle peak loads of energy consumptions. Phase change materials are materials that can absorb and deliver much larger amounts of energy compared to typical building materials. The cost of geothermal systems unlike other HVAC systems increases almost linearly with system size (approximately $1000/ton). Thus, building larger systems to account for peak loads can significantly add to both the capital and installation costs. PCM can be incorporated into all four geothermal systems described earlier. The best approach is to incorporate PCMs with geothermal systems for applications in systems with non-uniform energy requirements, or systems with short but significant swings and peaks in energy needs. For example, designers may include snow melting heating systems for train platforms or they may build a buffer energy reservoir using PCMs to satisfy peak needs of cooling on a hot summer afternoon. The advantages in the former application would be to avoid running the geothermal system for heat loads at low temperatures over prolonged periods, which would not be as energy efficient and would require specially designed systems.</para>
+      <para id="id1172515934501">Using phase change materials allows for the use of standard geothermal systems, which would then store energy in a PCM unit to supply heat at a constant temperature and at a uniform heat rate to, for example, melt the snow on train platforms. Once the energy in the PCM is nearly used the geothermal system would repower the PCM storage. The extra energy needs for peak periods could be stored in PCM Storage Tanks and then used to address such needs. For example, on a hot summer day, the PCM unit can be used to remove additional heat above the designed capacity of the geothermal system during temperature spikes, which generally last only a few hours. This then reduces the load on the geothermal system during peak hours when electricity cost is generally the highest.</para>
+      <para id="id1172513020540">PCM Storage Tanks reduce the overall cost of the geothermal heat pump system significantly since it does not have to be designed to address peak heating/cooling needs. In addition, it also shifts energy loads from peak hours to non-peak hours. Figure <link target-id="id1172519527523"><emphasis effect="bold">Temperature Variation</emphasis></link> shows temperature variations for a typical summer day in July 2010 in Chicago. The high temperature of 90 degree lasted only for a short period of about 4 hours, and then returned to below 85 degrees rapidly. These relatively short temperature peaks can be easily managed by PCMs.</para>
+      <para id="id1172521921999">
+        <figure id="id1172519527523"><media id="id1172519527523_media" alt="Temperature Variation" longdesc="Temperature variation during a typical July day in Chicago.">
+            <image mime-type="image/png" src="../../media/graphics8-48ec.png" id="id1172519527523__onlineimage" height="309" width="571"/>
+          </media>
+        <caption><emphasis effect="bold">Temperature Variation</emphasis> Temperature variation during a typical July day in Chicago. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/murad"><emphasis effect="italics">Sohail Murad</emphasis></link><emphasis effect="italics"> produced figure using data from </emphasis><link url="http://www.glerl.noaa.gov/metdata/chi/archive/" window="new"><emphasis effect="italics">Great Lakes Environmental Research Laboratory</emphasis></link></caption></figure>
+      </para>
+      
+      <para id="id1172519812117">In conclusion, geothermal heat pumps are a very attractive, cost efficient sustainable energy source for both heating and cooling with a minimal carbon print. It is a well-developed technology that can be easily incorporated into both residential and commercial buildings at either the design stage or by retrofitting buildings.</para>
+    </section>
+    <section id="id1172521601831">
+      <title>Review Questions</title>
+      <exercise id="id1172514897028">
+				<label>Question</label>
+        <problem id="oo-id1172512945352">
+          <para id="id1172521482902">On what principle does a geothermal heat pump work? </para>
+        </problem>
+      </exercise>
+      <exercise id="id1172518470497">
+				<label>Question</label>
+        <problem id="oo-id1172522852904">
+          <para id="id1172514055404">What makes it more cost efficient than electrical heating or conventional furnaces?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1172525266096">
+				<label>Question</label>
+        <problem id="oo-id1172521164893">
+          <para id="id1172524991870">Are geothermal heat pumps suitable for moderate climates (e.g. Miami, FL)? Are conventional electrical or gas furnaces the only choices in these areas? </para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1172521177570">
+      <term>geothermal energy</term>
+      <meaning id="oo-id1172523329530">Energy from the earth.
+      </meaning>
+    </definition>
+    <definition id="id1172517667516">
+      <term>heat pump</term>
+      <meaning id="oo-id1172515852678">A device that allows heat to be removed at a lower temperature and supplied at a higher temperature, for example an air conditioner.
+      </meaning>
+    </definition>
+    <definition id="id1172514907156">
+      <term>heat, ventilation and air conditioning systems (HVAC)</term>
+      <meaning id="oo-id1172515612250">Systems such as furnaces and air conditioners that are commonly used in homes and commercial buildings.
+      </meaning>
+    </definition>
+    <definition id="id1172523372207">
+      <term>phase change materials</term>
+      <meaning id="oo-id1172517417760">Materials that can absorb and deliver larger amount of heat than common building materials because they can change their state (solid or liquid).
+      </meaning>
+    </definition>
+  </glossary>
+</document>

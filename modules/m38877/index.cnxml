@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Environmental Performance Indicators</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38877</md:content-id>
+  <md:title>Environmental Performance Indicators</md:title>
+  <md:abstract>In the module, you will learn about the data included in creating an environmental performance indicator, the strengths and weaknesses of the environmental sustainability index and emergy performance index and the differences between some of the major environmental performance indicators.</md:abstract>
+  <md:uuid>a97eb726-80ee-4a22-abf0-b3ea50137c0b</md:uuid>
+</metadata>
+
+<content>      
+      <section id="id1166321903317">
+        <title>Learning Objectives</title>
+        <para id="id1166333381721">After reading this module, students should be able to</para>
+        <list id="id1166320830263" list-type="bulleted"><item>understand the data included in creating an environmental performance indicator</item>
+          <item>be able to state some general strengths and weaknesses of the environmental sustainability index and emergy performance index</item>
+          <item>know the differences between some of the major environmental performance indicators</item>
+        </list>
+      </section>
+      <section id="id1166325735258">
+        <title>Introduction</title>
+        <para id="id1166320914734">Because there are so many types of environmental problems, there are many projects designed to address these concerns and likewise many methods to assess them. Collectively, the methods for assessing environmental impactsand the uses of natural resources (both living and non-living) are called <term target-id="id1166321859789">environmental performance indicators</term>. Generally, performance indicators are used in fields ranging from marketing and economics to education and legal studies to measure a project's progress and/or success. Some indicators can evaluate the actions of a single individual, while others are broad enough to reflect the efforts of entire nations or even the globe. Specifically, <term target-id="id1166321859789">environmental performance indicators (EPIs)</term> examine environmental issues such as pollution, biodiversity, climate, energy, erosion, ecosystem services, environmental education, and many others. Without these EPIs, the success or failure of even the most well-intentioned actions can remain hidden.</para>
+        <para id="id1166333580938">Because of the diversity of observational scales and topics, not all EPIs are useful in all scenarios. However, all EPIs should indicate whether the state of the environment is changed positively or negatively, and they should provide a measure of that change. An EPI is also more meaningful if it can quantify the results to facilitate comparison between different types of activities. But before an EPI is selected, targets and baselines must be clearly articulated. Vague targets are difficult to evaluate, and the results may be uninformative. The EPI selected must use indicators that are definitively linked to the targets, are reliable and repeatable, and can be generated in a cost and time efficient manner.</para>
+        <para id="id1166334102932">To evaluate an activity, an EPI needs to include information from up to four types of indicators: <term target-id="id1166339589999">inputs</term>, <term target-id="id1166336277164">outputs</term>, <term target-id="id1166317791707">outcomes</term>, and <term target-id="id1166317837554">impacts</term>. Inputs are the natural resources or ecosystem services being used. Outputs are the goods or services that result from that activity. While outputs can often be quantified, outcomes typically cannot be and instead represent environmental, social, and economic dimensions of well-being. In some cases it is useful to think of outcomes as why an output was sought; however, outcomes can also be unanticipated or unwanted effects of an output. Impacts refer to the longer-term and more extensive results of the outcomes and outputs, and can include the interaction of the latter two indicators.</para>
+        <para id="id1166333580188">For example, coal can be an input for an electricity-generating plant because we need the output (electricity) to turn on lights in our homes. Two outcomes would include the ability to read at night because of the electricity and the visible air pollution from the power plant smoke stacks. An impact of being able to read more can be a better-educated person, while an impact of the greenhouse gas emissions from burning coal is increased potential for global climate change. This is a simplistic example which does not include the majority of relevant indicators (inputs, outputs, outcomes, and impacts) for a complete and more meaningful analysis.</para>
+        <para id="id1166329178365">We can then evaluate each of the indicators. Is the input (coal) an appropriate choice? Is there enough for the practice of burning it to continue? Are there problems, such as political instability that could interrupt continued access? Does the output (electricity) sufficiently address the problem (in this case, energy for turning on lights)? Is the output produced and delivered in a timely manner? Is it provided to the appropriate consumers and in a quantity that is large enough? Does the output create the desired outcome (being able to read at night)? Does it also result in unwanted outcomes (air pollution)? Do the outcomes result in long-term impacts (such as life-long learning or decade-long climate change) that are widespread?</para>
+        <para id="id1166327028301">Note that outcomes and impacts can be either positive or negative. The strength of an EPI lies in its ability to look at the bigger picture and include multiple variables – particularly with regard to the impacts. However, whether an impact is considered meaningful depends on the values and perspectives of the individuals and groups involved. Judgment plays a role because of the difficulty in comparing completely different impacts. How do you compare life-long learning and climate change in the above example about the use of coal?</para>
+      </section>
+      <section id="id1166319916018">
+        <title>Uses</title>
+        <para id="id1166329020427">Monitoring the impacts of both short-term and long-term activities with EPIs allows decision makers to make changes that result in performance with lesser environmental impacts. In some cases, changes can be made to ongoing projects, or the results of an EPI can be used for publicity if the performance data indicate the activity is environmentally-sound. In other cases, the EPI establishes a performance benchmark against which other projects are measured, or the results are used in the strategic planning phase while projects are in development. In this way, past successes and failures can both be incorporated into future plans.</para>
+        <para id="id1166322933583">Use of EPIs requires production of multiple data points. A single application of an EPI does not mean much until placed into a larger context. For example, an EPI might evaluate the impact of your city's recycling efforts (see Figure <link target-id="id1166339644924"><emphasis effect="bold">Municipal Solid Waste Recycling Rates</emphasis></link>), but that result can be difficult to interpret without additional data that can be presented in multiple ways:</para>
+        <list id="id1166329748225" list-type="bulleted">
+          <item>Absolute values: Is the impact greater or less than that of other cities? How does the total cost of the recycling program compare?</item>
+          <item>Normalized values: How does the per person impact compare to another city, country, business, etc.? What is the amount of aluminum recycled per dollar spent on recycling?</item>
+          <item>Trends: Is your city improving, or is the progress your city sees in recycling better than that that of other cities? This could be asked of either absolute or normalized data: Is the total amount of aluminum recycled in your city increasing? Is the per-person amount of aluminum recycled in your city increasing?</item>
+        </list>
+        <figure id="id1166339644924" type="Figure">
+				  <media id="id1166339644924_media" alt="Municipal Solid Waste Recycling Rates" longdesc="Graph shows the municipal solid waste recycling rates in the United States from 1960-2007.">
+              <image mime-type="image/png" src="../../media/graphics1-4c01.png" id="id1166339644924__onlineimage" height="392" width="636"/>
+          </media>        
+          <caption><emphasis effect="bold">Municipal Solid Waste Recycling Rates</emphasis> Municipal solid waste recycling rates in the United States from 1960-2007. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:EPA_2007_MSW_recycling_rates.gif" window="new">EPA</link></emphasis></caption>
+				</figure>
+      </section>
+      <section id="id1166321833974">
+        <title>Major EPI Areas</title>
+        <para id="id1166328635971">Most EPIs focus on one or a few categories of environmental problems and do not attempt to be all-inclusive methods of evaluating sustainability. A few of the more common categories are briefly described below.</para>
+        <para id="id1166329398360">Biodiversity is the number and variety of forms of life, and can be calculated for a particular tree, an ecosystem, a nation, or even the planet. Food, fuel, recreation, and other ecosystem services are dependent on maintaining biodiversity. However, biodiversity is threatened by overuse and habitat destruction (see Figure <link target-id="id1166322368703"><emphasis effect="bold">Endangered Animals</emphasis></link>). Because the actual number of species alive is not known, biodiversity indicators often use proxy data. These include patterns of habitat preservation and resource use, because they are the primary factors influencing biodiversity. The better-known groups of organisms, such as birds and mammals, are also monitored for a direct count of biodiversity, but vertebrates are a tiny proportion of life and cannot accurately reflect changes in all species. </para>
+        <figure id="id1166322368703" type="Figure">
+				  <media id="id1166322368703_media" alt="Endangered Animals" longdesc="Graphic shows a world map depicting the number of endangered animals in each country">
+              <image mime-type="image/png" src="../../media/graphics2-3c74.png" id="id1166322368703__onlineimage" height="489" width="599"/>
+            </media>            
+          <caption><emphasis effect="bold">Endangered Animals</emphasis> Illustration shows the number of endangered animals in each country of the world. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:EspecesMammiferesMenacees_fr.svg" window="new">World Atlas of Biodiversity</link></emphasis></caption>
+				</figure>
+        <para id="id1166324315733">Wood is harvested for timber and fuel, but forests are also cleared for agricultural fields and housing developments. Such deforestation frequently leads to rapid soil erosion and extinctions. Cutting of forests also results in changes to the water cycle, altering precipitation patterns and rates, and nutrient cycles, such as the release of carbon dioxide into the atmosphere. At the same time as deforestation takes its toll in places, trees are being planted elsewhere. Developed countries are increasing their forested areas, but this is commonly being done at the expense of developing countries, which are exporting their wood (see Figure <link target-id="id1166332323376"><emphasis effect="bold">Deforestation at the Haiti/Dominican Republic Border</emphasis></link>). Forestry indicators in EPIs include the annual change in forested areas, but can be broken down into the types of forests because each has different environmental impacts. Another indicator is the use of non-sustainable wood resources. Tree farms and some harvesting methods provide renewable supplies of wood, while clear-cutting tropical forests does not. Irresponsible wood harvesting produces negative results for ecosystem health.</para>
+
+        <figure id="id1166332323376" type="Figure">
+					<media id="id1166332323376_media" alt="Deforestation in Haiti" longdesc="Satellite photograph show deforestation of Haiti (on the left) at the border with Dominican Republic (on the right). Deforestation on the Haitian side of the border is much more severe.">
+              <image mime-type="image/jpg" src="../../media/graphics3-65b8.jpg" id="id1166332323376__onlineimage" height="351" width="468"/>
+          </media>           
+          <caption><emphasis effect="bold">Deforestation at the Haiti/Dominican Republic Border</emphasis> Satellite photograph show deforestation of Haiti (on the left) at the border with the Dominican Republic (on the right). Deforestation on the Haitian side of the border is much more severe. <emphasis effect="italics">Source: <link url="http://commons.wikimedia.org/wiki/File:Haiti_deforestation.jpg" window="new">NASA</link></emphasis></caption>
+				</figure>
+        <para id="id1166333109043">Air, water, and land pollution directly, and adversely, impacts human and ecosystem health. It also has economic consequences from the damage of natural resources and human structures. In many cases the level of pollutants can be measured either in the environment or at the point of emissions. Additional indicators include whether pollution monitoring even occurs, to what extent legal maximum levels are enforced, and whether regulations are in place to clean up the damage. Visit the EPA's <link url="http://www.epa.gov/myenvironment/" window="new">MyEnvironment</link> application to learn more about environmental issues in your area.</para>
+        <para id="id1166333106756">Greenhouse gas emissions and ozone depletion are results of air pollution, but are frequently placed in a separate category because they have global impacts regardless of the source of the problem. Levels of greenhouse gases and ozone-depleting substances in the atmosphere can be measured directly, or their impacts can be measured by looking at temperature change and the size of the ozone hole. However, those methods are rarely part of EPIs because they do not assign a particular source. Instead, EPIs include the actual emissions by a particular process or area.</para>
+      </section>
+      <section id="id1166324400357">
+        <title>Examples of EPIs</title>
+        <para id="id1166333703959">There are dozens of EPIs that can be used to evaluate sustainability. Below are two examples of multi-component methods that allow comparisons at a national level, which is necessary for promoting many types of systemic change.</para>
+        <section id="id1166319141490">
+          <title>Environmental Sustainability Index</title>
+          <para id="id8348381">The <term target-id="id3219800">environmental sustainability index (ESI)</term> was created as a joint effort of Yale and Columbia universities in order to have a way to compare the sustainability efforts and abilities of countries. Visit the <link url="http://sedac.ciesin.columbia.edu/es/esi/" window="new">ESI website</link> for more information such as maps and data. First presented in 2000 at the World Economic Forum, the ESI has quickly gained popularity because it aids decision-making by providing clear comparisons of environmental statistics. The basic assumption of the ESI is that sustainable development, the use of resources in a way to meet societal, economic, and environmental demands for the long-term, requires a multi-faceted approach. Specifically, the ESI uses 76 variables to create 21 indicators of sustainability.</para>
+          <para id="id1166330701989">The indicators cover five categories, with each description below indicating the condition that is more sustainable:</para>
+          <list id="id1166327718971" list-type="bulleted">
+            <item>environmental systems – maintaining and improving ecosystem health</item>
+            <item>reducing environmental stress – reducing anthropogenic stress on the environment</item>
+            <item>reducing human vulnerability – having fewer negative impacts on people from the environment</item>
+            <item>capacity to respond to environmental challenges – fostering social infrastructures that establish ability and desire to respond effectively to environmental challenges</item>
+            <item>global stewardship efforts – cooperating with other countries to address environmental problems.</item>
+          </list>
+          <para id="id1166324298438">The ESI scores range from 0, least sustainable, to 100, most sustainable, and is an equally-weighted average of the 21 individual indicators. The highest-ranked countries in 2005 (Finland, Norway, Uruguay, Sweden, and Iceland) all had in common abundant natural resources and low human-population densities. At the other extreme, the lowest-ranked countries (North Korea, Iraq, Taiwan, Turkmenistan, and Uzbekistan) had fewer natural resources, particularly when compared per capita, and have made policy decisions often against their own long-term best interests. However, it is important to note that most countries do not excel, or fail, with regard to all 21 indicators; every nation has room for improvement. Each country will also have its own environmental priorities, attitudes, opportunities, and challenges. For example, the United States scores high in the capacity to respond to environmental challenges, but low in actually reducing environmental stress.</para>
+          <para id="id1166329494674">ESI scores have sparked some healthy competition between nations; no one wants to be seen as underperforming compared to their peers. After the pilot ESI rankings in 2000 and the first full ESI rankings in 2002, Belgium, Mexico, the Philippines, South Korea, and the United Arab Emirates, all initiated major internal reviews that resulted in the initiation of efforts to improve environmental sustainability. Because ESI data are presented not only as an overall average but also as 21 independent indicators, countries can focus their efforts where most improvement could be made. Countries dissatisfied with their rankings have also begun to make more of their environmental data accessible. Initial rankings by ESI score had missing or estimated data in many cases, but by making more data available, more accurate overall assessments are possible. For example, the Global Environmental Monitoring System Water Program, an important source of water quality information, had data contributions increase from less than 40 countries to over 100 as a result of the ESI.</para>
+          <para id="id1166331795318">Several similar ranking methodologies have emerged from the ESI. They vary in the number and type of variables included and indicators produced. Some also calculate an overall average by weighting some indicators more than others. However, they all share the same 0-100 scale and have individual indicators that allow targeted improvement of the overall scores.</para>
+        </section>
+        <section id="id1166328988036">
+          <title>Emergy Performance Index</title>
+          <para id="id1166328454704">One drawback of the ESI is that the indicators measure items as different as percentage of endangered animals, recycling rates, government corruption, and child mortality rates. The scope of the variables has been criticized because they may not be comparable in importance, and many others could be added. The term, <term target-id="id1166322126210">emergy</term>, is a contraction of EMbodied enERGY. The <term target-id="id1166318066594">emergy performance index (EMPI) </term>differs in omitting the social variables, and instead creates a single unit that can be used to describe the production and use of any natural or anthropogenic resource.</para>
+          <para id="id1166337123381">The first step of calculating EMPI is to inventory all material and energy inputs and outputs for all processes and services. Every process and service is then converted to its equivalent in emergy. The amounts of emergy of each type are summed. There are several possible ways to group emergy by type and to combine the data, but generally the goal is to create either a measure of emergy renewability (as an indicator of stress on the environment) or emergy sustainability (which combines renewability with the total productivity and consumption or emergy).</para>
+          <para id="id1166335285950">Calculating the emergy equivalents of materials and energy can be done easily with a conversion table, but creating the table can be a challenge. Burning coal releases an amount of energy that is easy to measure and easy to convert to emergy. However, determining the amount of energy required to create coal is nearly impossible. Similarly, how can you quantify the emergy conversion factor for objects like aluminum or for ecosystem services like rainfall? It is difficult, but possible, to place a dollar value on those objects and services, but assigning an energy equivalent is even more tenuous. While converting everything to a common unit, emergy, simplifies comparisons of diverse activities and processes like soil erosion and tourism, there are concerns about the accuracy of those conversions.</para>
+        </section>
+      </section>
+      <section id="id1166322272469">
+        <title>Comparisons</title>
+        <para id="id1166327957528">There are no perfect measures of sustainability, and different indicators can sometimes give conflicting results. In particular this happens when perspectives on the most important components of sustainability, and the methods to address them, differ. Therefore, it is often useful to examine the main characteristics of several Environmental Performance Indicators to find the one most appropriate for a particular study. As an example, ESIs, EMPIs, and ecological footprinting (discussed in a previous section) are compared below.</para>
+        <para id="id1166321914412">Ecological footprinting (EF) has units that are the easiest to understand – area of land. Both EF and EMPI employ only a single type of unit, allowing for use of absolute variables and permitting quantitative comparisons. However, EF does not use multiple indicators to allow for focused attention on impacts. EMPI can also be used as scaled values (such as the proportion of emergy from renewable sources), in the same manner as ESI. However, ESI combines multiple units of measurements, which can provide a more holistic perspective, but at the same time leads to concerns about combining those data.</para>
+        <para id="id1166324530588">Of the three, ESI and EMPI take into account wastefulness and recycling, and only ESI includes the effects of all emissions. But while ESI includes the most variables, it is the most complex to calculate; the simplest to calculate is EF.</para>
+        <para id="id1166317863568">Because ESI includes social and economic indicators, it can only compare nations (or in some cases, states or other levels of governments). EF and EMPI are effective at comparing countries, but can also be used at scales from global down to individual products.</para>
+        <para id="id1166338961061">All three of the EPIs compared here can be useful, but each has their limitations. Additionally, there are scenarios where none of these are useful. Specific environmental education projects, for example, would require different types of performance indicators.</para>
+      </section>
+      <section id="id1166330398570">
+        <title>Review Questions</title>
+        <exercise id="id1166329788032">
+		<label>Question</label>
+          <problem id="oo-id1166319328002">
+            <para id="id1166329575182">What is the difference between energy and emergy?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166332316198">
+		<label>Question</label>
+          <problem id="oo-id1166322312084">
+            <para id="id1166319918180">In what way(s) is ESI a better method of assessing sustainability than EF and EMPI?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166329071910">
+		<label>Question</label>
+          <problem id="oo-id1166321689355">
+            <para id="id8015453">The ESI creates indicators in five areas. In which of the areas do you think the indicators are the least reliable?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166319015704">
+		<label>Question</label>
+          <problem id="oo-id1166334893181">
+            <para id="id1166338634697">Why do EPIs require multiple data points to be useful?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1166331326767">
+        <title>Additional Resources</title>
+        <para id="id1166327872986">Environmental Sustainability Index (<link url="http://sedac.ciesin.columbia.edu/es/esi/" window="new">http://sedac.ciesin.columbia.edu/es/esi/</link>) </para>
+        <para id="id1166334871430">EPA MyEnvironment (<link url="http://www.epa.gov/myenvironment/" window="new">http://www.epa.gov/myenvironment/</link>) </para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1166322126210">
+      <term>emergy (EMbodied energy)</term>
+      <meaning id="oo-id1166322128373">The unit of energy into which any resource, product, or process can be converted to simplify comparisons between diverse items.
+      </meaning>
+    </definition>
+    <definition id="id1166318066594">
+      <term>emergy performance index (EMPI)</term>
+      <meaning id="oo-id1166339417298">Value produced by converting all materials and processes to amounts of energy in order to evaluate renewability and sustainability.
+      </meaning>
+    </definition>
+    <definition id="id3219800">
+      <term>environmental sustainability index (ESI)</term>
+      <meaning id="oo-id1166321790625">A composite value produced by including ecological, social, economic, and policy data.
+      </meaning>
+    </definition>
+    <definition id="id1166321859789">
+      <term>environmental performance indicators (EPI)</term>
+      <meaning id="oo-id1166320439084">Any of the ways in which environmental outcomes and/or impacts can be assessed.
+      </meaning>
+    </definition>
+    <definition id="id1166317837554">
+      <term>impacts</term>
+      <meaning id="oo-id1166319305179">Long-term and more widespread results of an activity.
+      </meaning>
+    </definition>
+    <definition id="id1166339589999">
+      <term>inputs</term>
+      <meaning id="oo-id1166320303591">The specific resources or services used by an activity.
+      </meaning>
+    </definition>
+    <definition id="id1166317791707">
+      <term>outcomes</term>
+      <meaning id="oo-id1166319247591">The short-term results of an activity.
+      </meaning>
+    </definition>
+    <definition id="id1166336277164">
+      <term>outputs</term>
+      <meaning id="oo-id1166322878313">The goods and services being created by an activity, and the manner and degree in which they are delivered.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

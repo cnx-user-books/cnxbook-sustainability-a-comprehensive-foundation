@@ -1,0 +1,313 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sustainability Metrics and Rating Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41616</md:content-id>
+  <md:title>Sustainability Metrics and Rating Systems</md:title>
+  <md:abstract>In this module, the following topics are covered: 1) the challenges are when measuring sustainability, 2) commonly used measures for sustainability, 3) the different types of measures and their value within a measuring system.</md:abstract>
+  <md:uuid>e097d94a-a534-4422-85b6-849ead04720c</md:uuid>
+</metadata>
+
+<content>
+      <section id="id1167448736153">
+        <title>Learning Objectives</title>
+        <para id="id1167440244823">After reading this section, students should be able to</para>
+        <list id="id1167447008676" list-type="bulleted">
+          <item>understand what the challenges are when measuring sustainability</item>
+          <item>be able to compare and contrast some commonly used measures for sustainability</item>
+          <item>identify the different types of measures and their value within a measuring system</item>
+        </list>
+      </section>
+      <section id="id1167444735358">
+        <title>Introduction</title>
+        <para id="id1167436356476">The ideal method to measure sustainability would reflect the three-legged stool paradigm – environmental protection, social equity, and economic benefit. The metrics must make the connection between what the indicators measure and actual sustainability. A useful <term target-id="id1167431037013">indicator </term>will reflect changes over time that show whether a system is becoming more or less sustainable, and generally substitutes for something else or represents several measures (<link target-id="id1167431217050">Sahely, 2005</link>). The challenge of studying sustainability as an objective science is that the work is value-loaded and socially charged. If we are aware of the purpose of the analysis we can use a multidisciplinary approach to the problem definition and the research methodology (<link target-id="id5468207">Lele and Norgaard, 1996</link>).</para>
+        <para id="id1167445632742">
+          <figure id="id1167447635963"><media id="id1167447635963_media" alt="Information Pyramid" longdesc="Information pyramid shows ways of handling data when studying sustainability">
+              <image mime-type="image/png" src="../../media/graphics1-5fb6.png" id="id1167447635963__onlineimage" height="241" width="275"/>
+            </media>
+          <caption><emphasis effect="bold">Information Pyramid</emphasis> The Information Pyramid shows ways of handling data when studying sustainability. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb" window="new"><emphasis effect="italics">C. Klein-Banai</emphasis></link>.</caption></figure>
+        </para>
+        
+        <para id="id1167435715920">In general, three approaches to sustainability measurement and reporting are commonly utilized: accounts that use <term target-id="id1167430957673">quantitative data</term> and convert them to a common unit such as money, area or energy; <term target-id="id1167432483436">narrative assessments</term> that include text, maps, graphics and tabular data; and <term target-id="id1167430929801">indicator-based systems</term> that may include the information that a narrative assessment has but they are organized around indicators or measurable parts of a system. Indicator-based systems are generally found to perform better and are easily measurable and comparable since they are more objective than narrative systems, or use only individual data points (<link target-id="id1167448807123">Dalal-Clayton, 2002</link>). Decision-makers and stakeholders need to participate in the development of indicators to be sure that their values and concerns are addressed. However, the system does need to be technically and scientifically based.</para>
+        <para id="id1167447922022">In the next few modules we will briefly discuss existing sustainability metrics that are generally based within certain disciplines such as ecology, economics, and physics, and how they may reflect other disciplines (see Table <link target-id="id1167449949630"><emphasis effect="bold">Common Sustainability Metrics</emphasis></link>). Most of these metrics are described in greater details in the following modules: <link document="m41190"><emphasis effect="bold">The IPAT Equation</emphasis></link>, <link document="m41619"><emphasis effect="bold">Biodiversity, Species Loss, and Ecosystem Function</emphasis></link>, <link document="m38612"><emphasis effect="bold">Tragedy of the Commons</emphasis></link>, <link document="m38954"><emphasis effect="bold">Environmental Valuation</emphasis></link>, <link document="m38611"><emphasis effect="bold">Evaluating Projects and Policies</emphasis></link>, and <link document="m38643"><emphasis effect="bold">Life Cycle Assessment</emphasis></link>.</para>
+        <table id="id1167449949630" summary="Table lists common sustainability metrics."><title>Common Sustainability Metrics</title><tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+						<thead>
+						  <row>
+                <entry/>
+                <entry>Method</entry>
+                <entry>Brief Description</entry>
+                <entry>Use</entry>
+              </row>
+						</thead>
+            <tbody> 
+              <row>
+                <entry morerows="5"><emphasis effect="bold">Economic</emphasis></entry>
+                <entry>Contingent valuation method (CVM)</entry>
+                <entry>Captures the preferences of the public regarding a good or service by measuring its willingness to pay</entry>
+                <entry>Good or service</entry>
+              </row>
+							<row>
+								<entry>Ecosystem services valuation</entry>
+								<entry>Valuation of services provided by nature such as cleaning of water by microorganisms</entry>
+								<entry>Good or service</entry>
+							</row>
+							<row>
+								<entry>Cost Benefit Analysis (CBA)</entry>
+								<entry>Valuation of cost and benefits for each year of project/policy; calculation of a net present value (NPV) by aggregating and comparing costs and benefits over the whole life of project policy.</entry>
+								<entry>Project or policy</entry>
+							</row>
+							<row>
+								<entry>Index of Sustainable Economic Welfare (ISEW)</entry>
+								<entry>Weights personal expenditures with an index of income inequality </entry>
+								<entry>Regional welfare</entry>
+							</row>
+							<row>
+								<entry>Net national product (NNP)</entry>
+								<entry>Total income of the people in an economy less capital consumption or depreciation</entry>
+								<entry>Regional welfare</entry>
+							</row>
+							<row>
+								<entry>Green NNP</entry>
+								<entry>Modification of above to account for loss of natural resource capital</entry>
+								<entry>Regional welfare</entry>
+							</row>
+              <row>
+                <entry morerows="2"><emphasis effect="bold">Ecological</emphasis></entry>
+								<entry>Resilience</entry>
+								<entry>Intensity of disturbance required to move system to a new regime</entry>
+								<entry>Ecosystem</entry>
+							</row>
+							<row>
+								<entry>Carrying capacity: Maximum sustainable yield (MSY) &amp; IPAT</entry>
+								<entry>The maximum amount of resource extraction while not depleting the resource from one harvest to the next</entry>
+								<entry>Ecosystem</entry>
+							</row>
+							<row>
+								<entry>Ecological footprint (EF)</entry>
+								<entry>Total area of productive land and water ecosystems needed to produce resources and assimilate waste of a given population</entry>
+								<entry>Individual, institutional, regional</entry>
+							</row>
+              <row>
+                <entry morerows="1"><emphasis effect="bold">Physical</emphasis></entry>
+								<entry>Emergy</entry>
+								<entry>The amount of solar energy that has been used directly or indirectly to make a good or service</entry>
+								<entry>Good or service</entry>
+							</row>
+							<row>
+								<entry>Exergy</entry>
+								<entry>The maximum work that can be extracted from a system when it moves towards thermodynamic equilibrium with a reference state</entry>
+								<entry>Policy, evaluation of energy systems</entry>
+							</row>
+            </tbody>
+          </tgroup>
+        <caption>Table lists common sustainability metrics. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb"><emphasis effect="italics">C. Klein-Banai</emphasis></link></caption></table>
+        
+      </section>
+      <section id="id1167450192104">
+        <title>Ecological Measures </title>
+        <para id="id1167448858530">Ecological measures of sustainability are used for natural systems. These measures include resilience and several constructs that are derivatives from carrying capacity. <term target-id="id1167446169661">Resilience</term> is the time needed for a system that provides desirable <term target-id="id1167431078249">ecosystem goods and services </term>to go back to a defined dynamic regime after disturbance. Resilience stresses the changing nature of <term target-id="id1167431074068">ecosystems</term>, rather than seeing them as static and providing a continuous and constant amount of natural resources. <term target-id="id1167431067207">Carrying capacity </term>estimates society’s total use of the resource stocks and flows provided by an ecosystem relative to the remaining resources needed by the ecosystem for stability and regeneration. <term target-id="id1167430926835">Maximum sustainable yield (MSY) </term>is an outgrowth of carrying capacity and the goal is to reach the maximum amount of resource extraction while not depleting the resource from one harvest to the next. Sustainability, in this context, can be understood as the point when the rate of resource extraction or harvest (MSY) equals the amount produced by the ecosystem. Previously discussed methods are types of measures of sustainability such as IPAT (see Module <link document="m41190"><emphasis effect="bold">The IPAT Equation</emphasis></link>) which accounts for the effect of society on the amount of resources used when looking at carrying capacity. This type of measure looks at whether the impact of a human society is increasing or decreasing over time and can be used to compare impacts between societies of difference sizes or affluence levels.</para>
+        <para id="id1167446929341">Footprinting (see Module <link document="m41615"><emphasis effect="bold">Footprinting: Carbon, Ecological and Water</emphasis></link>) is often used as a measure of sustainability that can be understood intuitively and is, therefore, useful when talking to the general public. The ecological footprint, which also represents the carrying capacity of the earth, is defined as “the total area of productive land and water ecosystems required to produce the resources that the population consumes and assimilate the wastes that the population produces, wherever on Earth that land and water may be located” (<link target-id="id2518614">Rees and Wackernagel, 1996</link>). This results in an evaluation of the demand and supply of natural capital of a given population (individual to planet) or a product/service.</para>
+        <para id="id1167440217614">Life-cycle assessment (LCA), a structured methodology that can be utilized to evaluate the environmental impacts of products, processes, projects, or services throughout their life cycles from cradle to grave (see Module <link document="m38643"><emphasis effect="bold">Life Cycle Assessment</emphasis></link>) may be considered an ecological metric. A greenhouse gas emissions inventory is an example of this methodology (see <link document="m41726"><emphasis effect="bold">Case Study: Greenhouse Gases and Climate Change</emphasis></link>).</para>
+      </section>
+      <section id="id1167450281722">
+        <title>Economic Measures </title>
+        <para id="id1167446015542">Economic measures place a monetary value on sustainability. Economists use the following measures of sustainability: ecosystem valuation, contingent valuation, and net national product, which are discussed in Chapter <link document="m38598"><emphasis effect="bold">Environmental and Resource Economics</emphasis></link>. Standard economic methods can be used to evaluate environmental projects.</para>
+        <para id="id1167452246830">Indices that are used on a national and international level by organizations like the United Nations may be used to examine the economic and social welfare of a region. The <link url="http://en.wikipedia.org/wiki/Index_of_Sustainable_Economic_Welfare" window="new">Index of Sustainable Economic Welfare (ISEW)</link> and other related frameworks that account for sustainable development have been conceived to provide an alternative to the <link url="http://en.wikipedia.org/wiki/Gross_domestic_product" window="new">Gross Domestic Product</link>, which does not capture human welfare in its calculations. This system weights personal expenditures within a population with an index of income inequality and a set of factors are then added or subtracted to this monetary value. Monetary analysis of sustainability does not value the variety of sustainability issues especially those that cannot be measured as a product or service in today’s markets (<link target-id="id1167448440257">Gasparatos, et al., 2008</link>).</para>
+      </section>
+      <section id="id1167449240256">
+        <title>Physical Measures </title>
+        <para id="id1167439395980">Physical measures of sustainability use thermodynamic concepts in their calculations. Two physical approaches to measuring sustainability are <term target-id="id1167430918259">exergy</term> and emergy. These concepts are derived from the second law of thermodynamics which states that a closed system with constant mass and no energy inputs tends toward higher <term target-id="id1167431110802">entropy</term> or disorder. For instance, a piece of wood that is the product of many years of complex tree growth releases energy (light and heat in the flame) when burned, and becomes carbon ash, smoke, gases, and water vapor. This means that as properties within a system such as mass, energy, and chemical concentrations degrade (decompose) over time or burn, they also make available useful energy (exergy) for work. Ecosystems and human economies function under this second law, but they can use external energy (the sun) to maintain or increase energy supplies.</para>
+        <para id="id1167451634322"><term target-id="id1167431090934">Emergy</term> is the amount of energy of one kind (solar) that has been used directly or indirectly (through a transformation process) to make a service or a product of one type and it is expressed in units of (solar energy) <term target-id="id1167431094615">emjoule</term>. It can be thought of as a measure of all the entropy that has been produced over the whole process of creating a given product or service (<link target-id="id9081211">Brown and Ulgiati, 2002</link>). An example is the process of fossil fuel creation: solar energy was used by plants to grow and is stored in the complex molecular structures that held the plants together, when those plants died they decomposed and were buried over time under the changing earth, and the energy was concentrated into fossil fuels. Emergy, thus, allows us to account for all the environmental support needed by human and eco-systems or inputs.</para><para id="id1167450033701">Measures of energy inputs are transformed to emergy by use of a factor that represents the amount of environmental work needed to produce a product or provide a service. The emergy flows within a system include renewable resources (sunlight, rain, wind, agricultural production, timber harvest, etc.), non-renewable production (fossil fuels, metals, minerals, soils), and imports/exports. A sustainable system would have a net positive (or zero) emergy flow across its boundary (<link target-id="id1167432344308">Mayer, et al., 2004</link>). Emergy evaluations have been used, for instance, to quantitatively demonstrate that renewable energy plants had higher sustainability compared to thermal plants (<link target-id="id9081211">Brown and Ugliati, 2002</link>).</para>
+        <para id="id1167449030820"><term target-id="id1167430918259">Exergy</term> can be defined as the maximum work that can be extracted from a system as it moves to thermodynamic equilibrium with a reference state, as in the example of burned wood above. It has been used to study efficiency of chemical and thermal processes. This represents an entropy-free form of energy that is a measure of its usefulness, quality or potential to make change. Exergy accounting provides insights into the metabolism of a system and its effect on the environment using a common denominator. It can address energy utilization, be used for design and analysis of energy systems and to quantify waste and energy losses reflecting resource use. Exergy can account for an economic component, labor input, and impact of emissions on human health (<link target-id="id1167448440257">Gasparatos, et al., 2008</link>; <link target-id="id6587495">Odum, 1996</link>).</para>
+      </section>
+      <section id="id8850998">
+        <title>Comparison of Measures</title>
+        <para id="id1167439478180">So far we highlighted three categories for measures of sustainability – ecological, economic, and physical – and provided a few examples. Sustainability measures is an evolving field of study and the metrics are innumerable. Ecological measures include indicators that try to measure the sustainability of the ecosystem as a whole. Economic metrics use monetary measures and try to put a price on the environment and its services. They are valued based on currency, which is an anthropocentric value, meaning it is significant only to humans. They account only for human welfare to the extent that it depends on nature to survive. They do not account for the effect on an ecosystem as a whole, including plants and animals. Physical metrics are closely tied to thermodynamics and energy, and are generally expressed in units of energy.</para>
+        <para id="id1167448845638">Sustainability indicators are needed to improve our understanding of the nature of human demands on ecosystems and the extent to which these can be modified. Society uses resources for physical and social infrastructure and continually increases its needs due to population growth which is made possible by changing the way we grow and produce food, thus manipulating the food web. Some of these economic metrics are closely tied to social sustainability metrics as well and try to account for the social welfare of a population. Overall, while physical tools can capture certain environmental and economic issues, too, they do not address economic issues from the same perspective as conventional economic analysis. Moreover, they do not capture most social issues.</para>
+        <para id="id1167450261377">Economic markets do not usually directly value goods and services that ecological systems provide to human economies and societies. These ecosystem services include the uptake of carbon dioxide by plants and trees, purification of water by microorganisms, enrichment of soil through degradation of plant and animal materials, and rainfall that provides irrigation (see <link target-id="id1167437008828">Constanza, et al., 1997</link>). Also economists do not agree on the degree of substitutability between natural and man-made capital. This concept of substitutability means that natural capital such as 100 year old (“old forest”) trees used to build homes and furniture can be replaced by replanting fast-growing trees and provide the same value (<link target-id="id1167443519532">Pearce, 1993</link>). Technology also transforms the use of resources for instance by making them more readily available and more economic. An example of this is the use of “fracking” to produce natural gas from sources that were difficult to extract from a decade ago (see Module <link document="m41725"><emphasis effect="bold">Environmental Challenges in Energy, Carbon Dioxide, Air and Water</emphasis></link>).</para>
+      </section>
+      <section id="id1167449393936">
+        <title>Sustainability Indicators and Composite Indices</title>
+        <para id="id1167450268734">There is no single <term target-id="id1167431037013">indicator</term> that can capture all aspects of sustainability within complex systems. When we speak of systems, we are referring to institutions, cities, regions, or nations. However, a group of indicators could be selected and analyzed under certain criteria that will better represent this type of system. An indicator represents a particular operational attribute of a system such as overall energy reduction, a GHG gas emissions inventory, what percentage of people commute by public transit, or percentage of people with a college degree. These are measured or observed at different times, locations, populations or combinations thereof. The Figure <link target-id="id1167447635963"><emphasis effect="bold">Information Pyramid</emphasis></link> represents the relationship between all these measures.</para>
+        <para id="id1167449400079">A group of indicators can then be evaluated using a composite indicator/index (CI) or rating. CIs stand at the top of an information pyramid where primary data lies at the base, followed by analyzed data, then indicators, and topped by indices. A composite indicator is formed by the compilation of various individual indicators into one index based on an underlying model. (<link target-id="id1167432460487">Nardo, et al., 2005</link>). An example is the <link url="http://www.usgbc.org/DisplayPage.aspx?CMSPageID=1988" window="new">Leadership in Energy and Environmental Design (LEED)</link> which is a green building certification system developed by the <link url="http://www.usgbc.org/DisplayPage.aspx?CMSPageID=1988" window="new">U.S. Green Building Council (USGBC)</link>. It accounts for a large variety of building attributes that contribute to a building being considered “sustainable” such as building materials, location, landscape, energy usage, access to alternative transportation and so on. The final result is a numerical rating for the building that is then associated with a certain certification level (Certified, Silver, Gold, Platinum). This kind of system is most widely accepted and valued when a peer-review is conducted to determine what weights should be given to each attribute. When the USGBC decided to update its rating system because it did not accurately reflect the values of its members, it underwent review through its various <link url="http://www.usgbc.org/DisplayPage.aspx?CMSPageID=1750" window="new">committees</link>.</para>
+        <para id="id2481572">Sometimes, when you have a lot of different measures that use different units you do not want to aggregate them together into one number. In this case, a multi-criteria assessment (MCA) can be used where constituent indicators are not aggregated into a single index. Multi-criteria analysis (similar name, different context) can be used as a tool to establish weights for several criteria, without requiring that all data be converted into the same units (<link target-id="id1167444392590">Hermann, 2007</link>). There are several multi-criteria evaluation methods that can be used for this. These methods may either be data-driven (bottom-up) when high-quality data is available or theory driven (top-down) when data is available for only one of the aspects. A broader review of this can be found in <link target-id="id1167448440257">Gasparatos, et al. (2008)</link>.</para>
+        <para id="id1167446385769">Many industry sectors are developing frameworks or rating systems that provide ways to report and measure sustainability. Two examples are discussed here.</para>
+        <para id="id7683764">The <link url="http://www.globalreporting.org/ReportingFramework/ReportingFrameworkOverview/" window="new">Global Reporting Initiative (GRI)</link> provides a system for organizations to publish their sustainability performance. Its purpose is to provide transparency and accountability for stakeholders and to be comparable among organizations. It is developed in an international, multi-stakeholder process and it is continuously improved. An organization determines which indicators from among those proposed it will report. However, no overall index or scores are reported. There is also usually a narrative portion to the report (Global Reporting Initiative). The indicators are broken down in environmental, economic and social performance indicators. Each area has core indicators with some additional indicators that may be used based on the organization’s choice.</para>
+        <para id="id9084576"><link url="http://www.aashe.org/" window="new">The American Association of Higher Education (AASHE)</link>, is the lead organization in North America for sustainability in colleges and universities. One of their major projects has been the development of the <link url="http://www.aashe.org/stars" window="new">Sustainability Tracking, Assessment and Rating System (STARS)</link>. This is a voluntary, self-reporting framework that is to be used to measure relative progress of universities and colleges as they work toward sustainability. STARS was developed using a collaborative process that involved input from many institutions. In 2008, a pilot study of 66 institutions was conducted to test the viability of the system and STARS version 1.0 was released in January 2010 with many schools reporting by January 2011. The credits are given in three categories of equal weight – education and research; operations; planning, administration and engagement. Each credit is given a weight based on the extent to which the credit contributes to improved environmental, financial and social impacts, and whether there are educational benefits associated with the achievement of this credit and the breadth of that impact. The result is a composite indicator, with transparent individual scoring. Schools participating in STARS will use an on-line reporting tool which makes the results publicly available. Depending on the total points achieved, a level of achievement is be assigned. The STARS rating will be good for three years but a school may choose to update annually. See <link document="m41605">Case Study: Comparing Greenhouse Gas Emissions, Ecological Footprint and Sustainability Rating of a University</link> for an example of this reporting.</para>
+      </section>
+      <section id="id1167448674754">
+        <title>Examples of How an Index is Developed</title>
+        <para id="id1167447851480"><link target-id="id1167443505871">Krajnc and Glavic (2005)</link> developed a composite sustainable development index (I<sub>CSD</sub>) to track economic, environmental and social performance of company. Economic, environmental, and social sub-indices were calculated from normalized indicators within each sector. To calculate normalized indicators, the indicators for each sector, which typically have different units, were divided by the value in time (year) with its average value of all the time in the years measured. Alternatively, they can be normalized by using maximum and minimum values or target values. The <link url="http://www.boku.ac.at/mi/ahp/ahptutorial.pdf" window="new">Analytic Hierarchy Process</link> was used to determine the weights of the environmental indicators. This is a multi-attribute decision model. The steps are:</para>
+        <list id="id1167450699174" list-type="enumerated" number-style="arabic">
+          <item>Setting the problem as a hierarchy with the top being the objective of the decision and lower levels consist of the criteria used at arriving at the decision.</item>
+          <item>Pair-wise comparisons between two indicators.</item>
+          <item>Use of a consistency ratio to check the consistency of each judgment.</item>
+          <item>Step-by-step procedure of grouping various basic indicators into the sustainability sub-index.</item>
+          <item>Sub-indices are combined into the composite sustainable development index.</item>
+        </list>
+        <para id="id1167451317738">The economic, environmental and social measures that were used in this model are as follows:</para>
+        <para id="id1167448229740">
+					<table id="id1167453198280" summary="The economic, environmental and social measures that were used in this model">
+						<tgroup cols="3">
+							<colspec colnum="1" colname="c1"/>
+							<colspec colnum="2" colname="c2"/>
+							<colspec colnum="3" colname="c3"/>
+							<thead>
+								<row>
+									<entry>Economic </entry>
+									<entry>Environmental</entry>
+									<entry>Social</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>Sales</entry>
+									<entry>Total energy consumption</entry>
+									<entry>No. of occupational accidents</entry>
+								</row>
+								<row><entry>Operating profit</entry><entry>Water consumption</entry><entry>No. of non-profit projects</entry></row><row><entry>Investment capital &amp; expenditures</entry><entry>Production mass</entry><entry>No. of odor complains</entry></row><row><entry>Net earnings</entry><entry>Carbon dioxide, nitrous oxides, sulfur dioxide &amp; dust emissions</entry><entry>No. of noise complaints</entry></row><row><entry>Research &amp; development costs</entry><entry>Wastewater</entry><entry>No. of dust complaints</entry></row><row><entry>Number of employees</entry><entry>Waste for disposal</entry><entry>No. of neighbor complaints</entry></row><row><entry/><entry>Recycling</entry><entry/></row><row><entry/><entry>Hazardous waste</entry><entry/></row></tbody></tgroup></table>An analytical tool, called COMPLIMENT, was developed to provide detailed information on the overall environmental impact of a business (<link target-id="id1167444392590">Hermann, 2007</link>). This tool integrates the concepts of life cycle assessment, multi-criteria analysis and environmental performance indicators. The combinations of environmental performance indicators used depend on the organization and reflect the relevant parts of the production train. The method includes setting system boundaries, data collection, calculation of potential environmental impacts and their normalization, aggregation of impacts using a multi-criteria analysis, the weights per impact category are multiplied by normalization potential impacts and the results can be added up for each perspective. The system boundary strives to be cradle-to-grave (from extraction of resources to disposal) although it may be a cradle-to-gate (from extraction of resources to completion of production) analysis.</para>
+        <para id="id1167447706364">Adoption of any single group of tools means that a certain perspective will be more highly represented in the sustainability assessment. “The need to address the multitude of environmental, social, economic issues, together with intergenerational and intragenerational equity concerns” (<link target-id="id1167448440257">Gasparatos, et al., 2008</link>, p. 306) produces problems that none of the disciplinary approaches can solve separately. Combining the outputs of biophysical and monetary tools will result in a more comprehensive sustainability perspective. The result is that the choice of metrics and tools must be made based on the context and characteristics that are desired by the analysts (<link target-id="id1167448440257">Gasparatos, et al., 2008</link>). Using a composite indicator or a set of individual indicators presented together can overcome the problem of using a single metric to measure sustainability.</para>
+        <para id="id1167446810316">Existing indicator-based sustainability assessments vary in the number of subsystems or assessment areas, the number of levels between subsystem and indicator, and whether they result in an index (compound indicator) of the state of the system and subsystems. These would include the ecosystem or environment, people or economy and society, and possibly institutions. The more subsystems assigned, the lower the weight given to the environmental portion. As more indicator systems are developed they become increasingly complex, yet there is a demand for a simple presentation that does not erase the complexity. A single indicator with true significance is not achievable, but by combining indicators into indices the results are more meaningful.</para>
+      </section>
+      <section id="id1167443615755">
+        <title>Representing Results for Multi-Criteria Assessment</title>
+        <para id="id1167437589826">Since measuring sustainability does not come down to a simple metric or few it is useful to use visualization techniques to display the results. One way to depict sustainability performance is to use a graphical view of progress, as shown in Figure <link target-id="id1167448244762"><emphasis effect="bold">Visualizing Results of Sustainability</emphasis></link> below for the GRI for universities. For each category a mapping of the scores was created. This appears as a hexagon indicating progress in each area for which points are achieved.</para>
+        <para id="id1167448244762">
+          <figure id="id1167447816158"><media id="id1167447816158_media" alt="Green Office Challenge" longdesc="Hypothetical graphical representation of the Environmental Dimension of the GRI for universities. The red numbers indicate the percentage of points achieved within each sub-category within the category of environment.">
+              <image mime-type="image/png" src="../../media/graphics2-d702.png" id="id1167447816158__onlineimage" height="352" width="400"/>
+            </media>
+          <caption><emphasis effect="bold">Visualizing Results of Sustainability Assessments</emphasis> Hypothetical graphical representation of the Environmental Dimension of the GRI for universities. The red numbers indicate the percentage of points achieved within each sub-category within the category of environment. <emphasis effect="italics">Source: D. Fredman adapted from </emphasis><link target-id="id1167443307164"><emphasis effect="italics">Lozano (2006)</emphasis></link>. </caption></figure>
+        </para>
+        
+        <para id="id1167449118206">Another example of visualizing sustainability is seen in a framework developed for universities to use (<link target-id="id1167430957744">Troschinetz et al., 2007</link>). Again, multidimensional sustainability indicators, each having an economic, environmental and social component are used. The categories are listed in Figure <link target-id="id1167450906539"><emphasis effect="bold">Sustainability Indicator Triangle</emphasis></link>. Each indicator was examined using a sustainability indicator triangle where each corner is delineated as economic, environmental or social and the indicators are placed within to the triangle to reflect how well each measures those aspects.</para>
+        <para id="id1167450457108">
+          <figure id="id1167450906539"><media id="id1167450906539_media" alt="Sustainability Indicator Triangle" longdesc="The thirteen sustainability indicators are placed according to how well each measures a dimension of sustainability, i.e. environmental, societal and economic.">
+              <image mime-type="image/png" src="../../media/graphics3-4ec4.png" id="id1167450906539__onlineimage" height="237" width="475"/>
+            </media>
+          <caption><emphasis effect="bold">Sustainability Indicator Triangle</emphasis> The thirteen sustainability indicators are placed according to how well each measures a dimension of sustainability, i.e. environmental, societal and economic. <emphasis effect="italics">Source: </emphasis><link url="http://cnx.org/member_profile/cindykb" window="new"><emphasis effect="italics">C. Klein-Banai</emphasis></link><emphasis effect="italics"> adapted from </emphasis><link target-id="id1167430957744"><emphasis effect="italics">Troschinetz, et al. (2007)</emphasis></link>. </caption></figure>
+        </para>
+        
+      </section>
+      <section id="id1167452192745">
+        <title>Conclusion</title>
+        <para id="id1167450438756">Measuring sustainability is difficult because of the interdisciplinary nature and complexity of the issues that this concern represents. Methods have been developed out of the different disciplines that are based in the ecological, economic, physical and social sciences. When approaching a measure of sustainability it is important to understand what you will use the results of that measure for, what the major concerns you want to address are, and the limits of the system you choose. Often it is more meaningful to measure progress of the entity you are examining – is it more sustainable than it was before? It is difficult to compare similar entities (countries, companies, institutions, even products) due to the complexity and variability in the data. Using visualization to represent the data is a helpful way to show the state of sustainability rather than trying to express it in one number or in a table of numbers.</para>
+      </section>
+      <section id="id1167452605384">
+        <title>Review Questions</title>
+        <exercise id="id1167447959641">
+					<label>Question</label>
+          <problem id="oo-id1167447010104">
+            <para id="id1167449185725">What is the difference between data and an index?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167453834287">
+					<label>Question</label>
+          <problem id="oo-id1167446556665">
+            <para id="id1167442852999">What is the major challenge in measuring sustainability?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167452260070">
+					<label>Question</label>
+          <problem id="oo-id1167449030530">
+            <para id="id1167440908988">Give three general categories of indicators that are used for measuring sustainability and provide one example of each.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167444367012">
+					<label>Question</label>
+          <problem id="oo-id1167450511035">
+            <para id="id1167451848745">Why is it important to have experts provide input to rating systems?</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1167450520193">
+        <title>References</title>
+        <para id="id9081211">Brown, M.T. &amp; Ulgiati, S. (2002). Emergy evaluations and environmental loading of electricity production systems. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">10</emphasis>, 321-334. <emphasis effect="underline">doi:10.1016/S0959-6526(01)00043-9</emphasis></para>
+        <para id="id1167437008828">Constanza, R<emphasis effect="bold">.</emphasis>, d'Arge, R., de Groot, R., Farber, S., Grasso, R., Hannon, B., et al. (1997). The value of the world's ecosystem services and natural capital. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">387</emphasis>, 253–260.</para>
+        <para id="id1167448807123">Dalal-Clayton, B. &amp; Bass, S. (2002). <emphasis effect="italics">Sustainable development strategies: A resource book</emphasis>. London: Earthscan Publications Ltd.</para>
+        <para id="id1167448440257">Gasparatos, A., El-Haram, M., &amp; Horner, M. (2008). A critical review of reductionist approaches for assessing the progress towards sustainability. <emphasis effect="italics">Environmental Impact Assessment Review</emphasis>, <emphasis effect="italics">28</emphasis>, 286-311. <link url="http://dx.doi.org/10.1016/j.eiar.2007.09.002" window="new"><emphasis effect="underline">doi:10.1016/j.eiar.2007.09.002</emphasis></link> </para>
+        <para id="id1898977">Hammond, A., Adriaanse, A., Rodenburg, E., Bryant, D., &amp; Woodward, R. (1995). Environmental indicators: a systematic approach to measuring and reporting on environmental policy performance in the context of sustainable development. <emphasis effect="italics">World Resources Institute</emphasis>. Retrieved March 7, 2011, from <link url="http://pdf.wri.org/environmentalindicators_bw.pdf" window="new"><emphasis effect="underline">http://pdf.wri.org/environmentalindicators_bw.pdf</emphasis></link>.</para>
+        <para id="id1167444392590">Hermann, B.G., Kroeze, C., &amp; Jawjit, W. (2007). Assessing environmental performance by combining life cycle assessment, multi-criteria analysis and environmental performance indicators. <emphasis effect="italics">Journal of Cleaner Production</emphasis>,<emphasis effect="italics"> 15</emphasis>, 1878-1796. <link url="http://dx.doi.org/10.1016/j.jclepro.2006.04.004" window="new">doi:10.1016/j.jclepro.2006.04.004</link></para>
+        <para id="id1167443505871">Krajnc, D. &amp; Glavic, P. (2005). A model for integrated assessment of sustainable development. <emphasis effect="italics">Resources Conservation &amp; Recycling</emphasis>, <emphasis effect="italics">43</emphasis>, 189-203.</para>
+        <para id="id5468207">Lele, S. &amp; Norgaad, R.B. (1996, April). Sustainability and the scientist's burden. <emphasis effect="italics">Conservation Biology, 10</emphasis>, 354-365. doi 10.1046/j.1523-1739.1996.10020354.x</para>
+        <para id="id1167443307164">Lozano, R. (2006). A tool for graphical assessment of sustainability in universities. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">14</emphasis>, 963-972. doi: 10.1016/j.jclepro.2005.11.041</para>
+        <para id="id1167432344308">Mayer, A.L., Thurston, H.W. &amp; Pawlowski, C.W. (2004). The multidisciplinary influence of common sustainability indices. <emphasis effect="italics">Ecological Environment</emphasis>, <emphasis effect="italics">2</emphasis>, 419-426. doi:10.1890/1540-9295(2004)002[0419:TMIOCS]2.0.CO;2</para>
+        <para id="id1167432460487">Nardo, M., Saisana, M., Saltelli, A, Tarantola S., Hoffman, A. &amp; Giovannini, E. (2005). Handbook on constructing composite indicators: Methodology and user guide (STD/DOC (2005)3). <emphasis effect="italics">Paris: OECD Statistics Directorate</emphasis>. Retrieved February 26, 2011, from <link url="http://www.oecd.org/dataoecd/37/42/42495745.pdf" window="new">http://www.oecd.org/dataoecd/37/42/42495745.pdf</link></para>
+        <para id="id6587495">Odum, H.T. (1996). <emphasis effect="italics">Environmental Accounting, Emergy, and Environmental Decision Making</emphasis>. New York: John Wiley &amp; Sons, Inc.</para>
+        <para id="id1167443519532">Pearce, D.W. &amp; G.D. Atkinson (1993). Capital theory and the measurement of sustainable development: an indicator of “weak” sustainability. <emphasis effect="italics">Ecological economics</emphasis>,<emphasis effect="italics"> 8</emphasis>, 103-108.</para>
+        <para id="id2518614">Rees, W.E. &amp; Wackernagel, M. (1996). Urban ecological footprints: why cities cannot be sustainable and why they are a key to sustainability. <emphasis effect="italics">Enviromental Impact Assessment Review</emphasis>, <emphasis effect="italics">16</emphasis>, 223-248.</para>
+        <para id="id1167431069637">Reporting Framework Overview. (n.d.). <emphasis effect="italics">Global Reporting Initiative</emphasis>. Retrieved August 21, 2011, from <link url="http://www.globalreporting.org/ReportingFramework/ReportingFrameworkOverview/" window="new">http://www.globalreporting.org/ReportingFramework/ReportingFrameworkOverview/</link></para>
+        <para id="id1167431217050">Sahely, H.R., Kennedy, C.A. &amp; Adams, B.J. (2005). Developing sustainability criteria for urban infrastructure systems. <emphasis effect="italics">Canadian Journal of Civil Engineering,</emphasis><emphasis effect="italics">32</emphasis>, 72-85. doi: 10.1139/l04-072</para>
+        <para id="id1167430957744">Troschinetz, A.M., Mihelcic, J.R., &amp; Bradof, K.L. (2007). Developing Sustainability Indicators for a University Campus. <emphasis effect="italics">International Journal of Engineering Education</emphasis>, <emphasis effect="italics">23</emphasis>, 231-241.</para>
+      </section>
+  </content>
+  <glossary>
+    <definition id="id1167431067207">
+      <term>Carrying Capacity</term>
+      <meaning id="oo-id1167449438013">The maximum population that a given environment can sustain.
+      </meaning>
+    </definition>
+    <definition id="id1167431074068">
+      <term>Ecosystem</term>
+      <meaning id="oo-id1167449952646">All living organisms and non-living things that exist and interact in a certain area at the same time.
+      </meaning>
+    </definition>
+    <definition id="id1167431078249">
+      <term>Ecosystem Goods and Services</term>
+      <meaning id="oo-id1167451656420">An essential service an ecosystem provides that supports life and makes economic activity possible. For example, ecosystems clean air and water naturally, recycle nutrients and waste generated by human economic activity.
+      </meaning>
+    </definition>
+    <definition id="id1167431090934">
+      <term>Emergy</term>
+      <meaning id="oo-id1167450911179">The amount of energy of one kind (solar) that has been used directly or indirectly (through a transformation process) to make a service or a product as one type and it is expressed in units of (solar) emjoule.
+      </meaning>
+    </definition>
+    <definition id="id1167431094615">
+      <term>Emjoule</term>
+      <meaning id="oo-id1167439551941">The unit of emergy or emergy joule. Using emergy, sunlight, fuel, electricity, and human service can be put on a common basis by expressing each of them in the emjoules of solar energy that is required to produce them. If solar emergy is the baseline, then the results are solar emjoules (abbreviated seJ). Sometimes other baselines such as coal emjoules or electrical emjoules have been used but in most cases emergy data are given in solar emjoules.
+      </meaning>
+    </definition>
+    <definition id="id1167431110802">
+      <term>Entropy</term>
+      <meaning id="oo-id1167450173776">The degree of disorder in a substance, system or process as in the second law of thermodynamics that states that the make-up of energy tends to change from a more-ordered state to a less-ordered state, whereby increasing entropy.
+      </meaning>
+    </definition>
+    <definition id="id1167430918259">
+      <term>Exergy</term>
+      <meaning id="oo-id1167448392886">The maximum work that can be extracted from a system as it moves to thermodynamic equilibrium with a reference state.
+      </meaning>
+    </definition>
+    <definition id="id1167431037013">
+      <term>Indicator</term>
+      <meaning id="oo-id1167434516592">A variable equal to an operational representation of an attribute of a system.
+      </meaning>
+    </definition>
+    <definition id="id1167430929801">
+      <term>Indicator-Based Systems</term>
+      <meaning id="oo-id1167444080766">Systems that use quantitative measures of economic progress, social welfare, or environmental activity that can be interpreted to explain the state of that system. Examples of these are gross domestic product, greenhouse gas emissions, and the unemployment rate.
+      </meaning>
+    </definition>
+    <definition id="id1167430926835">
+      <term>Maximum Sustainable Yield (MSY)</term>
+      <meaning id="oo-id1167437315094">An outgrowth of carrying capacity and the goal is to reach the maximum amount of resource extraction while not depleting the resource from one harvest to the next.
+      </meaning>
+    </definition>
+    <definition id="id1167432483436">
+      <term>Narrative Assessments</term>
+      <meaning id="oo-id1167437643356">Descriptive documentation of a program, plan, or project.
+      </meaning>
+    </definition>
+    <definition id="id1167430957673">
+      <term>Quantitative Data</term>
+      <meaning id="oo-id1167448295992">Information that can be quantified numerically such as tons of waste, gallons of gasoline, and gallons of wastewater.
+      </meaning>
+    </definition>
+    <definition id="id1167446169661">
+      <term>Resilience</term>
+      <meaning id="oo-id1167446819650">The ability of an ecological community to change in response to disturbance and the degree or time needed for that system that provides desirable to go back to its original state.
+      </meaning>
+    </definition>
+  </glossary>
+</document>
