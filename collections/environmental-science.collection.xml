@@ -1,0 +1,184 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24970</md:content-id>
+    <md:title>Environmental Science</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>24592b14-9725-4b07-8b50-e80c8c39f27a</md:uuid>
+<md:slug>environmental-science</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m43491"/>
+    <col:module document="m41663"/>
+    <col:subcollection>
+      <md:title>Introduction to Sustainability: Humanity and the Environment</md:title>
+      <col:content>
+        <col:module document="m41187"/>
+        <col:module document="m41188"/>
+        <col:module document="m41190"/>
+        <col:module document="m41191"/>
+        <col:module document="m41192"/>
+        <col:module document="m41193"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Evolution of Environmental Policy in the United States</md:title>
+      <col:content>
+        <col:module document="m42118"/>
+        <col:module document="m42117"/>
+        <col:module document="m42115"/>
+        <col:module document="m42116"/>
+        <col:module document="m43321"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Climate and Global Change</md:title>
+      <col:content>
+        <col:module document="m41664"/>
+        <col:module document="m38482"/>
+        <col:module document="m38572"/>
+        <col:module document="m41579"/>
+        <col:module document="m41580"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biosphere</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Flow of Energy</md:title>
+          <col:content>
+            <col:module document="m46870"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m41617"/>
+        <col:module document="m41618"/>
+        <col:module document="m41619"/>
+        <col:module document="m41620"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical Resources: Water, Pollution, and Minerals</md:title>
+      <col:content>
+        <col:module document="m41523"/>
+        <col:module document="m41397"/>
+        <col:module document="m41400"/>
+        <col:module document="m41441"/>
+        <col:module document="m41444"/>
+        <col:module document="m41470"/>
+        <col:module document="m41467"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Environmental and Resource Economics</md:title>
+      <col:content>
+        <col:module document="m38598"/>
+        <col:module document="m38612"/>
+        <col:module document="m38878"/>
+        <col:module document="m38954"/>
+        <col:module document="m38611"/>
+        <col:module document="m38956"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Modern Environmental Management</md:title>
+      <col:content>
+        <col:module document="m41573"/>
+        <col:module document="m41572"/>
+        <col:module document="m41571"/>
+        <col:module document="m41570"/>
+        <col:module document="m41566"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sustainable Energy Systems</md:title>
+      <col:content>
+        <col:module document="m41724"/>
+        <col:module document="m41725"/>
+        <col:module document="m41726"/>
+        <col:subcollection>
+          <md:title>Energy Sources and Carriers</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Electricity</md:title>
+              <col:content>
+                <col:module document="m41728"/>
+                <col:module document="m41727"/>
+                <col:module document="m41729"/>
+                <col:module document="m41731"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Liquid Fuels</md:title>
+              <col:content>
+                <col:module document="m41735"/>
+                <col:module document="m41736"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Heat</md:title>
+              <col:content>
+                <col:module document="m41737"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Energy Uses</md:title>
+          <col:content>
+            <col:module document="m41738"/>
+            <col:module document="m41740"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m41734"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Problem-Solving, Metrics, and Tools for Sustainability</md:title>
+      <col:content>
+        <col:module document="m38623"/>
+        <col:module document="m38643"/>
+        <col:subcollection>
+          <md:title>Derivative Life Cycle Concepts</md:title>
+          <col:content>
+            <col:module document="m41616"/>
+            <col:module document="m41615"/>
+            <col:module document="m41605"/>
+            <col:module document="m38680"/>
+            <col:module document="m38877"/>
+            <col:module document="m41602"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m42273"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sustainability: Ethics, Culture, and History</md:title>
+      <col:content>
+        <col:module document="m39378"/>
+        <col:module document="m41067"/>
+        <col:module document="m40821"/>
+        <col:module document="m41039"/>
+        <col:module document="m41068"/>
+        <col:module document="m41055"/>
+        <col:module document="m41066"/>
+        <col:module document="m41069"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sustainable Infrastructure</md:title>
+      <col:content>
+        <col:module document="m44985"/>
+        <col:module document="m44935"/>
+        <col:module document="m44261"/>
+        <col:module document="m41741"/>
+        <col:module document="m42717"/>
+        <col:module document="m42716"/>
+        <col:module document="m44455"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m44875"/>
+    <col:module document="m16744"/>
+    <col:module document="m16687"/>
+    <col:module document="m50804"/>
+  </col:content>
+</col:collection>
